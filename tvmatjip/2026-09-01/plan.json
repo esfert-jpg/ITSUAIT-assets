@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-01",
+  "from": "테스트",
+  "article": { "url": "https://example.invalid/test", "airDate": "2026-09-01", "episode": 2608 },
+  "targets": 1,
+  "stores": [
+    {
+      "id": "1",
+      "source": {
+        "program": "생생정보", "airDate": "2026-09-01", "episode": 2608,
+        "corner": "할매~ 밥 됩니까?", "episodeTitle": "진주 할매 손맛",
+        "region": "경남 진주시", "place": "시골추어탕",
+        "description": "진주의 오래된 추어탕집을 소개한다.",
+        "url": "https://example.invalid/test"
+      },
+      "store": {
+        "name": "시골추어탕", "roadAddress": "경남 진주시 대신로231번길 7-2",
+        "category": "음식점 > 한식", "matjip": true,
+        "menu": [{"name":"생등심","price":20000},{"name":"불고기","price":8000}],
+        "hours": null, "breakTime": null, "closedDays": null, "phone": null
+      },
+      "hasPhoto": false,
+      "messageId": 999999
+    }
+  ],
+  "held": [], "excluded": [], "failed": [], "blocked": null,
+  "preparedAt": "2026-09-14T00:00:00.000Z"
+}
