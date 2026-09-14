@@ -1,0 +1,210 @@
+{
+  "date": "2026-09-14",
+  "from": "rss",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=548021",
+    "airDate": "2026-09-14",
+    "episode": 2613
+  },
+  "targets": 4,
+  "stores": [
+    {
+      "id": "1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-09-14",
+        "episode": 2613,
+        "corner": "장사의 신",
+        "episodeTitle": "행복을 부르는 맛! 얼큰 샤부칼국수",
+        "region": "경기 시흥시",
+        "place": "오월얼크니샤브손칼국수 본점",
+        "description": "'장사의 신'에서는 '<행복을 부르는 맛! 얼큰 샤부칼국수>' 편이 펼쳐진다. 경기 시흥시의 '오월얼크니샤브손칼국수 본점'을 찾아 푸짐샤브칼국수 세트를 소개한다. 가격은 1만4000원이다. 오전 10시부터 오후 9시까지 운영하며 라스트 오더는 오후 8시 25분이다. 정기 휴무와 브레이크타임은 없는 것으로 안내됐다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=548021"
+      },
+      "store": {
+        "name": "오월얼크니샤브손칼국수 본점",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%98%A4%EC%9B%94%EC%96%BC%ED%81%AC%EB%8B%88%EC%83%A4%EB%B8%8C%EC%86%90%EC%B9%BC%EA%B5%AD%EC%88%98-%EB%B3%B8%EC%A0%90-kc552gh2hixd/",
+        "address": "경기 시흥시 동서로811번길 36 1,2층",
+        "category": "음식점 > 분식 > 국수/만두/칼국수",
+        "roadAddress": "경기 시흥시 동서로811번길 36 1,2층",
+        "jibunAddress": "경기 시흥시 물왕동 154-1",
+        "phone": null,
+        "safePhone": "050714145541",
+        "hours": {
+          "월": "10:00~21:00",
+          "화": "10:00~21:00",
+          "수": "10:00~21:00",
+          "목": "10:00~21:00",
+          "금": "10:00~21:00",
+          "토": "10:00~21:00",
+          "일": "10:00~21:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "푸짐얼큰샤브세트",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "푸짐하얀샤브세트",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "얼큰샤브세트",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "하얀샤브세트",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "샤브용 쫄깃새우만두(8개)",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "찐왕만두 교자만두(8개)",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "찐왕만두 고기(5개)",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "샤브용 꼬물이만두(13개)",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "샤브용 잡채오뎅(7개)",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "찐왕만두 반반(5개)",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "찐왕만두 김치(5개)",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "어린이용 김가루 주먹밥",
+            "price": 3000,
+            "maxPrice": null
+          },
+          {
+            "name": "국내산검은콩국수(4월~8월)",
+            "price": 11000,
+            "maxPrice": null
+          },
+          {
+            "name": "미나리 새우전",
+            "price": 13000,
+            "maxPrice": null
+          },
+          {
+            "name": "모듬추가",
+            "price": 13000,
+            "maxPrice": null
+          },
+          {
+            "name": "등심추가(200g)",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "야채추가",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "숙주배추추가",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "샤브용치즈떡(10개)",
+            "price": 4000,
+            "maxPrice": null
+          },
+          {
+            "name": "면추가",
+            "price": 3000,
+            "maxPrice": null
+          },
+          {
+            "name": "볶음밥추가",
+            "price": 3000,
+            "maxPrice": null
+          },
+          {
+            "name": "소주",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "맥주",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "막걸리",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "음료수",
+            "price": 2000,
+            "maxPrice": null
+          },
+          {
+            "name": "식혜",
+            "price": 3000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.3865788,
+          "lng": 126.8389804
+        },
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 시흥시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 439
+    }
+  ],
+  "held": [
+    {
+      "place": "귀둔빌리지",
+      "region": "강원 인제군",
+      "reason": "지역 코드를 찾지 못함"
+    },
+    {
+      "place": "에일린데코 대전본점",
+      "region": "대전 유성구",
+      "reason": "지역 코드를 찾지 못함"
+    }
+  ],
+  "excluded": [],
+  "failed": [
+    {
+      "place": "부안터미널",
+      "reason": "조회 실패: HTTP 500 (id=2748)"
+    }
+  ],
+  "blocked": null,
+  "preparedAt": "2026-09-14T07:53:18.337Z"
+}
