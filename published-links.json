@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-09-14T23:02:01.999Z",
+  "updatedAt": "2026-09-15T23:02:21.092Z",
   "records": [
+    {
+      "date": "2026-09-16",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215301",
+      "title": "앤트로픽 '페이블 5.1', 370년 미해결 난제 암호 44분 만에 풀었다",
+      "mediaId": "18114641680795927"
+    },
     {
       "date": "2026-09-15",
       "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
