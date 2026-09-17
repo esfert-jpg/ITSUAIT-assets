@@ -1,9 +1,25 @@
 {
   "date": "2026-09-17",
-  "url": "https://www.joongangenews.com/news/articleView.html?idxno=548943",
-  "idxno": "548943",
-  "title": "'생생정보' 요즘 시장 24시, 알뜰하게 준비하는 한가위 장보기",
-  "pubDate": "2026-09-17 15:33:57",
-  "savedAt": "2026-09-17T07:15:41.784Z",
-  "note": "watch 가 같은 날 생생정보 기사 3건 중 첫 건(548946, 한복)을 집어 수동 교체. 548944(나주)도 맛집 후보."
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=548943",
+      "idxno": "548943",
+      "title": "'생생정보' 요즘 시장 24시, 알뜰하게 준비하는 한가위 장보기",
+      "pubDate": "2026-09-17 15:33:57"
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=548944",
+      "idxno": "548944",
+      "title": "'생생정보' 장PD의 AI 여행기, 먹거리와 풍경 따라 나주 한 바퀴",
+      "pubDate": "2026-09-17 15:33:57"
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=548946",
+      "idxno": "548946",
+      "title": "'생생정보' 달라야 사는 크리에이터, 현대에서 만난 조선 마님",
+      "pubDate": "2026-09-17 15:33:57"
+    }
+  ],
+  "savedAt": "2026-09-17T08:26:58.844Z",
+  "note": "watch 가 첫 건만 집던 문제로 수동 보강. 같은 날 생생정보 기사 3건 전부."
 }
