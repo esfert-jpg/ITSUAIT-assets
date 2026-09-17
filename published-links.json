@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-09-16T23:02:15.010Z",
+  "updatedAt": "2026-09-17T23:01:50.965Z",
   "records": [
+    {
+      "date": "2026-09-18",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701500",
+      "title": "오픈AI, 새로운 AI 모델 오작동 사건 6건 공개...자율 은폐·무단 접근 포함",
+      "mediaId": "18096436589653474"
+    },
     {
       "date": "2026-09-17",
       "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
