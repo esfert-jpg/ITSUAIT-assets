@@ -224,7 +224,24 @@
   "failed": [],
   "blocked": null,
   "batch": "1201b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-09-22T03:21:38.985Z",
-  "preparedAt": "2026-09-22T03:01:38.985Z"
+  "preparedAt": "2026-09-22T03:01:38.985Z",
+  "publishedAt": "2026-09-22T03:31:10.624Z",
+  "result": {
+    "published": [
+      {
+        "name": "꽈배기요정",
+        "url": "https://wherethatplace.blogspot.com/2026/09/6_01928635334.html",
+        "skipped": false
+      },
+      {
+        "name": "박군꽃소 수원본점",
+        "url": "https://wherethatplace.blogspot.com/2026/09/6_02096111663.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
