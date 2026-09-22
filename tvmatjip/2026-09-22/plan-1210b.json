@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-22",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "msu6242/224419671739",
+      "program": "6시 내고향",
+      "title": "[6시내고향 수원 태국식 꼬치] KBS 6시내고향 방영 경기도 수원역 역전시장 태국식 꼬치 맛집 아로이타이수원",
+      "place": "아로이타이수원",
+      "region": "경기 수원시",
+      "dishes": [
+        "태국식 꼬치"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224419671739",
+      "postedAt": "2026-09-22T03:03:56.000Z",
+      "dishVotes": {
+        "태국식 꼬치": 3
+      },
+      "votes": {
+        "6시 내고향": 3
+      },
+      "copies": 3
+    },
+    {
+      "key": "msu6242/224419674138",
+      "program": "6시 내고향",
+      "title": "[6시내고향 수원 냉면꼬치] KBS 6시내고향 방영 경기도 수원시 영통구 매탄동 이색 냉면 꼬치 맛집 수원왕가리 본점",
+      "place": "수원왕가리 본점",
+      "region": "경기 수원시",
+      "dishes": [
+        "냉면꼬치"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224419674138",
+      "postedAt": "2026-09-22T03:06:16.000Z",
+      "dishVotes": {
+        "냉면꼬치": 3
+      },
+      "votes": {
+        "6시 내고향": 3
+      },
+      "copies": 3
+    },
+    {
+      "key": "msu6242/224419677865",
+      "program": "6시 내고향",
+      "title": "수원 왕갈비 맛집] KBS 6시내고향 방영 경기도 수원시 영통구 매탄동 전통 수원왕갈비 맛집 신라갈비 수원본점",
+      "place": "신라갈비 수원본점",
+      "region": "경기 수원시",
+      "dishes": [
+        "수원왕갈비",
+        "갈비"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224419677865",
+      "postedAt": "2026-09-22T03:09:48.000Z",
+      "dishVotes": {
+        "수원왕갈비": 2,
+        "갈비": 1
+      },
+      "votes": {
+        "6시 내고향": 3
+      },
+      "copies": 3
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 3,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "아로이타이수원",
+      "region": "경기 수원시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: fetch failed"
+    },
+    {
+      "place": "수원왕가리 본점",
+      "region": "경기 수원시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: fetch failed"
+    },
+    {
+      "place": "신라갈비 수원본점",
+      "region": "경기 수원시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: fetch failed"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "blocked": null,
+  "batch": "1210b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-09-22T03:11:31.943Z"
+}
