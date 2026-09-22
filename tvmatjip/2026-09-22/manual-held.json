@@ -1,0 +1,57 @@
+{
+  "date": "2026-09-22",
+  "from": "manual",
+  "batch": "manual",
+  "note": "1210b 에서 인허가 fetch failed 로 보류된 건을 로컬 재조회로 수동 발행 (사용자 지시 2026-09-22)",
+  "stores": [
+    {
+      "id": "m1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-09-22",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "경기 수원시",
+        "place": "신라갈비 수원본점",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "ohs016830",
+          "link": "https://blog.naver.com/ohs016830/224419678108"
+        },
+        "dishHints": [
+          "왕갈비"
+        ],
+        "dishVotes": {
+          "왕갈비": 3
+        }
+      },
+      "store": {
+        "name": "신라갈비",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "경기도 수원시 영통구 동수원로 538 (원천동)",
+        "jibunAddress": "경기도 수원시 영통구 원천동 89-7",
+        "phone": "031-212-2354",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": null,
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '신라갈비' + '수원시' / 입력 상호의 일부만 상호로 씀 ('신라갈비')",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": []
+}
