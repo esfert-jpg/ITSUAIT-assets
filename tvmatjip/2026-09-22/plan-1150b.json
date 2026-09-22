@@ -1,0 +1,193 @@
+{
+  "date": "2026-09-22",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "msu6242/224419648419",
+      "program": "6시 내고향",
+      "title": "[6시내고향 수원 영양찰떡] KBS 6시내고향 방영 경기도 수원시 팔달구 못골종합시장 송편 영양찰떡 맛집 종로떡집",
+      "place": "종로떡집",
+      "region": "경기 수원시",
+      "dishes": [
+        "영양찰떡",
+        "송편"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224419648419",
+      "postedAt": "2026-09-22T02:42:34.000Z",
+      "dishVotes": {
+        "영양찰떡": 3,
+        "송편": 3
+      },
+      "votes": {
+        "6시 내고향": 3
+      },
+      "copies": 3
+    },
+    {
+      "key": "msu6242/224419651977",
+      "program": "6시 내고향",
+      "title": "수원 모둠전] KBS 6시내고향 방영 경기도 수원시 팔달구 미나리광시장 모둠전 맛집 순이네장아찌백반",
+      "place": "순이네장아찌백반",
+      "region": "경기 수원시",
+      "dishes": [
+        "모둠전"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224419651977",
+      "postedAt": "2026-09-22T02:45:43.000Z",
+      "dishVotes": {
+        "모둠전": 3
+      },
+      "votes": {
+        "6시 내고향": 3
+      },
+      "copies": 3
+    },
+    {
+      "key": "msu6242/224419654395",
+      "program": "6시 내고향",
+      "title": "수원 쭈꾸미볶음] KBS 6시내고향 방영 경기도 수원시 팔달구 미나리광시장 쭈꾸미볶음 맛집 올레쭈꾸미",
+      "place": "올레쭈꾸미",
+      "region": "경기 수원시",
+      "dishes": [
+        "쭈꾸미볶음"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224419654395",
+      "postedAt": "2026-09-22T02:47:54.000Z",
+      "dishVotes": {
+        "쭈꾸미볶음": 3
+      },
+      "votes": {
+        "6시 내고향": 3
+      },
+      "copies": 3
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 3,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1150b-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-09-22",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "경기 수원시",
+        "place": "올레쭈꾸미",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "msu6242",
+          "link": "https://blog.naver.com/msu6242/224419654395",
+          "title": "수원 쭈꾸미볶음] KBS 6시내고향 방영 경기도 수원시 팔달구 미나리광시장 쭈꾸미볶음 맛집 올레쭈꾸미",
+          "postedAt": "2026-09-22T02:47:54.000Z"
+        },
+        "dishHints": [
+          "쭈꾸미볶음"
+        ],
+        "dishVotes": {
+          "쭈꾸미볶음": 3
+        }
+      },
+      "store": {
+        "name": "올레쭈꾸미",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%98%AC%EB%A0%88%EC%AD%88%EA%BE%B8%EB%AF%B8-zd5owcm5y7fe/",
+        "address": "경기 수원시 팔달구 수원천로264번길 7-2",
+        "category": "음식점 > 수산물 > 낙지/오징어",
+        "roadAddress": "경기 수원시 팔달구 수원천로264번길 7-2",
+        "jibunAddress": "경기 수원시 팔달구 지동 400-15",
+        "phone": "0312510555",
+        "safePhone": null,
+        "hours": {
+          "월": null,
+          "화": "11:00~20:00",
+          "수": "11:00~20:00",
+          "목": "11:00~20:00",
+          "금": "11:00~20:00",
+          "토": "11:00~20:00",
+          "일": "11:00~20:00"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "월"
+        ],
+        "menu": [
+          {
+            "name": "올레 쭈꾸미",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "묵밥",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "묵사발추가",
+            "price": 2000,
+            "maxPrice": null
+          },
+          {
+            "name": "쭈꾸미볶음(대)",
+            "price": 30000,
+            "maxPrice": null
+          },
+          {
+            "name": "쭈꾸미볶음(중)",
+            "price": 20000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.2771322,
+          "lng": 127.0198875
+        },
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경기 수원시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 611
+    }
+  ],
+  "held": [
+    {
+      "place": "종로떡집",
+      "region": "경기 수원시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 4개 중 상호·시군구가 다 맞는 곳 없음: 1. 우리떡집 (서울 종로구 삼일대로 423) — 상호 불일치 (찾은 것: '우리떡집') | 2. 쑥향떡집 (서울특별시 종로구 김상옥로 14-1 (연지동)) — 상호 불일치 (찾은 것: '쑥향떡집') | 3. 빈대떡집 (서울 종로구 동호로 403-22) — 상호 불일치 (찾은 것: '빈대떡집') | 4. 종로전집 (서울 종로구 종로40가길 19) — 상호 불일치 (찾은 것: '종로전집')) / 인허가 조회 실패: fetch failed"
+    },
+    {
+      "place": "순이네장아찌백반",
+      "region": "경기 수원시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: fetch failed"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "blocked": null,
+  "batch": "1150b",
+  "status": "pending",
+  "publishAfter": "2026-09-22T03:11:29.297Z",
+  "preparedAt": "2026-09-22T02:51:29.297Z"
+}
