@@ -1,0 +1,230 @@
+{
+  "date": "2026-09-22",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "msu6242/224419657790",
+      "program": "6시 내고향",
+      "title": "[6시내고향 수원 흑임자꽈배기] KBS 6시내고향 방영 경기도 수원시 팔달구 영동시장 흑임자 꽈배기 맛집 꽈배기요정",
+      "place": "꽈배기요정",
+      "region": "경기 수원시",
+      "dishes": [
+        "흑임자꽈배기"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224419657790",
+      "postedAt": "2026-09-22T02:51:00.000Z",
+      "dishVotes": {
+        "흑임자꽈배기": 3
+      },
+      "votes": {
+        "6시 내고향": 3
+      },
+      "copies": 3
+    },
+    {
+      "key": "msu6242/224419663460",
+      "program": "6시 내고향",
+      "title": "[6시내고향 수원 치킨맛집] KBS 6시내고향 방영 경기도 수원시 팔달구 수원 통닭거리 가마솥 치킨 통닭 맛집 용성통닭 본점",
+      "place": "용성통닭 본점",
+      "region": "경기 수원시",
+      "dishes": [
+        "통닭",
+        "치킨",
+        "가마솥 치킨"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224419663460",
+      "postedAt": "2026-09-22T02:56:14.000Z",
+      "dishVotes": {
+        "가마솥 치킨": 1,
+        "통닭": 3,
+        "치킨": 2
+      },
+      "votes": {
+        "6시 내고향": 3
+      },
+      "copies": 3
+    },
+    {
+      "key": "msu6242/224419666160",
+      "program": "6시 내고향",
+      "title": "[6시내고향 수원 왕갈비꼬치] KBS 6시내고향 방영 경기도 수원시 팔달구 인계동 왕갈비 꼬치 맛집 박군꽃소",
+      "place": "박군꽃소",
+      "region": "경기 수원시",
+      "dishes": [
+        "왕갈비꼬치"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224419666160",
+      "postedAt": "2026-09-22T02:58:42.000Z",
+      "dishVotes": {
+        "왕갈비꼬치": 3
+      },
+      "votes": {
+        "6시 내고향": 3
+      },
+      "copies": 3
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 3,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1201b-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-09-22",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "경기 수원시",
+        "place": "꽈배기요정",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "msu6242",
+          "link": "https://blog.naver.com/msu6242/224419657790",
+          "title": "[6시내고향 수원 흑임자꽈배기] KBS 6시내고향 방영 경기도 수원시 팔달구 영동시장 흑임자 꽈배기 맛집 꽈배기요정",
+          "postedAt": "2026-09-22T02:51:00.000Z"
+        },
+        "dishHints": [
+          "흑임자꽈배기"
+        ],
+        "dishVotes": {
+          "흑임자꽈배기": 3
+        }
+      },
+      "store": {
+        "name": "꽈배기요정",
+        "url": "https://www.daangn.com/kr/local-profile/%EA%BD%88%EB%B0%B0%EA%B8%B0%EC%9A%94%EC%A0%95-19o5gn6yzssr/",
+        "address": "경기도 수원시 팔달구 수원천로255번길 6 (영동)",
+        "category": "음식점 > 제과/제빵",
+        "roadAddress": "경기도 수원시 팔달구 수원천로255번길 6 (영동)",
+        "jibunAddress": "경기도 수원시 팔달구 영동 8 영동시장",
+        "phone": "01076338546",
+        "safePhone": null,
+        "hours": {
+          "월": null,
+          "화": "11:00~18:00",
+          "수": "11:00~18:00",
+          "목": "11:00~18:00",
+          "금": "11:00~18:00",
+          "토": "11:00~18:00",
+          "일": "11:00~18:00"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "월"
+        ],
+        "menu": [
+          {
+            "name": "꽈배기, 팥도넛, 호떡",
+            "price": 1000,
+            "maxPrice": null
+          },
+          {
+            "name": "고로캐",
+            "price": 2500,
+            "maxPrice": null
+          },
+          {
+            "name": "아이스아메리카노",
+            "price": 1500,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.27689423285984,
+          "lng": 127.01871638506434
+        },
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경기 수원시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 615
+    },
+    {
+      "id": "1201b-2",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-09-22",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "경기 수원시",
+        "place": "박군꽃소",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "msu6242",
+          "link": "https://blog.naver.com/msu6242/224419666160",
+          "title": "[6시내고향 수원 왕갈비꼬치] KBS 6시내고향 방영 경기도 수원시 팔달구 인계동 왕갈비 꼬치 맛집 박군꽃소",
+          "postedAt": "2026-09-22T02:58:42.000Z"
+        },
+        "dishHints": [
+          "왕갈비꼬치"
+        ],
+        "dishVotes": {
+          "왕갈비꼬치": 3
+        }
+      },
+      "store": {
+        "name": "박군꽃소 수원본점",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%B0%95%EA%B5%B0%EA%BD%83%EC%86%8C-%EC%88%98%EC%9B%90%EB%B3%B8%EC%A0%90-2p3fir9f2fkh/",
+        "address": "경기도 수원시 팔달구 중부대로239번길 21-1 (우만동)",
+        "category": "음식점 > 한식 > 고기요리 > 소고기 구이",
+        "roadAddress": "경기도 수원시 팔달구 중부대로239번길 21-1 (우만동)",
+        "jibunAddress": "경기도 수원시 팔달구 우만동 89-4",
+        "phone": "0312138592",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.2762684129747,
+          "lng": 127.042365084468
+        },
+        "source": "daangn",
+        "matjip": true,
+        "reason": "2순위 / 입력 상호로 시작 ('박군꽃소 수원본점') / 경기 수원시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 616
+    }
+  ],
+  "held": [
+    {
+      "place": "용성통닭 본점",
+      "region": "경기 수원시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '용성통닭' + '수원시' / 3건이라 자동 선택 안 함: 용성통닭(호매실직영점), 용성통닭(만석공원직영점), 용성통닭"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "blocked": null,
+  "batch": "1201b",
+  "status": "pending",
+  "publishAfter": "2026-09-22T03:21:38.985Z",
+  "preparedAt": "2026-09-22T03:01:38.985Z"
+}
