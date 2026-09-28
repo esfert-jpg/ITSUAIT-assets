@@ -169,7 +169,24 @@
   "failed": [],
   "blocked": null,
   "batch": "1810",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-09-28T09:31:19.427Z",
-  "preparedAt": "2026-09-28T09:11:19.427Z"
+  "preparedAt": "2026-09-28T09:11:19.427Z",
+  "publishedAt": "2026-09-28T09:41:48.678Z",
+  "result": {
+    "published": [
+      {
+        "name": "카페무무",
+        "url": "https://wherethatplace.blogspot.com/2026/09/6_01540454816.html",
+        "skipped": false
+      },
+      {
+        "name": "은혜농원",
+        "url": "https://wherethatplace.blogspot.com/2026/09/6_0126356118.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
