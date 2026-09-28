@@ -1,0 +1,175 @@
+{
+  "date": "2026-09-28",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=551047",
+    "airDate": "2026-09-28",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=551047",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 경북 영천 샤인머스캣, 포도원에서 만나는 탐스러운 결실",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=551046",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 통영 삼도수군통제영에서 만나는 국가유산 미디어아트",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=551045",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 충북 증평 요구르트·아리수 사과·부추 한자리에",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=551044",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 속초 바다에서 만나는 문어와 낚싯배 체험",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "corners": 4,
+  "targets": 4,
+  "skipped": [
+    "탐스러운 포도원",
+    "속초대박피싱"
+  ],
+  "stores": [
+    {
+      "id": "1810-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-09-28",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "충북 증평군",
+        "place": "카페 무무",
+        "description": "이번 방송에서는 각기 다른 현장을 찾아 세 가지 먹거리를 만나보고 직거래장터에서 소개되는 상품을 살펴볼 예정이다. 먼저 증평군 도안면에 자리한 '카페 무무'에서는 요구르트를 만나본다. 이번 방송에서 소개되는 요구르트는 현장에서 만나볼 수 있는 먹거리 가운데 하나로 소개될 예정이다. 이어 증평군에 자리한 '은혜농원'에서는 사과 아리수를 소개한다. 방송에서는 농원에서 만나는 사과 아리수를 중심으로 현장의 모습을 담는다. 마지막으로 증평군의 '부추 농장'을 찾아 부추를 만나본다. 이번 방송에서는 앞서 소개된 요구르트와 사과에 이어 부추까지 살펴보며 증평에서 만날 수 있는 다양한 먹거리를 차례로 전할 예정이다. 요구르트부터 사과 아리수와 부추까지 서로 다른 먹거리를 한자리에서 만나보며 직거래장터와 함께 펼쳐지는 다채로운 현장을 KBS1 '6시 내고향'을 통해 소개할 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=551045",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "카페무무",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%B9%B4%ED%8E%98%EB%AC%B4%EB%AC%B4-pt5cs3kk858h/",
+        "address": "충청북도 증평군 도안면 인삼로 743",
+        "category": "음식점 > 카페/디저트 > 카페",
+        "roadAddress": "충청북도 증평군 도안면 인삼로 743",
+        "jibunAddress": "충청북도 증평군 도안면 송정리 804",
+        "phone": "01052170743",
+        "safePhone": null,
+        "hours": {
+          "월": "09:00~20:00",
+          "화": "09:00~20:00",
+          "수": "09:00~20:00",
+          "목": "09:00~20:00",
+          "금": "09:00~20:00",
+          "토": "09:00~20:00",
+          "일": "09:00~20:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 36.8311320033438,
+          "lng": 127.612709796736
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "3순위 / 상호 완전 일치 / 충북 증평군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 9
+    },
+    {
+      "id": "1810-2",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-09-28",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "충북 증평군",
+        "place": "은혜농원",
+        "description": "이번 방송에서는 각기 다른 현장을 찾아 세 가지 먹거리를 만나보고 직거래장터에서 소개되는 상품을 살펴볼 예정이다. 먼저 증평군 도안면에 자리한 '카페 무무'에서는 요구르트를 만나본다. 이번 방송에서 소개되는 요구르트는 현장에서 만나볼 수 있는 먹거리 가운데 하나로 소개될 예정이다. 이어 증평군에 자리한 '은혜농원'에서는 사과 아리수를 소개한다. 방송에서는 농원에서 만나는 사과 아리수를 중심으로 현장의 모습을 담는다. 마지막으로 증평군의 '부추 농장'을 찾아 부추를 만나본다. 이번 방송에서는 앞서 소개된 요구르트와 사과에 이어 부추까지 살펴보며 증평에서 만날 수 있는 다양한 먹거리를 차례로 전할 예정이다. 요구르트부터 사과 아리수와 부추까지 서로 다른 먹거리를 한자리에서 만나보며 직거래장터와 함께 펼쳐지는 다채로운 현장을 KBS1 '6시 내고향'을 통해 소개할 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=551045",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "은혜농원",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%9D%80%ED%98%9C%EB%86%8D%EC%9B%90-n6et3hxq49t3/",
+        "address": "충청북도 증평군 증평읍 초정약수로 1085",
+        "category": "음식점 > 농산물 > 과일판매",
+        "roadAddress": "충청북도 증평군 증평읍 초정약수로 1085",
+        "jibunAddress": "충청북도 증평군 증평읍 남차리 452",
+        "phone": "01084294703",
+        "safePhone": null,
+        "hours": {
+          "월": "09:00~18:00",
+          "화": "09:00~18:00",
+          "수": "09:00~18:00",
+          "목": "09:00~18:00",
+          "금": "09:00~18:00",
+          "토": "09:00~18:00",
+          "일": "09:00~18:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 36.7337221623695,
+          "lng": 127.61863974186
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "10순위 / 상호 완전 일치 / 충북 증평군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 10
+    }
+  ],
+  "held": [
+    {
+      "place": "2026 국가유산 미디어아트 통영",
+      "region": "경남 통영시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '2026' + '통영시' / 0건"
+    },
+    {
+      "place": "부추 농장",
+      "region": "충북 증평군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '부추농장' + '증평군' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "blocked": null,
+  "batch": "1810",
+  "status": "pending",
+  "publishAfter": "2026-09-28T09:31:19.427Z",
+  "preparedAt": "2026-09-28T09:11:19.427Z"
+}
