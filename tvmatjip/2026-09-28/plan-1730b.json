@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-28",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "msu6242/224424996549",
+      "program": "6시 내고향",
+      "title": "[6시내고향 영천 샤인머스캣] KBS 6시내고향 방영 경상북도 영천시 금호읍 봉죽리 당도 높고 아삭한 식감의 샤인머스캣 포도 농장 구매처 탐스러운 포도원",
+      "place": "탐스러운 포도원",
+      "region": "경북 영천시",
+      "dishes": [],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224424996549",
+      "postedAt": "2026-09-28T08:23:23.000Z",
+      "dishVotes": {},
+      "votes": {
+        "6시 내고향": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "msu6242/224425000333",
+      "program": "6시 내고향",
+      "title": "[6시내고향 속초 낚시배체험] KBS 6시내고향 방영 강원특별자치도 속초시 대포항 대포동 싱싱한 동해 문어 판매 및 짜릿한 바다 낚싯배 체험 명소 속초대박피싱",
+      "place": "속초대박피싱",
+      "region": "강원 속초시",
+      "dishes": [
+        "동해 문어",
+        "문어"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224425000333",
+      "postedAt": "2026-09-28T08:26:45.000Z",
+      "dishVotes": {
+        "동해 문어": 1,
+        "문어": 1
+      },
+      "votes": {
+        "6시 내고향": 2
+      },
+      "copies": 2
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 2,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "탐스러운 포도원",
+      "region": "경북 영천시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '탐스러운' + '영천시' / 0건"
+    },
+    {
+      "place": "속초대박피싱",
+      "region": "강원 속초시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '속초대박' + '속초시' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "blocked": null,
+  "batch": "1730b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-09-28T08:31:04.494Z"
+}
