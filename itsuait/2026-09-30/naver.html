@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>네이버 원고 · itsuait</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1d2127;--sub:#6b7280;--line:#e3e6ea;--acc:#03c75a;--acc-ink:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#15171a;--card:#1f2226;--ink:#e8eaed;--sub:#9aa0a6;--line:#30343a;--acc:#1ec26b;--acc-ink:#0b1a10}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif}
+main{max-width:720px;margin:0 auto;padding:16px}
+h1{font-size:15px;color:var(--sub);font-weight:600;margin:4px 0 12px}
+section{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin:0 0 12px}
+.head{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px}
+.head b{font-size:14px;color:var(--sub)}
+.hint{font-size:12px;color:var(--sub);text-align:right}
+.btn{appearance:none;border:0;border-radius:10px;background:var(--acc);color:var(--acc-ink);font-weight:700;font-size:15px;padding:10px 16px;cursor:pointer;text-decoration:none;display:inline-block}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line);font-weight:600;font-size:14px;padding:8px 12px}
+.box{white-space:pre-wrap;word-break:break-all}
+#body p{margin:0}
+.title{font-size:18px;font-weight:700}
+figure{margin:0 0 12px}figure img{display:block;max-width:100%;border-radius:8px;margin-bottom:6px}
+#toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:999px;font-size:14px;opacity:0;transition:opacity .2s;pointer-events:none}
+#toast.on{opacity:1}
+.steps{font-size:14px;color:var(--sub);margin:0;padding-left:18px}
+</style></head><body><main>
+<h1>네이버 블로그 원고 · itsuait</h1>
+<section><div class="head"><b>① 제목</b><button class="btn" data-copy="title">제목 복사</button></div><div class="box title" id="title">오픈AI 닷츠, 24시간 자동 업무 처리하는 B2B 에이전트의 구조</div></section>
+<section><div class="head"><b>② 사진</b><span class="hint">저장 → 공유 시트에서 '이미지 저장'. 또는 사진을 길게 눌러 '사진에 추가'</span></div><figure><img src="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-09-30/080101/blog-cover.png" alt="사진 1"><a class="btn ghost" data-img="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-09-30/080101/blog-cover.png" href="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-09-30/080101/blog-cover.png" download="itsuait-1">사진 1 저장</a></figure></section>
+<section><div class="head"><b>③ 본문 (태그 포함)</b><button class="btn" data-copy="body">본문 복사</button></div><div id="body"><p>오픈AI가 29일 데브데이 2026에서 '닷츠(Dots)'를 공개했어요. 사용자가 기기를 꺼 있어도 백그라운드에서 스스로 일을 지속하는 기업용 자율 에이전트예요. 메타의 소비자용 에이전트 '뮤즈'와 달리 B2B 워크플로우를 겨냥했어요.</p><p><br></p><p>▶ 닷츠가 하는 일, 기존 챗GPT와 뭐가 다른가</p><p>기존 챗GPT는 질문에 답하는 데 멈췄어요. 닷츠는 업무 자체를 맡겨 놓으면 필요한 단계를 스스로 찾아 완료해요. 사용자가 하나하나 지시할 필요가 없어요.</p><p><br></p><p>예를 들어 회의 자료에 최신 수치를 반영하고, 웹사이트 디자인 변경을 적용한 뒤 배포까지 맡길 수 있어요. 일정이 겹치면 회의 이동 가능 여부를 확인하고 필요한 자료를 미리 준비해요.</p><p><br></p><p>개발 업무도 가능해요. 오래된 API를 새로운 방식으로 바꾸라고 하면 코드 전체에서 해당 API를 찾아 영향을 분석하고, 수정하고, 테스트한 뒤 검토할 수 있는 결과물을 만들어요.</p><p><br></p><p>▶ 격리된 클라우드 컴퓨터가 24시간 일해요</p><p>닷츠마다 독립된 가상 클라우드 컴퓨터와 전용 브라우저가 할당돼요. 사용자의 스마트폰이나 컴퓨터가 꺼져 있어도 계속 일을 진행해요.</p><p><br></p><p>웹사이트를 직접 열어 작업하거나 코드를 작성하고 테스트할 수 있어요. 4000개가 넘는 오픈AI 플러그인 생태계의 앱들과도 연동돼요.</p><p><br></p><p>슬랙, 마이크로소프트 팀즈, 문자 메시지 등 기존 업무 채널에서 단일한 대화 맥락을 유지해요. 문자 메시지 기능은 프로 사용자 대기자 명단으로 우선 제공돼요.</p><p><br></p><p>▶ 기업용 '전문 닷츠'로 조직 단위 도입도 가능해요</p><p>개별 에이전트에 전용 ID, 시스템 로그인 자격 증명, 사내 데이터베이스 접근 권한을 부여할 수 있어요. 조달, 청구서 처리, 이메일 마케팅, 고객 지원, 계약서 검토 등 전담 직원이 맡던 일을 에이전트에 위임해요.</p><p><br></p><p>보안도 강화됐어요. 저장된 비밀번호를 모델에 직접 노출하지 않아요. 선제적 리서치 시에는 읽기 전용 모드로만 작동해요. 계정 변경이나 결제 같은 민감한 업무는 반드시 인간 승인을 거쳐야 해요.</p><p><br></p><p>마이크로소프트의 기업 보안 제어 체계 '에이전트 365'와 엔터프라이즈 ID 관리 시스템 통합도 예정돼 있어요. 사내 입력 데이터와 백그라운드 작업 내역은 모델 학습에 절대 사용되지 않아요.</p><p><br></p><p>▶ 가격 정보와 이용 방법</p><p>닷츠는 챗GPT 프로, 비즈니스 프리미엘 구독자에게 기본 1개가 포함돼 제공돼요. 새로운 '챗GPT 프로 500(월 500달러)' 플랜은 초당 최대 300토큰의 응답 속도를 내는 울트라패스트 티어가 탑재됐어요.</p><p><br></p><p>고부하 백그라운드 작업으로 추가 토큰 소모가 발생하면 종량제로 과금돼요. 기업용 엔터프라이즈 고객 정식 출시와 일반 개발자 API 공개는 4분기부터 대기자 명단을 거쳐 차례로 진행될 예정이에요.</p><p><br></p><p>인간 팀원과 닷츠가 협업할 수 있는 '챗GPT 스페이스'와 문서 도구 '페이지스'도 함께 추가됐어요. 팀 단위 프로젝트에서 사람과 에이전트가 같은 공간에서 문서를 실시간으로 공동 편집할 수 있어요.</p><p><br></p><p>출처: AI타임스, TechCrunch, ZDNet Korea</p><p><br></p><p>👉 표와 원문 링크까지 정리한 글은 여기 있어요</p><p><a href="https://itsuait.blogspot.com/2026/09/ai-24.html">https://itsuait.blogspot.com/2026/09/ai-24.html</a></p><p><br></p><p>#오픈AI #OpenAI #메타 #Meta #AI뉴스 #IT이슈</p></div></section>
+<section><ol class="steps"><li>네이버 블로그 글쓰기를 연다</li><li>제목 복사 → 제목 칸에 붙여넣기</li><li>사진 저장 → 사진첩에서 본문 맨 위에 첨부</li><li>본문 복사 → 사진 아래에 붙여넣기 (끝의 #태그는 발행할 때 태그로 자동 등록된다)</li><li>발행 또는 예약</li></ol></section>
+</main><div id="toast"></div>
+<script>
+const D={"title":"오픈AI 닷츠, 24시간 자동 업무 처리하는 B2B 에이전트의 구조","body":"오픈AI가 29일 데브데이 2026에서 '닷츠(Dots)'를 공개했어요. 사용자가 기기를 꺼 있어도 백그라운드에서 스스로 일을 지속하는 기업용 자율 에이전트예요. 메타의 소비자용 에이전트 '뮤즈'와 달리 B2B 워크플로우를 겨냥했어요.\n\n▶ 닷츠가 하는 일, 기존 챗GPT와 뭐가 다른가\n기존 챗GPT는 질문에 답하는 데 멈췄어요. 닷츠는 업무 자체를 맡겨 놓으면 필요한 단계를 스스로 찾아 완료해요. 사용자가 하나하나 지시할 필요가 없어요.\n\n예를 들어 회의 자료에 최신 수치를 반영하고, 웹사이트 디자인 변경을 적용한 뒤 배포까지 맡길 수 있어요. 일정이 겹치면 회의 이동 가능 여부를 확인하고 필요한 자료를 미리 준비해요.\n\n개발 업무도 가능해요. 오래된 API를 새로운 방식으로 바꾸라고 하면 코드 전체에서 해당 API를 찾아 영향을 분석하고, 수정하고, 테스트한 뒤 검토할 수 있는 결과물을 만들어요.\n\n▶ 격리된 클라우드 컴퓨터가 24시간 일해요\n닷츠마다 독립된 가상 클라우드 컴퓨터와 전용 브라우저가 할당돼요. 사용자의 스마트폰이나 컴퓨터가 꺼져 있어도 계속 일을 진행해요.\n\n웹사이트를 직접 열어 작업하거나 코드를 작성하고 테스트할 수 있어요. 4000개가 넘는 오픈AI 플러그인 생태계의 앱들과도 연동돼요.\n\n슬랙, 마이크로소프트 팀즈, 문자 메시지 등 기존 업무 채널에서 단일한 대화 맥락을 유지해요. 문자 메시지 기능은 프로 사용자 대기자 명단으로 우선 제공돼요.\n\n▶ 기업용 '전문 닷츠'로 조직 단위 도입도 가능해요\n개별 에이전트에 전용 ID, 시스템 로그인 자격 증명, 사내 데이터베이스 접근 권한을 부여할 수 있어요. 조달, 청구서 처리, 이메일 마케팅, 고객 지원, 계약서 검토 등 전담 직원이 맡던 일을 에이전트에 위임해요.\n\n보안도 강화됐어요. 저장된 비밀번호를 모델에 직접 노출하지 않아요. 선제적 리서치 시에는 읽기 전용 모드로만 작동해요. 계정 변경이나 결제 같은 민감한 업무는 반드시 인간 승인을 거쳐야 해요.\n\n마이크로소프트의 기업 보안 제어 체계 '에이전트 365'와 엔터프라이즈 ID 관리 시스템 통합도 예정돼 있어요. 사내 입력 데이터와 백그라운드 작업 내역은 모델 학습에 절대 사용되지 않아요.\n\n▶ 가격 정보와 이용 방법\n닷츠는 챗GPT 프로, 비즈니스 프리미엘 구독자에게 기본 1개가 포함돼 제공돼요. 새로운 '챗GPT 프로 500(월 500달러)' 플랜은 초당 최대 300토큰의 응답 속도를 내는 울트라패스트 티어가 탑재됐어요.\n\n고부하 백그라운드 작업으로 추가 토큰 소모가 발생하면 종량제로 과금돼요. 기업용 엔터프라이즈 고객 정식 출시와 일반 개발자 API 공개는 4분기부터 대기자 명단을 거쳐 차례로 진행될 예정이에요.\n\n인간 팀원과 닷츠가 협업할 수 있는 '챗GPT 스페이스'와 문서 도구 '페이지스'도 함께 추가됐어요. 팀 단위 프로젝트에서 사람과 에이전트가 같은 공간에서 문서를 실시간으로 공동 편집할 수 있어요.\n\n출처: AI타임스, TechCrunch, ZDNet Korea\n\n👉 표와 원문 링크까지 정리한 글은 여기 있어요\nhttps://itsuait.blogspot.com/2026/09/ai-24.html\n\n#오픈AI #OpenAI #메타 #Meta #AI뉴스 #IT이슈"};
+const toast=(m)=>{const t=document.getElementById('toast');t.textContent=m;t.classList.add('on');setTimeout(()=>t.classList.remove('on'),1400)};
+function selectCopy(el){const r=document.createRange();r.selectNodeContents(el);const s=getSelection();s.removeAllRanges();s.addRange(r);let ok=false;try{ok=document.execCommand('copy')}catch(e){}s.removeAllRanges();return ok}
+async function copyText(t,el){try{await navigator.clipboard.writeText(t);return true}catch(e){return selectCopy(el)}}
+async function copyRich(el,plain){try{if(window.ClipboardItem&&navigator.clipboard&&navigator.clipboard.write){await navigator.clipboard.write([new ClipboardItem({'text/html':new Blob([el.innerHTML],{type:'text/html'}),'text/plain':new Blob([plain],{type:'text/plain'})})]);return true}}catch(e){}return selectCopy(el)}
+document.querySelectorAll('[data-copy]').forEach((b)=>b.addEventListener('click',async()=>{const k=b.dataset.copy;const el=document.getElementById(k);const ok=k==='body'?await copyRich(el,D.body):await copyText(D[k],el);toast(ok?({title:'제목',body:'본문'}[k])+' 복사됨':'복사 실패 — 길게 눌러 직접 복사하세요')}));
+// 사진 저장: 공유 시트 → '이미지 저장' 이 사진첩으로 간다. 사파리는 클릭 뒤 await 가 끼면 share 를 거부해서 미리 받아 둔다.
+const IMGS=new Map();
+document.querySelectorAll('[data-img]').forEach((a)=>{const u=a.dataset.img;fetch(u,{cache:'no-store'}).then((r)=>r.ok?r.blob():Promise.reject(r.status)).then((b)=>{const ext=(b.type.split('/')[1]||'png').replace('jpeg','jpg');IMGS.set(u,new File([b],(a.getAttribute('download')||'photo')+'.'+ext,{type:b.type}))}).catch(()=>{});
+a.addEventListener('click',(e)=>{const f=IMGS.get(u);if(f&&navigator.share&&navigator.canShare&&navigator.canShare({files:[f]})){e.preventDefault();navigator.share({files:[f]}).catch((err)=>{if(err&&err.name!=='AbortError')toast('공유 실패 — 사진을 길게 눌러 사진에 추가하세요')})}})});
+</script></body></html>
