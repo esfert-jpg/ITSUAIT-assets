@@ -1,0 +1,166 @@
+{
+  "date": "2026-09-29",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=551386",
+    "airDate": "2026-09-29",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=551386",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 전남광주 곡성 머스크 멜론, 농가에서 만나는 결실",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=551385",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 완주에서 만나는 정겨운 마을과 삼겹살장작구이",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "corners": 2,
+  "targets": 3,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1810-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-09-29",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "전북 완주군",
+        "place": "봉서농원",
+        "description": "이번 방송에서는 '두억행복드림마을'을 둘러보고 '봉서농원'에서 삼겹살장작구이를 만나보는 여정을 담아낼 예정이다. 먼저 전북 완주군에 자리한 '두억행복드림마을'을 찾아간다. 방송에서는 마을 곳곳을 둘러보며 현장의 모습을 살펴보고, 완주에서 만나는 마을 풍경을 카메라에 담을 예정이다. 마을을 만난 뒤에는 삼겹살장작구이가 기다리고 있다. 이번 방송에서는 완주군에 위치한 '봉서농원'을 찾아 삼겹살장작구이를 소개한다. 장작구이라는 방식으로 선보이는 삼겹살을 중심으로 음식이 준비되는 현장과 식탁에 오르는 모습을 만나볼 예정이다. '두억행복드림마을'에서 시작한 여정이 '봉서농원'의 먹거리로 이어지면서 이번 방송에서는 마을과 음식이라는 두 가지 주제를 함께 다룬다. 완주에서 마을을 둘러보는 시간에 이어 삼겹살장작구이를 만나는 식사 시간까지 차례로 담는다. 정겨운 마을을 둘러보는 여정부터 장작으로 구워내는 삼겹살을 만나는 먹거리의 시간까지, 서로 다른 즐거움으로 이어지는 완주의 하루를 KBS1 '6시 내고향'을 통해 전할 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=551385",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "봉서농원",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%B4%89%EC%84%9C%EB%86%8D%EC%9B%90-de45mrsgpcf8/",
+        "address": "전북 완주군 용진읍 봉서안길 209",
+        "category": "음식점 > 한식 > 백반/한정식",
+        "roadAddress": "전북 완주군 용진읍 봉서안길 209",
+        "jibunAddress": "전북 완주군 용진읍 간중리 3",
+        "phone": "0632459003",
+        "safePhone": null,
+        "hours": {
+          "월": null,
+          "화": "11:00~22:00",
+          "수": "11:00~22:00",
+          "목": "11:00~22:00",
+          "금": "11:00~22:00",
+          "토": "11:00~22:00",
+          "일": "11:00~22:00"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "월"
+        ],
+        "menu": [
+          {
+            "name": "참나무장작구이 1인 250g",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "해신탕",
+            "price": 140000,
+            "maxPrice": null
+          },
+          {
+            "name": "하수오갈비탕",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "능이한방백숙",
+            "price": 90000,
+            "maxPrice": null
+          },
+          {
+            "name": "통삽겹바베큐 250g",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "오리참나무장작구이",
+            "price": 55000,
+            "maxPrice": null
+          },
+          {
+            "name": "통돼지바베큐 (전화예약필수)",
+            "price": 0,
+            "maxPrice": null
+          },
+          {
+            "name": "닭.오리한방백숙",
+            "price": 60000,
+            "maxPrice": null
+          },
+          {
+            "name": "오리주물럭",
+            "price": 55000,
+            "maxPrice": null
+          },
+          {
+            "name": "닭묵은지매운탕",
+            "price": 60000,
+            "maxPrice": null
+          },
+          {
+            "name": "공기밥",
+            "price": 0,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 35.9050623,
+          "lng": 127.2107342
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 전북 완주군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 15
+    }
+  ],
+  "held": [
+    {
+      "place": "곡성농협",
+      "region": "전남광주통합특별시 곡성군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: fetch failed"
+    },
+    {
+      "place": "두억행복드림마을",
+      "region": "전북 완주군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: fetch failed"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "blocked": null,
+  "batch": "1810",
+  "status": "pending",
+  "publishAfter": "2026-09-29T09:32:08.280Z",
+  "preparedAt": "2026-09-29T09:12:08.280Z"
+}
