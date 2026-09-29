@@ -160,7 +160,19 @@
   "failed": [],
   "blocked": null,
   "batch": "1810",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-09-29T09:32:08.280Z",
-  "preparedAt": "2026-09-29T09:12:08.280Z"
+  "preparedAt": "2026-09-29T09:12:08.280Z",
+  "publishedAt": "2026-09-29T09:41:13.121Z",
+  "result": {
+    "published": [
+      {
+        "name": "봉서농원",
+        "url": "https://wherethatplace.blogspot.com/2026/09/6_0711497658.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
