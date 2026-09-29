@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-09-28T23:51:31.221Z",
+  "updatedAt": "2026-09-29T23:03:25.900Z",
   "records": [
+    {
+      "date": "2026-09-30",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215779",
+      "title": "오픈AI, 24시간 자율 에이전트 '닷츠' 공개…소비자용 아닌 B2B 승부수",
+      "mediaId": "18110606936332622"
+    },
     {
       "date": "2026-09-29",
       "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
