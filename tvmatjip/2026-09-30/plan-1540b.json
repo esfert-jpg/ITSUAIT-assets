@@ -1,0 +1,78 @@
+{
+  "date": "2026-09-30",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "ohs016830/224427150972",
+      "program": "6시 내고향",
+      "title": "[6시내고향 가평 잣두부전골] 경기도 가평군 빛두리 6시내고향 경기도 가평 잣두부전골 맛집 방영 정보와 위치",
+      "place": "빛두리",
+      "region": "경기 가평군",
+      "dishes": [
+        "잣두부전골"
+      ],
+      "corner": null,
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224427150972",
+      "postedAt": "2026-09-30T06:30:58.000Z",
+      "dishVotes": {
+        "잣두부전골": 2
+      },
+      "votes": {
+        "6시 내고향": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "msu6242/224427154532",
+      "program": "6시 내고향",
+      "title": "[6시내고향 고창 고창상희복분자농장] 전라북도 고창군 고창상희복분자농장 복분자식초 복분자원액 구매처",
+      "place": "고창상희복분자농장",
+      "region": "전북 고창군",
+      "dishes": [
+        "복분자식초",
+        "복분자원액"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224427154532",
+      "postedAt": "2026-09-30T06:33:47.000Z",
+      "dishVotes": {
+        "복분자식초": 3,
+        "복분자원액": 3
+      },
+      "votes": {
+        "6시 내고향": 3
+      },
+      "copies": 3
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [
+    "빛두리"
+  ],
+  "stores": [],
+  "held": [
+    {
+      "place": "고창상희복분자농장",
+      "region": "전북 고창군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '고창상희' + '고창군' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "blocked": null,
+  "batch": "1540b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-09-30T06:40:54.012Z"
+}
