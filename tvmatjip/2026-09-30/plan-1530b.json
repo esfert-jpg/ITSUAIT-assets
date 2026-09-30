@@ -1,0 +1,164 @@
+{
+  "date": "2026-09-30",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "msu6242/224427140802",
+      "program": "6시 내고향",
+      "title": "[6시내고향 증평 인삼] 충청북도 증평군 증평인삼농협 증평 인삼 수삼 홍삼 구매처",
+      "place": "증평인삼농협",
+      "region": "충북 증평군",
+      "dishes": [
+        "수삼",
+        "홍삼",
+        "증평 인삼"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224427140802",
+      "postedAt": "2026-09-30T06:22:51.000Z",
+      "dishVotes": {
+        "수삼": 1,
+        "홍삼": 1,
+        "증평 인삼": 1
+      },
+      "votes": {
+        "6시 내고향": 3
+      },
+      "copies": 3
+    },
+    {
+      "key": "msu6242/224427146272",
+      "program": "6시 내고향",
+      "title": "[6시내고향 가평 장나라] 경기도 가평군 참송이버섯 농장 구매처 장나라",
+      "place": "장나라",
+      "region": "경기 가평군",
+      "dishes": [
+        "참송이버섯"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224427146272",
+      "postedAt": "2026-09-30T06:27:14.000Z",
+      "dishVotes": {
+        "참송이버섯": 2
+      },
+      "votes": {
+        "6시 내고향": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "msu6242/224427150697",
+      "program": "6시 내고향",
+      "title": "[6시내고향 가평 빛두리] 6시내고향 방영, 경기도 가평군 빛두리 잣두부전골 수제두부 맛집",
+      "place": "빛두리",
+      "region": "경기 가평군",
+      "dishes": [
+        "잣두부전골",
+        "수제두부"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224427150697",
+      "postedAt": "2026-09-30T06:30:46.000Z",
+      "dishVotes": {
+        "잣두부전골": 1,
+        "수제두부": 1
+      },
+      "votes": {
+        "6시 내고향": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 3,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1530b-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-09-30",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "경기 가평군",
+        "place": "빛두리",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "msu6242",
+          "link": "https://blog.naver.com/msu6242/224427150697",
+          "title": "[6시내고향 가평 빛두리] 6시내고향 방영, 경기도 가평군 빛두리 잣두부전골 수제두부 맛집",
+          "postedAt": "2026-09-30T06:30:46.000Z"
+        },
+        "dishHints": [
+          "잣두부전골",
+          "수제두부"
+        ],
+        "dishVotes": {
+          "잣두부전골": 1,
+          "수제두부": 1
+        }
+      },
+      "store": {
+        "name": "시골빛두리",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "경기도 가평군 설악면 유명로 2171",
+        "jibunAddress": "경기도 가평군 설악면 회곡리 317-8",
+        "phone": "031-584-5427",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.70000967759049,
+          "lng": 127.45716328331861
+        },
+        "licenseDate": "1999-08-09",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '빛두리' + '가평군' / 입력 상호를 포함 ('시골빛두리')",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 20
+    }
+  ],
+  "held": [
+    {
+      "place": "증평인삼농협",
+      "region": "충북 증평군",
+      "name": "주식회사 토실토실 한식뷔페 증평인삼휴게소점",
+      "category": "한식",
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '증평인삼' + '증평군' / 상호 불일치 (찾은 것: '주식회사 토실토실 한식뷔페 증평인삼휴게소점')"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "장나라",
+      "region": "경기 가평군",
+      "name": "장나라",
+      "category": "산업시설 > 공단/공장 > 공장"
+    }
+  ],
+  "failed": [],
+  "blocked": null,
+  "batch": "1530b",
+  "status": "pending",
+  "publishAfter": "2026-09-30T06:51:20.767Z",
+  "preparedAt": "2026-09-30T06:31:20.767Z"
+}
