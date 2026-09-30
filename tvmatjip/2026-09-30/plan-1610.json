@@ -1,0 +1,124 @@
+{
+  "date": "2026-09-30",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=551688",
+    "airDate": "2026-09-30",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=551688",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 경남 김해 청상추 찾아 농장으로",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=551686",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 충북 증평 인삼, 지역에서 만나는 농산물 이야기",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=551683",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 가평에서 만나는 가을 여행, 꽃과 먹거리 한자리에",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=551669",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 전북 고창 복분자, 식초와 원액으로 만난다",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "corners": 4,
+  "targets": 3,
+  "skipped": [
+    "증평인삼농협",
+    "빛두리",
+    "고창상희팜푸드 고창상희복분자농장"
+  ],
+  "stores": [
+    {
+      "id": "1610-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-09-30",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "경남 김해시",
+        "place": "라온스토리팜",
+        "description": "이번 방송에서는 '라온스토리팜'을 찾아 청상추를 만나보고 농장에서 펼쳐지는 현장의 모습을 담아낼 예정이다. 이번 방송의 주인공은 청상추다. '라온스토리팜'에서 만날 수 있는 청상추를 중심으로 농장을 살펴보며 경남 김해에서 재배되는 채소의 모습을 소개한다. 방송에서는 농장에서 자라고 있는 청상추를 가까이에서 만나보는 시간을 갖는다. '라온스토리팜'의 청상추가 자라는 현장을 카메라에 담으며 이번 여정에서 소개되는 농산물을 집중적으로 살펴볼 예정이다. 특히 이번 방송에서는 청상추라는 하나의 농산물에 초점을 맞춘다. 농장에서 청상추를 직접 만나보고 재배 현장의 모습을 둘러보면서 김해에서 펼쳐지는 청상추 이야기를 이어간다. 경남 김해의 농장에서 청상추를 만나고 싱그러운 채소가 자라는 현장의 풍경까지 살펴보며, 우리 농산물과 함께하는 생생한 시간을 KBS1 '6시 내고향'을 통해 전할 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=551688",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "라온스토리팜",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%9D%BC%EC%98%A8%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%8C%9C-1igwz4vjiges/",
+        "address": "경상남도 김해시 대동면 동남로117번길 17-11",
+        "category": "음식점 > 농산물 > 농산물종합판매",
+        "roadAddress": "경상남도 김해시 대동면 동남로117번길 17-11",
+        "jibunAddress": "경상남도 김해시 대동면 초정리 59",
+        "phone": "01040177980",
+        "safePhone": null,
+        "hours": {
+          "월": "09:00~17:00",
+          "화": "09:00~17:00",
+          "수": "09:00~17:00",
+          "목": "09:00~17:00",
+          "금": "09:00~17:00",
+          "토": "09:00~17:00",
+          "일": "09:00~17:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 35.2448782490836,
+          "lng": 128.993782240245
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경남 김해시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 24
+    }
+  ],
+  "held": [
+    {
+      "place": "운악산 출렁다리",
+      "region": "경기 가평군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '운악산출' + '가평군' / 0건"
+    },
+    {
+      "place": "Colorful Garden 자라섬 꽃 페스타",
+      "region": "경기 가평군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 'Colo' + '가평군' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "blocked": null,
+  "batch": "1610",
+  "status": "pending",
+  "publishAfter": "2026-09-30T07:31:26.312Z",
+  "preparedAt": "2026-09-30T07:11:26.312Z"
+}
