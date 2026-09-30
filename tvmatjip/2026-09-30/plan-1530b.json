@@ -158,7 +158,19 @@
   "failed": [],
   "blocked": null,
   "batch": "1530b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-09-30T06:51:20.767Z",
-  "preparedAt": "2026-09-30T06:31:20.767Z"
+  "preparedAt": "2026-09-30T06:31:20.767Z",
+  "publishedAt": "2026-09-30T07:01:20.934Z",
+  "result": {
+    "published": [
+      {
+        "name": "시골빛두리",
+        "url": "https://wherethatplace.blogspot.com/2026/09/6_01788037011.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
