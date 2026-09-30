@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>네이버 원고 · itsuait</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1d2127;--sub:#6b7280;--line:#e3e6ea;--acc:#03c75a;--acc-ink:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#15171a;--card:#1f2226;--ink:#e8eaed;--sub:#9aa0a6;--line:#30343a;--acc:#1ec26b;--acc-ink:#0b1a10}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif}
+main{max-width:720px;margin:0 auto;padding:16px}
+h1{font-size:15px;color:var(--sub);font-weight:600;margin:4px 0 12px}
+section{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin:0 0 12px}
+.head{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px}
+.head b{font-size:14px;color:var(--sub)}
+.hint{font-size:12px;color:var(--sub);text-align:right}
+.btn{appearance:none;border:0;border-radius:10px;background:var(--acc);color:var(--acc-ink);font-weight:700;font-size:15px;padding:10px 16px;cursor:pointer;text-decoration:none;display:inline-block}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line);font-weight:600;font-size:14px;padding:8px 12px}
+.box{white-space:pre-wrap;word-break:break-all}
+#body p{margin:0}
+.title{font-size:18px;font-weight:700}
+figure{margin:0 0 12px}figure img{display:block;max-width:100%;border-radius:8px;margin-bottom:6px}
+#toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:999px;font-size:14px;opacity:0;transition:opacity .2s;pointer-events:none}
+#toast.on{opacity:1}
+.steps{font-size:14px;color:var(--sub);margin:0;padding-left:18px}
+</style></head><body><main>
+<h1>네이버 블로그 원고 · itsuait</h1>
+<section><div class="head"><b>① 제목</b><button class="btn" data-copy="title">제목 복사</button></div><div class="box title" id="title">리퀴드 AI d1, 의사결정 모델 시장서 제브 제쳤어요</div></section>
+<section><div class="head"><b>② 사진</b><span class="hint">저장 → 공유 시트에서 '이미지 저장'. 또는 사진을 길게 눌러 '사진에 추가'</span></div><figure><img src="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-10-01/080035/blog-cover.png" alt="사진 1"><a class="btn ghost" data-img="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-10-01/080035/blog-cover.png" href="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-10-01/080035/blog-cover.png" download="itsuait-1">사진 1 저장</a></figure></section>
+<section><div class="head"><b>③ 본문 (태그 포함)</b><button class="btn" data-copy="body">본문 복사</button></div><div id="body"><p>리퀴드 AI가 의사결정 전용 AI 모델 'd1'을 내놨어요. 텍스트를 만드는 대신 정해진 선택지 중 가장 가능성 높은 답을 확률로 계산하는 방식이에요. 허깅페이스 벤치마크에서 기존 1위 모델인 제브를 앞섰어요.</p><p><br></p><p>▶ 텍스트 생성 없이 빠르게 판단해요</p><p>d1은 일반 생성형 AI와 완전히 달라요. 문장을 만드는 대신 각 선택지가 맞을 확률을 0과 1 사이의 숫자로 돌려줘요. 출력 토큰이 0이라 디코딩 과정도 거치지 않아 매우 빨라요.</p><p><br></p><p>반복적인 판단이 필요한 업무에 맞게 설계됐어요. 고객 문의 분류, 부서별 티켓 라우팅, 콘텐츠 검토, 위험도와 긴급도 평가 같은 작업에 쓸 수 있어요.</p><p><br></p><p>▶ 세 가지 질문 유형으로 여러 상황 처리해요</p><p>'눌(Noul)'은 예·아니오처럼 하나 기준을 통과했는지 판단해요. '초이스(Choice)'는 여러 선택지 중 하나를 고르는데, 가장 가능성 높은 것뿐 아니라 각 선택지의 확률도 함께 제공해요. '스코어(Score)'는 긴급도나 심각도처럼 정도를 0~3 같은 범위에서 점수로 평가해요.</p><p><br></p><p>세 가지 유형은 한 번의 요청에 함께 쓸 수 있어요. 고객 문의 하나로 문의 유형, 긴급도, 버그 신고 가능성을 동시에 계산할 수 있다는 뜻이에요.</p><p><br></p><p>▶ 벤치마크에서 기존 선두를 넘었어요</p><p>리퀴드 AI는 d1이 허깅페이스 '의사결정 지수'에서 기존 1위 모델 제브를 앞섰다고 밝혔어요. 이 지수는 37개 벤치마크를 바탕으로 5개 영역을 평가하는데, 다국어 처리와 긴 입력 처리, 프롬프트 인젝션 대응에서도 개선된 점을 보여줘요.</p><p><br></p><p>다만 벤치마크 결과가 실제 서비스 환경의 성능을 완전히 보장하는 건 아니에요. 중요한 판단에 쓸 때는 불확실한 결과를 사람이나 다른 모델로 넘기는 안전장치가 필요해요.</p><p><br></p><p>▶ 지금 바로 무료로 써 볼 수 있어요</p><p>d1은 리퀴드 AI API에서 'd1:free' 이름으로 무료 제공 중이에요. 텍스트나 JSON 형태의 상태 정보와 질문을 전달하면 되요. 앞으로 오픈 가중치를 공개하고 오픈라우터에서도 지원할 예정이에요.</p><p><br></p><p>리퀴드 AI는 d1이 범용 LLM을 대체하는 모델이 아니라고 설명해요. 글쓰기, 요약, 코드 생성 같은 새로운 문장이 필요한 작업에는 기존 생성 모델이 맞다는 거예요. 빠르고 반복적인 판단 업무에만 d1을 쓰는 게 맞아요.</p><p><br></p><p>출처: AI타임스</p><p><br></p><p>👉 표와 원문 링크까지 정리한 글은 여기 있어요</p><p><a href="https://itsuait.blogspot.com/2026/10/ai-d1.html">https://itsuait.blogspot.com/2026/10/ai-d1.html</a></p><p><br></p><p>#AI뉴스 #IT이슈</p></div></section>
+<section><ol class="steps"><li>네이버 블로그 글쓰기를 연다</li><li>제목 복사 → 제목 칸에 붙여넣기</li><li>사진 저장 → 사진첩에서 본문 맨 위에 첨부</li><li>본문 복사 → 사진 아래에 붙여넣기 (끝의 #태그는 발행할 때 태그로 자동 등록된다)</li><li>발행 또는 예약</li></ol></section>
+</main><div id="toast"></div>
+<script>
+const D={"title":"리퀴드 AI d1, 의사결정 모델 시장서 제브 제쳤어요","body":"리퀴드 AI가 의사결정 전용 AI 모델 'd1'을 내놨어요. 텍스트를 만드는 대신 정해진 선택지 중 가장 가능성 높은 답을 확률로 계산하는 방식이에요. 허깅페이스 벤치마크에서 기존 1위 모델인 제브를 앞섰어요.\n\n▶ 텍스트 생성 없이 빠르게 판단해요\nd1은 일반 생성형 AI와 완전히 달라요. 문장을 만드는 대신 각 선택지가 맞을 확률을 0과 1 사이의 숫자로 돌려줘요. 출력 토큰이 0이라 디코딩 과정도 거치지 않아 매우 빨라요.\n\n반복적인 판단이 필요한 업무에 맞게 설계됐어요. 고객 문의 분류, 부서별 티켓 라우팅, 콘텐츠 검토, 위험도와 긴급도 평가 같은 작업에 쓸 수 있어요.\n\n▶ 세 가지 질문 유형으로 여러 상황 처리해요\n'눌(Noul)'은 예·아니오처럼 하나 기준을 통과했는지 판단해요. '초이스(Choice)'는 여러 선택지 중 하나를 고르는데, 가장 가능성 높은 것뿐 아니라 각 선택지의 확률도 함께 제공해요. '스코어(Score)'는 긴급도나 심각도처럼 정도를 0~3 같은 범위에서 점수로 평가해요.\n\n세 가지 유형은 한 번의 요청에 함께 쓸 수 있어요. 고객 문의 하나로 문의 유형, 긴급도, 버그 신고 가능성을 동시에 계산할 수 있다는 뜻이에요.\n\n▶ 벤치마크에서 기존 선두를 넘었어요\n리퀴드 AI는 d1이 허깅페이스 '의사결정 지수'에서 기존 1위 모델 제브를 앞섰다고 밝혔어요. 이 지수는 37개 벤치마크를 바탕으로 5개 영역을 평가하는데, 다국어 처리와 긴 입력 처리, 프롬프트 인젝션 대응에서도 개선된 점을 보여줘요.\n\n다만 벤치마크 결과가 실제 서비스 환경의 성능을 완전히 보장하는 건 아니에요. 중요한 판단에 쓸 때는 불확실한 결과를 사람이나 다른 모델로 넘기는 안전장치가 필요해요.\n\n▶ 지금 바로 무료로 써 볼 수 있어요\nd1은 리퀴드 AI API에서 'd1:free' 이름으로 무료 제공 중이에요. 텍스트나 JSON 형태의 상태 정보와 질문을 전달하면 되요. 앞으로 오픈 가중치를 공개하고 오픈라우터에서도 지원할 예정이에요.\n\n리퀴드 AI는 d1이 범용 LLM을 대체하는 모델이 아니라고 설명해요. 글쓰기, 요약, 코드 생성 같은 새로운 문장이 필요한 작업에는 기존 생성 모델이 맞다는 거예요. 빠르고 반복적인 판단 업무에만 d1을 쓰는 게 맞아요.\n\n출처: AI타임스\n\n👉 표와 원문 링크까지 정리한 글은 여기 있어요\nhttps://itsuait.blogspot.com/2026/10/ai-d1.html\n\n#AI뉴스 #IT이슈"};
+const toast=(m)=>{const t=document.getElementById('toast');t.textContent=m;t.classList.add('on');setTimeout(()=>t.classList.remove('on'),1400)};
+function selectCopy(el){const r=document.createRange();r.selectNodeContents(el);const s=getSelection();s.removeAllRanges();s.addRange(r);let ok=false;try{ok=document.execCommand('copy')}catch(e){}s.removeAllRanges();return ok}
+async function copyText(t,el){try{await navigator.clipboard.writeText(t);return true}catch(e){return selectCopy(el)}}
+async function copyRich(el,plain){try{if(window.ClipboardItem&&navigator.clipboard&&navigator.clipboard.write){await navigator.clipboard.write([new ClipboardItem({'text/html':new Blob([el.innerHTML],{type:'text/html'}),'text/plain':new Blob([plain],{type:'text/plain'})})]);return true}}catch(e){}return selectCopy(el)}
+document.querySelectorAll('[data-copy]').forEach((b)=>b.addEventListener('click',async()=>{const k=b.dataset.copy;const el=document.getElementById(k);const ok=k==='body'?await copyRich(el,D.body):await copyText(D[k],el);toast(ok?({title:'제목',body:'본문'}[k])+' 복사됨':'복사 실패 — 길게 눌러 직접 복사하세요')}));
+// 사진 저장: 공유 시트 → '이미지 저장' 이 사진첩으로 간다. 사파리는 클릭 뒤 await 가 끼면 share 를 거부해서 미리 받아 둔다.
+const IMGS=new Map();
+document.querySelectorAll('[data-img]').forEach((a)=>{const u=a.dataset.img;fetch(u,{cache:'no-store'}).then((r)=>r.ok?r.blob():Promise.reject(r.status)).then((b)=>{const ext=(b.type.split('/')[1]||'png').replace('jpeg','jpg');IMGS.set(u,new File([b],(a.getAttribute('download')||'photo')+'.'+ext,{type:b.type}))}).catch(()=>{});
+a.addEventListener('click',(e)=>{const f=IMGS.get(u);if(f&&navigator.share&&navigator.canShare&&navigator.canShare({files:[f]})){e.preventDefault();navigator.share({files:[f]}).catch((err)=>{if(err&&err.name!=='AbortError')toast('공유 실패 — 사진을 길게 눌러 사진에 추가하세요')})}})});
+</script></body></html>
