@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-01",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=552158",
+    "airDate": "2026-10-01",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=552158",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 식재료 원정대, 흰다리새우로 만드는 특별한 3가지 요리",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=552156",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 경북 영주 찾아 풍기 인삼 이야기 전한다",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=552155",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 충남 당진 고구마·흰다리새우, 육지와 바다 먹거리 한자리",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "corners": 3,
+  "targets": 2,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "풍기인삼시장",
+      "region": "경북 영주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '풍기인삼' + '영주시' / 3건이라 자동 선택 안 함: 풍기인삼돈까스, 풍기인삼갈비, 풍기인삼복어"
+    },
+    {
+      "place": "당진 합덕 뿌리농산",
+      "region": "충남 당진시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '당진합덕' + '당진시' / 2건이라 자동 선택 안 함: 양심소당진합덕점, 두마리찜닭두찜(당진합덕점)"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "blocked": null,
+  "batch": "1730",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-01T08:30:59.617Z"
+}
