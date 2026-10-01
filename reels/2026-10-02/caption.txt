@@ -1,0 +1,9 @@
+클라우드플레어가 서버리스 데이터 플랫폼을 정식 출시했어요 🚀
+
+기존의 Cloudflare Pipelines, R2 Data Catalog, R2 SQL이 Basin으로 통합되며 베타를 졸업했어요.
+AWS·구글·애저처럼 데이터 전송 요금을 매기지 않고, 클라우드·플랫폼·지역 간 쿼리는 무료인 게 특징이에요.
+Apache Iceberg 기반이라 락인 걱정 없이 DuckDB, Snowflake, Spark 같은 외부 엔진과도 자유롭게 연동할 수 있어요.
+
+자세한 내용은 프로필 링크에서 확인하세요
+
+#AI뉴스 #IT뉴스 #잇슈에잇 #클라우드 #데이터 #서버리스 #AI개발 #클라우드플레어 #Cloudflare
