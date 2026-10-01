@@ -217,7 +217,24 @@
   "failed": [],
   "blocked": null,
   "batch": "1731b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-01T08:51:37.008Z",
-  "preparedAt": "2026-10-01T08:31:37.008Z"
+  "preparedAt": "2026-10-01T08:31:37.008Z",
+  "publishedAt": "2026-10-01T09:01:44.417Z",
+  "result": {
+    "published": [
+      {
+        "name": "춘향농원",
+        "url": "https://wherethatplace.blogspot.com/2026/10/6_01520689428.html",
+        "skipped": false
+      },
+      {
+        "name": "거북왕수산",
+        "url": "https://wherethatplace.blogspot.com/2026/10/6_01838671771.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
