@@ -1,0 +1,223 @@
+{
+  "date": "2026-10-01",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "msu6242/224428463636",
+      "program": "6시 내고향",
+      "title": "[6시내고향 남원 춘향농원] 전라북도 남원시 수세미차 수세미수액 춘향농원",
+      "place": "춘향농원",
+      "region": "전북 남원시",
+      "dishes": [
+        "수세미차",
+        "수세미수액"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224428463636",
+      "postedAt": "2026-10-01T08:21:18.000Z",
+      "dishVotes": {
+        "수세미차": 3,
+        "수세미수액": 3
+      },
+      "votes": {
+        "6시 내고향": 3
+      },
+      "copies": 3
+    },
+    {
+      "key": "msu6242/224428467063",
+      "program": "6시 내고향",
+      "title": "[6시내고향 당진 거북왕수산] 충청남도 당진시 송악읍 흰다리새우 수산물 구매처 거북왕수산",
+      "place": "거북왕수산",
+      "region": "충남 당진시",
+      "dishes": [
+        "흰다리새우"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224428467063",
+      "postedAt": "2026-10-01T08:24:06.000Z",
+      "dishVotes": {
+        "흰다리새우": 3
+      },
+      "votes": {
+        "6시 내고향": 3
+      },
+      "copies": 3
+    },
+    {
+      "key": "msu6242/224428471002",
+      "program": "6시 내고향",
+      "title": "[6시내고향 영주 풍기인삼시장] 경상북도 영주시 풍기읍 풍기인삼시장 인삼 수삼 홍삼 구매처",
+      "place": "풍기인삼시장",
+      "region": "경북 영주시",
+      "dishes": [
+        "인삼",
+        "수삼",
+        "홍삼"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224428471002",
+      "postedAt": "2026-10-01T08:27:14.000Z",
+      "dishVotes": {
+        "인삼": 1,
+        "수삼": 1,
+        "홍삼": 1
+      },
+      "votes": {
+        "6시 내고향": 3
+      },
+      "copies": 3
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 2,
+  "skipped": [
+    "풍기인삼시장"
+  ],
+  "stores": [
+    {
+      "id": "1731b-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-10-01",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "전북 남원시",
+        "place": "춘향농원",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "msu6242",
+          "link": "https://blog.naver.com/msu6242/224428463636",
+          "title": "[6시내고향 남원 춘향농원] 전라북도 남원시 수세미차 수세미수액 춘향농원",
+          "postedAt": "2026-10-01T08:21:18.000Z"
+        },
+        "dishHints": [
+          "수세미차",
+          "수세미수액"
+        ],
+        "dishVotes": {
+          "수세미차": 3,
+          "수세미수액": 3
+        }
+      },
+      "store": {
+        "name": "춘향농원",
+        "url": null,
+        "address": null,
+        "category": "기타",
+        "roadAddress": "전북특별자치도 남원시 주천면 호경길 1",
+        "jibunAddress": "전북특별자치도 남원시 주천면 호경리 207-1",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 35.389364822651665,
+          "lng": 127.45352127516509
+        },
+        "licenseDate": "2020-03-10",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '춘향농원' + '남원시' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 29
+    },
+    {
+      "id": "1731b-2",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-10-01",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "충남 당진시",
+        "place": "거북왕수산",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "msu6242",
+          "link": "https://blog.naver.com/msu6242/224428467063",
+          "title": "[6시내고향 당진 거북왕수산] 충청남도 당진시 송악읍 흰다리새우 수산물 구매처 거북왕수산",
+          "postedAt": "2026-10-01T08:24:06.000Z"
+        },
+        "dishHints": [
+          "흰다리새우"
+        ],
+        "dishVotes": {
+          "흰다리새우": 3
+        }
+      },
+      "store": {
+        "name": "거북왕수산",
+        "url": "https://www.daangn.com/kr/local-profile/%EA%B1%B0%EB%B6%81%EC%99%95%EC%88%98%EC%82%B0-wn1vt9k2tbya/",
+        "address": "충청남도 당진시 송악읍 농장길 336-42",
+        "category": "음식점 > 수산물",
+        "roadAddress": "충청남도 당진시 송악읍 농장길 336-42",
+        "jibunAddress": "충청남도 당진시 송악읍 복운리 1180",
+        "phone": "01033889326",
+        "safePhone": null,
+        "hours": {
+          "월": "09:00~18:00",
+          "화": "09:00~18:00",
+          "수": "09:00~18:00",
+          "목": "09:00~18:00",
+          "금": "09:00~18:00",
+          "토": "09:00~18:00",
+          "일": "09:00~18:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "살아있는 왕새우",
+            "price": 35000,
+            "maxPrice": null
+          },
+          {
+            "name": "장어 손질후 600g이상",
+            "price": 38000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 36.9222964202368,
+          "lng": 126.794386829265
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 충남 당진시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 30
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "blocked": null,
+  "batch": "1731b",
+  "status": "pending",
+  "publishAfter": "2026-10-01T08:51:37.008Z",
+  "preparedAt": "2026-10-01T08:31:37.008Z"
+}
