@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-02",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=552463",
+    "airDate": "2026-10-02",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=552463",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 의령에서 만나는 기념품, 여행의 한 장면 담는다",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=552462",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 경남 의령 소바 찾아 맛있는 한 끼",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=552461",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 의령에서 만나는 망개떡, 정겨운 먹거리 소개",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=552460",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 의령에서 만나는 식당·자굴산 자연휴양림·한우산 별천지",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "corners": 4,
+  "targets": 7,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1610-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-10-02",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "경남 의령군",
+        "place": "다시식당",
+        "description": "이번 방송에서는 의령군에 자리한 '다시식당'을 찾아 소바를 만나보고 한 그릇에 담긴 먹거리의 모습을 전할 예정이다. 이번 방송의 주인공은 의령 소바다. '다시식당'에서 선보이는 소바를 중심으로 음식이 준비되고 식탁에 오르는 모습을 살펴보며 의령에서 만나는 한 끼를 소개한다. 방송에서는 '다시식당'을 직접 찾아 의령 소바를 가까이에서 만나보는 시간을 갖는다. 완성된 소바가 한 그릇에 담겨 나오는 모습을 살펴보며 이번 의령 여정에서 소개되는 먹거리에 집중할 예정이다. 특히 이번 방송에서는 의령 소바라는 하나의 음식에 초점을 맞춰 이야기를 이어간다. 식당에서 만나는 소바를 중심으로 식사 시간을 담아내며 의령에서 즐길 수 있는 먹거리의 모습을 카메라에 담는다. 의령을 찾아 소바 한 그릇을 만나고 식당에서 이어지는 먹거리의 시간을 살펴보며, 여행길에서 접하는 한 끼의 풍경을 KBS1 '6시 내고향'을 통해 전할 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=552462",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "다시식당",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%8B%A4%EC%8B%9C%EC%8B%9D%EB%8B%B9-da2zhscihnbj/",
+        "address": "경상남도 의령군 의령읍 의병로18길 6",
+        "category": "음식점",
+        "roadAddress": "경상남도 의령군 의령읍 의병로18길 6",
+        "jibunAddress": "경상남도 의령군 의령읍 서동리 491-7 다시식당",
+        "phone": "0555732514",
+        "safePhone": null,
+        "hours": {
+          "월": "10:30~18:30",
+          "화": null,
+          "수": "10:30~18:30",
+          "목": "10:30~18:30",
+          "금": "10:30~18:30",
+          "토": "10:30~17:30",
+          "일": "10:30~17:30"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "화"
+        ],
+        "menu": null,
+        "coordinates": {
+          "lat": 35.3192416092089,
+          "lng": 128.260344937602
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경남 의령군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 36
+    }
+  ],
+  "held": [
+    {
+      "place": "칠복상점",
+      "region": "경남 의령군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: fetch failed"
+    },
+    {
+      "place": "의령부자망개떡",
+      "region": "경남 의령군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: fetch failed"
+    },
+    {
+      "place": "백산 나라사랑 너른마당",
+      "region": "경남 의령군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: fetch failed"
+    },
+    {
+      "place": "수정식당",
+      "region": "경남 의령군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 수정식당 (서울특별시 서초구 신반포로 194) — 다른 시군구 (서울특별시 서초구 신반포로 194) | 2. 수정식당 (서울 중구 필동로6길 8) — 다른 시군구 (서울 중구 필동로6길 8) | 3. 수정식당 (서울 종로구 삼일대로20길 15) — 다른 시군구 (서울 종로구 삼일대로20길 15) | 4. 수정식당 (서울 종로구 종로67길 9) — 다른 시군구 (서울 종로구 종로67길 9) | 5. 수정식당 (서울특별시 구로구 구로중앙로28길 53-65) — 다른 시군구 (서울특별시 구로구 구로중앙로28길 53-65) | 6. 수정식당 (경기 성남시 수정구 탄리로 133) — 다른 시군구 (경기 성남시 수정구 탄리로 133) | 7. 수정식당 (서울 성동구 마장로37길 33) — 다른 시군구 (서울 성동구 마장로37길 33) | 8. 수정식당 (서울 강서구 화곡로66길 83) — 다른 시군구 (서울 강서구 화곡로66길 83) | 9. 수정식당 (서울특별시 구로구 구로동로25길 26 (구로동)) — 다른 시군구 (서울특별시 구로구 구로동로25길 26 (구로동)) | 10. 수정식당 (서울 성북구 화랑로42길 52-28) — 다른 시군구 (서울 성북구 화랑로42길 52-28)) / 인허가 조회 실패: fetch failed"
+    },
+    {
+      "place": "자굴산 자연휴양림",
+      "region": "경남 의령군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: fetch failed"
+    },
+    {
+      "place": "한우산 별천지",
+      "region": "경남 의령군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: fetch failed"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "blocked": null,
+  "batch": "1610",
+  "status": "pending",
+  "publishAfter": "2026-10-02T07:30:03.655Z",
+  "preparedAt": "2026-10-02T07:15:03.655Z"
+}
