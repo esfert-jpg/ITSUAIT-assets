@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-01T23:03:23.983Z",
+  "updatedAt": "2026-10-02T23:03:11.555Z",
   "records": [
+    {
+      "date": "2026-10-03",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215930",
+      "title": "[AI 모델 신작] MS 음성인식 'MAI-트랜스크라이브-2-스트리밍' 등 6종",
+      "mediaId": "18013582946756160"
+    },
     {
       "date": "2026-10-02",
       "url": "https://www.theregister.com/databases/2026/10/01/cloudflare-launches-data-platform-with-bland-basin-branding-promise-of-fewer-fees/5300618",
