@@ -144,7 +144,19 @@
   "failed": [],
   "blocked": null,
   "batch": "1610",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-02T07:30:03.655Z",
-  "preparedAt": "2026-10-02T07:15:03.655Z"
+  "preparedAt": "2026-10-02T07:15:03.655Z",
+  "publishedAt": "2026-10-02T07:31:54.662Z",
+  "result": {
+    "published": [
+      {
+        "name": "다시식당",
+        "url": "https://wherethatplace.blogspot.com/2026/10/6_0567029665.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
