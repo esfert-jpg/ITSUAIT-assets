@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-05",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "msu6242/224432015555",
+      "program": "6시 내고향",
+      "title": "[6시내고향 문경 문경축산농협 약돌한우프라자] 경상북도 문경시 호계면 부곡리 문경대로 약돌한우 구이 맛집 문경축산농협 약돌한우프라자",
+      "place": "문경축산농협 약돌한우프라자",
+      "region": "경북 문경시",
+      "dishes": [
+        "약돌한우 구이",
+        "약돌한우"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224432015555",
+      "postedAt": "2026-10-05T07:30:34.000Z",
+      "dishVotes": {
+        "약돌한우 구이": 1,
+        "약돌한우": 1
+      },
+      "votes": {
+        "6시 내고향": 2
+      },
+      "copies": 2
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "문경축산농협 약돌한우프라자",
+      "region": "경북 문경시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '문경축산' + '문경시' / 2건이라 자동 선택 안 함: 문경축산농협 약돌한우프라자, 문경축산농협 약돌한우프라자"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "blocked": null,
+  "batch": "1630b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-05T07:31:00.349Z"
+}
