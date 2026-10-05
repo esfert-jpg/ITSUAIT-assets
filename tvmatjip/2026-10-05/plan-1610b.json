@@ -183,7 +183,24 @@
   "failed": [],
   "blocked": null,
   "batch": "1610b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-05T07:26:08.755Z",
-  "preparedAt": "2026-10-05T07:11:08.755Z"
+  "preparedAt": "2026-10-05T07:11:08.755Z",
+  "publishedAt": "2026-10-05T07:31:47.605Z",
+  "result": {
+    "published": [
+      {
+        "name": "누룽지본가 버들 유가네 누룽지 삼계탕",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post.html",
+        "skipped": false
+      },
+      {
+        "name": "단골식당",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_05.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
