@@ -249,7 +249,24 @@
   "retry": [],
   "blocked": null,
   "batch": "1720b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-06T08:36:12.075Z",
-  "preparedAt": "2026-10-06T08:21:12.075Z"
+  "preparedAt": "2026-10-06T08:21:12.075Z",
+  "publishedAt": "2026-10-06T08:42:03.852Z",
+  "result": {
+    "published": [
+      {
+        "name": "카페노버든",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_718.html",
+        "skipped": false
+      },
+      {
+        "name": "작수불",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_971.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
