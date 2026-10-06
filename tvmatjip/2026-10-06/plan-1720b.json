@@ -1,0 +1,255 @@
+{
+  "date": "2026-10-06",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "ohs016830/224433160241",
+      "program": "생방송 투데이",
+      "title": "[생방송투데이 당산동 떡볶이맛집] 팬팬 생방송투데이 UDT 당산동 즉석떡볶이 전문점 맛집 방영 정보와 위치",
+      "place": "팬팬",
+      "region": "서울 영등포구",
+      "dishes": [
+        "즉석떡볶이"
+      ],
+      "corner": "UDT",
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224433160241",
+      "postedAt": "2026-10-06T08:11:04.000Z",
+      "dishVotes": {
+        "즉석떡볶이": 2
+      },
+      "votes": {
+        "생방송 투데이": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224433164492",
+      "program": "생방송 투데이",
+      "title": "[생방송투데이 당산동 말차라떼] 노버든 생방송투데이 UDT 당산동 말차라떼 녹차라떼 바스크치즈케이크 맛집 위치 어디?",
+      "place": "노버든",
+      "region": "서울 영등포구",
+      "dishes": [
+        "말차라떼",
+        "녹차라떼",
+        "바스크치즈케이크"
+      ],
+      "corner": "UDT",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224433164492",
+      "postedAt": "2026-10-06T08:14:53.000Z",
+      "dishVotes": {
+        "말차라떼": 3,
+        "녹차라떼": 3,
+        "바스크치즈케이크": 3
+      },
+      "votes": {
+        "생방송 투데이": 3
+      },
+      "copies": 3
+    },
+    {
+      "key": "msu6242/224433167623",
+      "program": "생방송 투데이",
+      "title": "[생방송투데이 영등포 작수불] 서울특별시 영등포구 왕갈비스지탕 맛집 작수불",
+      "place": "작수불",
+      "region": "서울 영등포구",
+      "dishes": [
+        "왕갈비스지탕",
+        "육회들기름막국수",
+        "한우물회",
+        "육회",
+        "들기름막국수"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224433167623",
+      "postedAt": "2026-10-06T08:17:39.000Z",
+      "dishVotes": {
+        "왕갈비스지탕": 2,
+        "육회들기름막국수": 1,
+        "한우물회": 1,
+        "육회": 1,
+        "들기름막국수": 1
+      },
+      "votes": {
+        "생방송 투데이": 1,
+        "생생정보": 1
+      },
+      "copies": 2
+    },
+    {
+      "key": "ohs016830/224433167785",
+      "program": "생방송 투데이",
+      "title": "[생방송투데이 당산동 왕갈비스지탕] 작수불 생방송투데이 UDT 당산동 왕갈비스지탕 육회들기름막국수 맛집 방영 정보와 위치",
+      "place": "왕갈비스지탕",
+      "region": "서울 영등포구",
+      "dishes": [
+        "왕갈비스지탕",
+        "육회들기름막국수",
+        "한우물회"
+      ],
+      "corner": "UDT",
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224433167785",
+      "postedAt": "2026-10-06T08:17:48.000Z",
+      "dishVotes": {
+        "왕갈비스지탕": 1,
+        "육회들기름막국수": 1,
+        "한우물회": 1
+      },
+      "votes": {
+        "생방송 투데이": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 3,
+  "skipped": [
+    "팬팬"
+  ],
+  "stores": [
+    {
+      "id": "1720b-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-06",
+        "episode": null,
+        "corner": "UDT",
+        "episodeTitle": null,
+        "region": "서울 영등포구",
+        "place": "노버든",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "justlaben",
+          "link": "https://blog.naver.com/justlaben/224433164492",
+          "title": "[생방송투데이 당산동 말차라떼] 노버든 생방송투데이 UDT 당산동 말차라떼 녹차라떼 바스크치즈케이크 맛집 위치 어디?",
+          "postedAt": "2026-10-06T08:14:53.000Z"
+        },
+        "dishHints": [
+          "말차라떼",
+          "녹차라떼",
+          "바스크치즈케이크"
+        ],
+        "dishVotes": {
+          "말차라떼": 3,
+          "녹차라떼": 3,
+          "바스크치즈케이크": 3
+        }
+      },
+      "store": {
+        "name": "카페노버든",
+        "url": null,
+        "address": null,
+        "category": "기타",
+        "roadAddress": "서울특별시 영등포구 당산로31길 25, 2층 201호 (당산동3가)",
+        "jibunAddress": "서울특별시 영등포구 당산동3가 558",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.52682669415074,
+          "lng": 126.89379710262591
+        },
+        "licenseDate": "2019-10-22",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '노버든' + '영등포구' / 입력 상호를 포함 ('카페노버든')",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 71
+    },
+    {
+      "id": "1720b-2",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-06",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "서울 영등포구",
+        "place": "작수불",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "msu6242",
+          "link": "https://blog.naver.com/msu6242/224433167623",
+          "title": "[생방송투데이 영등포 작수불] 서울특별시 영등포구 왕갈비스지탕 맛집 작수불",
+          "postedAt": "2026-10-06T08:17:39.000Z"
+        },
+        "dishHints": [
+          "왕갈비스지탕",
+          "육회들기름막국수",
+          "한우물회",
+          "육회",
+          "들기름막국수"
+        ],
+        "dishVotes": {
+          "왕갈비스지탕": 2,
+          "육회들기름막국수": 1,
+          "한우물회": 1,
+          "육회": 1,
+          "들기름막국수": 1
+        }
+      },
+      "store": {
+        "name": "작수불",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "서울특별시 영등포구 당산로18길 9-7, 1층 (당산동1가)",
+        "jibunAddress": "서울특별시 영등포구 당산동1가 324",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.52327743015437,
+          "lng": 126.89713556152896
+        },
+        "licenseDate": "2024-01-17",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '작수불' + '영등포구' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 72
+    }
+  ],
+  "held": [
+    {
+      "place": "왕갈비스지탕",
+      "region": "서울 영등포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '왕갈비스' + '영등포구' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1720b",
+  "status": "pending",
+  "publishAfter": "2026-10-06T08:36:12.075Z",
+  "preparedAt": "2026-10-06T08:21:12.075Z"
+}
