@@ -98,7 +98,19 @@
   "retry": [],
   "blocked": null,
   "batch": "1310b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-06T04:26:00.558Z",
-  "preparedAt": "2026-10-06T04:11:00.558Z"
+  "preparedAt": "2026-10-06T04:11:00.558Z",
+  "publishedAt": "2026-10-06T04:32:45.914Z",
+  "result": {
+    "published": [
+      {
+        "name": "누룽지본가 버들 유가네 누룽지 삼계탕",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post.html",
+        "skipped": true
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
