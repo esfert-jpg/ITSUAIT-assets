@@ -1,0 +1,318 @@
+{
+  "date": "2026-10-06",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=552950",
+    "airDate": "2026-10-06",
+    "episode": null
+  },
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=552950",
+      "program": "생생정보",
+      "title": "'생생정보' 콜롬비아에서 단팥빵을? 낯선 곳에서 만난 익숙한 맛",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=552949",
+      "program": "생생정보",
+      "title": "'생생정보' 신VJ특공대, 연간 약 5천만 개 만드는 현장 속으로",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=552948",
+      "program": "생생정보",
+      "title": "'생생정보' 조기는 왜 굴비가 됐을까? 영광으로 떠나는 이야기 여행",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=552947",
+      "program": "생생정보",
+      "title": "'생생정보' 개그맨 임혁필의 단골 맛집, 이베리코로 즐기는 한 끼",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "corners": 4,
+  "targets": 7,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1550-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-06",
+        "episode": null,
+        "corner": "떠나요~이야기로(路)",
+        "episodeTitle": null,
+        "region": "전남광주통합특별시 영광군",
+        "place": "굴비정식해안가",
+        "description": "이날 여정에서는 먼저 '영광터미널시장'을 찾아간다. 이어 영광을 대표하는 굴비 관련 장소가 모여 있는 '법성포 굴비 거리'로 향하며 조기와 굴비를 둘러싼 이야기를 살펴볼 예정이다. 먹거리도 만난다. '굴비정식해안가'를 방문해 굴비정식을 만나고, 이후 '불갑사'로 발걸음을 옮기며 영광군 곳곳을 둘러본다. 마지막으로 '범양수산'을 찾아간다. 시장과 굴비 거리, 식당, 사찰, 수산 관련 장소를 차례로 이동하며 조기가 굴비로 이어지는 이번 여행의 주제를 풀어갈 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=552948",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "굴비정식해안가",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "전남광주통합특별시 영광군 법성면 법성포로 8-17",
+        "jibunAddress": "전남광주통합특별시 영광군 법성면 법성리 1210-5",
+        "phone": "061-356-2894",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 35.36024773820625,
+          "lng": 126.44009835874502
+        },
+        "licenseDate": "2022-03-10",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '굴비정식해안가' + '영광군' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 63
+    },
+    {
+      "id": "1550-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-06",
+        "episode": null,
+        "corner": "오늘 또 방문: 스타 밥집",
+        "episodeTitle": null,
+        "region": "경기 성남시",
+        "place": "이베리쿡",
+        "description": "이날 방송에서 찾아가는 곳은 경기 성남시 분당구에 위치한 '이베리쿡'이다. 임혁필이 단골로 찾는 곳에서 다양한 메뉴를 만나볼 예정이다. 메뉴로는 이베리코 플루마 150g이 2만5000원, 이베리코 황제살 150g이 2만3000원, 이베리코 악어살 150g이 2만1000원이다. 여기에 2인 타파스 샘플러는 2만4000원, 뽈뽀는 3만6000원에 판매된다. 바르셀로나 냉면도 함께 소개된다. 가격은 1만 원으로, 이베리코 메뉴를 비롯해 타파스 샘플러와 뽈뽀, 냉면까지 다양한 메뉴가 이번 스타 밥집의 식탁을 채울 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=552947",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "이베리쿡",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%9D%B4%EB%B2%A0%EB%A6%AC%EC%BF%A1-tub2st783tfu/",
+        "address": "경기도 성남시 분당구 정자일로 162 젤존타워2",
+        "category": "음식점 > 한식 > 고기요리",
+        "roadAddress": "경기도 성남시 분당구 정자일로 162 젤존타워2",
+        "jibunAddress": "경기도 성남시 분당구 정자동 159-4",
+        "phone": "0317179283",
+        "safePhone": null,
+        "hours": {
+          "월": "11:30~23:00",
+          "화": "11:30~23:00",
+          "수": "11:30~23:00",
+          "목": "11:30~23:00",
+          "금": "11:30~23:00",
+          "토": "11:30~22:00",
+          "일": "11:30~22:00"
+        },
+        "breakTime": {
+          "월": "14:30~16:30",
+          "화": "14:30~16:30",
+          "수": "14:30~16:30",
+          "목": "14:30~16:30",
+          "금": "14:30~16:30"
+        },
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "플루마 이벤트",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "황제살",
+            "price": 20000,
+            "maxPrice": null
+          },
+          {
+            "name": "목살",
+            "price": 17000,
+            "maxPrice": null
+          },
+          {
+            "name": "악어살",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "늑간살",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "1+명품생삼겹살 이벤트",
+            "price": 17000,
+            "maxPrice": null
+          },
+          {
+            "name": "(런치)이베리코 라구 파스타",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "(런치)케일크림치킨파스타",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "(런치)이베리코 트러플덮밥",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "꿀연어",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "라구엔다이브",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "플렌타 튀김",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "하몽 문어 크로켓",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "과카몰리 쉬림프",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "참나물 샐러드",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "샤워크림에 빠진 아스파라거스",
+            "price": 13000,
+            "maxPrice": null
+          },
+          {
+            "name": "비스큐랍스타쉬림프",
+            "price": 32000,
+            "maxPrice": null
+          },
+          {
+            "name": "뽈뽀",
+            "price": 30000,
+            "maxPrice": null
+          },
+          {
+            "name": "스페니쉬 오믈렛",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "켄터키 후라이드 머쉬룸",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "그릴드 쭈꾸미 로메스코",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "토마토 마리네이드",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "감바스 알아히오",
+            "price": 17000,
+            "maxPrice": null
+          },
+          {
+            "name": "바르셀로나 냉면",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "김치찌개",
+            "price": 11000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.3646268151097,
+          "lng": 127.106313782659
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경기 성남시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 64
+    }
+  ],
+  "held": [
+    {
+      "place": "(주)와이앤비푸드&middot;쿠즈락",
+      "region": "충남 논산시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '와이앤비' + '논산시' / 0건"
+    },
+    {
+      "place": "영광터미널시장",
+      "region": "전남광주통합특별시 영광군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '영광터미' + '영광군' / 2건이라 자동 선택 안 함: 펀비어킹 전남영광터미널점, 강정천하 전남영광터미널점"
+    },
+    {
+      "place": "법성포 굴비 거리",
+      "region": "전남광주통합특별시 영광군",
+      "name": "법성포굴비정식",
+      "category": "한식",
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '법성포굴' + '영광군' / 상호 불일치 (찾은 것: '법성포굴비정식')"
+    },
+    {
+      "place": "범양수산",
+      "region": "전남광주통합특별시 영광군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '범양수산' + '영광군' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "불갑사",
+      "region": "전남광주통합특별시 영광군",
+      "name": "불갑사",
+      "category": "기관/단체/조합 > 종교 > 불교 > 유명사찰"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1550",
+  "status": "pending",
+  "publishAfter": "2026-10-06T07:06:42.437Z",
+  "preparedAt": "2026-10-06T06:51:42.437Z"
+}
