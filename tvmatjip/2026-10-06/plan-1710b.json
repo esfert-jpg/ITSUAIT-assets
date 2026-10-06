@@ -176,7 +176,19 @@
   "retry": [],
   "blocked": null,
   "batch": "1710b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-06T08:25:50.837Z",
-  "preparedAt": "2026-10-06T08:10:50.837Z"
+  "preparedAt": "2026-10-06T08:10:50.837Z",
+  "publishedAt": "2026-10-06T08:31:28.332Z",
+  "result": {
+    "published": [
+      {
+        "name": "팬팬",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_130.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
