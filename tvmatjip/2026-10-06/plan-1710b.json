@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-06",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "msu6242/224433159709",
+      "program": "생방송 투데이",
+      "title": "[생방송투데이 영등포 팬팬] 생방송투데이 UDT 당산동, 서울특별시 영등포구 즉석떡볶이 맛집 팬팬",
+      "place": "팬팬",
+      "region": "서울 영등포구",
+      "dishes": [
+        "즉석떡볶이"
+      ],
+      "corner": "UDT - 일하고 먹고 쉬는 동네, 당산동",
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224433159709",
+      "postedAt": "2026-10-06T08:10:34.000Z",
+      "dishVotes": {
+        "즉석떡볶이": 1
+      },
+      "votes": {
+        "생방송 투데이": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1710b-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-06",
+        "episode": null,
+        "corner": "UDT - 일하고 먹고 쉬는 동네, 당산동",
+        "episodeTitle": null,
+        "region": "서울 영등포구",
+        "place": "팬팬",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "msu6242",
+          "link": "https://blog.naver.com/msu6242/224433159709",
+          "title": "[생방송투데이 영등포 팬팬] 생방송투데이 UDT 당산동, 서울특별시 영등포구 즉석떡볶이 맛집 팬팬",
+          "postedAt": "2026-10-06T08:10:34.000Z"
+        },
+        "dishHints": [
+          "즉석떡볶이"
+        ],
+        "dishVotes": {
+          "즉석떡볶이": 1
+        }
+      },
+      "store": {
+        "name": "팬팬",
+        "url": "https://www.daangn.com/kr/local-profile/%ED%8C%AC%ED%8C%AC-fyewrxuitjon/",
+        "address": "서울특별시 영등포구 영등포로 143 에이블허브",
+        "category": "음식점 > 분식 > 떡볶이전문",
+        "roadAddress": "서울특별시 영등포구 영등포로 143 에이블허브",
+        "jibunAddress": "서울특별시 영등포구 당산동1가 53",
+        "phone": "0221352017",
+        "safePhone": null,
+        "hours": {
+          "월": "11:00~21:00",
+          "화": "11:00~21:00",
+          "수": "11:00~21:00",
+          "목": "11:00~21:00",
+          "금": "11:00~21:00",
+          "토": "12:00~20:00",
+          "일": "12:00~20:00"
+        },
+        "breakTime": {
+          "월": "14:30~17:00",
+          "화": "14:30~17:00",
+          "수": "14:30~17:00",
+          "목": "14:30~17:00",
+          "금": "14:30~17:00",
+          "토": "15:00~16:30",
+          "일": "15:00~16:30"
+        },
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "차돌 몸떡볶이 2인",
+            "price": 26500,
+            "maxPrice": null
+          },
+          {
+            "name": "팬팬 몸떡볶이 2인",
+            "price": 22000,
+            "maxPrice": null
+          },
+          {
+            "name": "완도돌김 차돌떡볶이 2인",
+            "price": 24500,
+            "maxPrice": null
+          },
+          {
+            "name": "완도돌김 팬팬떡볶이 2인",
+            "price": 20000,
+            "maxPrice": null
+          },
+          {
+            "name": "완도 돌미역 차돌떡볶이 2인",
+            "price": 23500,
+            "maxPrice": null
+          },
+          {
+            "name": "완도 돌미역 팬팬떡볶이 2인",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "팬팬떡볶이",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "차돌떡볶이 2인",
+            "price": 22500,
+            "maxPrice": null
+          },
+          {
+            "name": "짜장떡볶이",
+            "price": 18500,
+            "maxPrice": null
+          },
+          {
+            "name": "직접말은 김말이 (2pcs)",
+            "price": 3000,
+            "maxPrice": null
+          },
+          {
+            "name": "달고마튀김 L",
+            "price": 7900,
+            "maxPrice": null
+          },
+          {
+            "name": "갈릭버터감자튀김 L",
+            "price": 7900,
+            "maxPrice": null
+          },
+          {
+            "name": "바삭 수제오징어 튀김 L",
+            "price": 16500,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5213552053058,
+          "lng": 126.897656870946
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 영등포구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 69
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1710b",
+  "status": "pending",
+  "publishAfter": "2026-10-06T08:25:50.837Z",
+  "preparedAt": "2026-10-06T08:10:50.837Z"
+}
