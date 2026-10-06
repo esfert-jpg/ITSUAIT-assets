@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-06",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=552988",
+    "airDate": "2026-10-06",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=552988",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 퇴근 후 찾고 싶은 동네, 당산동 곳곳을 누비다",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "corners": 1,
+  "targets": 0,
+  "skipped": [
+    "팬팬",
+    "노버든",
+    "작수불"
+  ],
+  "stores": [],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1730",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-06T08:30:48.214Z"
+}
