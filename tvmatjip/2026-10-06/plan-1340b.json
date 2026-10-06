@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-06",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "msu6242/224432900396",
+      "program": "6시 내고향",
+      "title": "[6시내고향 제주 오동여식당] 제주특별자치도 제주시 삼치삼합 맛집 오동여식당 맛집 위치 어디?",
+      "place": "오동여식당",
+      "region": "제주 제주시",
+      "dishes": [
+        "삼치삼합"
+      ],
+      "corner": null,
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224432900396",
+      "postedAt": "2026-10-06T04:36:26.000Z",
+      "dishVotes": {
+        "삼치삼합": 3
+      },
+      "votes": {
+        "6시 내고향": 3
+      },
+      "copies": 3
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "오동여식당",
+      "region": "제주 제주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '오동여식' + '제주시' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1340b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-06T04:40:51.728Z"
+}
