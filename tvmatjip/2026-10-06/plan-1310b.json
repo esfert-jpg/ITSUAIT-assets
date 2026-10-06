@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-06",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224432866344",
+      "program": "생생정보",
+      "title": "kbs 생생정보 맛집ㅣ 누룽지 삼계탕이 맛난 청주  누룽지백숙 누룽지본가 버들 유가네 누룽지삼계탕 몸보신 후기",
+      "place": "누룽지본가 버들 유가네 누룽지삼계탕",
+      "region": "충북 청주시",
+      "dishes": [
+        "누룽지삼계탕",
+        "누룽지백숙"
+      ],
+      "corner": "결정적 한 수",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224432866344",
+      "postedAt": "2026-10-06T04:05:50.000Z",
+      "dishVotes": {
+        "누룽지삼계탕": 1,
+        "누룽지백숙": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1310b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-06",
+        "episode": null,
+        "corner": "결정적 한 수",
+        "episodeTitle": null,
+        "region": "충북 청주시",
+        "place": "누룽지본가 버들 유가네 누룽지삼계탕",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224432866344",
+          "title": "kbs 생생정보 맛집ㅣ 누룽지 삼계탕이 맛난 청주  누룽지백숙 누룽지본가 버들 유가네 누룽지삼계탕 몸보신 후기",
+          "postedAt": "2026-10-06T04:05:50.000Z"
+        },
+        "dishHints": [
+          "누룽지삼계탕",
+          "누룽지백숙"
+        ],
+        "dishVotes": {
+          "누룽지삼계탕": 1,
+          "누룽지백숙": 1
+        }
+      },
+      "store": {
+        "name": "누룽지본가 버들 유가네 누룽지 삼계탕",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "충청북도 청주시 상당구 남일면 단재로 707-2, 1층",
+        "jibunAddress": "충청북도 청주시 상당구 남일면 고은리 490-2",
+        "phone": "043-286-2235",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 36.56871725723132,
+          "lng": 127.51102845401518
+        },
+        "licenseDate": "2024-05-27",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '누룽지본' + '청주시' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 49
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1310b",
+  "status": "pending",
+  "publishAfter": "2026-10-06T04:26:00.558Z",
+  "preparedAt": "2026-10-06T04:11:00.558Z"
+}
