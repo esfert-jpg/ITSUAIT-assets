@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-06",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=552862",
+    "airDate": "2026-10-06",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=552862",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 제주 추자 삼치삼합, 섬에서 만나는 특별한 한 상",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=552861",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 전북 임실 치즈축제, 전통시장 유가공 카페까지",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=552860",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 전남광주 나주 돛배 체험, 홍어까지 특별한 여정",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=552859",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 충남 금산 인삼정과, 세계인삼축제와 함께 만난다",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "corners": 4,
+  "targets": 4,
+  "skipped": [
+    "오동여식당"
+  ],
+  "stores": [
+    {
+      "id": "1430-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-10-06",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "전북 임실군",
+        "place": "감성목장",
+        "description": "이번 방송에서는 치즈축제 현장을 둘러보고 전통시장에 자리한 카페까지 찾아가는 여정을 담아낼 예정이다. 먼저 임실N치즈축제를 찾아간다. 이번 방송에서는 임실에서 펼쳐지는 치즈축제 현장을 직접 둘러보며 축제 공간의 모습을 살펴본다. 치즈를 주제로 진행되는 축제를 중심으로 현장에서 이어지는 모습을 카메라에 담을 예정이다. 축제에 이어 임실전통시장으로 발걸음을 옮긴다. 시장 안에 자리한 유가공 카페 '감성목장'을 찾아 카페에서 선보이는 유가공품을 만나보며 임실에서 이어지는 치즈와 유가공품 이야기를 소개한다. 이번 여정에서는 축제와 전통시장 내 카페라는 서로 다른 공간을 차례로 방문한다. 임실N치즈축제 현장을 둘러본 뒤 '감성목장'을 찾아가면서 축제에서 시작된 이야기를 유가공 카페로 이어갈 예정이다. 치즈를 주제로 펼쳐지는 축제의 현장부터 전통시장 안에서 만나는 유가공 카페까지, 서로 다른 공간에서 이어지는 임실의 다채로운 모습을 KBS1 '6시 내고향'을 통해 전할 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=552861",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "감성목장",
+        "url": null,
+        "address": null,
+        "category": "분식",
+        "roadAddress": "전북특별자치도 임실군 임실읍 운수로 26, 임실재래시장 13동 4호",
+        "jibunAddress": "전북특별자치도 임실군 임실읍 이도리 233-1 임실재래시장 13동 4호",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 35.61445584412361,
+          "lng": 127.28305644384169
+        },
+        "licenseDate": "2021-06-22",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '감성목장' + '임실군' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 60
+    }
+  ],
+  "held": [
+    {
+      "place": "황포돛배선착장",
+      "region": "전남광주통합특별시 나주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '황포돛배' + '나주시' / 0건"
+    },
+    {
+      "place": "김지순홍어",
+      "region": "전남광주통합특별시 나주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '김지순홍' + '나주시' / 0건"
+    },
+    {
+      "place": "금산약초인삼영농조합",
+      "region": "충남 금산군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '금산약초' + '금산군' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1430",
+  "status": "pending",
+  "publishAfter": "2026-10-06T05:46:17.477Z",
+  "preparedAt": "2026-10-06T05:31:17.477Z"
+}
