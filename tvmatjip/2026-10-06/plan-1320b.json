@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-06",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224432873638",
+      "program": "생생정보",
+      "title": "kbs 2tv 생생정보l 경남 거창 맛집 단골식당 국밥 후기",
+      "place": "단골식당국밥",
+      "region": "경남 거창군",
+      "dishes": [
+        "국밥"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224432873638",
+      "postedAt": "2026-10-06T04:12:39.000Z",
+      "dishVotes": {
+        "국밥": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1320b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-06",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "경남 거창군",
+        "place": "단골식당국밥",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224432873638",
+          "title": "kbs 2tv 생생정보l 경남 거창 맛집 단골식당 국밥 후기",
+          "postedAt": "2026-10-06T04:12:39.000Z"
+        },
+        "dishHints": [
+          "국밥"
+        ],
+        "dishVotes": {
+          "국밥": 1
+        }
+      },
+      "store": {
+        "name": "단골식당",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "경상남도 거창군 거창읍 중앙로 140",
+        "jibunAddress": "경상남도 거창군 거창읍 중앙리 123-2",
+        "phone": "055-943-9559",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 35.68679074209787,
+          "lng": 127.91330869094567
+        },
+        "licenseDate": "2013-12-27",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '단골식당' + '거창군' / 입력 상호의 일부만 상호로 씀 ('단골식당')",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 51
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1320b",
+  "status": "pending",
+  "publishAfter": "2026-10-06T04:35:51.064Z",
+  "preparedAt": "2026-10-06T04:20:51.064Z"
+}
