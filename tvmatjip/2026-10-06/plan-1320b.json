@@ -94,7 +94,19 @@
   "retry": [],
   "blocked": null,
   "batch": "1320b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-06T04:35:51.064Z",
-  "preparedAt": "2026-10-06T04:20:51.064Z"
+  "preparedAt": "2026-10-06T04:20:51.064Z",
+  "publishedAt": "2026-10-06T04:41:20.010Z",
+  "result": {
+    "published": [
+      {
+        "name": "단골식당",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_05.html",
+        "skipped": true
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
