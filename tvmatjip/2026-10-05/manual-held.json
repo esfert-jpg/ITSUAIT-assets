@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-05",
+  "from": "manual",
+  "batch": "manual",
+  "note": "1620b 에서 인허가 fetch failed 로 보류된 건을 로컬 재조회로 수동 발행 (사용자 지시 2026-10-06)",
+  "programs": [
+    "생생정보"
+  ],
+  "stores": [
+    {
+      "id": "m1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-05",
+        "episode": null,
+        "corner": "교통카드면 충분해",
+        "episodeTitle": null,
+        "region": "경남 거창군",
+        "place": "거창추어탕",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "msu6242",
+          "link": "https://blog.naver.com/msu6242/224431998832",
+          "title": "[생생정보 거창 거창추어탕] 경상남도 거창군 거창읍 강남로 상림리 거창 버스터미널 인근 전통 추어탕 맛집 거창추어탕",
+          "postedAt": "2026-10-05T07:11:18.000Z"
+        },
+        "dishHints": [
+          "추어탕"
+        ],
+        "dishVotes": {
+          "추어탕": 2
+        }
+      },
+      "store": {
+        "name": "거창추어탕",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "경상남도 거창군 거창읍 강남로 114 (외1필지)",
+        "jibunAddress": "경상남도 거창군 거창읍 김천리 472-99 외1필지",
+        "phone": "055-943-0302",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 35.683042158425,
+          "lng": 127.9099606572988
+        },
+        "licenseDate": "2000-05-30",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '거창추어탕' + '거창군' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      }
+    }
+  ]
+}
