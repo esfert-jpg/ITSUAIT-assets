@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-07",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "justlaben/224434273557",
+      "program": "생생정보",
+      "title": "[동해안 최고의 바다 별미] 생생정보 맛집맞수다 속초 홍게한상 아바이어시장 속초본점 방송 방영 위치 예약 주차",
+      "place": "홍게한상",
+      "region": "강원 속초시",
+      "dishes": [
+        "홍게"
+      ],
+      "corner": "맛집맞수다",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224434273557",
+      "postedAt": "2026-10-07T07:40:46.000Z",
+      "dishVotes": {
+        "홍게": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "ohs016830/224434273600",
+      "program": "생생정보",
+      "title": "[생생정보 속초 홍게한상] 생생정보 맛집맞수다, 강원도 속초 홍게 한상 맛집 아바이어시장 속초본점 주차 위치 예약 포장정보",
+      "place": "아바이어시장 속초본점",
+      "region": "강원 속초시",
+      "dishes": [
+        "게장 정식",
+        "홍게 한상"
+      ],
+      "corner": "맛집 맞수다",
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224434273600",
+      "postedAt": "2026-10-07T07:40:48.000Z",
+      "dishVotes": {
+        "게장 정식": 1,
+        "홍게 한상": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [
+    "아바이어시장 속초본점"
+  ],
+  "stores": [],
+  "held": [
+    {
+      "place": "홍게한상",
+      "region": "강원 속초시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '홍게한상' + '속초시' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1650b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-07T07:50:48.864Z"
+}
