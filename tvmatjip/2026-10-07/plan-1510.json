@@ -263,7 +263,24 @@
   "retry": [],
   "blocked": null,
   "batch": "1510",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-07T06:28:12.320Z",
-  "preparedAt": "2026-10-07T06:13:12.320Z"
+  "preparedAt": "2026-10-07T06:13:12.320Z",
+  "publishedAt": "2026-10-07T06:31:32.586Z",
+  "result": {
+    "published": [
+      {
+        "name": "윤슬당",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_07.html",
+        "skipped": false
+      },
+      {
+        "name": "대흥호",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_40.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
