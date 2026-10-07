@@ -1,0 +1,269 @@
+{
+  "date": "2026-10-07",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=553251",
+    "airDate": "2026-10-07",
+    "episode": null
+  },
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=553251",
+      "program": "생생정보",
+      "title": "'생생정보' 섬진강 부부의 낭만 낙원, 두 사람의 특별한 일상",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=553249",
+      "program": "생생정보",
+      "title": "'생생정보' 위기의 모녀 구한 크레인 영웅, 그날의 순간",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=553247",
+      "program": "생생정보",
+      "title": "'생생정보' 서태훈 강화도 출격, 젓새우잡이배 아르바이트 도전",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=553246",
+      "program": "생생정보",
+      "title": "'생생정보' 밥상 위 진짜 도둑은 누구‘게’? 게장 정식 vs 홍게 한 상",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "corners": 4,
+  "targets": 9,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1510-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-07",
+        "episode": null,
+        "corner": "나나랜드",
+        "episodeTitle": null,
+        "region": "경남 하동군",
+        "place": "윤슬당",
+        "description": "이날 방송에서는 류장현, 하두래 씨의 이야기를 만나본다. 두 나나인의 삶이 펼쳐지는 곳은 경남 하동군에 위치한 '윤슬당'이다. 이번 '나나랜드'는 섬진강 부부의 낭만 낙원이라는 주제로 진행된다. 류장현, 하두래 씨가 함께 살아가는 모습을 따라가며 두 사람이 보내는 일상을 담아낼 예정이다. '윤슬당'을 배경으로 두 나나인이 함께하는 하루를 살펴보고, 섬진강 부부라는 이름으로 이어지는 두 사람의 이야기를 만나본다. 구체적인 생활 방식이나 활동은 공개되지 않은 만큼 부부와 이들이 머무는 공간을 중심으로 이야기가 펼쳐질 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=553251",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "윤슬당",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%9C%A4%EC%8A%AC%EB%8B%B9-funjpjguu6mc/",
+        "address": "경상남도 하동군 화개면 화개로 367",
+        "category": "음식점 > 카페/디저트 > 카페",
+        "roadAddress": "경상남도 하동군 화개면 화개로 367",
+        "jibunAddress": "경상남도 하동군 화개면 삼신리 108-4",
+        "phone": "07042117061",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 35.2166553794593,
+          "lng": 127.637930714609
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "5순위 / 상호 완전 일치 / 경남 하동군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 84
+    },
+    {
+      "id": "1510-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-07",
+        "episode": null,
+        "corner": "해피 벌(고)쓰(고)데이",
+        "episodeTitle": null,
+        "region": "인천 강화군",
+        "place": "대흥호",
+        "description": "이날 서태훈은 인천 강화군에 위치한 젓새우잡이배 '대흥호'에서 아르바이트에 나선다. 현지훈, 현상락 선장과 함께 젓새우잡이 현장을 만나볼 예정이다. 강화군에서는 오는 10월 9일부터 11일까지 3일간 '2026 강화새우젓축제'도 개최된다. 이어 '마니산'을 찾는다. 이곳에서는 매년 10월 3일 참성단에서 '개천대제'가 열리지만 일반에는 공개되지 않으며 통제된 상태로 진행된다. 강화군에서의 여정은 '황산도 어판장'의 '12호 승리호'로 이어진다. 젓새우잡이배 아르바이트를 시작으로 마니산과 어판장을 차례로 찾아가며 서태훈의 하루를 담아낼 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=553247",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "대흥호",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%8C%80%ED%9D%A5%ED%98%B8-pdzrkw86i3pj/",
+        "address": "인천 강화군 화도면 해안남로 1429 대흥호",
+        "category": "음식점 > 수산물 > 횟집/생선회",
+        "roadAddress": "인천 강화군 화도면 해안남로 1429 대흥호",
+        "jibunAddress": "인천 강화군 화도면 사기리 520-12",
+        "phone": null,
+        "safePhone": null,
+        "hours": {
+          "월": null,
+          "화": null,
+          "수": null,
+          "목": null,
+          "금": null,
+          "토": null,
+          "일": null
+        },
+        "breakTime": null,
+        "closedDays": [
+          "월",
+          "화",
+          "수",
+          "목",
+          "금",
+          "토",
+          "일"
+        ],
+        "menu": [
+          {
+            "name": "광어1kg",
+            "price": 40000,
+            "maxPrice": null
+          },
+          {
+            "name": "광어랑숭어(3-4인분)",
+            "price": 60000,
+            "maxPrice": null
+          },
+          {
+            "name": "광어랑숭어랑(2-3인분)",
+            "price": 45000,
+            "maxPrice": null
+          },
+          {
+            "name": "광어랑우럭(2-3인분)",
+            "price": 45000,
+            "maxPrice": null
+          },
+          {
+            "name": "광어랑우럭(3-4인분)",
+            "price": 60000,
+            "maxPrice": null
+          },
+          {
+            "name": "농어1kg",
+            "price": 45000,
+            "maxPrice": null
+          },
+          {
+            "name": "도미1kg",
+            "price": 45000,
+            "maxPrice": null
+          },
+          {
+            "name": "모듬조개1kg(포장가)",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "물회(2-3인분)",
+            "price": 40000,
+            "maxPrice": null
+          },
+          {
+            "name": "물회(3-4인분)",
+            "price": 55000,
+            "maxPrice": null
+          },
+          {
+            "name": "우럭1kg",
+            "price": 40000,
+            "maxPrice": null
+          },
+          {
+            "name": "직접잡은 밴댕이 회무침(포장가)",
+            "price": 30000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5914021,
+          "lng": 126.4625828
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 인천 강화군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 85
+    }
+  ],
+  "held": [
+    {
+      "place": "2026 강화새우젓축제",
+      "region": "인천 강화군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '2026' + '강화군' / 0건"
+    },
+    {
+      "place": "개천대제",
+      "region": "인천 강화군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '개천대제' + '강화군' / 0건"
+    },
+    {
+      "place": "황산도 어판장",
+      "region": "인천 강화군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '황산도어' + '강화군' / 0건"
+    },
+    {
+      "place": "12호 승리호",
+      "region": "인천 강화군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '12호승' + '강화군' / 0건"
+    },
+    {
+      "place": "상궁전 구 소쇄원간장게장",
+      "region": "경기 김포시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '상궁전구' + '김포시' / 0건"
+    },
+    {
+      "place": "아바이어시장 속초본점",
+      "region": "강원 속초시",
+      "name": "아바이어시장속초점",
+      "category": "한식",
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '아바이어시장속초' + '속초시' / 상호 불일치 (찾은 것: '아바이어시장속초점')"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "마니산",
+      "region": "인천 강화군",
+      "name": "마니산",
+      "category": "자연지명 > 주요산"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1510",
+  "status": "pending",
+  "publishAfter": "2026-10-07T06:28:12.320Z",
+  "preparedAt": "2026-10-07T06:13:12.320Z"
+}
