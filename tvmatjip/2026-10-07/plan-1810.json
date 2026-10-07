@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-07",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=553351",
+    "airDate": "2026-10-07",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=553351",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 정성으로 완성한 토종닭 한 상, 푸짐한 맛의 향연",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "corners": 1,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1810-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-07",
+        "episode": null,
+        "corner": "이유 있는 맛플리",
+        "episodeTitle": null,
+        "region": "경기 평택시",
+        "place": "청담닭개장",
+        "description": "이날 방송에서 찾아가는 곳은 경기 평택시에 위치한 '청담닭개장'이다. 이곳에서 토종닭을 중심으로 차려지는 한 상을 만나볼 예정이다. 이번 방송의 주인공은 토종닭이다. '청담닭개장'을 찾아 토종닭 한 상이 준비되는 현장을 살펴보고, 정성을 들여 완성하는 음식의 모습을 차례로 담아낸다. 특히 하나의 메뉴에 그치지 않고 토종닭 한 상이라는 주제를 중심으로 식탁이 어떻게 채워지는지 소개할 예정이다. 구체적인 메뉴 구성과 조리 방법은 방송을 통해 공개된다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=553351",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "청담닭개장",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "경기도 평택시 현덕면 서동대로 1262, 가동",
+        "jibunAddress": "경기도 평택시 현덕면 운정리 9-5 가동",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 36.986695890054804,
+          "lng": 126.89313426371226
+        },
+        "licenseDate": "2009-10-15",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 청담동순도리 청담점 (서울 강남구 도산대로 510 신한 오피스텔 1층) — 상호 불일치 (찾은 것: '청담동순도리 청담점') | 2. 청담솥밥 (서울특별시 강남구 삼성로 651 (삼성동, 래미안 라클래시)) — 상호 불일치 (찾은 것: '청담솥밥') | 3. 청담가한우설렁탕 (서울특별시 강남구 학동로 421) — 상호 불일치 (찾은 것: '청담가한우설렁탕') | 4. 장독대김치찌개 청담점 (서울 강남구 도산대로94길 33 1층 101호, 103호) — 상호 불일치 (찾은 것: '장독대김치찌개 청담점') | 5. 청담갈비탕 (서울 강남구 학동로 342) — 상호 불일치 (찾은 것: '청담갈비탕') | 6. 한사리감자탕&뼈구이 청담점 (서울 강남구 압구정로79길 32 지상1층 102호) — 상호 불일치 (찾은 것: '한사리감자탕&뼈구이 청담점') | 7. 청담육수원조양평해장국 더청담 (서울 강남구 학동로101길 33 103-2호) — 상호 불일치 (찾은 것: '청담육수원조양평해장국 더청담') | 8. 청담동칼국수 (서울 강남구 도산대로101길 3 2층 청담동칼국수) — 상호 불일치 (찾은 것: '청담동칼국수') | 9. 솔솥 청담점 (서울 강남구 도산대로53길 16) — 상호 불일치 (찾은 것: '솔솥 청담점') | 10. 토담골49 청담점 (서울 강남구 삼성로 766 유림빌딩 B1층) — 상호 불일치 (찾은 것: '토담골49 청담점')) / 인허가 '청담닭개장' + '평택시' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 94
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1810",
+  "status": "pending",
+  "publishAfter": "2026-10-07T09:25:48.217Z",
+  "preparedAt": "2026-10-07T09:10:48.217Z"
+}
