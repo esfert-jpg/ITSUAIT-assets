@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-07",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224434013398",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 분당 정자동 맛집 이베리쿡 스페인 고기 요리 임혁필 단골집 추천",
+      "place": "이베리쿡",
+      "region": "경기 성남시",
+      "dishes": [
+        "스페인 고기 요리"
+      ],
+      "corner": "스타 밥집",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224434013398",
+      "postedAt": "2026-10-07T03:56:58.000Z",
+      "dishVotes": {
+        "스페인 고기 요리": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1300b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-07",
+        "episode": null,
+        "corner": "스타 밥집",
+        "episodeTitle": null,
+        "region": "경기 성남시",
+        "place": "이베리쿡",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224434013398",
+          "title": "[2TV 생생정보] 분당 정자동 맛집 이베리쿡 스페인 고기 요리 임혁필 단골집 추천",
+          "postedAt": "2026-10-07T03:56:58.000Z"
+        },
+        "dishHints": [
+          "스페인 고기 요리"
+        ],
+        "dishVotes": {
+          "스페인 고기 요리": 1
+        }
+      },
+      "store": {
+        "name": "이베리쿡",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%9D%B4%EB%B2%A0%EB%A6%AC%EC%BF%A1-tub2st783tfu/",
+        "address": "경기도 성남시 분당구 정자일로 162 젤존타워2",
+        "category": "음식점 > 한식 > 고기요리",
+        "roadAddress": "경기도 성남시 분당구 정자일로 162 젤존타워2",
+        "jibunAddress": "경기도 성남시 분당구 정자동 159-4",
+        "phone": "0317179283",
+        "safePhone": null,
+        "hours": {
+          "월": "11:30~23:00",
+          "화": "11:30~23:00",
+          "수": "11:30~23:00",
+          "목": "11:30~23:00",
+          "금": "11:30~23:00",
+          "토": "11:30~22:00",
+          "일": "11:30~22:00"
+        },
+        "breakTime": {
+          "월": "14:30~16:30",
+          "화": "14:30~16:30",
+          "수": "14:30~16:30",
+          "목": "14:30~16:30",
+          "금": "14:30~16:30"
+        },
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "플루마 이벤트",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "황제살",
+            "price": 20000,
+            "maxPrice": null
+          },
+          {
+            "name": "목살",
+            "price": 17000,
+            "maxPrice": null
+          },
+          {
+            "name": "악어살",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "늑간살",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "1+명품생삼겹살 이벤트",
+            "price": 17000,
+            "maxPrice": null
+          },
+          {
+            "name": "(런치)이베리코 라구 파스타",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "(런치)케일크림치킨파스타",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "(런치)이베리코 트러플덮밥",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "꿀연어",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "라구엔다이브",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "플렌타 튀김",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "하몽 문어 크로켓",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "과카몰리 쉬림프",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "참나물 샐러드",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "샤워크림에 빠진 아스파라거스",
+            "price": 13000,
+            "maxPrice": null
+          },
+          {
+            "name": "비스큐랍스타쉬림프",
+            "price": 32000,
+            "maxPrice": null
+          },
+          {
+            "name": "뽈뽀",
+            "price": 30000,
+            "maxPrice": null
+          },
+          {
+            "name": "스페니쉬 오믈렛",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "켄터키 후라이드 머쉬룸",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "그릴드 쭈꾸미 로메스코",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "토마토 마리네이드",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "감바스 알아히오",
+            "price": 17000,
+            "maxPrice": null
+          },
+          {
+            "name": "바르셀로나 냉면",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "김치찌개",
+            "price": 11000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.3646268151097,
+          "lng": 127.106313782659
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경기 성남시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 78
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1300b",
+  "status": "pending",
+  "publishAfter": "2026-10-07T04:15:57.906Z",
+  "preparedAt": "2026-10-07T04:00:57.906Z"
+}
