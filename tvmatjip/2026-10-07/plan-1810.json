@@ -74,7 +74,19 @@
   "retry": [],
   "blocked": null,
   "batch": "1810",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-07T09:25:48.217Z",
-  "preparedAt": "2026-10-07T09:10:48.217Z"
+  "preparedAt": "2026-10-07T09:10:48.217Z",
+  "publishedAt": "2026-10-07T09:31:10.513Z",
+  "result": {
+    "published": [
+      {
+        "name": "청담닭개장",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_208.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
