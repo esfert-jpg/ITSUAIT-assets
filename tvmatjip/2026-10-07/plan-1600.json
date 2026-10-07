@@ -180,7 +180,24 @@
   "retry": [],
   "blocked": null,
   "batch": "1600",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-07T07:17:05.344Z",
-  "preparedAt": "2026-10-07T07:02:05.344Z"
+  "preparedAt": "2026-10-07T07:02:05.344Z",
+  "publishedAt": "2026-10-07T07:21:43.027Z",
+  "result": {
+    "published": [
+      {
+        "name": "섬마을회정식",
+        "url": "https://wherethatplace.blogspot.com/2026/10/6_01974533104.html",
+        "skipped": false
+      },
+      {
+        "name": "친절식당",
+        "url": "https://wherethatplace.blogspot.com/2026/10/6_01184549236.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
