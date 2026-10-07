@@ -234,7 +234,19 @@
   "retry": [],
   "blocked": null,
   "batch": "1300b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-07T04:15:57.906Z",
-  "preparedAt": "2026-10-07T04:00:57.906Z"
+  "preparedAt": "2026-10-07T04:00:57.906Z",
+  "publishedAt": "2026-10-07T04:21:07.364Z",
+  "result": {
+    "published": [
+      {
+        "name": "이베리쿡",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_625.html",
+        "skipped": true
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
