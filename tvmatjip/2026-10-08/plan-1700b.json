@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-08",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "justlaben/224435407788",
+      "program": "생방송 투데이",
+      "title": "[지중해풍 그리스 요리 핫플] 생방송투데이 그리스요리 맛집 서초구 그리스마스 방송 방영 위치 예약 주차",
+      "place": "그리스마스",
+      "region": "서울 서초구",
+      "dishes": [
+        "수블라키",
+        "양갈비 플레이트"
+      ],
+      "corner": "맛있는퇴근",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224435407788",
+      "postedAt": "2026-10-08T07:53:27.000Z",
+      "dishVotes": {
+        "수블라키": 1,
+        "양갈비 플레이트": 1
+      },
+      "votes": {
+        "생방송 투데이": 2
+      },
+      "copies": 2
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1700b-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-08",
+        "episode": null,
+        "corner": "맛있는퇴근",
+        "episodeTitle": null,
+        "region": "서울 서초구",
+        "place": "그리스마스",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "justlaben",
+          "link": "https://blog.naver.com/justlaben/224435407788",
+          "title": "[지중해풍 그리스 요리 핫플] 생방송투데이 그리스요리 맛집 서초구 그리스마스 방송 방영 위치 예약 주차",
+          "postedAt": "2026-10-08T07:53:27.000Z"
+        },
+        "dishHints": [
+          "수블라키",
+          "양갈비 플레이트"
+        ],
+        "dishVotes": {
+          "수블라키": 1,
+          "양갈비 플레이트": 1
+        }
+      },
+      "store": {
+        "name": "그리스마스",
+        "url": "https://www.daangn.com/kr/local-profile/%EA%B7%B8%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-sy5xbf23pphc/",
+        "address": "서울특별시 서초구 강남대로101안길 4 (잠원동)",
+        "category": "음식점 > 양식 > 기타전문서양음식점",
+        "roadAddress": "서울특별시 서초구 강남대로101안길 4 (잠원동)",
+        "jibunAddress": "서울특별시 서초구 잠원동 11-7",
+        "phone": null,
+        "safePhone": null,
+        "hours": {
+          "월": "11:30~21:00",
+          "화": "11:30~21:00",
+          "수": "11:30~21:00",
+          "목": "11:30~21:00",
+          "금": "11:30~21:00",
+          "토": "11:30~21:00",
+          "일": "11:30~21:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.5167274474632,
+          "lng": 127.018107765931
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "4순위 / 상호 완전 일치 / 서울 서초구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 103
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1700b",
+  "status": "pending",
+  "publishAfter": "2026-10-08T08:15:59.221Z",
+  "preparedAt": "2026-10-08T08:00:59.221Z"
+}
