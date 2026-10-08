@@ -1,0 +1,199 @@
+{
+  "date": "2026-10-08",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "justlaben/224435336019",
+      "program": "생생정보",
+      "title": "[안동 전통 고택 핫플] 생생정보 안동 한옥펜션 수애당 방송 방영 위치 예약",
+      "place": "수애당",
+      "region": "경북 안동시",
+      "dishes": [
+        "간고등어"
+      ],
+      "corner": "음식 X-파일",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224435336019",
+      "postedAt": "2026-10-08T06:51:57.000Z",
+      "dishVotes": {
+        "간고등어": 2
+      },
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224435337949",
+      "program": "생생정보",
+      "title": "[은평구 숙성 고등어회 핫플] 생생정보 은평 고등어회 시메사바 순 방송 방영 위치 예약 주차",
+      "place": "시메사바 순",
+      "region": "서울 은평구",
+      "dishes": [
+        "고등어회",
+        "시메사바",
+        "고등어봉초밥"
+      ],
+      "corner": "음식 X-파일",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224435337949",
+      "postedAt": "2026-10-08T06:53:40.000Z",
+      "dishVotes": {
+        "고등어회": 2,
+        "시메사바": 1,
+        "고등어봉초밥": 1
+      },
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "ohs016830/224435340087",
+      "program": "생생정보",
+      "title": "[생생정보 합천 율피떡] 생생정보 미스터리, 경남 합천 율피떡 맛집 대장경식품 주차 위치 예약 포장정보",
+      "place": "대장경식품",
+      "region": "경남 합천군",
+      "dishes": [
+        "율피떡"
+      ],
+      "corner": "미스터 Lee의 사진 한 컷 대한민국",
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224435340087",
+      "postedAt": "2026-10-08T06:55:28.000Z",
+      "dishVotes": {
+        "율피떡": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "justlaben/224435342165",
+      "program": "생생정보",
+      "title": "[성동구 청춘 가구 배송 핫플] 생생정보 가구배송설치 하우저 방송 방영 위치 예약",
+      "place": "하우저",
+      "region": "서울 성동구",
+      "dishes": [],
+      "corner": "힘쓰니까 청춘이다",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224435342165",
+      "postedAt": "2026-10-08T06:57:10.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 4,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1600b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-08",
+        "episode": null,
+        "corner": "음식 X-파일",
+        "episodeTitle": null,
+        "region": "서울 은평구",
+        "place": "시메사바 순",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "justlaben",
+          "link": "https://blog.naver.com/justlaben/224435337949",
+          "title": "[은평구 숙성 고등어회 핫플] 생생정보 은평 고등어회 시메사바 순 방송 방영 위치 예약 주차",
+          "postedAt": "2026-10-08T06:53:40.000Z"
+        },
+        "dishHints": [
+          "고등어회",
+          "시메사바",
+          "고등어봉초밥"
+        ],
+        "dishVotes": {
+          "고등어회": 2,
+          "시메사바": 1,
+          "고등어봉초밥": 1
+        }
+      },
+      "store": {
+        "name": "시메사바순",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%8B%9C%EB%A9%94%EC%82%AC%EB%B0%94%EC%88%9C-g1hg99vnnsyv/",
+        "address": "서울특별시 은평구 진흥로 180-1 (녹번동)",
+        "category": "음식점 > 일식 > 일반 일식",
+        "roadAddress": "서울특별시 은평구 진흥로 180-1 (녹번동)",
+        "jibunAddress": "서울특별시 은평구 녹번동 118-69",
+        "phone": "01081118095",
+        "safePhone": null,
+        "hours": {
+          "월": "18:00~24:00",
+          "화": "18:00~24:00",
+          "수": "18:00~24:00",
+          "목": "18:00~24:00",
+          "금": "18:00~24:00",
+          "토": "18:00~24:00",
+          "일": null
+        },
+        "breakTime": null,
+        "closedDays": [
+          "일"
+        ],
+        "menu": null,
+        "coordinates": {
+          "lat": 37.60802844954858,
+          "lng": 126.92959340735486
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "10순위 / 상호 완전 일치 / 서울 은평구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 98
+    }
+  ],
+  "held": [
+    {
+      "place": "수애당",
+      "region": "경북 안동시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '수애당' + '안동시' / 0건"
+    },
+    {
+      "place": "대장경식품",
+      "region": "경남 합천군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '대장경식' + '합천군' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "하우저",
+      "region": "서울 성동구",
+      "name": "하우저앤비르트코리아",
+      "category": "기관/단체/조합 > 기업체 > 기업본사"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1600b",
+  "status": "pending",
+  "publishAfter": "2026-10-08T07:16:31.195Z",
+  "preparedAt": "2026-10-08T07:01:31.195Z"
+}
