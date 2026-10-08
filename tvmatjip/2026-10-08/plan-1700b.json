@@ -106,7 +106,19 @@
   "retry": [],
   "blocked": null,
   "batch": "1700b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-08T08:15:59.221Z",
-  "preparedAt": "2026-10-08T08:00:59.221Z"
+  "preparedAt": "2026-10-08T08:00:59.221Z",
+  "publishedAt": "2026-10-08T08:21:20.900Z",
+  "result": {
+    "published": [
+      {
+        "name": "그리스마스",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_576.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
