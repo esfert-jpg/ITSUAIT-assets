@@ -235,7 +235,19 @@
   "retry": [],
   "blocked": null,
   "batch": "1730",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-08T08:47:34.247Z",
-  "preparedAt": "2026-10-08T08:32:34.247Z"
+  "preparedAt": "2026-10-08T08:32:34.247Z",
+  "publishedAt": "2026-10-08T08:51:05.405Z",
+  "result": {
+    "published": [
+      {
+        "name": "김선장횟집",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_584.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
