@@ -1,0 +1,241 @@
+{
+  "date": "2026-10-08",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=553668",
+    "airDate": "2026-10-08",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이",
+    "생생정보",
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=553668",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 결혼식 장소가 서울 명소로? 아름다운 약속의 현장",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=553666",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 서울에서 만나는 그리스 요리, 맛있는 퇴근",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=553664",
+      "program": "생생정보",
+      "title": "'생생정보' 힘쓰니까 청춘이다, 5년 차 가구 설치 청춘의 일터",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=553662",
+      "program": "생생정보",
+      "title": "'생생정보' 산과 마을을 따라 떠나는 합천 사진 한 컷 여행",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=553661",
+      "program": "생생정보",
+      "title": "'생생정보' 음식 X-파일, 다양한 모습으로 만나는 고등어",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=553660",
+      "program": "생생정보",
+      "title": "'생생정보' 23년 전통 매운 소갈비찜, 장사의 신이 만든 한 상",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=553659",
+      "program": "생생정보",
+      "title": "'생생정보' 392만 명이 본 영상? 유기견을 위한 특별한 미용 봉사",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=553657",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 충남 공주 밤과 배, 지역 농산물 두 가지 소개",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=553656",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 전남광주 구례 하늘 자전거부터 패러글라이딩·밤 줍기까지",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=553641",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 식재료 원정대, 알밤과 배로 만드는 특별한 3가지 요리",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "corners": 10,
+  "targets": 12,
+  "skipped": [
+    "그리스마스",
+    "하우저",
+    "대장경식품",
+    "수애당",
+    "시메사바 순"
+  ],
+  "stores": [
+    {
+      "id": "1730-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-08",
+        "episode": null,
+        "corner": "음식 X-파일",
+        "episodeTitle": null,
+        "region": "경남 통영시",
+        "place": "김선장횟집",
+        "description": "이날 방송에서는 경남 통영시에 위치한 '김선장횟집'을 찾아간다. 고등어를 주제로 한 이야기를 따라가며 국민 생선으로 불리는 고등어의 다양한 모습을 살펴볼 예정이다. 이어 경북 안동시에 위치한 '수애당'을 방문한다. 통영에 이어 안동으로 장소를 옮기며 고등어를 중심으로 이어지는 이야기를 만나본다. 서울 은평구에 위치한 '시메사바 순'도 이번 방송에 등장한다. 서로 다른 세 지역의 장소를 차례로 찾아가며 고등어라는 하나의 식재료를 다양한 공간에서 살펴볼 예정이다. 이번 촬영에는 강원대학교 이충일 교수와 유한나 칼럼니스트도 협조했다. 방송에서는 고등어를 중심으로 여러 현장을 연결하며 밥상 위 국민 생선에 관한 이야기를 풀어갈 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=553661",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "김선장횟집",
+        "url": "https://www.daangn.com/kr/local-profile/%EA%B9%80%EC%84%A0%EC%9E%A5%ED%9A%9F%EC%A7%91-94j9rjarg7hx/",
+        "address": "경남 통영시 욕지면 욕지일주로 81-1",
+        "category": "음식점 > 한식 > 수산물/횟집",
+        "roadAddress": "경남 통영시 욕지면 욕지일주로 81-1",
+        "jibunAddress": "경남 통영시 욕지면 동항리 549-15",
+        "phone": "0556420793",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "막썰어회",
+            "price": 50000,
+            "maxPrice": null
+          },
+          {
+            "name": "생선구이",
+            "price": 20000,
+            "maxPrice": null
+          },
+          {
+            "name": "물메기탕",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "매운탕",
+            "price": 12000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 34.6337675,
+          "lng": 128.2648403
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "5순위 / 상호 완전 일치 / 경남 통영시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 106
+    }
+  ],
+  "held": [
+    {
+      "place": "오늘은 그리스 요리 한 상!",
+      "region": "서울 서초구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '오늘은그' + '서초구' / 0건"
+    },
+    {
+      "place": "오도산전망대",
+      "region": "경남 합천군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '오도산전' + '합천군' / 0건"
+    },
+    {
+      "place": "율피떡",
+      "region": "경남 합천군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '율피떡' + '합천군' / 0건"
+    },
+    {
+      "place": "낙민3구 마을",
+      "region": "경남 합천군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '낙민3구' + '합천군' / 0건"
+    },
+    {
+      "place": "합천신소양체육공원",
+      "region": "경남 합천군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '합천신소' + '합천군' / 0건"
+    },
+    {
+      "place": "청양골송아지매운갈비찜",
+      "region": "인천 계양구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '청양골송' + '계양구' / 0건"
+    },
+    {
+      "place": "상배농원",
+      "region": "충남 공주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '상배농원' + '공주시' / 0건"
+    },
+    {
+      "place": "섬진강 스카이 자전거",
+      "region": "전남광주통합특별시 구례군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '섬진강스' + '구례군' / 0건"
+    },
+    {
+      "place": "구례 지리산 패러글라이딩",
+      "region": "전남광주통합특별시 구례군",
+      "name": "구례지리산리조트레스토랑",
+      "category": "한식",
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '구례지리' + '구례군' / 상호 불일치 (찾은 것: '구례지리산리조트레스토랑')"
+    },
+    {
+      "place": "지리산 농부마을 체험 농장",
+      "region": "전남광주통합특별시 구례군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '지리산농' + '구례군' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "황매산군립공원",
+      "region": "경남 합천군",
+      "name": "황매산군립공원",
+      "category": "관광/명소 > 공원 > 시립/군립공원"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1730",
+  "status": "pending",
+  "publishAfter": "2026-10-08T08:47:34.247Z",
+  "preparedAt": "2026-10-08T08:32:34.247Z"
+}
