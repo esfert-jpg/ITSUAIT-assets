@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-09",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "justlaben/224436319152",
+      "program": "생생정보",
+      "title": "[여수 옥주 할머니 관자삼합 핫플] 생생정보 할매밥됩니까, 여수 관자삼합 한려식당 위치 정보",
+      "place": "한려식당",
+      "region": "전남 여수시",
+      "dishes": [
+        "관자삼합",
+        "키조개 관자",
+        "차돌박이"
+      ],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224436319152",
+      "postedAt": "2026-10-09T07:16:50.000Z",
+      "dishVotes": {
+        "관자삼합": 1,
+        "키조개 관자": 1,
+        "차돌박이": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "justlaben/224436320822",
+      "program": "생생정보",
+      "title": "[흑산도 비경 탐방 핫플] 생생정보 흑산도 택시투어 위치 정보 어디?",
+      "place": "흑산도 택시 투어",
+      "region": "전남 신안군",
+      "dishes": [],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224436320822",
+      "postedAt": "2026-10-09T07:19:04.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 2,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1620b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-09",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "전남 여수시",
+        "place": "한려식당",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "justlaben",
+          "link": "https://blog.naver.com/justlaben/224436319152",
+          "title": "[여수 옥주 할머니 관자삼합 핫플] 생생정보 할매밥됩니까, 여수 관자삼합 한려식당 위치 정보",
+          "postedAt": "2026-10-09T07:16:50.000Z"
+        },
+        "dishHints": [
+          "관자삼합",
+          "키조개 관자",
+          "차돌박이"
+        ],
+        "dishVotes": {
+          "관자삼합": 1,
+          "키조개 관자": 1,
+          "차돌박이": 1
+        }
+      },
+      "store": {
+        "name": "한려식당",
+        "url": "https://www.daangn.com/kr/local-profile/%ED%95%9C%EB%A0%A4%EC%8B%9D%EB%8B%B9-7sna5ppnzaia/",
+        "address": "전남광주 여수시 중앙로 81-1 1층",
+        "category": "음식점 > 한식 > 고기요리 > 삼겹살 전문",
+        "roadAddress": "전남광주 여수시 중앙로 81-1 1층",
+        "jibunAddress": "전남광주 여수시 중앙동 425",
+        "phone": null,
+        "safePhone": "050713272691",
+        "hours": {
+          "월": "11:00~22:00",
+          "화": "11:00~22:00",
+          "수": "11:00~22:00",
+          "목": "11:00~22:00",
+          "금": "11:00~22:00",
+          "토": "11:00~22:00",
+          "일": "11:00~22:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "대패삼겹살 1인150g(기본 3인분)",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "생삼겹살 1인150g(기본 3인분)",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "관자(150g)",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "세트",
+            "price": 60000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 34.7399407,
+          "lng": 127.73663
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 전남 여수시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 110
+    }
+  ],
+  "held": [
+    {
+      "place": "흑산도 택시 투어",
+      "region": "전남 신안군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '흑산도택' + '신안군' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1620b",
+  "status": "pending",
+  "publishAfter": "2026-10-09T07:35:58.128Z",
+  "preparedAt": "2026-10-09T07:20:58.128Z"
+}
