@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-09",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "6시 내고향",
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "justlaben/224436330094",
+      "program": "6시 내고향",
+      "title": "[해남 읍내 샤브샤브 핫플] 6시내고향 해남 샤브샤브 성내식당 위치 정보",
+      "place": "성내식당",
+      "region": "전남 해남군",
+      "dishes": [
+        "샤브샤브"
+      ],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224436330094",
+      "postedAt": "2026-10-09T07:31:01.000Z",
+      "dishVotes": {
+        "샤브샤브": 1
+      },
+      "votes": {
+        "6시 내고향": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224436334505",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 여수 맛집 옥주 할매의 관자삼합 한려식당 후기",
+      "place": "한려식당",
+      "region": "전남 여수시",
+      "dishes": [
+        "관자삼합"
+      ],
+      "corner": "할매~ 밥 됩니까?",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224436334505",
+      "postedAt": "2026-10-09T07:36:49.000Z",
+      "dishVotes": {
+        "관자삼합": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [
+    "한려식당"
+  ],
+  "stores": [
+    {
+      "id": "1640b-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-10-09",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "전남 해남군",
+        "place": "성내식당",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "justlaben",
+          "link": "https://blog.naver.com/justlaben/224436330094",
+          "title": "[해남 읍내 샤브샤브 핫플] 6시내고향 해남 샤브샤브 성내식당 위치 정보",
+          "postedAt": "2026-10-09T07:31:01.000Z"
+        },
+        "dishHints": [
+          "샤브샤브"
+        ],
+        "dishVotes": {
+          "샤브샤브": 1
+        }
+      },
+      "store": {
+        "name": "성내식당",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%84%B1%EB%82%B4%EC%8B%9D%EB%8B%B9-gbo8ygw9io5f/",
+        "address": "전남 해남군 해남읍 명문길 19-1",
+        "category": "음식점 > 한식 > 고기요리 > 육회",
+        "roadAddress": "전남 해남군 해남읍 명문길 19-1",
+        "jibunAddress": "전남 해남군 해남읍 수성리 200-4",
+        "phone": "0615334774",
+        "safePhone": null,
+        "hours": {
+          "월": "11:30~21:00",
+          "화": "11:30~21:00",
+          "수": "11:30~21:00",
+          "목": "11:30~21:00",
+          "금": "11:30~21:00",
+          "토": "11:30~21:00",
+          "일": null
+        },
+        "breakTime": {
+          "월": "14:30~17:00",
+          "화": "14:30~17:00",
+          "수": "14:30~17:00",
+          "목": "14:30~17:00",
+          "금": "14:30~17:00",
+          "토": "14:30~17:00"
+        },
+        "closedDays": [
+          "일"
+        ],
+        "menu": [
+          {
+            "name": "샤브샤브",
+            "price": 23000,
+            "maxPrice": null
+          },
+          {
+            "name": "생고기",
+            "price": 35000,
+            "maxPrice": null
+          },
+          {
+            "name": "갈비살구이",
+            "price": 35000,
+            "maxPrice": null
+          },
+          {
+            "name": "김국",
+            "price": 0,
+            "maxPrice": null
+          },
+          {
+            "name": "김장아찌",
+            "price": 0,
+            "maxPrice": null
+          },
+          {
+            "name": "육회 250g",
+            "price": 35000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 34.5757194,
+          "lng": 126.597662
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "5순위 / 상호 완전 일치 / 전남 해남군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 119
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1640b",
+  "status": "pending",
+  "publishAfter": "2026-10-09T07:55:46.548Z",
+  "preparedAt": "2026-10-09T07:40:46.548Z"
+}
