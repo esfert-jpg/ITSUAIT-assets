@@ -1,0 +1,455 @@
+{
+  "date": "2026-10-09",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보",
+    "6시 내고향"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "justlaben/224436323330",
+      "program": "생생정보",
+      "title": "[화성 맞춤형 캠핑카 핫플] 생생정보 독하다독해 경기도 화성 캠핑카 제조 업체 캠핑카카카 위치 정보",
+      "place": "캠핑카카카",
+      "region": "경기 화성시",
+      "dishes": [],
+      "corner": "독하다독해",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224436323330",
+      "postedAt": "2026-10-09T07:22:14.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224436324477",
+      "program": "6시 내고향",
+      "title": "[담양전통시장 떡갈비김밥 핫플] 6시내고향 담양 떡갈비김밥 금원분식 위치 정보",
+      "place": "금원분식",
+      "region": "전남 담양군",
+      "dishes": [
+        "떡갈비김밥"
+      ],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224436324477",
+      "postedAt": "2026-10-09T07:23:45.000Z",
+      "dishVotes": {
+        "떡갈비김밥": 2
+      },
+      "votes": {
+        "6시 내고향": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224436326495",
+      "program": "6시 내고향",
+      "title": "[여수 낭만포차 갓김치김밥 핫플] 6시내고향 여수 갓김치김밥 교동당 위치 정보",
+      "place": "교동당",
+      "region": "전남 여수시",
+      "dishes": [
+        "갓김치김밥",
+        "돌문어"
+      ],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224436326495",
+      "postedAt": "2026-10-09T07:26:21.000Z",
+      "dishVotes": {
+        "갓김치김밥": 2,
+        "돌문어": 2
+      },
+      "votes": {
+        "6시 내고향": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224436327666",
+      "program": "6시 내고향",
+      "title": "[여수 돌산 오션뷰 갓버거 핫플] 6시내고향 여수 돌산갓버거 로스티아 위치 정보",
+      "place": "로스티아",
+      "region": "전남 여수시",
+      "dishes": [
+        "돌산갓버거",
+        "파스타",
+        "트러플명란갓파스타"
+      ],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224436327666",
+      "postedAt": "2026-10-09T07:27:51.000Z",
+      "dishVotes": {
+        "돌산갓버거": 2,
+        "파스타": 1,
+        "트러플명란갓파스타": 1
+      },
+      "votes": {
+        "6시 내고향": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224436328882",
+      "program": "6시 내고향",
+      "title": "[해남 재래김 핫플] 6시내고향 해남 돌김 형제만호돌김 위치 정보",
+      "place": "형제만호돌김",
+      "region": "전남 해남군",
+      "dishes": [
+        "재래김",
+        "돌김"
+      ],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224436328882",
+      "postedAt": "2026-10-09T07:29:27.000Z",
+      "dishVotes": {
+        "재래김": 1,
+        "돌김": 1
+      },
+      "votes": {
+        "6시 내고향": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 5,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1630b-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-10-09",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "전남 담양군",
+        "place": "금원분식",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "justlaben",
+          "link": "https://blog.naver.com/justlaben/224436324477",
+          "title": "[담양전통시장 떡갈비김밥 핫플] 6시내고향 담양 떡갈비김밥 금원분식 위치 정보",
+          "postedAt": "2026-10-09T07:23:45.000Z"
+        },
+        "dishHints": [
+          "떡갈비김밥"
+        ],
+        "dishVotes": {
+          "떡갈비김밥": 2
+        }
+      },
+      "store": {
+        "name": "금원분식",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "전남광주통합특별시 담양군 담양읍 담주4길 40, 가동 1층 103호",
+        "jibunAddress": "전남광주통합특별시 담양군 담양읍 담주리 5-2",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 35.32313893347097,
+          "lng": 126.98084414040835
+        },
+        "licenseDate": "2025-03-31",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '금원분식' + '담양군' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 113
+    },
+    {
+      "id": "1630b-2",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-10-09",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "전남 여수시",
+        "place": "교동당",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "justlaben",
+          "link": "https://blog.naver.com/justlaben/224436326495",
+          "title": "[여수 낭만포차 갓김치김밥 핫플] 6시내고향 여수 갓김치김밥 교동당 위치 정보",
+          "postedAt": "2026-10-09T07:26:21.000Z"
+        },
+        "dishHints": [
+          "갓김치김밥",
+          "돌문어"
+        ],
+        "dishVotes": {
+          "갓김치김밥": 2,
+          "돌문어": 2
+        }
+      },
+      "store": {
+        "name": "교동당",
+        "url": null,
+        "address": null,
+        "category": "기타",
+        "roadAddress": "전남광주통합특별시 여수시 통제영3길 10-5 (교동)",
+        "jibunAddress": "전남광주통합특별시 여수시 교동 334-1",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 34.74080428321394,
+          "lng": 127.73440280013335
+        },
+        "licenseDate": "2026-06-19",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '교동당' + '여수시' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 114
+    },
+    {
+      "id": "1630b-3",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-10-09",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "전남 여수시",
+        "place": "로스티아",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "justlaben",
+          "link": "https://blog.naver.com/justlaben/224436327666",
+          "title": "[여수 돌산 오션뷰 갓버거 핫플] 6시내고향 여수 돌산갓버거 로스티아 위치 정보",
+          "postedAt": "2026-10-09T07:27:51.000Z"
+        },
+        "dishHints": [
+          "돌산갓버거",
+          "파스타",
+          "트러플명란갓파스타"
+        ],
+        "dishVotes": {
+          "돌산갓버거": 2,
+          "파스타": 1,
+          "트러플명란갓파스타": 1
+        }
+      },
+      "store": {
+        "name": "로스티아",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%A1%9C%EC%8A%A4%ED%8B%B0%EC%95%84-hba1umy5c6iq/",
+        "address": "전남광주 여수시 돌산읍 돌산로 3116 1F",
+        "category": "음식점 > 카페/디저트",
+        "roadAddress": "전남광주 여수시 돌산읍 돌산로 3116 1F",
+        "jibunAddress": "전남광주 여수시 돌산읍 평사리 1387-1",
+        "phone": null,
+        "safePhone": "050713076406",
+        "hours": {
+          "월": "10:00~19:40",
+          "화": "10:00~19:40",
+          "수": "10:00~19:40",
+          "목": "10:00~19:40",
+          "금": "10:00~19:40",
+          "토": "10:00~19:40",
+          "일": "10:00~19:40"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "여수바다를 품은 800평 오션뷰 공간",
+            "price": 0,
+            "maxPrice": null
+          },
+          {
+            "name": "여수 식재료로 완성한 브런치 카페!",
+            "price": 0,
+            "maxPrice": null
+          },
+          {
+            "name": "로스티아 시그니처 돌문어 샥슈카",
+            "price": 27000,
+            "maxPrice": null
+          },
+          {
+            "name": "로스티아 시그니처 돌문어버거",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "로스티아 시그니처 샐러드",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "❤(인기)트러플 명란 갓파스타",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "❤(인기)딱새우 로제파스타",
+            "price": 21000,
+            "maxPrice": null
+          },
+          {
+            "name": "❤(인기)돌산갓 수제버거",
+            "price": 11000,
+            "maxPrice": null
+          },
+          {
+            "name": "❤(인기)구아카몰(과카몰리) 버거",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "(추천)딱새우 크림파스타",
+            "price": 20000,
+            "maxPrice": null
+          },
+          {
+            "name": "(추천)통새우&어니언링버거",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "차돌 마라크림 리가토니",
+            "price": 22000,
+            "maxPrice": null
+          },
+          {
+            "name": "명란크림 그라탕",
+            "price": 23000,
+            "maxPrice": null
+          },
+          {
+            "name": "해산물 로제파스타",
+            "price": 21000,
+            "maxPrice": null
+          },
+          {
+            "name": "딱새우 트러플 크림리조또",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "불고기 갓 김치리조또",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "멕시코 칠리버거",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "불고기 갓 파스타",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "토마토파스타",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "로스트치킨 & 리코타치즈 샐러드",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "칠리 치즈프라이",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "에스프레소",
+            "price": 5500,
+            "maxPrice": null
+          },
+          {
+            "name": "아메리카노",
+            "price": 5500,
+            "maxPrice": null
+          },
+          {
+            "name": "플랫화이트",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "카페라떼",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "카푸치노",
+            "price": 6000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 34.7004303,
+          "lng": 127.7609384
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 전남 여수시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 115
+    }
+  ],
+  "held": [
+    {
+      "place": "형제만호돌김",
+      "region": "전남 해남군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '형제만호' + '해남군' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "캠핑카카카",
+      "region": "경기 화성시",
+      "name": "캠핑카카카",
+      "category": "시설 > 산업시설 > 제조시설"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1630b",
+  "status": "pending",
+  "publishAfter": "2026-10-09T07:46:32.774Z",
+  "preparedAt": "2026-10-09T07:31:32.774Z"
+}
