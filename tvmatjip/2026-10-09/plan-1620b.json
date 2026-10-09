@@ -156,7 +156,19 @@
   "retry": [],
   "blocked": null,
   "batch": "1620b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-09T07:35:58.128Z",
-  "preparedAt": "2026-10-09T07:20:58.128Z"
+  "preparedAt": "2026-10-09T07:20:58.128Z",
+  "publishedAt": "2026-10-09T07:41:29.246Z",
+  "result": {
+    "published": [
+      {
+        "name": "한려식당",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_09.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
