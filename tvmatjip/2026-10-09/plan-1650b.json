@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-09",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224436343383",
+      "program": "생생정보",
+      "title": "[2TV생생정보] 서울 동작구 노량진 수산시장 회 맛집! 노들로 활어 맛집 강변상회 후기",
+      "place": "강변상회",
+      "region": "서울 동작구",
+      "dishes": [
+        "회"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224436343383",
+      "postedAt": "2026-10-09T07:48:06.000Z",
+      "dishVotes": {
+        "회": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1650b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-09",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "서울 동작구",
+        "place": "강변상회",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224436343383",
+          "title": "[2TV생생정보] 서울 동작구 노량진 수산시장 회 맛집! 노들로 활어 맛집 강변상회 후기",
+          "postedAt": "2026-10-09T07:48:06.000Z"
+        },
+        "dishHints": [
+          "회"
+        ],
+        "dishVotes": {
+          "회": 1
+        }
+      },
+      "store": {
+        "name": "강변상회 노량진수산시장점",
+        "url": "https://www.daangn.com/kr/local-profile/%EA%B0%95%EB%B3%80%EC%83%81%ED%9A%8C-%EB%85%B8%EB%9F%89%EC%A7%84%EC%88%98%EC%82%B0%EC%8B%9C%EC%9E%A5%EC%A0%90-thrb5dmjnr3i/",
+        "address": "서울 동작구 노들로 674 1층 활어 129호 강변상회 노량진수산시장",
+        "category": "음식점 > 한식 > 수산물/횟집",
+        "roadAddress": "서울 동작구 노들로 674 1층 활어 129호 강변상회 노량진수산시장",
+        "jibunAddress": "서울 동작구 노량진동 334",
+        "phone": "0222547253",
+        "safePhone": null,
+        "hours": {
+          "월": "09:00~22:00",
+          "화": "09:00~22:00",
+          "수": "09:00~22:00",
+          "목": "09:00~22:00",
+          "금": "09:00~22:00",
+          "토": "08:00~22:00",
+          "일": "08:00~22:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "도다리 숭어회",
+            "price": 60000,
+            "maxPrice": null
+          },
+          {
+            "name": "도다리숭어세꼬시회",
+            "price": 60000,
+            "maxPrice": null
+          },
+          {
+            "name": "도다리모둠회",
+            "price": 70000,
+            "maxPrice": null
+          },
+          {
+            "name": "도다리반반회(도다리&세꼬시)",
+            "price": 65000,
+            "maxPrice": null
+          },
+          {
+            "name": "광돔회",
+            "price": 60000,
+            "maxPrice": null
+          },
+          {
+            "name": "참치모둠회",
+            "price": 70000,
+            "maxPrice": null
+          },
+          {
+            "name": "감성돔모둠회",
+            "price": 70000,
+            "maxPrice": null
+          },
+          {
+            "name": "감성돔스페셜",
+            "price": 70000,
+            "maxPrice": null
+          },
+          {
+            "name": "강변오마카세",
+            "price": 80000,
+            "maxPrice": null
+          },
+          {
+            "name": "생연어회",
+            "price": 40000,
+            "maxPrice": null
+          },
+          {
+            "name": "대광어회",
+            "price": 50000,
+            "maxPrice": null
+          },
+          {
+            "name": "대참돔회[단품]",
+            "price": 60000,
+            "maxPrice": null
+          },
+          {
+            "name": "참치회",
+            "price": 70000,
+            "maxPrice": null
+          },
+          {
+            "name": "감성돔회[단품]",
+            "price": 80000,
+            "maxPrice": null
+          },
+          {
+            "name": "단새우20pcs1팩",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "서산 해품 감태",
+            "price": 3000,
+            "maxPrice": null
+          },
+          {
+            "name": "페루 우니",
+            "price": 25000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5146447,
+          "lng": 126.9370408
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 입력 상호로 시작 ('강변상회 노량진수산시장점') / 서울 동작구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 123
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1650b",
+  "status": "pending",
+  "publishAfter": "2026-10-09T08:05:47.566Z",
+  "preparedAt": "2026-10-09T07:50:47.566Z"
+}
