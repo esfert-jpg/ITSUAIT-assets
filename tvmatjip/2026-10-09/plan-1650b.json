@@ -188,7 +188,19 @@
   "retry": [],
   "blocked": null,
   "batch": "1650b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-09T08:05:47.566Z",
-  "preparedAt": "2026-10-09T07:50:47.566Z"
+  "preparedAt": "2026-10-09T07:50:47.566Z",
+  "publishedAt": "2026-10-09T08:11:15.194Z",
+  "result": {
+    "published": [
+      {
+        "name": "강변상회 노량진수산시장점",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_202.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
