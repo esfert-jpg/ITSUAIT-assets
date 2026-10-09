@@ -449,7 +449,29 @@
   "retry": [],
   "blocked": null,
   "batch": "1630b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-09T07:46:32.774Z",
-  "preparedAt": "2026-10-09T07:31:32.774Z"
+  "preparedAt": "2026-10-09T07:31:32.774Z",
+  "publishedAt": "2026-10-09T07:52:20.568Z",
+  "result": {
+    "published": [
+      {
+        "name": "금원분식",
+        "url": "https://wherethatplace.blogspot.com/2026/10/6_01451865381.html",
+        "skipped": false
+      },
+      {
+        "name": "교동당",
+        "url": "https://wherethatplace.blogspot.com/2026/10/6_01237797925.html",
+        "skipped": false
+      },
+      {
+        "name": "로스티아",
+        "url": "https://wherethatplace.blogspot.com/2026/10/6_01448621135.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
