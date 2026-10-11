@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>네이버 원고 · itsuait</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1d2127;--sub:#6b7280;--line:#e3e6ea;--acc:#03c75a;--acc-ink:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#15171a;--card:#1f2226;--ink:#e8eaed;--sub:#9aa0a6;--line:#30343a;--acc:#1ec26b;--acc-ink:#0b1a10}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif}
+main{max-width:720px;margin:0 auto;padding:16px}
+h1{font-size:15px;color:var(--sub);font-weight:600;margin:4px 0 12px}
+section{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin:0 0 12px}
+.head{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px}
+.head b{font-size:14px;color:var(--sub)}
+.hint{font-size:12px;color:var(--sub);text-align:right}
+.btn{appearance:none;border:0;border-radius:10px;background:var(--acc);color:var(--acc-ink);font-weight:700;font-size:15px;padding:10px 16px;cursor:pointer;text-decoration:none;display:inline-block}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line);font-weight:600;font-size:14px;padding:8px 12px}
+.box{white-space:pre-wrap;word-break:break-all}
+#body p{margin:0}
+.title{font-size:18px;font-weight:700}
+figure{margin:0 0 12px}figure img{display:block;max-width:100%;border-radius:8px;margin-bottom:6px}
+#toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:999px;font-size:14px;opacity:0;transition:opacity .2s;pointer-events:none}
+#toast.on{opacity:1}
+.steps{font-size:14px;color:var(--sub);margin:0;padding-left:18px}
+</style></head><body><main>
+<h1>네이버 블로그 원고 · itsuait</h1>
+<section><div class="head"><b>① 제목</b><button class="btn" data-copy="title">제목 복사</button></div><div class="box title" id="title">클로드 대시보드·모션, 엑셀·파워포인트 역할 나눠 맡다</div></section>
+<section><div class="head"><b>② 사진</b><span class="hint">저장 → 공유 시트에서 '이미지 저장'. 또는 사진을 길게 눌러 '사진에 추가'</span></div><figure><img src="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-10-12/080100/blog-cover.png" alt="사진 1"><a class="btn ghost" data-img="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-10-12/080100/blog-cover.png" href="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-10-12/080100/blog-cover.png" download="itsuait-1">사진 1 저장</a></figure></section>
+<section><div class="head"><b>③ 본문 (태그 포함)</b><button class="btn" data-copy="body">본문 복사</button></div><div id="body"><p>앤트로픽이 클로드에 데이터 대시보드와 애니메이션 기능을 더했어요. 자연어로 질문하면 실시간 대시보드를 만들고, 텍스트와 차트를 움직이는 영상으로 바꿀 수 있어요.</p><p><br></p><p>▶ 데이터 플랫폼과 연결해 실시간 대시보드 만들기</p><p>클로드 대시보드는 자연어로 데이터를 묻고 대시보드를 만드는 기능이에요. 빅쿼리, 데이터브릭스, 스노우플레이크, 아마존 레드시프트, 클릭하우스 같은 데이터 플랫폼을 연결한 뒤 질문을 입력하면 돼요. 데이터가 바뀔 때마다 대시보드가 자동으로 업데이트되니 지난달 신규 가입과 이번 달을 빠르게 비교하는 식의 탐색적인 질문에 안성맞춤이에요.</p><p><br></p><p>세일즈포스 같은 CRM 도구를 연결해서 영업 기회를 한눈에 보는 대시보드를 만들 수도 있어요. 각 숫자나 차트를 클릭하면 뒤에 숨은 SQL 쿼리를 확인할 수 있고, 클로드에게 설명을 달라고 요청할 수 있어요. 데이터를 마지막으로 새로고침한 시간도 표시되니까 정보가 얼마나 최신인지 한번에 알 수 있어요.</p><p><br></p><p>▶ 기존 BI 도구와 함께 쓰도록 설계됐어요</p><p>클로드 대시보드는 빠른 탐색에 강하지만, 더 깊은 분석이 필요하면 기존 BI·분석 도구로 바로 보낼 수 있어요. 암플리튜드, 그래파나, 헥스, 믹스패널, 시그마, 포스트혹, 옴니, 퍼플렉시티 같은 도구에 직접 연결되고, 룩어, 먼데이닷컴, 태블로는 곧 지원 예정이에요. 완전히 대체하는 게 아니라 보완하는 역할이라는 뜻이에요.</p><p><br></p><p>클로드 대시보드는 유료 요금제에서만 베타로 제공돼요. 아직 개발 단계지만, 기업이 이미 쓰는 데이터 도구들과 직접 연결할 수 있다는 게 장점이에요.</p><p><br></p><p>▶ 텍스트와 차트를 애니메이션으로 만드는 모션</p><p>클로드 모션은 텍스트, 차트, 도형, 이미지를 짧은 영상처럼 움직이게 만들어요. 분기 보고서를 30초 설명 영상으로, 보드 덱의 차트에 움직임을 넣거나, 고객 온보딩용 제품 데모 영상을 만들 수 있어요. 비디오 생성 모델이 아니라 코드를 작성해서 애니메이션을 만들기 때문에 편집기에서 단어, 숫자, 타이밍을 직접 바꿀 수 있어요.</p><p><br></p><p>클로드가 첫 버전을 만든 뒤 편집기에서 조정하거나 다시 변경을 요청할 수 있어요. 완성한 애니메이션은 MP4 파일로 내려받아 메일, 프레젠테이션, 온라인 어디든 공유할 수 있어요. 클로드 모션은 개인의 일을 설명하는 데 목적을 두고 만들어졌기 때문에 표준화된 영상보다는 맞춤형 설명에 맞춰져 있어요.</p><p><br></p><p>▶ 쓸 수 있는 요금제와 함께 추가된 기능들</p><p>클로드 대시보드는 유료 요금제 사용자가 베타로 쓸 수 있어요. 클로드 모션은 팀 플랜과 엔터프라이즈 플랜에서만 베타로 제공돼요. 무료 플랜 사용자는 아직 이 두 기능을 쓸 수 없어요.</p><p><br></p><p>다만 클로드 독스, 슬라이드, 디자인은 베타를 마쳤어요. 이 세 기능은 무료 플랜을 포함한 모든 요금제에서 이용할 수 있어요. 클로드는 지난달 이 세 기능을 출시하면서 텍스트 편집부터 발표 자료, 그래픽 작업까지 한 곳에서 처리할 수 있게 만들었어요.</p><p><br></p><p>출처: 디지털투데이</p><p><br></p><p>👉 표와 원문 링크까지 정리한 글은 여기 있어요</p><p><a href="https://itsuait.blogspot.com/2026/10/blog-post_12.html">https://itsuait.blogspot.com/2026/10/blog-post_12.html</a></p><p><br></p><p>#앤트로픽 #Anthropic #마이크로소프트 #Microsoft #AI뉴스 #IT이슈</p></div></section>
+<section><ol class="steps"><li>네이버 블로그 글쓰기를 연다</li><li>제목 복사 → 제목 칸에 붙여넣기</li><li>사진 저장 → 사진첩에서 본문 맨 위에 첨부</li><li>본문 복사 → 사진 아래에 붙여넣기 (끝의 #태그는 발행할 때 태그로 자동 등록된다)</li><li>발행 또는 예약</li></ol></section>
+</main><div id="toast"></div>
+<script>
+const D={"title":"클로드 대시보드·모션, 엑셀·파워포인트 역할 나눠 맡다","body":"앤트로픽이 클로드에 데이터 대시보드와 애니메이션 기능을 더했어요. 자연어로 질문하면 실시간 대시보드를 만들고, 텍스트와 차트를 움직이는 영상으로 바꿀 수 있어요.\n\n▶ 데이터 플랫폼과 연결해 실시간 대시보드 만들기\n클로드 대시보드는 자연어로 데이터를 묻고 대시보드를 만드는 기능이에요. 빅쿼리, 데이터브릭스, 스노우플레이크, 아마존 레드시프트, 클릭하우스 같은 데이터 플랫폼을 연결한 뒤 질문을 입력하면 돼요. 데이터가 바뀔 때마다 대시보드가 자동으로 업데이트되니 지난달 신규 가입과 이번 달을 빠르게 비교하는 식의 탐색적인 질문에 안성맞춤이에요.\n\n세일즈포스 같은 CRM 도구를 연결해서 영업 기회를 한눈에 보는 대시보드를 만들 수도 있어요. 각 숫자나 차트를 클릭하면 뒤에 숨은 SQL 쿼리를 확인할 수 있고, 클로드에게 설명을 달라고 요청할 수 있어요. 데이터를 마지막으로 새로고침한 시간도 표시되니까 정보가 얼마나 최신인지 한번에 알 수 있어요.\n\n▶ 기존 BI 도구와 함께 쓰도록 설계됐어요\n클로드 대시보드는 빠른 탐색에 강하지만, 더 깊은 분석이 필요하면 기존 BI·분석 도구로 바로 보낼 수 있어요. 암플리튜드, 그래파나, 헥스, 믹스패널, 시그마, 포스트혹, 옴니, 퍼플렉시티 같은 도구에 직접 연결되고, 룩어, 먼데이닷컴, 태블로는 곧 지원 예정이에요. 완전히 대체하는 게 아니라 보완하는 역할이라는 뜻이에요.\n\n클로드 대시보드는 유료 요금제에서만 베타로 제공돼요. 아직 개발 단계지만, 기업이 이미 쓰는 데이터 도구들과 직접 연결할 수 있다는 게 장점이에요.\n\n▶ 텍스트와 차트를 애니메이션으로 만드는 모션\n클로드 모션은 텍스트, 차트, 도형, 이미지를 짧은 영상처럼 움직이게 만들어요. 분기 보고서를 30초 설명 영상으로, 보드 덱의 차트에 움직임을 넣거나, 고객 온보딩용 제품 데모 영상을 만들 수 있어요. 비디오 생성 모델이 아니라 코드를 작성해서 애니메이션을 만들기 때문에 편집기에서 단어, 숫자, 타이밍을 직접 바꿀 수 있어요.\n\n클로드가 첫 버전을 만든 뒤 편집기에서 조정하거나 다시 변경을 요청할 수 있어요. 완성한 애니메이션은 MP4 파일로 내려받아 메일, 프레젠테이션, 온라인 어디든 공유할 수 있어요. 클로드 모션은 개인의 일을 설명하는 데 목적을 두고 만들어졌기 때문에 표준화된 영상보다는 맞춤형 설명에 맞춰져 있어요.\n\n▶ 쓸 수 있는 요금제와 함께 추가된 기능들\n클로드 대시보드는 유료 요금제 사용자가 베타로 쓸 수 있어요. 클로드 모션은 팀 플랜과 엔터프라이즈 플랜에서만 베타로 제공돼요. 무료 플랜 사용자는 아직 이 두 기능을 쓸 수 없어요.\n\n다만 클로드 독스, 슬라이드, 디자인은 베타를 마쳤어요. 이 세 기능은 무료 플랜을 포함한 모든 요금제에서 이용할 수 있어요. 클로드는 지난달 이 세 기능을 출시하면서 텍스트 편집부터 발표 자료, 그래픽 작업까지 한 곳에서 처리할 수 있게 만들었어요.\n\n출처: 디지털투데이\n\n👉 표와 원문 링크까지 정리한 글은 여기 있어요\nhttps://itsuait.blogspot.com/2026/10/blog-post_12.html\n\n#앤트로픽 #Anthropic #마이크로소프트 #Microsoft #AI뉴스 #IT이슈"};
+const toast=(m)=>{const t=document.getElementById('toast');t.textContent=m;t.classList.add('on');setTimeout(()=>t.classList.remove('on'),1400)};
+function selectCopy(el){const r=document.createRange();r.selectNodeContents(el);const s=getSelection();s.removeAllRanges();s.addRange(r);let ok=false;try{ok=document.execCommand('copy')}catch(e){}s.removeAllRanges();return ok}
+async function copyText(t,el){try{await navigator.clipboard.writeText(t);return true}catch(e){return selectCopy(el)}}
+async function copyRich(el,plain){try{if(window.ClipboardItem&&navigator.clipboard&&navigator.clipboard.write){await navigator.clipboard.write([new ClipboardItem({'text/html':new Blob([el.innerHTML],{type:'text/html'}),'text/plain':new Blob([plain],{type:'text/plain'})})]);return true}}catch(e){}return selectCopy(el)}
+document.querySelectorAll('[data-copy]').forEach((b)=>b.addEventListener('click',async()=>{const k=b.dataset.copy;const el=document.getElementById(k);const ok=k==='body'?await copyRich(el,D.body):await copyText(D[k],el);toast(ok?({title:'제목',body:'본문'}[k])+' 복사됨':'복사 실패 — 길게 눌러 직접 복사하세요')}));
+// 사진 저장: 공유 시트 → '이미지 저장' 이 사진첩으로 간다. 사파리는 클릭 뒤 await 가 끼면 share 를 거부해서 미리 받아 둔다.
+const IMGS=new Map();
+document.querySelectorAll('[data-img]').forEach((a)=>{const u=a.dataset.img;fetch(u,{cache:'no-store'}).then((r)=>r.ok?r.blob():Promise.reject(r.status)).then((b)=>{const ext=(b.type.split('/')[1]||'png').replace('jpeg','jpg');IMGS.set(u,new File([b],(a.getAttribute('download')||'photo')+'.'+ext,{type:b.type}))}).catch(()=>{});
+a.addEventListener('click',(e)=>{const f=IMGS.get(u);if(f&&navigator.share&&navigator.canShare&&navigator.canShare({files:[f]})){e.preventDefault();navigator.share({files:[f]}).catch((err)=>{if(err&&err.name!=='AbortError')toast('공유 실패 — 사진을 길게 눌러 사진에 추가하세요')})}})});
+</script></body></html>
