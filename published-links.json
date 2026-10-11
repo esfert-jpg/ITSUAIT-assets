@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-10T23:03:19.712Z",
+  "updatedAt": "2026-10-11T23:03:26.885Z",
   "records": [
+    {
+      "date": "2026-10-12",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706239",
+      "title": "어도비 복제한 개발자, 이번엔 클로드로 엑셀·워드·파워포인트 대체 앱 공개",
+      "mediaId": "17930637696434226"
+    },
     {
       "date": "2026-10-11",
       "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
