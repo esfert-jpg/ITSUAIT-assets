@@ -1,0 +1,397 @@
+{
+  "date": "2026-10-12",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224439010102",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 핫플레이스 NOW 서울숲 맛집! 바삭한 타코파이 전문점 호과당",
+      "place": "호과당",
+      "region": "서울 성동구",
+      "dishes": [
+        "타코파이",
+        "수제 파이",
+        "토마토라구파이"
+      ],
+      "corner": "핫 플레이스 NOW",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224439010102",
+      "postedAt": "2026-10-12T05:20:38.000Z",
+      "dishVotes": {
+        "타코파이": 1,
+        "수제 파이": 1,
+        "토마토라구파이": 1
+      },
+      "votes": {
+        "생생정보": 3
+      },
+      "copies": 3
+    },
+    {
+      "key": "ohs016830/224439016549",
+      "program": "생생정보",
+      "title": "[생생정보 화성 한우곰탕맛집] 생생정보 가격파괴, 경기도 화성 5천원 한우곰탕 맛집, 방가네한우정육식당 위치 정보",
+      "place": "방가네한우정육식당",
+      "region": "경기 화성시",
+      "dishes": [
+        "한우곰탕",
+        "정육"
+      ],
+      "corner": "가격파괴 Why",
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224439016549",
+      "postedAt": "2026-10-12T05:25:56.000Z",
+      "dishVotes": {
+        "한우곰탕": 2,
+        "정육": 1
+      },
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224439020571",
+      "program": "생생정보",
+      "title": "[서울숲역 뚝섬역 이탈리안 레스토랑 핫플] 생생정보 서울숲 레스토랑 빌라드블루 성수 위치 정보",
+      "place": "빌라드블루",
+      "region": "서울 성동구",
+      "dishes": [
+        "리조또",
+        "수제 파스타",
+        "파스타"
+      ],
+      "corner": "핫 플레이스 NOW",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224439020571",
+      "postedAt": "2026-10-12T05:29:18.000Z",
+      "dishVotes": {
+        "수제 파스타": 1,
+        "리조또": 2,
+        "파스타": 1
+      },
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 2,
+  "skipped": [
+    "방가네한우정육식당"
+  ],
+  "stores": [
+    {
+      "id": "1430b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-12",
+        "episode": null,
+        "corner": "핫 플레이스 NOW",
+        "episodeTitle": null,
+        "region": "서울 성동구",
+        "place": "호과당",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224439010102",
+          "title": "[2TV 생생정보] 핫플레이스 NOW 서울숲 맛집! 바삭한 타코파이 전문점 호과당",
+          "postedAt": "2026-10-12T05:20:38.000Z"
+        },
+        "dishHints": [
+          "타코파이",
+          "수제 파이",
+          "토마토라구파이"
+        ],
+        "dishVotes": {
+          "타코파이": 1,
+          "수제 파이": 1,
+          "토마토라구파이": 1
+        }
+      },
+      "store": {
+        "name": "호과당",
+        "url": "https://www.daangn.com/kr/local-profile/%ED%98%B8%EA%B3%BC%EB%8B%B9-d7zz3wpiiz3r/",
+        "address": "서울 성동구 서울숲2길 45",
+        "category": "음식점 > 카페/디저트 > 베이커리",
+        "roadAddress": "서울 성동구 서울숲2길 45",
+        "jibunAddress": "서울 성동구 성수동1가 668-49",
+        "phone": null,
+        "safePhone": "050714618038",
+        "hours": {
+          "월": "10:30~21:00",
+          "화": "10:30~21:00",
+          "수": "10:30~21:00",
+          "목": "10:30~21:00",
+          "금": "10:30~21:00",
+          "토": "10:30~21:00",
+          "일": "10:30~21:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "토마토라구파이(Tomato meat)",
+            "price": 6300,
+            "maxPrice": null
+          },
+          {
+            "name": "애플파이(Apple Pie)",
+            "price": 5200,
+            "maxPrice": null
+          },
+          {
+            "name": "스모키마늘치킨파이",
+            "price": 6500,
+            "maxPrice": null
+          },
+          {
+            "name": "고추장파이",
+            "price": 6500,
+            "maxPrice": null
+          },
+          {
+            "name": "호랭이버터떡(3개)",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "호박고구마파이",
+            "price": 5500,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5464135,
+          "lng": 127.0435776
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 성동구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 131
+    },
+    {
+      "id": "1430b-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-12",
+        "episode": null,
+        "corner": "핫 플레이스 NOW",
+        "episodeTitle": null,
+        "region": "서울 성동구",
+        "place": "빌라드블루",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "justlaben",
+          "link": "https://blog.naver.com/justlaben/224439020571",
+          "title": "[서울숲역 뚝섬역 이탈리안 레스토랑 핫플] 생생정보 서울숲 레스토랑 빌라드블루 성수 위치 정보",
+          "postedAt": "2026-10-12T05:29:18.000Z"
+        },
+        "dishHints": [
+          "리조또",
+          "수제 파스타",
+          "파스타"
+        ],
+        "dishVotes": {
+          "수제 파스타": 1,
+          "리조또": 2,
+          "파스타": 1
+        }
+      },
+      "store": {
+        "name": "빌라드블루 성수",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%B9%8C%EB%9D%BC%EB%93%9C%EB%B8%94%EB%A3%A8-%EC%84%B1%EC%88%98-bjro135z985n/",
+        "address": "서울 성동구 서울숲2길 46-10 1층",
+        "category": "음식점 > 양식 > 피자/파스타",
+        "roadAddress": "서울 성동구 서울숲2길 46-10 1층",
+        "jibunAddress": "서울 성동구 성수동1가 668-138",
+        "phone": null,
+        "safePhone": "050713088242",
+        "hours": {
+          "월": null,
+          "화": "11:00~21:00",
+          "수": "11:00~21:00",
+          "목": "11:00~21:00",
+          "금": "11:00~21:00",
+          "토": "11:00~21:00",
+          "일": "11:00~21:00"
+        },
+        "breakTime": {
+          "화": "15:30~17:00",
+          "수": "15:30~17:00",
+          "목": "15:30~17:00",
+          "금": "15:30~17:00",
+          "토": "15:30~17:00",
+          "일": "15:30~17:00"
+        },
+        "closedDays": [
+          "월"
+        ],
+        "menu": [
+          {
+            "name": "알리고 치즈 라자냐",
+            "price": 22000,
+            "maxPrice": null
+          },
+          {
+            "name": "버터 씨즐링 스테이크 (100g당)",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "뽈뽀 맘보",
+            "price": 25000,
+            "maxPrice": null
+          },
+          {
+            "name": "전복 먹물 리조또",
+            "price": 25000,
+            "maxPrice": null
+          },
+          {
+            "name": "시칠리안 푸타네스카 파스타",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "고르곤졸라 트러플 크림 뇨끼",
+            "price": 21000,
+            "maxPrice": null
+          },
+          {
+            "name": "초리조 로제 칼라마라타",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우페퍼스테이크",
+            "price": 42000,
+            "maxPrice": null
+          },
+          {
+            "name": "존도리 뫼니에르",
+            "price": 26000,
+            "maxPrice": null
+          },
+          {
+            "name": "아말피 씨푸드 프라이즈",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "통가지 멜란자네",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "문어 아보카도 카르파치오",
+            "price": 21000,
+            "maxPrice": null
+          },
+          {
+            "name": "뇨끼프릿츠",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "브런치 칵테일 6종",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "오늘의 와인 보틀",
+            "price": 49000,
+            "maxPrice": null
+          },
+          {
+            "name": "오늘의 글라스 와인",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "오늘의 논알코올 글라스 와인",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "라들러(alc.2%)",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "낙낙",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "아크 라거",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "마틸다 프렌치 레모네이드",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "돈시몬 오렌지 주스",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "일리 커피",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "콜라/제로콜라/스프라이트",
+            "price": 4000,
+            "maxPrice": null
+          },
+          {
+            "name": "싱하 탄산수",
+            "price": 4000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5461607,
+          "lng": 127.0434999
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "2순위 / 입력 상호로 시작 ('빌라드블루 성수') / 서울 성동구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 132
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1430b",
+  "status": "pending",
+  "publishAfter": "2026-10-12T05:46:08.692Z",
+  "preparedAt": "2026-10-12T05:31:08.692Z"
+}
