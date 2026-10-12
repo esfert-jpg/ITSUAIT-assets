@@ -360,7 +360,24 @@
   "retry": [],
   "blocked": null,
   "batch": "1740b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-12T08:56:04.096Z",
-  "preparedAt": "2026-10-12T08:41:04.096Z"
+  "preparedAt": "2026-10-12T08:41:04.096Z",
+  "publishedAt": "2026-10-12T09:03:20.134Z",
+  "result": {
+    "published": [
+      {
+        "name": "오키나라",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_560.html",
+        "skipped": false
+      },
+      {
+        "name": "영동그집",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_358.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
