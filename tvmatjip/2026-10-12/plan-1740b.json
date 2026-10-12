@@ -1,0 +1,366 @@
+{
+  "date": "2026-10-12",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "justlaben/224439246576",
+      "program": "생방송 투데이",
+      "title": "[중랑역 상봉역 제철 해산물 모듬회 핫플] 생방송투데이 중랑구 해산물맛집 오키나라 위치 정보",
+      "place": "오키나라",
+      "region": "서울 중랑구",
+      "dishes": [
+        "모듬회",
+        "제철 해산물 모듬회"
+      ],
+      "corner": "대식가",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224439246576",
+      "postedAt": "2026-10-12T08:33:02.000Z",
+      "dishVotes": {
+        "모듬회": 1,
+        "제철 해산물 모듬회": 1
+      },
+      "votes": {
+        "생방송 투데이": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224439249052",
+      "program": "생방송 투데이",
+      "title": "[신논현역 강남역 특수부위 고기 핫플] 대식가 고기를품은 고기, 생방송투데이 강남 고기맛집 영동그집 위치 정보",
+      "place": "영동그집",
+      "region": "서울 강남구",
+      "dishes": [
+        "항정살",
+        "관자살"
+      ],
+      "corner": "대식가",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224439249052",
+      "postedAt": "2026-10-12T08:35:26.000Z",
+      "dishVotes": {
+        "항정살": 2,
+        "관자살": 2
+      },
+      "votes": {
+        "생방송 투데이": 2
+      },
+      "copies": 2
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 2,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1740b-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-12",
+        "episode": null,
+        "corner": "대식가",
+        "episodeTitle": null,
+        "region": "서울 중랑구",
+        "place": "오키나라",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "justlaben",
+          "link": "https://blog.naver.com/justlaben/224439246576",
+          "title": "[중랑역 상봉역 제철 해산물 모듬회 핫플] 생방송투데이 중랑구 해산물맛집 오키나라 위치 정보",
+          "postedAt": "2026-10-12T08:33:02.000Z"
+        },
+        "dishHints": [
+          "모듬회",
+          "제철 해산물 모듬회"
+        ],
+        "dishVotes": {
+          "모듬회": 1,
+          "제철 해산물 모듬회": 1
+        }
+      },
+      "store": {
+        "name": "오키나라",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%98%A4%ED%82%A4%EB%82%98%EB%9D%BC-ptgxeiwrczcr/",
+        "address": "서울 중랑구 중랑역로 69 1층 오키나라",
+        "category": "음식점 > 주점/바 > 이자카야",
+        "roadAddress": "서울 중랑구 중랑역로 69 1층 오키나라",
+        "jibunAddress": "서울 중랑구 중화동 312-42",
+        "phone": null,
+        "safePhone": "050713670054",
+        "hours": {
+          "월": "17:00~02:00",
+          "화": "17:00~02:00",
+          "수": null,
+          "목": "17:00~02:00",
+          "금": "17:00~02:00",
+          "토": null,
+          "일": "17:00~01:00"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "수",
+          "토"
+        ],
+        "menu": [
+          {
+            "name": "인스타에서만 소개하는 제철 사시미",
+            "price": 0,
+            "maxPrice": null
+          },
+          {
+            "name": "노량진수산모듬스폐셜",
+            "price": 78600,
+            "maxPrice": null
+          },
+          {
+            "name": "**극 락 **",
+            "price": 68600,
+            "maxPrice": null
+          },
+          {
+            "name": "봄 제철 꽃게 회",
+            "price": 75000,
+            "maxPrice": null
+          },
+          {
+            "name": "제철 한치3마리로 만든 시원한물회",
+            "price": 42000,
+            "maxPrice": null
+          },
+          {
+            "name": "제철만 골라먹는 반반 수산해물",
+            "price": 58900,
+            "maxPrice": null
+          },
+          {
+            "name": "고급 랍스터 3kg 코스",
+            "price": 350000,
+            "maxPrice": null
+          },
+          {
+            "name": "알가득 꽃게찜",
+            "price": 75000,
+            "maxPrice": null
+          },
+          {
+            "name": "미더덕회",
+            "price": 35000,
+            "maxPrice": null
+          },
+          {
+            "name": "호래기 회",
+            "price": 35000,
+            "maxPrice": null
+          },
+          {
+            "name": "전복 내장 파스타",
+            "price": 25800,
+            "maxPrice": null
+          },
+          {
+            "name": "육회",
+            "price": 28800,
+            "maxPrice": null
+          },
+          {
+            "name": "제철 맑은 조개탕",
+            "price": 27900,
+            "maxPrice": null
+          },
+          {
+            "name": "통새우 감바스",
+            "price": 23900,
+            "maxPrice": null
+          },
+          {
+            "name": "차돌박이 스키야끼",
+            "price": 38600,
+            "maxPrice": null
+          },
+          {
+            "name": "오징어먹물튀김",
+            "price": 23800,
+            "maxPrice": null
+          },
+          {
+            "name": "제철 녹진하고 칼칼한 꽃게탕",
+            "price": 28900,
+            "maxPrice": null
+          },
+          {
+            "name": "명란 치즈 감자",
+            "price": 10800,
+            "maxPrice": null
+          },
+          {
+            "name": "통영 굴튀김",
+            "price": 18900,
+            "maxPrice": null
+          },
+          {
+            "name": "이 외에도 매장내 제철 메뉴 가득",
+            "price": 0,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5995044,
+          "lng": 127.0780053
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 중랑구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 146
+    },
+    {
+      "id": "1740b-2",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-12",
+        "episode": null,
+        "corner": "대식가",
+        "episodeTitle": null,
+        "region": "서울 강남구",
+        "place": "영동그집",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "justlaben",
+          "link": "https://blog.naver.com/justlaben/224439249052",
+          "title": "[신논현역 강남역 특수부위 고기 핫플] 대식가 고기를품은 고기, 생방송투데이 강남 고기맛집 영동그집 위치 정보",
+          "postedAt": "2026-10-12T08:35:26.000Z"
+        },
+        "dishHints": [
+          "항정살",
+          "관자살"
+        ],
+        "dishVotes": {
+          "항정살": 2,
+          "관자살": 2
+        }
+      },
+      "store": {
+        "name": "영동그집",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%98%81%EB%8F%99%EA%B7%B8%EC%A7%91-i7r5u8xjkop2/",
+        "address": "서울 강남구 봉은사로1길 42-8",
+        "category": "음식점 > 한식 > 고기 구이",
+        "roadAddress": "서울 강남구 봉은사로1길 42-8",
+        "jibunAddress": "서울 강남구 논현동 167-3",
+        "phone": null,
+        "safePhone": "050714839902",
+        "hours": {
+          "월": "16:30~23:00",
+          "화": "16:30~23:00",
+          "수": "16:30~23:00",
+          "목": "16:30~23:00",
+          "금": "16:30~23:00",
+          "토": "12:00~23:00",
+          "일": "12:00~23:00"
+        },
+        "breakTime": {
+          "토": "15:00~17:00",
+          "일": "15:00~17:00"
+        },
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "돼지 가리비(300g)",
+            "price": 39000,
+            "maxPrice": null
+          },
+          {
+            "name": "돼지 감자살(150g)",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "수원식 양념돼지갈비(250g)",
+            "price": 21000,
+            "maxPrice": null
+          },
+          {
+            "name": "그집 삼겹살(150g)",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "제주목살(150g)",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우육회(200g)",
+            "price": 25000,
+            "maxPrice": null
+          },
+          {
+            "name": "차돌 된장찌개/된장술밥",
+            "price": 11000,
+            "maxPrice": 12000
+          },
+          {
+            "name": "돼지김치찌개",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "그집 물냉면",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "그집 비빔냉면",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "그집 리조또",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "콜키지차지",
+            "price": 20000,
+            "maxPrice": 30000
+          }
+        ],
+        "coordinates": {
+          "lat": 37.507466,
+          "lng": 127.0244451
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 강남구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 147
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1740b",
+  "status": "pending",
+  "publishAfter": "2026-10-12T08:56:04.096Z",
+  "preparedAt": "2026-10-12T08:41:04.096Z"
+}
