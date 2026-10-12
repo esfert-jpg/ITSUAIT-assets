@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-12",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=554120",
+    "airDate": "2026-10-12",
+    "episode": null
+  },
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=554120",
+      "program": "생생정보",
+      "title": "'생생정보' 달라야 사는 크리에이터, 투망에 빠진 곽흥만 씨",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=554118",
+      "program": "생생정보",
+      "title": "'생생정보' 장PD의 AI 여행기, 고창에서 만나는 가을 풍경",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=554117",
+      "program": "생생정보",
+      "title": "'생생정보' 서울숲부터 성수 골목까지, 요즘 뜨는 거리",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=554116",
+      "program": "생생정보",
+      "title": "'생생정보' 1++ 한우곰탕이 이 가격에? 놀라운 한 그릇",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=554109",
+      "program": "생생정보",
+      "title": "'생생정보' AI는 일상으로, 미래 기술을 만나는 현장",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "corners": 5,
+  "targets": 12,
+  "skipped": [
+    "호과당",
+    "빌라드블루 성수"
+  ],
+  "stores": [
+    {
+      "id": "1450-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-12",
+        "episode": null,
+        "corner": "장PD의 AI 여행기",
+        "episodeTitle": null,
+        "region": "전북 고창군",
+        "place": "고창선운산풍천장어",
+        "description": "이날 여행에서는 먼저 '선운사'를 찾아간다. 가을 고창을 주제로 한 이번 여정에서 사찰을 둘러보며 여행을 시작할 예정이다. 이어 '넓은들 학원농장'을 방문한다. 가을이라는 계절을 중심으로 고창의 여러 장소를 따라가며 또 다른 풍경을 만나본다. '넓은들 학원농장'은 오전 8시 30분부터 오후 6시까지 운영하며 입장은 오후 5시 30분까지 가능하다. 다음 목적지는 '고창읍성'이다. '선운사'와 '넓은들 학원농장'에 이어 고창의 또 다른 장소를 찾아가며 여행을 이어간다. '만돌갯벌체험학습장'도 이번 방송에 등장한다. 이곳은 연중무휴로 안내돼 있으나 체험을 위해서는 사전 예약이 필요하다. 사찰과 농장, 읍성에 이어 갯벌까지 둘러보는 여정이다. 먹거리로는 '고창선운산풍천장어'를 찾는다. 고창의 풍천장어를 만날 수 있는 식당으로, 여행의 마지막에는 지역 먹거리를 소개할 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=554118",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "고창선운산풍천장어",
+        "url": "https://www.daangn.com/kr/local-profile/%EA%B3%A0%EC%B0%BD%EC%84%A0%EC%9A%B4%EC%82%B0%ED%92%8D%EC%B2%9C%EC%9E%A5%EC%96%B4-68ncvydaci8g/",
+        "address": "전북특별자치도 고창군 고창읍 월곡8길 5",
+        "category": "음식점 > 한식 > 수산물/횟집",
+        "roadAddress": "전북특별자치도 고창군 고창읍 월곡8길 5",
+        "jibunAddress": "전북특별자치도 고창군 고창읍 월곡리 684번지 초콜렛",
+        "phone": null,
+        "safePhone": "050713788814",
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 35.4358702547409,
+          "lng": 126.711597748546
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 전북 고창군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 134
+    },
+    {
+      "id": "1450-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-12",
+        "episode": null,
+        "corner": "핫 플레이스 NOW",
+        "episodeTitle": null,
+        "region": "서울 성동구",
+        "place": "모리몰리",
+        "description": "이날 방송에서는 서울 성동구에 위치한 '서울숲'을 시작으로 주변 거리의 다양한 공간을 찾아간다. 이번 여정은 휴식과 트렌드라는 두 가지 주제를 중심으로 펼쳐진다. 먼저 '서울숲'을 둘러본 뒤 인근에 자리한 '호과당'을 방문한다. 이어 '빌라드블루 성수'로 발걸음을 옮기며 서울숲 거리에서 만날 수 있는 장소들을 차례로 소개할 예정이다. '모리몰리'도 이번 방송에 등장한다. 서울 성동구에 위치한 이곳을 찾아가며 서울숲을 중심으로 이어지는 거리 탐방을 계속한다. 마지막으로 '레르트 서울숲'을 방문한다. '서울숲'과 '호과당', '빌라드블루 성수', '모리몰리', '레르트 서울숲'까지 모두 다섯 곳을 따라가며 주변 공간을 살펴볼 예정이다. 공원에서의 휴식과 거리 곳곳의 새로운 공간을 함께 만나는 이번 여정은 힐링과 트렌드가 공존한다는 주제에 맞춰 진행된다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=554117",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "모리몰리",
+        "url": null,
+        "address": null,
+        "category": "일식",
+        "roadAddress": "서울특별시 성동구 성수일로3길 3-5, 지하1~3층 (성수동1가)",
+        "jibunAddress": "서울특별시 성동구 성수동1가 656-103",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.5419829826571,
+          "lng": 127.04839477851759
+        },
+        "licenseDate": "2026-05-08",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '모리몰리' + '성동구' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 135
+    }
+  ],
+  "held": [
+    {
+      "place": "넓은들 학원농장",
+      "region": "전북 고창군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '넓은들학' + '고창군' / 0건"
+    },
+    {
+      "place": "고창읍성",
+      "region": "전북 고창군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '고창읍성' + '고창군' / 0건"
+    },
+    {
+      "place": "만돌갯벌체험학습장",
+      "region": "전북 고창군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '만돌갯벌' + '고창군' / 0건"
+    },
+    {
+      "place": "레르트 서울숲",
+      "region": "서울 성동구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '레르트서' + '성동구' / 0건"
+    },
+    {
+      "place": "방가네한우정육식당",
+      "region": "경기 화성특례시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 8개 중 상호·시군구가 다 맞는 곳 없음: 1. 방가네한우정육식당 (경기도 화성시 향남읍 방축리 146-1) — 다른 시군구 (경기도 화성시 향남읍 방축리 146-1) | 2. 삼삼이네한우집 방배점 (서울 서초구 방배로 116) — 상호 불일치 (찾은 것: '삼삼이네한우집 방배점') | 3. 봄에한우 (서울 강남구 언주로30길 21 아카데미스위트 별관2층) — 상호 불일치 (찾은 것: '봄에한우') | 4. 정가네우대갈비 (서울특별시 서초구 방배천로2안길 7) — 상호 불일치 (찾은 것: '정가네우대갈비') | 5. 우생한우 본점 (서울 강남구 강남대로112길 35) — 상호 불일치 (찾은 것: '우생한우 본점') | 6. 방배육감 (서울 서초구 효령로 19 아센빌딩 1층, 2층) — 상호 불일치 (찾은 것: '방배육감') | 7. 안성한우방 (서울특별시 서초구 잠원로14길 29) — 상호 불일치 (찾은 것: '안성한우방') | 8. 본가 대치점 (서울특별시 강남구 남부순환로 2913) — 상호 불일치 (찾은 것: '본가 대치점')) / 인허가 '방가네한' + '화성특례시' / 0건"
+    },
+    {
+      "place": "스마트 라이프 위크 2026",
+      "region": "서울 강남구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '스마트라' + '강남구' / 0건"
+    },
+    {
+      "place": "상상은 현실로, AI는 일상으로",
+      "region": "서울 강남구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '상상은현' + '강남구' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "선운사",
+      "region": "전북 고창군",
+      "name": "선운사",
+      "category": "기업/기관/단체 > 종교 > 대형사찰"
+    },
+    {
+      "place": "서울숲",
+      "region": "서울 성동구",
+      "name": "서울숲",
+      "category": "관광/명소 > 공원 > 대형시민공원"
+    },
+    {
+      "place": "코엑스",
+      "region": "서울 강남구",
+      "name": "코엑스포",
+      "category": "기업/기관/단체 > 기업 > 일반 기업"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1450",
+  "status": "pending",
+  "publishAfter": "2026-10-12T06:07:15.364Z",
+  "preparedAt": "2026-10-12T05:52:15.364Z"
+}
