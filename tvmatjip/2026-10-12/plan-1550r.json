@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-12",
+  "from": "retry",
+  "article": null,
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [],
+  "signals": [],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 4,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "문경이장님감홍사과",
+      "region": "경북 문경시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '문경이장' + '문경시' / 0건"
+    },
+    {
+      "place": "어사매횡성더덕영농조합법인",
+      "region": "강원 횡성군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '어사매횡' + '횡성군' / 0건"
+    },
+    {
+      "place": "유채정원",
+      "region": "강원 횡성군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '유채정원' + '횡성군' / 0건"
+    },
+    {
+      "place": "황골오복농장",
+      "region": "강원 횡성군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '황골오복' + '횡성군' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1550r",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-12T06:51:17.628Z"
+}
