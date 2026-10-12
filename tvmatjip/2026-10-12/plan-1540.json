@@ -51,7 +51,8 @@
         "signal": null,
         "dishHints": [],
         "dishVotes": {}
-      }
+      },
+      "retriedIn": "1550r"
     },
     {
       "place": "어사매횡성더덕영농조합법인",
@@ -71,7 +72,8 @@
         "signal": null,
         "dishHints": [],
         "dishVotes": {}
-      }
+      },
+      "retriedIn": "1550r"
     },
     {
       "place": "유채정원",
@@ -91,7 +93,8 @@
         "signal": null,
         "dishHints": [],
         "dishVotes": {}
-      }
+      },
+      "retriedIn": "1550r"
     },
     {
       "place": "황골오복농장",
@@ -111,7 +114,8 @@
         "signal": null,
         "dishHints": [],
         "dishVotes": {}
-      }
+      },
+      "retriedIn": "1550r"
     }
   ],
   "blocked": null,
