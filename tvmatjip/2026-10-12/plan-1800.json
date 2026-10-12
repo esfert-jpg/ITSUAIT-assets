@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-12",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=554265",
+    "airDate": "2026-10-12",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=554265",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 고기를 품은 고기? 등심덧살 품은 항정살",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=554264",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 가을엔 제철 해산물, 계절을 담은 한 상",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=554261",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 우리 쌀이 달라졌어요, 향기로운 쌀의 세계",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=554260",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 세계유산을 품은 안동, 2026 세계유산축전 개최",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "corners": 4,
+  "targets": 9,
+  "skipped": [
+    "영동그집",
+    "오키나라"
+  ],
+  "stores": [],
+  "held": [
+    {
+      "place": "고기를 품은 고기",
+      "region": "서울 강남구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '고기를품' + '강남구' / 0건"
+    },
+    {
+      "place": "식감 천재 관자살",
+      "region": "서울 강남구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '식감천재' + '강남구' / 0건"
+    },
+    {
+      "place": "우리 쌀이 달라졌어요",
+      "region": "서울 영등포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '우리쌀이' + '영등포구' / 0건"
+    },
+    {
+      "place": "동네정미소",
+      "region": "서울 영등포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '동네정미' + '영등포구' / 0건"
+    },
+    {
+      "place": "2026 세계유산축전 안동",
+      "region": "경북 안동시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '2026' + '안동시' / 2건이라 자동 선택 안 함: 2026년 구시장 풍물장터 야시장(일품갈비중앙점), 2026년 구시장 풍물장터 야시장(청식당)"
+    },
+    {
+      "place": "봉정사",
+      "region": "경북 안동시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '봉정사' + '안동시' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "하회마을",
+      "region": "경북 안동시",
+      "name": "하회마을종합안내소",
+      "category": "시설 > 구역내시설물 > 기타 구역내시설물"
+    },
+    {
+      "place": "도산서원",
+      "region": "경북 안동시",
+      "name": "도산서원",
+      "category": "관광/명소 > 일반 명소 > 유적지"
+    },
+    {
+      "place": "병산서원",
+      "region": "경북 안동시",
+      "name": "병산서원",
+      "category": "관광/명소 > 일반 명소 > 유적지"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1800",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-12T09:01:59.508Z"
+}
