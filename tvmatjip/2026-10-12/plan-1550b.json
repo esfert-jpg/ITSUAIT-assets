@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-12",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "justlaben/224439114332",
+      "program": "6시 내고향",
+      "title": "[완도 보길도 산지 직송 활어 택배 핫플] 6시내고향 완도 활어택배주문 85수산 위치 정보",
+      "place": "85수산",
+      "region": "전남 완도군",
+      "dishes": [],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224439114332",
+      "postedAt": "2026-10-12T06:43:44.000Z",
+      "dishVotes": {},
+      "votes": {
+        "6시 내고향": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "85수산",
+      "region": "전남 완도군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '85수산' + '완도군' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1550b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-12T06:50:44.799Z"
+}
