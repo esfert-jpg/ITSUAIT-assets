@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-12",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224439003927",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 화성 향남 맛집! 1++ 한우곰탕 파격 가성비 방가네한우정육식당",
+      "place": "방가네한우정육식당",
+      "region": "경기 화성시",
+      "dishes": [
+        "한우곰탕"
+      ],
+      "corner": "가격파괴 Why",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224439003927",
+      "postedAt": "2026-10-12T05:15:27.000Z",
+      "dishVotes": {
+        "한우곰탕": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [],
+  "excluded": [
+    {
+      "place": "방가네한우정육식당",
+      "region": "경기 화성시",
+      "name": "방가네한우정육식당",
+      "category": "상품 판매 > 식품 > 축산물"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1420b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-12T05:20:48.096Z"
+}
