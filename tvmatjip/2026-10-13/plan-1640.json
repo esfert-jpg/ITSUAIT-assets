@@ -223,7 +223,19 @@
   "retry": [],
   "blocked": null,
   "batch": "1640",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-13T07:56:02.435Z",
-  "preparedAt": "2026-10-13T07:41:02.435Z"
+  "preparedAt": "2026-10-13T07:41:02.435Z",
+  "publishedAt": "2026-10-13T08:01:28.815Z",
+  "result": {
+    "published": [
+      {
+        "name": "뉴욕아파트먼트",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_878.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
