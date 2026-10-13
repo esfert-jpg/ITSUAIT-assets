@@ -303,7 +303,29 @@
   "retry": [],
   "blocked": null,
   "batch": "1540",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-13T06:57:37.633Z",
-  "preparedAt": "2026-10-13T06:42:37.633Z"
+  "preparedAt": "2026-10-13T06:42:37.633Z",
+  "publishedAt": "2026-10-13T07:02:03.727Z",
+  "result": {
+    "published": [
+      {
+        "name": "옥화주막",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_13.html",
+        "skipped": false
+      },
+      {
+        "name": "길등재",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_405.html",
+        "skipped": false
+      },
+      {
+        "name": "맥시칸치킨 예끼마을점",
+        "url": "https://wherethatplace.blogspot.com/2026/10/6_0281480785.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
