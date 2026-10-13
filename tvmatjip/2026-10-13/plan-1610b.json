@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-13",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "justlaben/224440354870",
+      "program": "6시 내고향",
+      "title": "[남원 교룡산 국민관광지 숲속야영장 핫플] 6시내고향 남원 캠핑장 교룡공원 숲속야영장 위치 정보",
+      "place": "교룡공원 숲속야영장",
+      "region": "전북 남원시",
+      "dishes": [],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224440354870",
+      "postedAt": "2026-10-13T07:01:57.000Z",
+      "dishVotes": {},
+      "votes": {
+        "6시 내고향": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "justlaben/224440358070",
+      "program": "6시 내고향",
+      "title": "[6시내고향 황금예찬 쌀 ] 6시내고향 부산 쌀구매처 가락농협 위치 정보",
+      "place": "가락농협",
+      "region": "부산 강서구",
+      "dishes": [
+        "황금예찬 쌀"
+      ],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224440358070",
+      "postedAt": "2026-10-13T07:04:35.000Z",
+      "dishVotes": {
+        "황금예찬 쌀": 1
+      },
+      "votes": {
+        "6시 내고향": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "justlaben/224440361794",
+      "program": "6시 내고향",
+      "title": "[안동 도산면 안동호 전통 한옥 스테이 핫플] 6시내고향 안동 한옥체험 선성현문화단지 위치 정보",
+      "place": "선성현문화단지",
+      "region": "경북 안동시",
+      "dishes": [],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224440361794",
+      "postedAt": "2026-10-13T07:07:38.000Z",
+      "dishVotes": {},
+      "votes": {
+        "6시 내고향": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [
+    "교룡공원 숲속야영장",
+    "선성현문화단지"
+  ],
+  "stores": [],
+  "held": [
+    {
+      "place": "가락농협",
+      "region": "부산 강서구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '가락농협' + '강서구' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1610b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-13T07:10:44.947Z"
+}
