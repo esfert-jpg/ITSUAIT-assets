@@ -1,0 +1,229 @@
+{
+  "date": "2026-10-13",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=554624",
+    "airDate": "2026-10-13",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=554624",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' UDT, 개성 가득한 서교동에서 즐기는 특별한 하루",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "corners": 1,
+  "targets": 3,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1640-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-13",
+        "episode": null,
+        "corner": "UDT",
+        "episodeTitle": null,
+        "region": "서울 마포구",
+        "place": "뉴욕아파트먼트",
+        "description": "이날 방송에서는 서로 다른 매력을 지닌 세 곳을 찾아가며 서교동 일대에서 즐길 수 있는 먹거리와 공간을 만나볼 예정이다. 각기 다른 이름과 특징을 가진 장소들을 중심으로 동네 탐방이 펼쳐진다. 먼저 서울 마포구에 위치한 '뉴욕아파트먼트'를 방문한다. 이번 여정의 첫 번째 장소로, 서교동 일대의 개성 있는 공간을 찾아가는 이야기가 시작된다. 이어 '구우움베이커리'로 향한다. 베이커리라는 이름에 걸맞게 빵을 주제로 한 공간을 만나며 동네 탐방의 또 다른 즐거움을 소개할 예정이다. 앞서 방문한 곳과는 다른 먹거리를 중심으로 이야기를 이어간다. 마지막으로 '더기와 합정점'을 찾아간다. 세 번째 장소까지 차례로 둘러보며 서울 마포구 일대에 자리한 다양한 공간을 살펴볼 예정이다. 이번 방송에서는 '뉴욕아파트먼트', '구우움베이커리', '더기와 합정점'을 통해 서교동 일대의 서로 다른 장소를 연결한다. 구체적인 메뉴나 체험 내용은 별도로 안내되지 않았으며, 각 장소에서 만날 수 있는 특징은 방송을 통해 소개될 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=554624",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "뉴욕아파트먼트",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%89%B4%EC%9A%95%EC%95%84%ED%8C%8C%ED%8A%B8%EB%A8%BC%ED%8A%B8-x8nic2ok93sv/",
+        "address": "서울특별시 마포구 월드컵로3길 14 (합정동, 마포 한강 2차 푸르지오)",
+        "category": "음식점 > 양식 > 스테이크/바베큐",
+        "roadAddress": "서울특별시 마포구 월드컵로3길 14 (합정동, 마포 한강 2차 푸르지오)",
+        "jibunAddress": "서울특별시 마포구 합정동 473 마포 한강 2차 푸르지오",
+        "phone": "023337626",
+        "safePhone": null,
+        "hours": {
+          "월": "11:10~23:00",
+          "화": "11:10~23:00",
+          "수": "11:10~23:00",
+          "목": "11:10~23:00",
+          "금": "11:10~23:00",
+          "토": "11:10~23:00",
+          "일": "11:10~23:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "뉴욕더블치즈버거",
+            "price": 17500,
+            "maxPrice": null
+          },
+          {
+            "name": "뉴욕스테이크버거",
+            "price": 15500,
+            "maxPrice": null
+          },
+          {
+            "name": "뉴욕치즈버거",
+            "price": 14500,
+            "maxPrice": null
+          },
+          {
+            "name": "다이어트수제버거",
+            "price": 23500,
+            "maxPrice": null
+          },
+          {
+            "name": "립위치세트",
+            "price": 35000,
+            "maxPrice": null
+          },
+          {
+            "name": "맥엔치즈버거",
+            "price": 16500,
+            "maxPrice": null
+          },
+          {
+            "name": "명란오일파스타",
+            "price": 16500,
+            "maxPrice": null
+          },
+          {
+            "name": "바베큐인뉴욕",
+            "price": 13500,
+            "maxPrice": null
+          },
+          {
+            "name": "베이비백립",
+            "price": 49000,
+            "maxPrice": null
+          },
+          {
+            "name": "베이컨치즈버거",
+            "price": 12500,
+            "maxPrice": null
+          },
+          {
+            "name": "봉골레파스타",
+            "price": 17500,
+            "maxPrice": null
+          },
+          {
+            "name": "시져샐러드",
+            "price": 8500,
+            "maxPrice": null
+          },
+          {
+            "name": "알리오올리오파스타",
+            "price": 15500,
+            "maxPrice": null
+          },
+          {
+            "name": "어니언링",
+            "price": 12500,
+            "maxPrice": null
+          },
+          {
+            "name": "치즈홀릭",
+            "price": 17500,
+            "maxPrice": null
+          },
+          {
+            "name": "칠리스택버거",
+            "price": 15500,
+            "maxPrice": null
+          },
+          {
+            "name": "칠리치즈감자튀김",
+            "price": 14500,
+            "maxPrice": null
+          },
+          {
+            "name": "카프레제샐러드",
+            "price": 12500,
+            "maxPrice": null
+          },
+          {
+            "name": "텍사스바베큐모듬셋트",
+            "price": 59000,
+            "maxPrice": null
+          },
+          {
+            "name": "트러플버섯크림치킨",
+            "price": 21500,
+            "maxPrice": null
+          },
+          {
+            "name": "트러플오일버섯크림파스타",
+            "price": 16500,
+            "maxPrice": null
+          },
+          {
+            "name": "피기크림버거",
+            "price": 15500,
+            "maxPrice": null
+          },
+          {
+            "name": "피넛버터크림치킨",
+            "price": 21500,
+            "maxPrice": null
+          },
+          {
+            "name": "하와이안잭소스버거",
+            "price": 15500,
+            "maxPrice": null
+          },
+          {
+            "name": "할라피뇨치즈치킨",
+            "price": 22500,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.55098688314358,
+          "lng": 126.9115352257538
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 마포구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 160
+    }
+  ],
+  "held": [
+    {
+      "place": "구우움베이커리",
+      "region": "서울 마포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '구우움베' + '마포구' / 0건"
+    },
+    {
+      "place": "더기와 합정점",
+      "region": "서울 마포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '더기와합' + '마포구' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1640",
+  "status": "pending",
+  "publishAfter": "2026-10-13T07:56:02.435Z",
+  "preparedAt": "2026-10-13T07:41:02.435Z"
+}
