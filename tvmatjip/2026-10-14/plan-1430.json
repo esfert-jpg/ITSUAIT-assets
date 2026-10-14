@@ -1,0 +1,245 @@
+{
+  "date": "2026-10-14",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=554942",
+    "airDate": "2026-10-14",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=554942",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 충남 홍성 광천 토굴새우젓과 젓갈 백반 한 상",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=554941",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 충남 홍성 광천 새우젓, 구입 가능한 판매처 3곳 소개",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=554939",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 충남 홍성 오서산부터 남당항·한우까지 여행 코스 소개",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=554938",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 충남 홍성 광천 새우젓과 조미김, 지역 먹거리 소개",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "corners": 4,
+  "targets": 11,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1430-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-10-14",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "충남 홍성군",
+        "place": "미당한우",
+        "description": "이번 방송에서는 홍성의 자연 명소부터 체험 공간과 먹거리까지 차례로 만나볼 예정이다. 먼저 홍성군 광천읍에 자리한 '오서산'을 찾아간다. 방송에서는 오서산을 중심으로 지역의 자연 명소를 살펴보며 홍성 여행의 첫 번째 장소를 소개할 예정이다. 이어 방문하는 곳은 '오서산상담마을'이다. 홍성군 광천읍에 위치한 이곳에서는 체험 마을을 주제로 한 시간을 마련한다. 오서산 방문에 이어 마을에서 즐길 수 있는 체험을 소개하며 여정을 이어갈 예정이다. 다음으로 홍성군 서부면에 자리한 '남당항 네트어드벤처'를 찾아간다. 방송에서는 네트어드벤처를 중심으로 체험 공간의 모습을 살펴본다. 이어 인근의 '남당항 해양분수공원'을 방문해 또 다른 볼거리를 소개할 예정이다. 마지막으로 홍성군에 자리한 한우 식당 '미당한우'를 찾아간다. 이번 방송에서는 한우를 중심으로 한 먹거리를 소개하며 앞서 둘러본 명소와 체험 공간에 이어 식사로 여정을 마무리할 예정이다. 오서산의 자연 풍경부터 체험 마을, 남당항의 즐길 거리와 해양분수공원, 한우 먹거리까지 다양한 주제로 이어지는 충남 홍성의 모습을 KBS1 '6시 내고향'을 통해 전할 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=554939",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "미당한우",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%AF%B8%EB%8B%B9%ED%95%9C%EC%9A%B0-mixrkuyd84si/",
+        "address": "충남 홍성군 홍성읍 홍덕서로 193",
+        "category": "음식점 > 한식 > 고기 구이",
+        "roadAddress": "충남 홍성군 홍성읍 홍덕서로 193",
+        "jibunAddress": "충남 홍성군 홍성읍 월산리 626-2",
+        "phone": "0416322001",
+        "safePhone": null,
+        "hours": {
+          "월": "11:00~21:00",
+          "화": "11:00~21:00",
+          "수": null,
+          "목": "11:00~21:00",
+          "금": "11:00~21:00",
+          "토": "11:00~21:00",
+          "일": "11:00~21:00"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "수"
+        ],
+        "menu": [
+          {
+            "name": "꽃등심 150g",
+            "price": 40000,
+            "maxPrice": null
+          },
+          {
+            "name": "생갈비 200g",
+            "price": 55000,
+            "maxPrice": null
+          },
+          {
+            "name": "살치살",
+            "price": 55000,
+            "maxPrice": null
+          },
+          {
+            "name": "새우살",
+            "price": 65000,
+            "maxPrice": null
+          },
+          {
+            "name": "⭐소양념갈비 250g",
+            "price": 45000,
+            "maxPrice": null
+          },
+          {
+            "name": "⭐특수부위모듬 150g",
+            "price": 40000,
+            "maxPrice": null
+          },
+          {
+            "name": "안창살 150g",
+            "price": 55000,
+            "maxPrice": null
+          },
+          {
+            "name": "육사시미",
+            "price": 33000,
+            "maxPrice": null
+          },
+          {
+            "name": "육회",
+            "price": 33000,
+            "maxPrice": null
+          },
+          {
+            "name": "돼지갈비(1인250g)",
+            "price": 17000,
+            "maxPrice": null
+          },
+          {
+            "name": "물냉면",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "육회비빔밥",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "누룽지",
+            "price": 4000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 36.6108631,
+          "lng": 126.6346377
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "2순위 / 상호 완전 일치 / 충남 홍성군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 165
+    }
+  ],
+  "held": [
+    {
+      "place": "석이네토굴새우젓백화점",
+      "region": "충남 홍성군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '석이네토' + '홍성군' / 0건"
+    },
+    {
+      "place": "신신본가토굴새우젓",
+      "region": "충남 홍성군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '신신본가' + '홍성군' / 0건"
+    },
+    {
+      "place": "서울상회",
+      "region": "충남 홍성군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 서울상회 (서울특별시 강남구 학동로4길 46) — 다른 시군구 (서울특별시 강남구 학동로4길 46) | 2. 서울상회 (서울특별시 송파구 백제고분로18길 30 우성아파트) — 다른 시군구 (서울특별시 송파구 백제고분로18길 30 우성아파트) | 3. 서울상회 (서울특별시 종로구 난계로27길 52 (숭인동)) — 다른 시군구 (서울특별시 종로구 난계로27길 52 (숭인동)) | 4. 서울상회 (서울특별시 동작구 노들로 674, 노량진수산물도매시장 2층 젓갈판매장2호 (노량진동)) — 다른 시군구 (서울특별시 동작구 노들로 674, 노량진수산물도매시장 2층 젓갈판매장2호 (노량진동)) | 5. 서울상회 (서울특별시 중구 칠패로 8-1) — 다른 시군구 (서울특별시 중구 칠패로 8-1) | 6. 서울상회 (서울특별시 중구 퇴계로85길 34) — 다른 시군구 (서울특별시 중구 퇴계로85길 34) | 7. 서울상회 (서울특별시 중구 퇴계로8길 70) — 다른 시군구 (서울특별시 중구 퇴계로8길 70) | 8. 서울상회 (서울특별시 강동구 상암로 146) — 다른 시군구 (서울특별시 강동구 상암로 146) | 9. 서울상회 (서울특별시 동대문구 고산자로36길 3) — 다른 시군구 (서울특별시 동대문구 고산자로36길 3) | 10. 서울상회 (서울특별시 동대문구 경동시장로 18-9 (제기동)) — 다른 시군구 (서울특별시 동대문구 경동시장로 18-9 (제기동))) / 인허가 '서울상회' + '홍성군' / 0건"
+    },
+    {
+      "place": "정가네 광천 토굴새우젓",
+      "region": "충남 홍성군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '정가네광' + '홍성군' / 0건"
+    },
+    {
+      "place": "오서산상담마을",
+      "region": "충남 홍성군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '오서산상' + '홍성군' / 0건"
+    },
+    {
+      "place": "남당항 네트어드벤처",
+      "region": "충남 홍성군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '남당항네' + '홍성군' / 0건"
+    },
+    {
+      "place": "남당항 해양분수공원",
+      "region": "충남 홍성군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '남당항해' + '홍성군' / 0건"
+    },
+    {
+      "place": "광천우리토굴새우젓",
+      "region": "충남 홍성군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '광천우리' + '홍성군' / 0건"
+    },
+    {
+      "place": "광천무역상사",
+      "region": "충남 홍성군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '광천무역' + '홍성군' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "오서산",
+      "region": "충남 홍성군",
+      "name": "오서산 상담버스종점",
+      "category": "시설 > 구역내시설물 > 기타 구역내시설물"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1430",
+  "status": "pending",
+  "publishAfter": "2026-10-14T05:47:16.633Z",
+  "preparedAt": "2026-10-14T05:32:16.633Z"
+}
