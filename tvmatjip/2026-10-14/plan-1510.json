@@ -342,7 +342,29 @@
   "retry": [],
   "blocked": null,
   "batch": "1510",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-14T06:27:49.618Z",
-  "preparedAt": "2026-10-14T06:12:49.618Z"
+  "preparedAt": "2026-10-14T06:12:49.618Z",
+  "publishedAt": "2026-10-14T06:32:22.050Z",
+  "result": {
+    "published": [
+      {
+        "name": "문화옥",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_14.html",
+        "skipped": false
+      },
+      {
+        "name": "수야시락국집",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_266.html",
+        "skipped": false
+      },
+      {
+        "name": "양평간장게장 담",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_659.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
