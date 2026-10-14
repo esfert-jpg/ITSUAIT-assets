@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-14",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "justlaben/224441438123",
+      "program": "6시 내고향",
+      "title": "[KBS 6시내고향] 충남 홍성 광천 전통토굴새우젓 구매처 핫플: 중앙토굴새우젓 위치 정보",
+      "place": "중앙토굴새우젓",
+      "region": "충남 홍성군",
+      "dishes": [
+        "광천 토굴새우젓"
+      ],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224441438123",
+      "postedAt": "2026-10-14T05:54:31.000Z",
+      "dishVotes": {
+        "광천 토굴새우젓": 1
+      },
+      "votes": {
+        "6시 내고향": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "ohs016830/224441440289",
+      "program": "6시 내고향",
+      "title": "[6시내고향 홍성 젓갈백반] 6시내고향 충남 홍성 젓갈백반 맛집, 석이네토굴새우젓백화점 위치 정보",
+      "place": "석이네토굴새우젓백화점",
+      "region": "충남 홍성군",
+      "dishes": [
+        "젓갈백반"
+      ],
+      "corner": null,
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224441440289",
+      "postedAt": "2026-10-14T05:56:24.000Z",
+      "dishVotes": {
+        "젓갈백반": 2
+      },
+      "votes": {
+        "6시 내고향": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224441442554",
+      "program": "6시 내고향",
+      "title": "[KBS 6시내고향] 충남 홍성 한우암소 생갈비 소고기구이 맛집 핫플: 미당한우 위치 정보",
+      "place": "미당한우",
+      "region": "충남 홍성군",
+      "dishes": [
+        "생갈비",
+        "소고기구이"
+      ],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224441442554",
+      "postedAt": "2026-10-14T05:58:23.000Z",
+      "dishVotes": {
+        "생갈비": 2,
+        "소고기구이": 2
+      },
+      "votes": {
+        "6시 내고향": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224441444770",
+      "program": "6시 내고향",
+      "title": "[KBS 6시내고향] 충남 홍성 광천 조미김 구매처 핫플: 광천무역상사 위치 정보",
+      "place": "광천무역상사",
+      "region": "충남 홍성군",
+      "dishes": [
+        "조미김"
+      ],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224441444770",
+      "postedAt": "2026-10-14T06:00:15.000Z",
+      "dishVotes": {
+        "조미김": 1
+      },
+      "votes": {
+        "6시 내고향": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [
+    "석이네토굴새우젓백화점",
+    "미당한우",
+    "광천무역상사"
+  ],
+  "stores": [],
+  "held": [
+    {
+      "place": "중앙토굴새우젓",
+      "region": "충남 홍성군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '중앙토굴' + '홍성군' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1501b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-14T06:01:14.439Z"
+}
