@@ -1,0 +1,348 @@
+{
+  "date": "2026-10-14",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=555004",
+    "airDate": "2026-10-14",
+    "episode": null
+  },
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=555004",
+      "program": "생생정보",
+      "title": "'생생정보' 청소로 새로운 길을 열다, 캐나다에서 펼쳐진 도전",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=555003",
+      "program": "생생정보",
+      "title": "'생생정보' 서울 한복판에 조선 시대 장군이 태어난 길이 있다?",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=555002",
+      "program": "생생정보",
+      "title": "'생생정보' 신VJ특공대, 가을 통영항에서 만나는 생생한 풍경",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=554997",
+      "program": "생생정보",
+      "title": "'생생정보' 배우 변우민의 단골 맛집, 간장게장과 양념게장 한 상",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "corners": 4,
+  "targets": 16,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1510-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-14",
+        "episode": null,
+        "corner": "떠나요~이야기로(路)",
+        "episodeTitle": null,
+        "region": "서울 중구",
+        "place": "문화옥",
+        "description": "이번 방송은 '서울에는 조선 시대 장군이 태어난 길이 있다?'라는 질문에서 출발한다. 서울 종로구와 중구를 중심으로 역사적 장소와 시장, 먹거리를 차례로 만나볼 예정이다. 먼저 '광화문광장'을 방문한다. 이어 '통인시장'으로 향해 서울의 전통시장 풍경을 살펴보고, '원조정할머니기름떡볶이'를 찾아 기름떡볶이라는 먹거리도 만나본다. 다음으로 '세종대왕 탄생지 표지석'을 찾아간다. 조선 시대 인물의 탄생과 관련된 장소를 둘러보며 서울 곳곳에 남아 있는 역사적 흔적을 살펴볼 예정이다. 이후 서울 중구에 위치한 '도큐멘토'와 '문화옥'을 방문한다. 역사 탐방과 함께 서울의 다양한 공간과 먹거리를 연결하는 여정이다. '서울역사박물관'도 이번 방송에 등장한다. 서울의 역사를 주제로 한 공간을 둘러본 뒤 마지막으로 '충무공 이순신 생가터 표지석'을 찾아간다. 이번 여행에서는 세종대왕의 탄생지와 충무공 이순신의 생가터를 함께 살펴보며 조선 시대 주요 인물들과 관련된 장소를 연결한다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=555003",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "문화옥",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%AC%B8%ED%99%94%EC%98%A5-1dryk83mzj26/",
+        "address": "서울 중구 창경궁로 62-5",
+        "category": "음식점 > 한식 > 탕/전골/찌개",
+        "roadAddress": "서울 중구 창경궁로 62-5",
+        "jibunAddress": "서울 중구 주교동 118-3",
+        "phone": "0222650322",
+        "safePhone": null,
+        "hours": {
+          "월": "07:00~21:00",
+          "화": "07:00~21:00",
+          "수": "07:00~21:00",
+          "목": "07:00~21:00",
+          "금": "07:00~21:00",
+          "토": "07:00~21:00",
+          "일": "07:00~21:00"
+        },
+        "breakTime": {
+          "월": "15:00~17:00",
+          "화": "15:00~17:00",
+          "수": "15:00~17:00",
+          "목": "15:00~17:00",
+          "금": "15:00~17:00",
+          "토": "15:00~17:00",
+          "일": "15:00~17:00"
+        },
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "설렁탕",
+            "price": 13000,
+            "maxPrice": null
+          },
+          {
+            "name": "설렁탕 특",
+            "price": 17000,
+            "maxPrice": null
+          },
+          {
+            "name": "갈비탕",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "도가니탕",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "꼬리곰탕",
+            "price": 24000,
+            "maxPrice": null
+          },
+          {
+            "name": "족탕",
+            "price": 26000,
+            "maxPrice": null
+          },
+          {
+            "name": "수육",
+            "price": 55000,
+            "maxPrice": null
+          },
+          {
+            "name": "도가니수육",
+            "price": 70000,
+            "maxPrice": null
+          },
+          {
+            "name": "꼬리찜",
+            "price": 80000,
+            "maxPrice": null
+          },
+          {
+            "name": "모듬수육",
+            "price": 80000,
+            "maxPrice": null
+          },
+          {
+            "name": "족수육",
+            "price": 85000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5680851,
+          "lng": 126.9985456
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 중구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 169
+    },
+    {
+      "id": "1510-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-14",
+        "episode": null,
+        "corner": "신(新)VJ특공대",
+        "episodeTitle": null,
+        "region": "경남 통영시",
+        "place": "수야시락국집",
+        "description": "이날 방송에서는 경남 통영시를 찾아 항구와 위판장, 시장을 중심으로 이어지는 현장을 살펴볼 예정이다. '찬바람 불면 들썩! 통영항 24시'라는 주제로 통영의 여러 장소가 등장한다. 먼저 '수야시락국집'을 방문한다. 통영에서 만날 수 있는 시락국을 주제로 한 식당으로, 항구 주변의 먹거리와 함께 통영의 하루를 소개하는 장소다. 이어 '통영수협 도천위판장'을 찾아간다. 수산물 위판이 이뤄지는 공간을 중심으로 항구의 현장을 살펴보며 통영항의 또 다른 모습을 만나볼 예정이다. '서호시장'도 이번 방송에 등장한다. 항구와 연결된 지역 시장을 둘러보며 통영에서 만날 수 있는 먹거리와 시장 풍경을 소개한다. 이번 촬영에는 '한국해양교통안전공단'과 '통영해양경찰서 통영파출소' 관계자들도 협조했다. 방송에서는 식당과 위판장, 시장을 연결해 통영항의 여러 현장을 조명할 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=555002",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "수야시락국집",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "경상남도 통영시 새터길 60, 1층 3호 (서호동)",
+        "jibunAddress": "경상남도 통영시 서호동 163-104 1층 3호",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 34.84155601690724,
+          "lng": 128.42003934284935
+        },
+        "licenseDate": "2024-09-10",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '수야시락국집' + '통영시' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 170
+    },
+    {
+      "id": "1510-3",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-14",
+        "episode": null,
+        "corner": "오늘 또 방문: 스타 밥집",
+        "episodeTitle": null,
+        "region": "경기 양평군",
+        "place": "양평간장게장 담",
+        "description": "이날 방송에서 찾아가는 곳은 경기 양평군에 위치한 '양평간장게장 담'이다. 배우 변우민이 단골로 찾는 식당으로, 간장게장과 양념게장을 함께 즐길 수 있는 점심 특선 메뉴가 소개될 예정이다. 이번 방송에서 눈길을 끄는 메뉴는 솥밥과 게장 두 종류를 함께 제공하는 점심 특선이다. 간장게장과 양념게장을 한 상에서 만나볼 수 있으며, 김치전과 밑반찬 4종까지 포함된 구성이 특징이다. 점심 특선의 가격은 2만5000원이다. 솥밥을 중심으로 간장게장과 양념게장, 김치전, 밑반찬까지 차려지는 한 상으로, 서로 다른 게장 메뉴를 함께 즐길 수 있도록 구성됐다. 특히 간장게장과 양념게장을 동시에 맛볼 수 있다는 점이 이번 식사의 주요 내용이다. 여기에 솥밥과 김치전, 네 가지 밑반찬이 더해져 점심 한 끼의 구성을 완성한다. '양평간장게장 담'을 찾아가는 이번 방송에서는 배우 변우민의 단골 식당이라는 이야기와 함께 점심 특선으로 제공되는 게장 한 상을 살펴볼 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=554997",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "양평간장게장 담",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%96%91%ED%8F%89%EA%B0%84%EC%9E%A5%EA%B2%8C%EC%9E%A5-%EB%8B%B4-69z4av8484nx/",
+        "address": "경기도 양평군 양평읍 경강로 2337-9",
+        "category": "음식점 > 한식 > 한정식",
+        "roadAddress": "경기도 양평군 양평읍 경강로 2337-9",
+        "jibunAddress": "경기도 양평군 양평읍 대흥리 672",
+        "phone": "0317734115",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.4919306279336,
+          "lng": 127.53679425905
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경기 양평군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 171
+    }
+  ],
+  "held": [
+    {
+      "place": "서울에는 조선 시대 장군이 태어난 길이 있다?",
+      "region": "서울 종로구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '서울에는' + '종로구' / 0건"
+    },
+    {
+      "place": "원조정할머니기름떡볶이",
+      "region": "서울 종로구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '원조정할' + '종로구' / 0건"
+    },
+    {
+      "place": "세종대왕 탄생지 표지석",
+      "region": "서울 종로구",
+      "name": "이도림 세종대왕 생가터 광화문 서촌 본점",
+      "category": "기타",
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '세종대왕' + '종로구' / 상호 불일치 (찾은 것: '이도림 세종대왕 생가터 광화문 서촌 본점')"
+    },
+    {
+      "place": "도큐멘토",
+      "region": "서울 중구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 2개 중 상호·시군구가 다 맞는 곳 없음: 1. 도큐멘토 (경기도 용인시 수지구 수풍로 90 수지4차삼성아파트) — 다른 시군구 (경기도 용인시 수지구 수풍로 90 수지4차삼성아파트) | 2. 도큐먼트 (경기도 성남시 분당구 황새울로200번길 40) — 상호 불일치 (찾은 것: '도큐먼트')) / 인허가 '도큐멘토' + '중구' / 0건"
+    },
+    {
+      "place": "서울역사박물관",
+      "region": "서울 중구",
+      "name": "토끼정 서울역사점",
+      "category": "일식",
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 서울역사박물관 (서울특별시 종로구 새문안로 55) — 다른 시군구 (서울특별시 종로구 새문안로 55) | 2. 서울역사박물관 주차장 (서울특별시 종로구 신문로2가 2-1) — 다른 시군구 (서울특별시 종로구 신문로2가 2-1) | 3. 서울역사박물관1층개방화장실 (서울특별시 종로구 신문로2가 2-73) — 다른 시군구 (서울특별시 종로구 신문로2가 2-73) | 4. 파스쿠찌 서울역사박물관점 (서울 종로구 새문안로 55 1층) — 다른 시군구 (서울 종로구 새문안로 55 1층) | 5. 서울역사박물관.경희궁앞버스정류장 01008 (서울특별시 종로구 신문로2가 1-33) — 다른 시군구 (서울특별시 종로구 신문로2가 1-33) | 6. 이든푸드 서울역사박물관점 (서울 종로구 새문안로 55) — 다른 시군구 (서울 종로구 새문안로 55) | 7. 따릉이대여소 서울역사박물관앞 (서울특별시 종로구 신문로2가 2-73) — 다른 시군구 (서울특별시 종로구 신문로2가 2-73) | 8. 서울역사박물관.김구집무실(경교장)버스정류장 01250 (서울특별시 종로구 신문로1가 61-7) — 다른 시군구 (서울특별시 종로구 신문로1가 61-7) | 9. 서울역사박물관.경교장.강북삼성병원버스정류장 01123 (서울특별시 종로구 신문로2가 1-15) — 다른 시군구 (서울특별시 종로구 신문로2가 1-15) | 10. 서울역사박물관.경희궁앞(중)버스정류장 01007 (서울특별시 종로구 신문로2가 1-33) — 다른 시군구 (서울특별시 종로구 신문로2가 1-33)) / 인허가 '서울역사' + '중구' / 상호 불일치 (찾은 것: '토끼정 서울역사점')"
+    },
+    {
+      "place": "충무공 이순신 생가터 표지석",
+      "region": "서울 중구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '충무공이' + '중구' / 0건"
+    },
+    {
+      "place": "찬바람 불면 들썩! 통영항 24시",
+      "region": "경남 통영시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '찬바람불' + '통영시' / 0건"
+    },
+    {
+      "place": "통영수협 도천위판장",
+      "region": "경남 통영시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '통영수협' + '통영시' / 0건"
+    },
+    {
+      "place": "한국해양교통안전공단",
+      "region": "경남 통영시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '한국해양' + '통영시' / 0건"
+    },
+    {
+      "place": "통영해양경찰서 통영파출소",
+      "region": "경남 통영시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '통영해양' + '통영시' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "광화문광장",
+      "region": "서울 종로구",
+      "name": "광화문광장",
+      "category": "관광/명소 > 공원 > 대형시민공원"
+    },
+    {
+      "place": "통인시장",
+      "region": "서울 종로구",
+      "name": "통인시장",
+      "category": "시설 > 상업시설 > 재래시장"
+    },
+    {
+      "place": "서호시장",
+      "region": "경남 통영시",
+      "name": "서호시장",
+      "category": "시설 > 상업시설 > 재래시장"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1510",
+  "status": "pending",
+  "publishAfter": "2026-10-14T06:27:49.618Z",
+  "preparedAt": "2026-10-14T06:12:49.618Z"
+}
