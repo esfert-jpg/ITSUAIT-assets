@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-13T23:03:23.930Z",
+  "updatedAt": "2026-10-14T23:03:34.486Z",
   "records": [
+    {
+      "date": "2026-10-15",
+      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "mediaId": "18642763714040574"
+    },
     {
       "date": "2026-10-14",
       "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
