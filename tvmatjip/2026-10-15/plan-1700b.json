@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-15",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "justlaben/224442760760",
+      "program": "생방송 투데이",
+      "title": "[SBS 생방송투데이] 경기 수원 영통동 청명역 감자칼국수 바삭한 튀김 손만두 맛집 핫플: 청명칼국수 위치 정보",
+      "place": "청명칼국수",
+      "region": "경기 수원시",
+      "dishes": [
+        "감자칼국수",
+        "튀김 손만두",
+        "튀김",
+        "손만두"
+      ],
+      "corner": "맛있는퇴근",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224442760760",
+      "postedAt": "2026-10-15T07:55:17.000Z",
+      "dishVotes": {
+        "감자칼국수": 2,
+        "튀김 손만두": 1,
+        "튀김": 1,
+        "손만두": 1
+      },
+      "votes": {
+        "생방송 투데이": 2
+      },
+      "copies": 2
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1700b-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-15",
+        "episode": null,
+        "corner": "맛있는퇴근",
+        "episodeTitle": null,
+        "region": "경기 수원시",
+        "place": "청명칼국수",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "justlaben",
+          "link": "https://blog.naver.com/justlaben/224442760760",
+          "title": "[SBS 생방송투데이] 경기 수원 영통동 청명역 감자칼국수 바삭한 튀김 손만두 맛집 핫플: 청명칼국수 위치 정보",
+          "postedAt": "2026-10-15T07:55:17.000Z"
+        },
+        "dishHints": [
+          "감자칼국수",
+          "튀김 손만두",
+          "튀김",
+          "손만두"
+        ],
+        "dishVotes": {
+          "감자칼국수": 2,
+          "튀김 손만두": 1,
+          "튀김": 1,
+          "손만두": 1
+        }
+      },
+      "store": {
+        "name": "청명칼국수",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%B2%AD%EB%AA%85%EC%B9%BC%EA%B5%AD%EC%88%98-zbzq9djv89b7/",
+        "address": "경기도 수원시 영통구 봉영로 1605 모던타운",
+        "category": "음식점 > 한식 > 국수/냉면",
+        "roadAddress": "경기도 수원시 영통구 봉영로 1605 모던타운",
+        "jibunAddress": "경기도 수원시 영통구 영통동 959-1",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.2545288086572,
+          "lng": 127.073468703255
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경기 수원시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 193
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1700b",
+  "status": "pending",
+  "publishAfter": "2026-10-15T08:16:05.160Z",
+  "preparedAt": "2026-10-15T08:01:05.160Z"
+}
