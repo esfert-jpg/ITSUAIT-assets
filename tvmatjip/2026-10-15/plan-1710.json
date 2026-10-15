@@ -80,7 +80,8 @@
         "signal": null,
         "dishHints": [],
         "dishVotes": {}
-      }
+      },
+      "retriedIn": "1720r"
     },
     {
       "place": "토끼야 떡먹자",
@@ -100,7 +101,8 @@
         "signal": null,
         "dishHints": [],
         "dishVotes": {}
-      }
+      },
+      "retriedIn": "1720r"
     },
     {
       "place": "범양수산",
@@ -120,7 +122,8 @@
         "signal": null,
         "dishHints": [],
         "dishVotes": {}
-      }
+      },
+      "retriedIn": "1720r"
     },
     {
       "place": "영광금호떡집",
@@ -140,7 +143,8 @@
         "signal": null,
         "dishHints": [],
         "dishVotes": {}
-      }
+      },
+      "retriedIn": "1720r"
     },
     {
       "place": "오늘은 푸짐한 칼국수 한 그릇!",
@@ -160,7 +164,8 @@
         "signal": null,
         "dishHints": [],
         "dishVotes": {}
-      }
+      },
+      "retriedIn": "1720r"
     }
   ],
   "blocked": null,
