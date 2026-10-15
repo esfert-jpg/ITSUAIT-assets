@@ -220,7 +220,24 @@
   "retry": [],
   "blocked": null,
   "batch": "1450",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-15T06:07:12.944Z",
-  "preparedAt": "2026-10-15T05:52:12.944Z"
+  "preparedAt": "2026-10-15T05:52:12.944Z",
+  "publishedAt": "2026-10-15T06:11:33.945Z",
+  "result": {
+    "published": [
+      {
+        "name": "임진강언덕너머매운탕",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_286.html",
+        "skipped": false
+      },
+      {
+        "name": "용마루",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_941.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
