@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-14T23:03:34.486Z",
+  "updatedAt": "2026-10-15T23:03:31.886Z",
   "records": [
+    {
+      "date": "2026-10-16",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216309",
+      "title": "메타, ‘뮤즈 스파크 오픈’ 공개…맥 2대로 구동·미국 최고 성능 내세워",
+      "mediaId": "18115512569116096"
+    },
     {
       "date": "2026-10-15",
       "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
