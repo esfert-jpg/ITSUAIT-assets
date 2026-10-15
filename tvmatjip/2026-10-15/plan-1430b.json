@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-15",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224442561052",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 구례 만남가든 자연산 송이버섯전골 vs 광주 용마루 제철 나물 한 상 가을의 맛 대결!",
+      "place": "만남가든",
+      "region": "전남 구례군",
+      "dishes": [
+        "자연산 송이버섯전골"
+      ],
+      "corner": "맛집 맞수다",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224442561052",
+      "postedAt": "2026-10-15T05:22:51.000Z",
+      "dishVotes": {
+        "자연산 송이버섯전골": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1430b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-15",
+        "episode": null,
+        "corner": "맛집 맞수다",
+        "episodeTitle": null,
+        "region": "전남 구례군",
+        "place": "만남가든",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224442561052",
+          "title": "[2TV 생생정보] 구례 만남가든 자연산 송이버섯전골 vs 광주 용마루 제철 나물 한 상 가을의 맛 대결!",
+          "postedAt": "2026-10-15T05:22:51.000Z"
+        },
+        "dishHints": [
+          "자연산 송이버섯전골"
+        ],
+        "dishVotes": {
+          "자연산 송이버섯전골": 1
+        }
+      },
+      "store": {
+        "name": "만남가든",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%A7%8C%EB%82%A8%EA%B0%80%EB%93%A0-jj8yjcb56sfi/",
+        "address": "전라남도 구례군 마산면 한국통신로 8",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "전라남도 구례군 마산면 한국통신로 8",
+        "jibunAddress": "전라남도 구례군 마산면 황전리 506-1",
+        "phone": "0617829172",
+        "safePhone": null,
+        "hours": {
+          "월": "08:00~19:00",
+          "화": "08:00~19:00",
+          "수": "08:00~19:00",
+          "목": "08:00~19:00",
+          "금": "08:00~19:00",
+          "토": "08:00~19:00",
+          "일": "08:00~19:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 35.2414738590459,
+          "lng": 127.486376526418
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 전남 구례군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 182
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1430b",
+  "status": "pending",
+  "publishAfter": "2026-10-15T05:45:54.595Z",
+  "preparedAt": "2026-10-15T05:30:54.595Z"
+}
