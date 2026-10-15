@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-15",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "justlaben/224442639482",
+      "program": "생생정보",
+      "title": "[KBS 2TV 생생정보] 전남 구례 화엄사 가을 제철 자연산 송이버섯전골 맛집 핫플: 만남가든 위치 정보",
+      "place": "만남가든",
+      "region": "전남 구례군",
+      "dishes": [
+        "송이버섯전골"
+      ],
+      "corner": "맛집맞수다",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224442639482",
+      "postedAt": "2026-10-15T06:24:44.000Z",
+      "dishVotes": {
+        "송이버섯전골": 2
+      },
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224442641588",
+      "program": "생생정보",
+      "title": "[KBS 2TV 생생정보] 경기 광주 남한산성 도립공원 가을 제철 나물 한 상 계절나물정식 맛집 핫플: 용마루 위치 정보",
+      "place": "용마루",
+      "region": "경기 광주시",
+      "dishes": [
+        "계절나물정식",
+        "제철나물정식"
+      ],
+      "corner": "맛집 맞수다",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224442641588",
+      "postedAt": "2026-10-15T06:26:15.000Z",
+      "dishVotes": {
+        "계절나물정식": 1,
+        "제철나물정식": 1
+      },
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224442643736",
+      "program": "생생정보",
+      "title": "[KBS 2TV 생생정보] 경기 연천 임진강 쏘가리매운탕 고소한 참게튀김 맛집 핫플: 임진강언덕너머매운탕 위치 정보",
+      "place": "임진강언덕너머매운탕",
+      "region": "경기 연천군",
+      "dishes": [
+        "쏘가리매운탕",
+        "참게튀김"
+      ],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224442643736",
+      "postedAt": "2026-10-15T06:27:50.000Z",
+      "dishVotes": {
+        "쏘가리매운탕": 1,
+        "참게튀김": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "justlaben/224442645890",
+      "program": "생생정보",
+      "title": "[KBS 2TV 생생정보] 영등포 선유도역 흉기 난동 시민 보호 영웅 카페 맛집 핫플: 블랙시드커피로스터스 선유도 위치 정보",
+      "place": "블랙시드커피로스터스 선유도",
+      "region": "서울 영등포구",
+      "dishes": [],
+      "corner": "골든타임 히어로",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224442645890",
+      "postedAt": "2026-10-15T06:29:21.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224442647969",
+      "program": "생생정보",
+      "title": "[KBS 2TV 생생정보] 충남 태안 이원면 대섬 알부자 부부 친환경 양계장 신선 달걀 맛집 핫플: 대섬알이랑 위치 정보",
+      "place": "대섬알이랑",
+      "region": "충남 태안군",
+      "dishes": [
+        "달걀"
+      ],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224442647969",
+      "postedAt": "2026-10-15T06:30:46.000Z",
+      "dishVotes": {
+        "달걀": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [
+    "만남가든",
+    "용마루",
+    "임진강언덕너머매운탕",
+    "대섬알이랑"
+  ],
+  "stores": [],
+  "held": [
+    {
+      "place": "블랙시드커피로스터스 선유도",
+      "region": "서울 영등포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '블랙시드' + '영등포구' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1530b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-15T06:31:18.760Z"
+}
