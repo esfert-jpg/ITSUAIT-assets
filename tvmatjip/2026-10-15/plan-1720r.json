@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-15",
+  "from": "retry",
+  "article": null,
+  "programs": [
+    "6시 내고향",
+    "생방송 투데이"
+  ],
+  "articles": [],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 5,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "탑산농원",
+      "region": "충남 논산시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '탑산농원' + '논산시' / 0건"
+    },
+    {
+      "place": "토끼야 떡먹자",
+      "region": "충남 논산시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '토끼야떡' + '논산시' / 0건"
+    },
+    {
+      "place": "범양수산",
+      "region": "전남광주통합특별시 영광군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '범양수산' + '영광군' / 0건"
+    },
+    {
+      "place": "영광금호떡집",
+      "region": "전남광주통합특별시 영광군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '영광금호' + '영광군' / 0건"
+    },
+    {
+      "place": "오늘은 푸짐한 칼국수 한 그릇!",
+      "region": "경기 수원시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '오늘은푸' + '수원시' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1720r",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-15T08:21:51.321Z"
+}
