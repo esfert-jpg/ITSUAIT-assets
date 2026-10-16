@@ -1,0 +1,471 @@
+{
+  "date": "2026-10-16",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=555775",
+    "airDate": "2026-10-16",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=555775",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 28년 세월을 담은 행복 칼국수, 서울의 인생분식",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=555774",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 한우곱창 구이 vs 전골, 두 가지 맛의 대결",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=555772",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 강아지의 반전 사생활, 강화와 군산에서 펼쳐지는 이야기",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=555768",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 오사카 타코야키를 내세운 울산의 특별한 공간",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 4,
+  "targets": 9,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1750-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-16",
+        "episode": null,
+        "corner": "인생분식",
+        "episodeTitle": null,
+        "region": "서울 중구",
+        "place": "청송손칼국수",
+        "description": "이날 방송에서 찾아가는 곳은 서울 중구에 위치한 '청송손칼국수'이다. 이번 편은 '온기를 나누다, 28년 행복 칼국수'라는 주제로 진행된다. '청송손칼국수'는 손칼국수를 내세운 식당으로, 이번 방송에서는 28년이라는 시간과 칼국수 한 그릇을 중심으로 이야기가 펼쳐질 예정이다. 특히 이번 '인생분식'에서는 오랜 세월 이어온 칼국수에 주목한다. 28년 동안 이어진 음식의 이야기를 통해 칼국수 한 그릇에 담긴 시간을 살펴본다. 이번 방송의 제목에는 '온기를 나누다'라는 표현이 담겼다. 칼국수라는 따뜻한 음식과 28년이라는 세월을 연결해 행복 칼국수의 이야기를 소개할 예정이다. 서울 중구에 자리한 '청송손칼국수'를 찾아가 오랜 시간 이어온 칼국수를 만나본다. 손칼국수라는 음식과 이를 선보이는 식당이 이번 편의 중심이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=555775",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "청송손칼국수",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "서울특별시 중구 을지로18길 5 (을지로4가)",
+        "jibunAddress": "서울특별시 중구 을지로4가 315-1",
+        "phone": "02-2277-6337",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.56615586345916,
+          "lng": 126.99498693628483
+        },
+        "licenseDate": "1988-03-14",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '청송손칼국수' + '중구' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 225
+    },
+    {
+      "id": "1750-2",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-16",
+        "episode": null,
+        "corner": "맛불 작전",
+        "episodeTitle": null,
+        "region": "인천 연수구",
+        "place": "이주연한우곱창",
+        "description": "이번 방송에서는 한우곱창을 중심으로 구이와 전골이라는 서로 다른 요리를 만나볼 예정이다. 인천 연수구와 서울 강남구에 위치한 두 식당이 등장한다. 먼저 인천 연수구에 자리한 '이주연한우곱창'을 소개한다. 한우곱창을 내세운 식당으로, 이번 한우곱창 대전의 첫 번째 장소다. 이어 서울 강남구에 위치한 '청담해정'을 찾아간다. 두 번째 장소에서는 전골을 주제로 한 한우곱창 요리를 소개할 예정이다. 이번 '맛불 작전'의 핵심은 한우곱창을 구이와 전골이라는 두 가지 방식으로 즐기는 것이다. 같은 한우곱창을 중심으로 하지만 음식의 형태에 따라 서로 다른 한 상이 완성된다. 구이는 한우곱창을 구워 즐기는 요리이며, 전골은 국물과 함께 끓여 먹는 음식이다. 이번 방송에서는 이처럼 서로 다른 조리 형태를 중심으로 한우곱창 요리를 살펴본다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=555774",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "이주연한우곱창",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%9D%B4%EC%A3%BC%EC%97%B0%ED%95%9C%EC%9A%B0%EA%B3%B1%EC%B0%BD-kwnjrro69ibw/",
+        "address": "인천광역시 연수구 컨벤시아대로 90 인천송도힐스테이트 501동",
+        "category": "음식점 > 한식 > 내장 요리",
+        "roadAddress": "인천광역시 연수구 컨벤시아대로 90 인천송도힐스테이트 501동",
+        "jibunAddress": "인천광역시 연수구 송도동 21-64",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "한우곱창 모듬 한판",
+            "price": null,
+            "maxPrice": null
+          },
+          {
+            "name": "한우곱창전골",
+            "price": null,
+            "maxPrice": null
+          },
+          {
+            "name": "2인 세트",
+            "price": 49000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우모듬 A",
+            "price": 21900,
+            "maxPrice": null
+          },
+          {
+            "name": "돼지막창",
+            "price": null,
+            "maxPrice": null
+          },
+          {
+            "name": "소막창",
+            "price": null,
+            "maxPrice": null
+          },
+          {
+            "name": "한우육회",
+            "price": null,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.3951032997185,
+          "lng": 126.648485799096
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 인천 연수구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 226
+    },
+    {
+      "id": "1750-3",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-16",
+        "episode": null,
+        "corner": "맛불 작전",
+        "episodeTitle": null,
+        "region": "서울 강남구",
+        "place": "청담해정",
+        "description": "이번 방송에서는 한우곱창을 중심으로 구이와 전골이라는 서로 다른 요리를 만나볼 예정이다. 인천 연수구와 서울 강남구에 위치한 두 식당이 등장한다. 먼저 인천 연수구에 자리한 '이주연한우곱창'을 소개한다. 한우곱창을 내세운 식당으로, 이번 한우곱창 대전의 첫 번째 장소다. 이어 서울 강남구에 위치한 '청담해정'을 찾아간다. 두 번째 장소에서는 전골을 주제로 한 한우곱창 요리를 소개할 예정이다. 이번 '맛불 작전'의 핵심은 한우곱창을 구이와 전골이라는 두 가지 방식으로 즐기는 것이다. 같은 한우곱창을 중심으로 하지만 음식의 형태에 따라 서로 다른 한 상이 완성된다. 구이는 한우곱창을 구워 즐기는 요리이며, 전골은 국물과 함께 끓여 먹는 음식이다. 이번 방송에서는 이처럼 서로 다른 조리 형태를 중심으로 한우곱창 요리를 살펴본다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=555774",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "청담해정",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%B2%AD%EB%8B%B4%ED%95%B4%EC%A0%95-cbw9bpdoh9xe/",
+        "address": "서울 강남구 압구정로79길 20 1층, 2층",
+        "category": "음식점 > 한식 > 고기 요리",
+        "roadAddress": "서울 강남구 압구정로79길 20 1층, 2층",
+        "jibunAddress": "서울 강남구 청담동 120-5",
+        "phone": null,
+        "safePhone": "050713682150",
+        "hours": {
+          "월": "11:00~22:00",
+          "화": "11:00~22:00",
+          "수": null,
+          "목": "11:00~22:00",
+          "금": "11:00~22:00",
+          "토": null,
+          "일": "11:00~22:00"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "수",
+          "토"
+        ],
+        "menu": [
+          {
+            "name": "한우 곱창전골 (중)",
+            "price": 66000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우 소곱창구이 (중)",
+            "price": 69000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우생불고기(1인분)",
+            "price": 34000,
+            "maxPrice": null
+          },
+          {
+            "name": "철판 쭈곱 볶음(2인분)",
+            "price": 48000,
+            "maxPrice": null
+          },
+          {
+            "name": "철판 쭈꾸미볶음",
+            "price": 17000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우 양지수육",
+            "price": 42000,
+            "maxPrice": null
+          },
+          {
+            "name": "정육공방 꼬리수육 (중)",
+            "price": 69000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우 육전",
+            "price": 42000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우 육회",
+            "price": 44000,
+            "maxPrice": null
+          },
+          {
+            "name": "청담해장국",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "소뼈해장국",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "양선지 해장국",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "정육공방 꼬리곰탕",
+            "price": 26000,
+            "maxPrice": null
+          },
+          {
+            "name": "모듬전",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "활전복 사시미",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "양무침",
+            "price": 35000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우순두부 해장국",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "검은콩 콩국수 (시즌아웃)",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우 내장탕",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우 양곰탕",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "산삼배양근 삼계탕",
+            "price": 21000,
+            "maxPrice": null
+          },
+          {
+            "name": "산삼배양근 전복삼계탕",
+            "price": 29000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5251139,
+          "lng": 127.0488199
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 강남구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 227
+    },
+    {
+      "id": "1750-4",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-16",
+        "episode": null,
+        "corner": "대반지",
+        "episodeTitle": null,
+        "region": "인천 강화군",
+        "place": "강화참숯마을",
+        "description": "이날 방송에서는 인천 강화군과 전북 군산시에 위치한 두 장소가 등장한다. 강아지의 반전 사생활이라는 주제를 중심으로 이야기가 펼쳐질 예정이다. 먼저 소개되는 곳은 인천 강화군에 위치한 '강화참숯마을'이다. 이번 방송에서 강아지의 이야기를 만나볼 수 있는 장소 중 하나로 등장한다. 이어 전북 군산시에 자리한 '군산 아나고'가 소개된다. 강화에 이어 군산까지 서로 다른 지역의 장소를 배경으로 강아지의 반전 사생활을 살펴볼 예정이다. 이번 '대반지'의 핵심은 강아지에게서 발견되는 반전이다. '강아지의 반전 사생활'이라는 제목처럼 강아지를 중심으로 한 특별한 이야기가 이번 편의 주요 내용이다. '강화참숯마을'과 '군산 아나고'는 이번 방송에서 소개되는 두 장소다. 서로 다른 지역에 위치한 공간을 통해 강아지의 이야기가 이어질 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=555772",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "강화참숯마을",
+        "url": "https://www.daangn.com/kr/local-profile/%EA%B0%95%ED%99%94%EC%B0%B8%EC%88%AF%EB%A7%88%EC%9D%84-8rqrmhx92x3h/",
+        "address": "인천광역시 강화군 선원면 강화동로 861",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "인천광역시 강화군 선원면 강화동로 861",
+        "jibunAddress": "인천광역시 강화군 선원면 냉정리 232번지",
+        "phone": "0329341489",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "매운 짬뽕",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "대구식 중화 비빔밥",
+            "price": 11000,
+            "maxPrice": null
+          },
+          {
+            "name": "튀김 군만두",
+            "price": null,
+            "maxPrice": null
+          },
+          {
+            "name": "숯불 바베큐",
+            "price": null,
+            "maxPrice": null
+          },
+          {
+            "name": "군고구마",
+            "price": null,
+            "maxPrice": null
+          },
+          {
+            "name": "마시멜로우",
+            "price": null,
+            "maxPrice": null
+          },
+          {
+            "name": "가래떡 (구워 먹을 수 있음)",
+            "price": null,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.71022130003906,
+          "lng": 126.48204056675175
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 인천 강화군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 228
+    }
+  ],
+  "held": [
+    {
+      "place": "온기를 나누다, 28년 행복 칼국수",
+      "region": "서울 중구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '온기를나' + '중구' / 0건",
+      "context": "이날 방송에서 찾아가는 곳은 서울 중구에 위치한 '청송손칼국수'이다. 이번 편은 '온기를 나누다, 28년 행복 칼국수'라는 주제로 진행된다. '청송손칼국수'는 손칼국수를 내세운 식당으로, 이번 방송에서는 28년이라는 시간과 칼국수 한 그릇을 중심으로 이야기가 펼쳐질 예정이다. 특히 이번 '인생분식'에서는 오랜 세월 이어온 칼국수에 주목한다. 28년 동안 이어진 음식의 이야기를 통해 칼국수 한 그릇에 담긴 시간을 살펴본다. 이번 방송의 제목에는 '온기를 나누다'라는 표현이 담겼다. 칼국수라는 따뜻한 음식과 28년이라는 세월을 연결해 행복 칼국수의 이야기를 소개할 예정이다. 서울 중구에 자리한 '청송손칼국수'를 찾아가 오랜 시간 이어온 칼국수를 만나본다. 손칼국수라는 음식과 이를 선보이는 식당이 이번 편의 중심이다.",
+      "eatery": true
+    },
+    {
+      "place": "온기를 나누다",
+      "region": "서울 중구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '온기를나' + '중구' / 0건",
+      "context": "이날 방송에서 찾아가는 곳은 서울 중구에 위치한 '청송손칼국수'이다. 이번 편은 '온기를 나누다, 28년 행복 칼국수'라는 주제로 진행된다. '청송손칼국수'는 손칼국수를 내세운 식당으로, 이번 방송에서는 28년이라는 시간과 칼국수 한 그릇을 중심으로 이야기가 펼쳐질 예정이다. 특히 이번 '인생분식'에서는 오랜 세월 이어온 칼국수에 주목한다. 28년 동안 이어진 음식의 이야기를 통해 칼국수 한 그릇에 담긴 시간을 살펴본다. 이번 방송의 제목에는 '온기를 나누다'라는 표현이 담겼다. 칼국수라는 따뜻한 음식과 28년이라는 세월을 연결해 행복 칼국수의 이야기를 소개할 예정이다. 서울 중구에 자리한 '청송손칼국수'를 찾아가 오랜 시간 이어온 칼국수를 만나본다. 손칼국수라는 음식과 이를 선보이는 식당이 이번 편의 중심이다.",
+      "eatery": true
+    },
+    {
+      "place": "군산 아나고",
+      "region": "전북 군산시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '군산아나' + '군산시' / 0건",
+      "context": "이날 방송에서는 인천 강화군과 전북 군산시에 위치한 두 장소가 등장한다. 강아지의 반전 사생활이라는 주제를 중심으로 이야기가 펼쳐질 예정이다. 먼저 소개되는 곳은 인천 강화군에 위치한 '강화참숯마을'이다. 이번 방송에서 강아지의 이야기를 만나볼 수 있는 장소 중 하나로 등장한다. 이어 전북 군산시에 자리한 '군산 아나고'가 소개된다. 강화에 이어 군산까지 서로 다른 지역의 장소를 배경으로 강아지의 반전 사생활을 살펴볼 예정이다. 이번 '대반지'의 핵심은 강아지에게서 발견되는 반전이다. '강아지의 반전 사생활'이라는 제목처럼 강아지를 중심으로 한 특별한 이야기가 이번 편의 주요 내용이다. '강화참숯마을'과 '군산 아나고'는 이번 방송에서 소개되는 두 장소다. 서로 다른 지역에 위치한 공간을 통해 강아지의 이야기가 이어질 예정이다.",
+      "eatery": true
+    },
+    {
+      "place": "강아지의 반전 사생활",
+      "region": "전북 군산시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '강아지의' + '군산시' / 0건",
+      "context": "이날 방송에서는 인천 강화군과 전북 군산시에 위치한 두 장소가 등장한다. 강아지의 반전 사생활이라는 주제를 중심으로 이야기가 펼쳐질 예정이다. 먼저 소개되는 곳은 인천 강화군에 위치한 '강화참숯마을'이다. 이번 방송에서 강아지의 이야기를 만나볼 수 있는 장소 중 하나로 등장한다. 이어 전북 군산시에 자리한 '군산 아나고'가 소개된다. 강화에 이어 군산까지 서로 다른 지역의 장소를 배경으로 강아지의 반전 사생활을 살펴볼 예정이다. 이번 '대반지'의 핵심은 강아지에게서 발견되는 반전이다. '강아지의 반전 사생활'이라는 제목처럼 강아지를 중심으로 한 특별한 이야기가 이번 편의 주요 내용이다. '강화참숯마을'과 '군산 아나고'는 이번 방송에서 소개되는 두 장소다. 서로 다른 지역에 위치한 공간을 통해 강아지의 이야기가 이어질 예정이다.",
+      "eatery": true
+    },
+    {
+      "place": "오사카 타코야키 에비스",
+      "region": "울산 중구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '오사카타' + '중구' / 0건",
+      "context": "이날 방송은 '너는 내 운명'이라는 주제로 진행된다. 울산 중구에 자리한 타코야키 가게를 배경으로 이번 코너의 이야기가 펼쳐질 예정이다. '오사카 타코야키 에비스'는 이름에서 알 수 있듯 타코야키를 내세운 곳이다. 일본 오사카라는 지명과 타코야키라는 음식이 함께 담긴 상호가 특징이다. 이번 방송에서는 타코야키를 주제로 한 공간과 '너는 내 운명'이라는 코너의 이야기가 연결된다. 울산 중구에 위치한 가게를 찾아가 이곳을 중심으로 펼쳐지는 내용을 소개할 예정이다. 타코야키는 이번 장소를 설명하는 핵심 음식이다. '오사카 타코야키 에비스'라는 상호와 함께 일본식 먹거리를 주제로 한 가게가 방송에 등장한다. 특히 이번 편은 음식 자체보다 '너는 내 운명'이라는 주제 아래 소개되는 장소와 이야기에 초점을 맞춘다. 울산의 타코야키 가게가 어떤 사연으로 방송에 등장하는지 살펴볼 예정이다.",
+      "eatery": true
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1750",
+  "status": "pending",
+  "publishAfter": "2026-10-16T09:07:00.871Z",
+  "preparedAt": "2026-10-16T08:52:00.871Z"
+}
