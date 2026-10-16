@@ -465,7 +465,34 @@
   "retry": [],
   "blocked": null,
   "batch": "1750",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-16T09:07:00.871Z",
-  "preparedAt": "2026-10-16T08:52:00.871Z"
+  "preparedAt": "2026-10-16T08:52:00.871Z",
+  "publishedAt": "2026-10-16T09:12:21.794Z",
+  "result": {
+    "published": [
+      {
+        "name": "청송손칼국수",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_262.html",
+        "skipped": false
+      },
+      {
+        "name": "이주연한우곱창",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_381.html",
+        "skipped": false
+      },
+      {
+        "name": "청담해정",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_141.html",
+        "skipped": false
+      },
+      {
+        "name": "강화참숯마을",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_894.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
