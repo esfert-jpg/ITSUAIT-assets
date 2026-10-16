@@ -173,7 +173,19 @@
   "retry": [],
   "blocked": null,
   "batch": "1720",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-16T08:35:52.213Z",
-  "preparedAt": "2026-10-16T08:20:52.213Z"
+  "preparedAt": "2026-10-16T08:20:52.213Z",
+  "publishedAt": "2026-10-16T08:41:10.003Z",
+  "result": {
+    "published": [
+      {
+        "name": "저문강에삽을씻고",
+        "url": "https://wherethatplace.blogspot.com/2026/10/6_01506530720.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
