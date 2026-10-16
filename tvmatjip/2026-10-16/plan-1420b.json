@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-16",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224443701953",
+      "program": "생생정보",
+      "title": "2tv생생정보l 천안 신부동 호두과자 맛집 ‘할머니학화호도과자 본점’ 솔직 후기!",
+      "place": "할머니학화호도과자 본점",
+      "region": "충남 천안시",
+      "dishes": [
+        "호두과자"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224443701953",
+      "postedAt": "2026-10-16T05:11:15.000Z",
+      "dishVotes": {
+        "호두과자": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "할머니학화호도과자 본점",
+      "region": "충남 천안시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '할머니학' + '천안시' / 0건",
+      "context": "2tv생생정보l 천안 신부동 호두과자 맛집 ‘할머니학화호도과자 본점’ 솔직 후기!",
+      "eatery": true
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1420b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-16T05:20:49.917Z"
+}
