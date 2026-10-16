@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-16",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224443692922",
+      "program": "생생정보",
+      "title": "2tv 생생정보l 장사의신 의왕 백운호수 얼큰 만두전골 맛집 ‘남현골’ 솔직 후기!",
+      "place": "남현골",
+      "region": "경기 의왕시",
+      "dishes": [
+        "얼큰 만두전골"
+      ],
+      "corner": "장사의 신",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224443692922",
+      "postedAt": "2026-10-16T05:02:46.000Z",
+      "dishVotes": {
+        "얼큰 만두전골": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224443698200",
+      "program": "생생정보",
+      "title": "2TV 생생정보ㅣ 이천 마장면 쌀밥 맛집 ‘민속식당 이천쌀밥집’ 솔직 후기!",
+      "place": "민속식당 이천쌀밥집",
+      "region": "경기 이천시",
+      "dishes": [
+        "쌀밥",
+        "돌솥밥"
+      ],
+      "corner": "음식 X-파일",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224443698200",
+      "postedAt": "2026-10-16T05:07:47.000Z",
+      "dishVotes": {
+        "쌀밥": 1,
+        "돌솥밥": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 2,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1410b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-16",
+        "episode": null,
+        "corner": "장사의 신",
+        "episodeTitle": null,
+        "region": "경기 의왕시",
+        "place": "남현골",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224443692922",
+          "title": "2tv 생생정보l 장사의신 의왕 백운호수 얼큰 만두전골 맛집 ‘남현골’ 솔직 후기!",
+          "postedAt": "2026-10-16T05:02:46.000Z"
+        },
+        "dishHints": [
+          "얼큰 만두전골"
+        ],
+        "dishVotes": {
+          "얼큰 만두전골": 1
+        }
+      },
+      "store": {
+        "name": "남현골",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "경기도 의왕시 학현로 170-21 (학의동)",
+        "jibunAddress": "경기도 의왕시 학의동 427-2",
+        "phone": "031-426-3131",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.38443429247964,
+          "lng": 127.01016322631119
+        },
+        "licenseDate": "2005-05-27",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '남현골' + '의왕시' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 201
+    },
+    {
+      "id": "1410b-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-16",
+        "episode": null,
+        "corner": "음식 X-파일",
+        "episodeTitle": null,
+        "region": "경기 이천시",
+        "place": "민속식당 이천쌀밥집",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224443698200",
+          "title": "2TV 생생정보ㅣ 이천 마장면 쌀밥 맛집 ‘민속식당 이천쌀밥집’ 솔직 후기!",
+          "postedAt": "2026-10-16T05:07:47.000Z"
+        },
+        "dishHints": [
+          "쌀밥",
+          "돌솥밥"
+        ],
+        "dishVotes": {
+          "쌀밥": 1,
+          "돌솥밥": 1
+        }
+      },
+      "store": {
+        "name": "민속식당이천쌀밥집",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "경기도 이천시 마장면 덕평로882번길 2-23",
+        "jibunAddress": "경기도 이천시 마장면 덕평리 434-2",
+        "phone": "031-633-9358",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.23617680842434,
+          "lng": 127.36592921891966
+        },
+        "licenseDate": "1987-11-26",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '민속식당이천쌀밥집' + '이천시' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 202
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1410b",
+  "status": "pending",
+  "publishAfter": "2026-10-16T05:25:55.998Z",
+  "preparedAt": "2026-10-16T05:10:55.998Z"
+}
