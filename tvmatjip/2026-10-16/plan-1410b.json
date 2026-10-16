@@ -173,7 +173,24 @@
   "retry": [],
   "blocked": null,
   "batch": "1410b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-16T05:25:55.998Z",
-  "preparedAt": "2026-10-16T05:10:55.998Z"
+  "preparedAt": "2026-10-16T05:10:55.998Z",
+  "publishedAt": "2026-10-16T05:31:44.073Z",
+  "result": {
+    "published": [
+      {
+        "name": "남현골",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_16.html",
+        "skipped": false
+      },
+      {
+        "name": "민속식당이천쌀밥집",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_3058.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
