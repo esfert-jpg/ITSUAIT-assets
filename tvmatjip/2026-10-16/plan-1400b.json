@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-16",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224443684972",
+      "program": "생생정보",
+      "title": "[2TV 생생정보 ] 낙성대 초콜릿 치킨 맛집 ‘동네아저씨전’ 솔직 후기!",
+      "place": "동네아저씨전",
+      "region": "서울 관악구",
+      "dishes": [
+        "초콜릿 치킨"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224443684972",
+      "postedAt": "2026-10-16T04:55:01.000Z",
+      "dishVotes": {
+        "초콜릿 치킨": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "동네아저씨전",
+      "region": "서울 관악구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '동네아저' + '관악구' / 0건",
+      "context": "[2TV 생생정보 ] 낙성대 초콜릿 치킨 맛집 ‘동네아저씨전’ 솔직 후기!",
+      "eatery": true
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1400b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-16T05:00:57.832Z"
+}
