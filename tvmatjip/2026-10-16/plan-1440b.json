@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-16",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "justlaben/224443725479",
+      "program": "생생정보",
+      "title": "[KBS 2TV 생생정보] 경기 이천시 마장면 덕평리 음식 X-파일 한국인의 밥심 찰진 이천 쌀밥 정식 맛집 핫플: 민속식당이천쌀밥집 위치 정보",
+      "place": "민속식당",
+      "region": "경기 이천시",
+      "dishes": [
+        "쌀밥 정식",
+        "이천 쌀밥"
+      ],
+      "corner": "음식 X-파일",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224443725479",
+      "postedAt": "2026-10-16T05:32:54.000Z",
+      "dishVotes": {
+        "이천 쌀밥": 1,
+        "쌀밥 정식": 2
+      },
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224443727522",
+      "program": "생생정보",
+      "title": "[KBS 2TV 생생정보] 경기 화성시 안녕동 병점 힘쓰니까 청춘이다 5년 경력 도로 차선 도색 전문 기업 업체 핫플: 에이치라인 위치 정보",
+      "place": "에이치라인",
+      "region": "경기 화성시",
+      "dishes": [],
+      "corner": "힘쓰니까 청춘이다",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224443727522",
+      "postedAt": "2026-10-16T05:34:50.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224443729578",
+      "program": "생생정보",
+      "title": "[KBS 2TV 생생정보] 충남 천안시 동남구 병천순대거리 유관순 열사 아우내장터 진한 육수 병천 순대국밥 맛집 핫플: 먹거리순대 위치 정보",
+      "place": "먹거리순대",
+      "region": "충남 천안시",
+      "dishes": [
+        "병천 순대국밥",
+        "야채순대"
+      ],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224443729578",
+      "postedAt": "2026-10-16T05:36:31.000Z",
+      "dishVotes": {
+        "병천 순대국밥": 1,
+        "야채순대": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "justlaben/224443733326",
+      "program": "생생정보",
+      "title": "[KBS 2TV 생생정보] 서울 관악구 낙성대역 봉천동 SNS 화제 이색 초콜릿 치킨 맛집 핫플: 동네아저씨전 낙성대점 위치 정보",
+      "place": "동네아저씨전 낙성대점",
+      "region": "서울 관악구",
+      "dishes": [
+        "초콜릿 치킨"
+      ],
+      "corner": "무작정 간다",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224443733326",
+      "postedAt": "2026-10-16T05:39:27.000Z",
+      "dishVotes": {
+        "초콜릿 치킨": 2
+      },
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 2,
+  "skipped": [
+    "민속식당",
+    "동네아저씨전 낙성대점"
+  ],
+  "stores": [
+    {
+      "id": "1440b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-16",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "충남 천안시",
+        "place": "먹거리순대",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "justlaben",
+          "link": "https://blog.naver.com/justlaben/224443729578",
+          "title": "[KBS 2TV 생생정보] 충남 천안시 동남구 병천순대거리 유관순 열사 아우내장터 진한 육수 병천 순대국밥 맛집 핫플: 먹거리순대 위치 정보",
+          "postedAt": "2026-10-16T05:36:31.000Z"
+        },
+        "dishHints": [
+          "병천 순대국밥",
+          "야채순대"
+        ],
+        "dishVotes": {
+          "병천 순대국밥": 1,
+          "야채순대": 1
+        }
+      },
+      "store": {
+        "name": "먹거리순대주식회사",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "충청남도 천안시 동남구 병천면 아우내순대길 27, 1층",
+        "jibunAddress": "충청남도 천안시 동남구 병천면 병천리 171 외3필지 1층",
+        "phone": "041-564-2544",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 36.76041254117269,
+          "lng": 127.2979138282984
+        },
+        "licenseDate": "2014-06-18",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '먹거리순대' + '천안시' / 입력 상호로 시작 ('먹거리순대주식회사')",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 212
+    }
+  ],
+  "held": [
+    {
+      "place": "에이치라인",
+      "region": "경기 화성시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 디에이치라인 (서울특별시 서초구 사임당로 21) — 다른 시군구 (서울특별시 서초구 사임당로 21) | 2. 에이치라인해운본사 (서울특별시 종로구 종로1길 42) — 다른 시군구 (서울특별시 종로구 종로1길 42) | 3. 이에이치라인 (서울특별시 금천구 벚꽃로 254) — 다른 시군구 (서울특별시 금천구 벚꽃로 254) | 4. 에이치라인 (대전광역시 서구 월평로 29 (월평동)) — 다른 시군구 (대전광역시 서구 월평로 29 (월평동)) | 5. 금오에이치라인 (경기도 광명시 소하로 81) — 다른 시군구 (경기도 광명시 소하로 81) | 6. 에이치라인드로잉 (null) — 주소 없음 | 7. 에이치헤어라인 (대전광역시 동구 대학로50번길 53, 상가동 104호 (용운동, 한화꿈에그린)) — 상호 불일치 (찾은 것: '에이치헤어라인') | 8. 에이치제이라인 (null) — 상호 불일치 (찾은 것: '에이치제이라인') | 9. 에이치라인인터내셔널 (대구광역시 달성군 화원읍 비슬로520길 7-2) — 다른 시군구 (대구광역시 달성군 화원읍 비슬로520길 7-2) | 10. 금오H라인 (null) — 상호 불일치 (찾은 것: '금오H라인')) / 인허가 '에이치라' + '화성시' / 0건",
+      "context": "[KBS 2TV 생생정보] 경기 화성시 안녕동 병점 힘쓰니까 청춘이다 5년 경력 도로 차선 도색 전문 기업 업체 핫플: 에이치라인 위치 정보",
+      "eatery": false
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1440b",
+  "status": "pending",
+  "publishAfter": "2026-10-16T05:56:03.917Z",
+  "preparedAt": "2026-10-16T05:41:03.917Z"
+}
