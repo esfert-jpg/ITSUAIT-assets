@@ -495,7 +495,19 @@
   ],
   "blocked": null,
   "batch": "1630",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-16T07:53:11.206Z",
-  "preparedAt": "2026-10-16T07:38:11.206Z"
+  "preparedAt": "2026-10-16T07:38:11.206Z",
+  "publishedAt": "2026-10-16T08:01:35.094Z",
+  "result": {
+    "published": [
+      {
+        "name": "지씨브레드",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_158.html",
+        "skipped": false
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
