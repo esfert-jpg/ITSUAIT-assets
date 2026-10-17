@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-16T23:03:45.973Z",
+  "updatedAt": "2026-10-17T23:03:05.999Z",
   "records": [
+    {
+      "date": "2026-10-18",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "mediaId": "17971891281172778"
+    },
     {
       "date": "2026-10-17",
       "url": "https://www.theregister.com/security/2026/10/16/networking-problems-after-the-october-2026-windows-update-ntlm-might-be-to-blame/5303503",
