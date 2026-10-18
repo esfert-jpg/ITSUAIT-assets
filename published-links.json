@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-17T23:03:05.999Z",
+  "updatedAt": "2026-10-18T23:03:29.564Z",
   "records": [
+    {
+      "date": "2026-10-19",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216375",
+      "title": "오픈AI, ‘GPT-6 아스트라 프로’ 업그레이드...에이전트 병렬 실행 지원",
+      "mediaId": "18119517424987914"
+    },
     {
       "date": "2026-10-18",
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
