@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-19",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224446672516",
+      "program": "생생정보",
+      "title": "[2TV 생생정보 2626회] 강릉 맛집! 보리향기 구수한 보리밥과 감자전 솔직 후기",
+      "place": "보리향기",
+      "region": "강원 강릉시",
+      "dishes": [
+        "보리밥",
+        "감자전"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224446672516",
+      "postedAt": "2026-10-19T07:07:23.000Z",
+      "dishVotes": {
+        "보리밥": 1,
+        "감자전": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1610b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-19",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "강원 강릉시",
+        "place": "보리향기",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224446672516",
+          "title": "[2TV 생생정보 2626회] 강릉 맛집! 보리향기 구수한 보리밥과 감자전 솔직 후기",
+          "postedAt": "2026-10-19T07:07:23.000Z"
+        },
+        "dishHints": [
+          "보리밥",
+          "감자전"
+        ],
+        "dishVotes": {
+          "보리밥": 1,
+          "감자전": 1
+        }
+      },
+      "store": {
+        "name": "보리향기",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%B3%B4%EB%A6%AC%ED%96%A5%EA%B8%B0-1np4hy4wujv5/",
+        "address": "강원 강릉시 성산면 구산길 39 (보리향기)",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "강원 강릉시 성산면 구산길 39 (보리향기)",
+        "jibunAddress": "강원 강릉시 성산면 구산리 263-5 보리향기",
+        "phone": null,
+        "safePhone": "050713129363",
+        "hours": {
+          "월": "08:00~15:00",
+          "화": "08:00~15:00",
+          "수": "08:00~15:00",
+          "목": "08:00~15:00",
+          "금": "08:00~15:00",
+          "토": "08:00~15:00",
+          "일": "08:00~15:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "보리밥정식",
+            "price": 11000,
+            "maxPrice": null
+          },
+          {
+            "name": "제육볶음(中)",
+            "price": 20000,
+            "maxPrice": null
+          },
+          {
+            "name": "제육볶음(大)",
+            "price": 30000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우수제떡갈비",
+            "price": 10000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.7170845,
+          "lng": 128.8318441
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "2순위 / 상호 완전 일치 / 강원 강릉시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 241
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1610b",
+  "status": "pending",
+  "publishAfter": "2026-10-19T07:25:55.969Z",
+  "preparedAt": "2026-10-19T07:10:55.969Z"
+}
