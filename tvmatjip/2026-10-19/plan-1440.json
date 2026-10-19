@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-19",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=556152",
+    "airDate": "2026-10-19",
+    "episode": null
+  },
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=556152",
+      "program": "생생정보",
+      "title": "'생생정보' 소금이 열리는 나무의 정체, 붉나무 소금의 비밀",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=556149",
+      "program": "생생정보",
+      "title": "'생생정보' 신안군 장도로 떠나는 섬 여행, 특별한 풍경을 찾아서",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=556147",
+      "program": "생생정보",
+      "title": "'생생정보' 도로에서 찾은 인생, 11톤 트럭 운전사의 하루",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=556146",
+      "program": "생생정보",
+      "title": "'생생정보' 정숙 할매의 보리밥과 감자전, 강릉의 푸짐한 한 상",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=556145",
+      "program": "생생정보",
+      "title": "'생생정보' 가을 주꾸미의 쫄깃한 매력, 제철 먹거리 탐방",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 5,
+  "targets": 13,
+  "skipped": [],
+  "stores": [],
+  "held": [],
+  "excluded": [
+    {
+      "place": "농부의손길",
+      "region": "충남 청양군",
+      "name": "농업회사법인농부의손길",
+      "category": "상품 판매 > 기타 상품 판매 > 기타 상품"
+    }
+  ],
+  "failed": [
+    {
+      "place": "장도",
+      "reason": "조회 실패: HTTP 429 (https://www.daangn.com/kr/local-profile/?search=%EC%9E%A5%EB%8F%84)"
+    },
+    {
+      "place": "도로에서 찾은 인생, 11톤 트럭 운전사",
+      "reason": "조회 실패: HTTP 429 (https://www.daangn.com/kr/local-profile/?search=%EB%8F%84%EB%A1%9C%EC%97%90%EC%84%9C%20%EC%B0%BE%EC%9D%80%20%EC%9D%B8%EC%83%9D%2C%2011%ED%86%A4%20%ED%8A%B8%EB%9F%AD%20%EC%9A%B4%EC%A0%84%EC%82%AC)"
+    },
+    {
+      "place": "성주휴게소",
+      "reason": "조회 실패: HTTP 429 (https://www.daangn.com/kr/local-profile/?search=%EC%84%B1%EC%A3%BC%ED%9C%B4%EA%B2%8C%EC%86%8C)"
+    },
+    {
+      "place": "익스프레스럭코리아",
+      "reason": "조회 실패: HTTP 429 (https://www.daangn.com/kr/local-profile/?search=%EC%9D%B5%EC%8A%A4%ED%94%84%EB%A0%88%EC%8A%A4%EB%9F%AD%EC%BD%94%EB%A6%AC%EC%95%84)"
+    },
+    {
+      "place": "보리향기",
+      "reason": "조회 실패: HTTP 429 (https://www.daangn.com/kr/local-profile/?search=%EB%B3%B4%EB%A6%AC%ED%96%A5%EA%B8%B0)"
+    },
+    {
+      "place": "정숙 할매의 보리밥과 감자전",
+      "reason": "조회 실패: HTTP 429 (https://www.daangn.com/kr/local-profile/?search=%EC%A0%95%EC%88%99%20%ED%95%A0%EB%A7%A4%EC%9D%98%20%EB%B3%B4%EB%A6%AC%EB%B0%A5%EA%B3%BC%20%EA%B0%90%EC%9E%90%EC%A0%84)"
+    },
+    {
+      "place": "쫄깃한 식감의 대명사, 가을 주꾸미",
+      "reason": "조회 실패: HTTP 429 (https://www.daangn.com/kr/local-profile/?search=%EC%AB%84%EA%B9%83%ED%95%9C%20%EC%8B%9D%EA%B0%90%EC%9D%98%20%EB%8C%80%EB%AA%85%EC%82%AC%2C%20%EA%B0%80%EC%9D%84%20%EC%A3%BC%EA%BE%B8%EB%AF%B8)"
+    },
+    {
+      "place": "방화동쭈꾸미마을1997",
+      "reason": "조회 실패: HTTP 429 (https://www.daangn.com/kr/local-profile/?search=%EB%B0%A9%ED%99%94%EB%8F%99%EC%AD%88%EA%BE%B8%EB%AF%B8%EB%A7%88%EC%9D%841997)"
+    },
+    {
+      "place": "장흥군수협 수산물위판장",
+      "reason": "조회 실패: HTTP 429 (https://www.daangn.com/kr/local-profile/?search=%EC%9E%A5%ED%9D%A5%EA%B5%B0%EC%88%98%ED%98%91%20%EC%88%98%EC%82%B0%EB%AC%BC%EC%9C%84%ED%8C%90%EC%9E%A5)"
+    }
+  ],
+  "retry": [
+    {
+      "place": "소금이 열리는 나무의 정체는?",
+      "region": "충남 청양군",
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: fetch failed",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-19",
+        "episode": null,
+        "corner": "궁금한 건 못 참지",
+        "episodeTitle": null,
+        "region": "충남 청양군",
+        "place": "소금이 열리는 나무의 정체는?",
+        "description": "이번 방송은 '소금이 열리는 나무의 정체는?'이라는 주제로 진행된다. 나무와 소금이라는 두 가지 소재를 연결해 그 정체를 살펴보는 내용이다. 이날 방송에서 소개되는 곳은 충남 청양군에 위치한 '농부의손길'이다. 이곳에서는 '붉나무 소금'이 이번 방송의 주요 소재로 등장한다. 붉나무 소금이라는 이름은 이번 편에서 제기하는 궁금증과 연결된다. 나무에서 소금이 열린다는 표현이 무엇을 의미하는지 살펴보며 붉나무 소금의 이야기를 다룰 예정이다. 이번 촬영에는 임재천 씨와 박병배 교수, 과학교육학 박사 최은정 씨가 협조했다. 최은정 박사와 관련된 장소로는 서울 강남구에 위치한 '엠오 사이언스(MO Science)'가 소개됐다. 이번 '궁금한 건 못 참지'에서는 충남 청양군의 붉나무 소금과 전문가들의 참여를 통해 나무와 소금의 관계를 주제로 한 내용을 만나볼 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=556152",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      }
+    },
+    {
+      "place": "붉나무 소금",
+      "region": "충남 청양군",
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: fetch failed",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-19",
+        "episode": null,
+        "corner": "궁금한 건 못 참지",
+        "episodeTitle": null,
+        "region": "충남 청양군",
+        "place": "붉나무 소금",
+        "description": "이번 방송은 '소금이 열리는 나무의 정체는?'이라는 주제로 진행된다. 나무와 소금이라는 두 가지 소재를 연결해 그 정체를 살펴보는 내용이다. 이날 방송에서 소개되는 곳은 충남 청양군에 위치한 '농부의손길'이다. 이곳에서는 '붉나무 소금'이 이번 방송의 주요 소재로 등장한다. 붉나무 소금이라는 이름은 이번 편에서 제기하는 궁금증과 연결된다. 나무에서 소금이 열린다는 표현이 무엇을 의미하는지 살펴보며 붉나무 소금의 이야기를 다룰 예정이다. 이번 촬영에는 임재천 씨와 박병배 교수, 과학교육학 박사 최은정 씨가 협조했다. 최은정 박사와 관련된 장소로는 서울 강남구에 위치한 '엠오 사이언스(MO Science)'가 소개됐다. 이번 '궁금한 건 못 참지'에서는 충남 청양군의 붉나무 소금과 전문가들의 참여를 통해 나무와 소금의 관계를 주제로 한 내용을 만나볼 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=556152",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      }
+    },
+    {
+      "place": "엠오 사이언스(MO Science)",
+      "region": "서울 강남구",
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: fetch failed",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-19",
+        "episode": null,
+        "corner": "궁금한 건 못 참지",
+        "episodeTitle": null,
+        "region": "서울 강남구",
+        "place": "엠오 사이언스(MO Science)",
+        "description": "이번 방송은 '소금이 열리는 나무의 정체는?'이라는 주제로 진행된다. 나무와 소금이라는 두 가지 소재를 연결해 그 정체를 살펴보는 내용이다. 이날 방송에서 소개되는 곳은 충남 청양군에 위치한 '농부의손길'이다. 이곳에서는 '붉나무 소금'이 이번 방송의 주요 소재로 등장한다. 붉나무 소금이라는 이름은 이번 편에서 제기하는 궁금증과 연결된다. 나무에서 소금이 열린다는 표현이 무엇을 의미하는지 살펴보며 붉나무 소금의 이야기를 다룰 예정이다. 이번 촬영에는 임재천 씨와 박병배 교수, 과학교육학 박사 최은정 씨가 협조했다. 최은정 박사와 관련된 장소로는 서울 강남구에 위치한 '엠오 사이언스(MO Science)'가 소개됐다. 이번 '궁금한 건 못 참지'에서는 충남 청양군의 붉나무 소금과 전문가들의 참여를 통해 나무와 소금의 관계를 주제로 한 내용을 만나볼 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=556152",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      }
+    }
+  ],
+  "blocked": null,
+  "batch": "1440",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-19T05:43:23.583Z"
+}
