@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-19",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "justlaben/224446814401",
+      "program": "생생정보",
+      "title": "[생생정보 강원도 보리밥맛집] 강원 강릉시 성산면 대관령 고랭지 정숙 할머니 보리밥 감자전 맛집 핫플: 보리향기 위치 정보",
+      "place": "보리향기",
+      "region": "강원 강릉시",
+      "dishes": [
+        "보리밥",
+        "감자전"
+      ],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224446814401",
+      "postedAt": "2026-10-19T09:11:10.000Z",
+      "dishVotes": {
+        "보리밥": 1,
+        "감자전": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "ohs016830/224446814534",
+      "program": "생생정보",
+      "title": "[생생정보 강원도 보리밥맛집] 생생정보 할매밥됩니까, 강릉 정숙 할머니 보리밥, 감자전 맛집, 보리향기 위치 정보",
+      "place": "정숙 할머니 보리밥",
+      "region": "강원 강릉시",
+      "dishes": [
+        "보리밥",
+        "감자전"
+      ],
+      "corner": "할매 밥 됩니까?",
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224446814534",
+      "postedAt": "2026-10-19T09:11:20.000Z",
+      "dishVotes": {
+        "보리밥": 1,
+        "감자전": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "justlaben/224446820643",
+      "program": "생생정보",
+      "title": "[생생정보 강서구 쭈꾸미맛집] 서울 강서구 방화동 방화역 개화산역 제철 가을 쭈꾸미구이 마늘쭈꾸미 맛집 핫플: 방화동쭈꾸미마을1997 위치 정보",
+      "place": "방화동쭈꾸미마을1997",
+      "region": "서울 강서구",
+      "dishes": [
+        "마늘쭈꾸미",
+        "쭈꾸미구이",
+        "쭈삼불고기"
+      ],
+      "corner": null,
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224446820643",
+      "postedAt": "2026-10-19T09:17:51.000Z",
+      "dishVotes": {
+        "마늘쭈꾸미": 2,
+        "쭈꾸미구이": 2,
+        "쭈삼불고기": 2
+      },
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [
+    "보리향기",
+    "방화동쭈꾸미마을1997"
+  ],
+  "stores": [],
+  "held": [
+    {
+      "place": "정숙 할머니 보리밥",
+      "region": "강원 강릉시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '정숙할머' + '강릉시' / 0건",
+      "context": "[생생정보 강원도 보리밥맛집] 생생정보 할매밥됩니까, 강릉 정숙 할머니 보리밥, 감자전 맛집, 보리향기 위치 정보",
+      "eatery": true
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1820b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-19T09:20:55.032Z"
+}
