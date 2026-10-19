@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-19",
+  "from": "retry",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 3,
+  "skipped": [],
+  "stores": [],
+  "held": [],
+  "excluded": [],
+  "failed": [
+    {
+      "place": "소금이 열리는 나무의 정체는?",
+      "reason": "조회 실패: HTTP 429 (https://www.daangn.com/kr/local-profile/?search=%EC%86%8C%EA%B8%88%EC%9D%B4%20%EC%97%B4%EB%A6%AC%EB%8A%94%20%EB%82%98%EB%AC%B4%EC%9D%98%20%EC%A0%95%EC%B2%B4%EB%8A%94%3F)"
+    },
+    {
+      "place": "붉나무 소금",
+      "reason": "조회 실패: HTTP 429 (https://www.daangn.com/kr/local-profile/?search=%EB%B6%89%EB%82%98%EB%AC%B4%20%EC%86%8C%EA%B8%88)"
+    },
+    {
+      "place": "엠오 사이언스(MO Science)",
+      "reason": "조회 실패: HTTP 429 (https://www.daangn.com/kr/local-profile/?search=%EC%97%A0%EC%98%A4%20%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4(MO%20Science))"
+    }
+  ],
+  "retry": [],
+  "blocked": null,
+  "batch": "1443r",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-19T05:43:39.957Z"
+}
