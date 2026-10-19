@@ -114,7 +114,8 @@
         "signal": null,
         "dishHints": [],
         "dishVotes": {}
-      }
+      },
+      "retriedIn": "1443r"
     },
     {
       "place": "붉나무 소금",
@@ -134,7 +135,8 @@
         "signal": null,
         "dishHints": [],
         "dishVotes": {}
-      }
+      },
+      "retriedIn": "1443r"
     },
     {
       "place": "엠오 사이언스(MO Science)",
@@ -154,7 +156,8 @@
         "signal": null,
         "dishHints": [],
         "dishVotes": {}
-      }
+      },
+      "retriedIn": "1443r"
     }
   ],
   "blocked": null,
