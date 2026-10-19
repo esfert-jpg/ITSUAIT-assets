@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-19",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224446659795",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 강서구 방화동쭈꾸미마을1997 가을 제철 쭈꾸미 맛집 후기",
+      "place": "쭈꾸미마을1997",
+      "region": "서울 강서구",
+      "dishes": [
+        "양념 쭈꾸미 구이"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224446659795",
+      "postedAt": "2026-10-19T06:57:07.000Z",
+      "dishVotes": {
+        "양념 쭈꾸미 구이": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "쭈꾸미마을1997",
+      "region": "서울 강서구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '쭈꾸미마' + '강서구' / 3건이라 자동 선택 안 함: 방배동할매쭈꾸미마곡역점, 서해쭈꾸미마을, 쭈꾸미마을",
+      "context": "[2TV 생생정보] 강서구 방화동쭈꾸미마을1997 가을 제철 쭈꾸미 맛집 후기",
+      "eatery": true
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1601b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-19T07:01:26.026Z"
+}
