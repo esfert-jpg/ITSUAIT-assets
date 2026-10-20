@@ -195,7 +195,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1210b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-20T03:26:24.322Z",
-  "preparedAt": "2026-10-20T03:11:24.322Z"
+  "preparedAt": "2026-10-20T03:11:24.322Z",
+  "publishedAt": "2026-10-20T03:31:23.050Z",
+  "result": {
+    "published": [
+      {
+        "name": "백로참숯구이",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_20.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-20/naver/1210b-1.html",
+        "naverTitle": "생생정보 가격파괴 Why 백로참숯구이 돼지갈비 서울 강북 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
