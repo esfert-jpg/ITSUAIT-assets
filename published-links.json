@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-19T23:04:02.022Z",
+  "updatedAt": "2026-10-20T23:04:18.420Z",
   "records": [
+    {
+      "date": "2026-10-21",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216434",
+      "title": "아마존, 파이토치 연동 '토치뉴런' 공개...엔비디아 SW 독점에 도전",
+      "mediaId": "18040097600837985"
+    },
     {
       "date": "2026-10-20",
       "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
