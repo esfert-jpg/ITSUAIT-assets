@@ -396,7 +396,28 @@
   "retry": [],
   "blocked": null,
   "batch": "1220b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-20T03:36:27.048Z",
-  "preparedAt": "2026-10-20T03:21:27.048Z"
+  "preparedAt": "2026-10-20T03:21:27.048Z",
+  "publishedAt": "2026-10-20T03:41:41.732Z",
+  "result": {
+    "published": [
+      {
+        "name": "한우리식당",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_582.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-20/naver/1220b-1.html",
+        "naverTitle": "생생정보 장피디 AI여행기 한우리식당 능이족살찌개 경북 문경 위치"
+      },
+      {
+        "name": "카페승민씨",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_92.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-20/naver/1220b-2.html",
+        "naverTitle": "생생정보 장피디 AI여행기 카페승민씨 맷돌드립커피 경북 문경 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
