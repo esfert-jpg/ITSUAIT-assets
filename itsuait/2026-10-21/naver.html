@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>네이버 원고 · itsuait</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1d2127;--sub:#6b7280;--line:#e3e6ea;--acc:#03c75a;--acc-ink:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#15171a;--card:#1f2226;--ink:#e8eaed;--sub:#9aa0a6;--line:#30343a;--acc:#1ec26b;--acc-ink:#0b1a10}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif}
+main{max-width:720px;margin:0 auto;padding:16px}
+h1{font-size:15px;color:var(--sub);font-weight:600;margin:4px 0 12px}
+section{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin:0 0 12px}
+.head{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px}
+.head b{font-size:14px;color:var(--sub)}
+.hint{font-size:12px;color:var(--sub);text-align:right}
+.btn{appearance:none;border:0;border-radius:10px;background:var(--acc);color:var(--acc-ink);font-weight:700;font-size:15px;padding:10px 16px;cursor:pointer;text-decoration:none;display:inline-block}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line);font-weight:600;font-size:14px;padding:8px 12px}
+.box{white-space:pre-wrap;word-break:break-all}
+#body p{margin:0}
+.title{font-size:18px;font-weight:700}
+figure{margin:0 0 12px}figure img{display:block;max-width:100%;border-radius:8px;margin-bottom:6px}
+#toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:999px;font-size:14px;opacity:0;transition:opacity .2s;pointer-events:none}
+#toast.on{opacity:1}
+.steps{font-size:14px;color:var(--sub);margin:0;padding-left:18px}
+</style></head><body><main>
+<h1>네이버 블로그 원고 · itsuait</h1>
+<section><div class="head"><b>① 제목</b><button class="btn" data-copy="title">제목 복사</button></div><div class="box title" id="title">토치뉴런으로 파이토치 코드 트레이니움에서 바로 쓰기</div></section>
+<section><div class="head"><b>② 사진</b><span class="hint">저장 → 공유 시트에서 '이미지 저장'. 또는 사진을 길게 눌러 '사진에 추가'</span></div><figure><img src="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-10-21/080058/blog-cover.png" alt="사진 1"><a class="btn ghost" data-img="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-10-21/080058/blog-cover.png" href="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-10-21/080058/blog-cover.png" download="itsuait-1">사진 1 저장</a></figure></section>
+<section><div class="head"><b>③ 본문 (태그 포함)</b><button class="btn" data-copy="body">본문 복사</button></div><div id="body"><p>아마존이 파이토치 개발자들을 위한 오픈소스 소프트웨어 '토치뉴런'을 공개했어요. 설정 한 줄만 바꾸면 엔비디아 GPU 대신 자사 AI 칩 트레이니움에서 코드를 그대로 실행할 수 있게 해주는 소프트웨어예요.</p><p><br></p><p>▶ 파이토치가 AI 개발의 표준이 된 이유</p><p>현재 AI 연구자와 개발자의 약 85%가 파이토치를 사용하고 있어요. 원래는 페이스북이 개발했고, 2022년부터 리눅스 재단이 관리하고 있는 무료 오픈소스 툴킷이에요. 개발자들이 AI 모델을 구축하고 학습시키고 실행하는 데 널리 쓰이는 이유는 사용하기 편하기 때문이에요.</p><p><br></p><p>이렇게 광범위하게 사용되는 플랫폼에 트레이니움 칩 지원을 추가한다는 것은 큰 의미가 있어요. 이미 파이토치를 알고 있는 개발자는 추가로 학습하지 않고도 토치뉴런을 바로 사용할 수 있기 때문이에요. 아마존이 높은 진입장벽을 낮춘 셈이에요.</p><p><br></p><p>▶ 엔비디아 쿠다의 독점 구조를 깨뜨리려는 전략</p><p>지금까지 AI 개발자들이 엔비디아 GPU에 의존하게 된 이유는 쿠다 때문이에요. 엔비디아가 수년간 투자한 쿠다는 파이토치와 깊숙이 통합되어 있어서, 파이토치 사용자들이 자연스럽게 엔비디아 하드웨어를 기본 선택지로 삼게 된 거예요. 기존에는 엔비디아 GPU에 맞춰 작성한 코드를 다른 업체 칩에서 실행하려면 상당한 코드 수정과 검증 작업을 거쳐야 했어요.</p><p><br></p><p>토치뉴런은 이 구조를 바꾸는 아마존의 도전이에요. 개발자가 특정 칩에 종속되지 않으면서도 기존 개발 환경을 그대로 유지하고 다양한 하드웨어를 선택할 수 있도록 지원해요. 아마존 안나푸르나랩스의 소프트웨어 부문 부사장은 고객이 이미 사용하고 있는 환경에서 출발할 수 있도록 하는 것을 목표로 삼았다고 설명했어요.</p><p><br></p><p>▶ 실제로 설정을 어떻게 바꾸나</p><p>파이토치로 작성한 코드는 설정 부분에만 변경이 필요해요. 코드의 로직 자체를 다시 쓸 필요가 없다는 뜻이에요. 아마존의 설명에 따르면 한 줄의 설정 변경만으로 하드웨어를 트레이니움으로 전환할 수 있어요. 이 접근 방식은 AMD GPU나 애플 칩으로 포팅할 때와 비슷해요.</p><p><br></p><p>토치뉴런은 트레이니움2와 트레이니움3을 지원하며, 분산 학습 및 추론 최적화 기능도 함께 연동돼요. 아마존은 학습과 추론을 하나의 플랫폼에서 처리해 하드웨어 효율과 작업 경제성을 높일 수 있다고 강조했어요. AWS 클라우드 인프라와의 완전한 연계를 통해 스타트업이 프로토타입 개발부터 서비스 확장까지 동일한 환경을 유지하면서 비용 부담을 줄일 수 있어요.</p><p><br></p><p>▶ 이미 30곳 이상의 기업이 도입 중</p><p>토치뉴런은 아파치 2.0 라이선스 기반으로 공개되었고, 음성 AI부터 로봇, 신약 개발까지 다양한 분야의 30곳 이상 기업이 이미 활용 중이에요. 음성 AI 기업 딥그램은 트레이니움으로 전환한 뒤 달러당 처리하는 음성 데이터양을 70% 늘렸어요.</p><p><br></p><p>아마존은 품질 확보를 위해 수십만 개의 모델을 테스트했고, 현재도 다양한 AI 개발 도구와의 연동을 계속 확대하고 있어요. 장기적으로는 특정 하드웨어에 종속된 파이토치 코드를 제거하는 업스트림 기여도 추진 중이에요. 이런 노력들이 개발자의 선택권을 넓히려는 전략으로 작용하고 있어요.</p><p><br></p><p>출처: AI타임스, TechCrunch</p><p><br></p><p>👉 표와 원문 링크까지 정리한 글은 여기 있어요</p><p><a href="https://itsuait.blogspot.com/2026/10/blog-post_21.html">https://itsuait.blogspot.com/2026/10/blog-post_21.html</a></p><p><br></p><p>#엔비디아 #NVIDIA #AI뉴스 #IT이슈</p></div></section>
+<section><ol class="steps"><li>네이버 블로그 글쓰기를 연다</li><li>제목 복사 → 제목 칸에 붙여넣기</li><li>사진 저장 → 사진첩에서 본문 맨 위에 첨부</li><li>본문 복사 → 사진 아래에 붙여넣기 (끝의 #태그는 발행할 때 태그로 자동 등록된다)</li><li>발행 또는 예약</li></ol></section>
+</main><div id="toast"></div>
+<script>
+const D={"title":"토치뉴런으로 파이토치 코드 트레이니움에서 바로 쓰기","body":"아마존이 파이토치 개발자들을 위한 오픈소스 소프트웨어 '토치뉴런'을 공개했어요. 설정 한 줄만 바꾸면 엔비디아 GPU 대신 자사 AI 칩 트레이니움에서 코드를 그대로 실행할 수 있게 해주는 소프트웨어예요.\n\n▶ 파이토치가 AI 개발의 표준이 된 이유\n현재 AI 연구자와 개발자의 약 85%가 파이토치를 사용하고 있어요. 원래는 페이스북이 개발했고, 2022년부터 리눅스 재단이 관리하고 있는 무료 오픈소스 툴킷이에요. 개발자들이 AI 모델을 구축하고 학습시키고 실행하는 데 널리 쓰이는 이유는 사용하기 편하기 때문이에요.\n\n이렇게 광범위하게 사용되는 플랫폼에 트레이니움 칩 지원을 추가한다는 것은 큰 의미가 있어요. 이미 파이토치를 알고 있는 개발자는 추가로 학습하지 않고도 토치뉴런을 바로 사용할 수 있기 때문이에요. 아마존이 높은 진입장벽을 낮춘 셈이에요.\n\n▶ 엔비디아 쿠다의 독점 구조를 깨뜨리려는 전략\n지금까지 AI 개발자들이 엔비디아 GPU에 의존하게 된 이유는 쿠다 때문이에요. 엔비디아가 수년간 투자한 쿠다는 파이토치와 깊숙이 통합되어 있어서, 파이토치 사용자들이 자연스럽게 엔비디아 하드웨어를 기본 선택지로 삼게 된 거예요. 기존에는 엔비디아 GPU에 맞춰 작성한 코드를 다른 업체 칩에서 실행하려면 상당한 코드 수정과 검증 작업을 거쳐야 했어요.\n\n토치뉴런은 이 구조를 바꾸는 아마존의 도전이에요. 개발자가 특정 칩에 종속되지 않으면서도 기존 개발 환경을 그대로 유지하고 다양한 하드웨어를 선택할 수 있도록 지원해요. 아마존 안나푸르나랩스의 소프트웨어 부문 부사장은 고객이 이미 사용하고 있는 환경에서 출발할 수 있도록 하는 것을 목표로 삼았다고 설명했어요.\n\n▶ 실제로 설정을 어떻게 바꾸나\n파이토치로 작성한 코드는 설정 부분에만 변경이 필요해요. 코드의 로직 자체를 다시 쓸 필요가 없다는 뜻이에요. 아마존의 설명에 따르면 한 줄의 설정 변경만으로 하드웨어를 트레이니움으로 전환할 수 있어요. 이 접근 방식은 AMD GPU나 애플 칩으로 포팅할 때와 비슷해요.\n\n토치뉴런은 트레이니움2와 트레이니움3을 지원하며, 분산 학습 및 추론 최적화 기능도 함께 연동돼요. 아마존은 학습과 추론을 하나의 플랫폼에서 처리해 하드웨어 효율과 작업 경제성을 높일 수 있다고 강조했어요. AWS 클라우드 인프라와의 완전한 연계를 통해 스타트업이 프로토타입 개발부터 서비스 확장까지 동일한 환경을 유지하면서 비용 부담을 줄일 수 있어요.\n\n▶ 이미 30곳 이상의 기업이 도입 중\n토치뉴런은 아파치 2.0 라이선스 기반으로 공개되었고, 음성 AI부터 로봇, 신약 개발까지 다양한 분야의 30곳 이상 기업이 이미 활용 중이에요. 음성 AI 기업 딥그램은 트레이니움으로 전환한 뒤 달러당 처리하는 음성 데이터양을 70% 늘렸어요.\n\n아마존은 품질 확보를 위해 수십만 개의 모델을 테스트했고, 현재도 다양한 AI 개발 도구와의 연동을 계속 확대하고 있어요. 장기적으로는 특정 하드웨어에 종속된 파이토치 코드를 제거하는 업스트림 기여도 추진 중이에요. 이런 노력들이 개발자의 선택권을 넓히려는 전략으로 작용하고 있어요.\n\n출처: AI타임스, TechCrunch\n\n👉 표와 원문 링크까지 정리한 글은 여기 있어요\nhttps://itsuait.blogspot.com/2026/10/blog-post_21.html\n\n#엔비디아 #NVIDIA #AI뉴스 #IT이슈"};
+const toast=(m)=>{const t=document.getElementById('toast');t.textContent=m;t.classList.add('on');setTimeout(()=>t.classList.remove('on'),1400)};
+function selectCopy(el){const r=document.createRange();r.selectNodeContents(el);const s=getSelection();s.removeAllRanges();s.addRange(r);let ok=false;try{ok=document.execCommand('copy')}catch(e){}s.removeAllRanges();return ok}
+async function copyText(t,el){try{await navigator.clipboard.writeText(t);return true}catch(e){return selectCopy(el)}}
+async function copyRich(el,plain){try{if(window.ClipboardItem&&navigator.clipboard&&navigator.clipboard.write){await navigator.clipboard.write([new ClipboardItem({'text/html':new Blob([el.innerHTML],{type:'text/html'}),'text/plain':new Blob([plain],{type:'text/plain'})})]);return true}}catch(e){}return selectCopy(el)}
+document.querySelectorAll('[data-copy]').forEach((b)=>b.addEventListener('click',async()=>{const k=b.dataset.copy;const el=document.getElementById(k);const ok=k==='body'?await copyRich(el,D.body):await copyText(D[k],el);toast(ok?({title:'제목',body:'본문'}[k])+' 복사됨':'복사 실패 — 길게 눌러 직접 복사하세요')}));
+// 사진 저장: 공유 시트 → '이미지 저장' 이 사진첩으로 간다. 사파리는 클릭 뒤 await 가 끼면 share 를 거부해서 미리 받아 둔다.
+// jpg·png 가 아니면(webp 등) 브라우저에서 jpg 로 바꾼다. 네이버가 webp 를 안 받는다 (2026-10-19 사용자 실측).
+// 화면의 <img> 와 PC 내려받기 링크도 바꾼 jpg 로 갈아 끼운다. 길게 눌러 '사진에 추가' 해도 jpg 가 들어간다. 변환이 안 되면 원본 그대로 둔다.
+const IMGS=new Map();
+const toJpg=(b)=>['image/jpeg','image/png'].includes(b.type)?Promise.resolve(b):createImageBitmap(b).then((bm)=>{const c=document.createElement('canvas');c.width=bm.width;c.height=bm.height;const x=c.getContext('2d');x.fillStyle='#fff';x.fillRect(0,0,c.width,c.height);x.drawImage(bm,0,0);return new Promise((ok,no)=>c.toBlob((j)=>j?ok(j):no(new Error('toBlob')),'image/jpeg',0.92))}).catch(()=>b);
+document.querySelectorAll('[data-img]').forEach((a)=>{const u=a.dataset.img;fetch(u,{cache:'no-store'}).then((r)=>r.ok?r.blob():Promise.reject(r.status)).then(toJpg).then((b)=>{const ext=(b.type.split('/')[1]||'png').replace('jpeg','jpg');IMGS.set(u,new File([b],(a.getAttribute('download')||'photo')+'.'+ext,{type:b.type}));if(!u.endsWith('.'+ext)){const o=URL.createObjectURL(b);const img=a.parentElement.querySelector('img');if(img)img.src=o;a.href=o}}).catch(()=>{});
+a.addEventListener('click',(e)=>{const f=IMGS.get(u);if(f&&navigator.share&&navigator.canShare&&navigator.canShare({files:[f]})){e.preventDefault();navigator.share({files:[f]}).catch((err)=>{if(err&&err.name!=='AbortError')toast('공유 실패 — 사진을 길게 눌러 사진에 추가하세요')})}})});
+</script></body></html>
