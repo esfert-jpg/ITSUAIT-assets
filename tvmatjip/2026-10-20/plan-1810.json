@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-20",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=556787",
+    "airDate": "2026-10-20",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=556787",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 증평 짜글이 맛집, 2억 빚을 갚은 할머니의 인생",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 1,
+  "targets": 0,
+  "skipped": [
+    "삼순이"
+  ],
+  "stores": [],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1810",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-20T09:10:41.858Z"
+}
