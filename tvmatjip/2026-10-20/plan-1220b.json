@@ -1,0 +1,402 @@
+{
+  "date": "2026-10-20",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "justlaben/224447587520",
+      "program": "생생정보",
+      "title": "[생생정보 모란시장 방앗간] 모란역 풍년기름집, 성남 모란전통시장 갓 짜낸 참기름·들기름 맛집 핫플",
+      "place": "풍년기름집",
+      "region": "경기 성남시",
+      "dishes": [
+        "참기름",
+        "들기름"
+      ],
+      "corner": "요즘 시장 24시",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224447587520",
+      "postedAt": "2026-10-20T03:10:57.000Z",
+      "dishVotes": {
+        "참기름": 2,
+        "들기름": 2
+      },
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224447590519",
+      "program": "생생정보",
+      "title": "[생생정보 문경 족살찌개] 문경 점촌동 한우리식당, 향긋한 능이족살찌개 향토 음식 맛집 핫플",
+      "place": "한우리식당",
+      "region": "경북 문경시",
+      "dishes": [
+        "능이족살찌개"
+      ],
+      "corner": "장피디 AI여행기",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224447590519",
+      "postedAt": "2026-10-20T03:13:26.000Z",
+      "dishVotes": {
+        "능이족살찌개": 2
+      },
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224447592983",
+      "program": "생생정보",
+      "title": "[생생정보 문경 맷돌커피] 문경읍 문경새재 카페승민씨, 전통 맷돌드립커피 감성 카페 맛집 핫플",
+      "place": "카페승민씨",
+      "region": "경북 문경시",
+      "dishes": [
+        "맷돌드립커피"
+      ],
+      "corner": "장피디 AI여행기",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224447592983",
+      "postedAt": "2026-10-20T03:15:43.000Z",
+      "dishVotes": {
+        "맷돌드립커피": 2
+      },
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224447594819",
+      "program": "생생정보",
+      "title": "[생생정보 수제등산화] 을지로3가역 송림수제화, 90년 전통 맞춤형 수제 등산화 장인 공방 핫플",
+      "place": "송림수제화",
+      "region": "서울 중구",
+      "dishes": [],
+      "corner": "달라야 사는 크리에이터",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224447594819",
+      "postedAt": "2026-10-20T03:17:38.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 4,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1220b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-20",
+        "episode": null,
+        "corner": "장피디 AI여행기",
+        "episodeTitle": null,
+        "region": "경북 문경시",
+        "place": "한우리식당",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "justlaben",
+          "link": "https://blog.naver.com/justlaben/224447590519",
+          "title": "[생생정보 문경 족살찌개] 문경 점촌동 한우리식당, 향긋한 능이족살찌개 향토 음식 맛집 핫플",
+          "postedAt": "2026-10-20T03:13:26.000Z"
+        },
+        "dishHints": [
+          "능이족살찌개"
+        ],
+        "dishVotes": {
+          "능이족살찌개": 2
+        }
+      },
+      "store": {
+        "name": "한우리식당",
+        "url": "https://www.daangn.com/kr/local-profile/%ED%95%9C%EC%9A%B0%EB%A6%AC%EC%8B%9D%EB%8B%B9-ff163wtr9u6t/",
+        "address": "경상북도 문경시 중앙6길 26 (점촌동)",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "경상북도 문경시 중앙6길 26 (점촌동)",
+        "jibunAddress": "경상북도 문경시 점촌동 151-15",
+        "phone": "0545552795",
+        "safePhone": null,
+        "hours": {
+          "월": "09:00~22:00",
+          "화": "09:00~22:00",
+          "수": "09:00~22:00",
+          "목": "09:00~22:00",
+          "금": "09:00~22:00",
+          "토": "09:00~22:00",
+          "일": "09:00~22:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "족살버섯찌개(소)",
+            "price": 25000,
+            "maxPrice": null
+          },
+          {
+            "name": "족살버섯찌개(중)",
+            "price": 35000,
+            "maxPrice": null
+          },
+          {
+            "name": "족살버섯찌개(대)",
+            "price": 45000,
+            "maxPrice": null
+          },
+          {
+            "name": "능이버섯찌개(소)",
+            "price": 30000,
+            "maxPrice": null
+          },
+          {
+            "name": "능이버섯찌개(중)",
+            "price": 40000,
+            "maxPrice": null
+          },
+          {
+            "name": "능이버섯찌개(대)",
+            "price": 50000,
+            "maxPrice": null
+          },
+          {
+            "name": "주물럭정식",
+            "price": 12000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 36.5968692551936,
+          "lng": 128.201768535376
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "8순위 / 상호 완전 일치 / 경북 문경시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 249
+    },
+    {
+      "id": "1220b-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-20",
+        "episode": null,
+        "corner": "장피디 AI여행기",
+        "episodeTitle": null,
+        "region": "경북 문경시",
+        "place": "카페승민씨",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "justlaben",
+          "link": "https://blog.naver.com/justlaben/224447592983",
+          "title": "[생생정보 문경 맷돌커피] 문경읍 문경새재 카페승민씨, 전통 맷돌드립커피 감성 카페 맛집 핫플",
+          "postedAt": "2026-10-20T03:15:43.000Z"
+        },
+        "dishHints": [
+          "맷돌드립커피"
+        ],
+        "dishVotes": {
+          "맷돌드립커피": 2
+        }
+      },
+      "store": {
+        "name": "카페승민씨",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%B9%B4%ED%8E%98%EC%8A%B9%EB%AF%BC%EC%94%A8-f94r1zyqeg3j/",
+        "address": "경북 문경시 문경읍 온천6길 23",
+        "category": "음식점 > 카페/디저트 > 카페",
+        "roadAddress": "경북 문경시 문경읍 온천6길 23",
+        "jibunAddress": "경북 문경시 문경읍 하리 213-6",
+        "phone": "0545539683",
+        "safePhone": null,
+        "hours": {
+          "월": "11:00~21:00",
+          "화": "11:00~21:00",
+          "수": "11:00~21:00",
+          "목": null,
+          "금": "11:00~21:00",
+          "토": "11:00~21:00",
+          "일": "11:00~21:00"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "목"
+        ],
+        "menu": [
+          {
+            "name": "맷돌드립커피",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "수제요거트",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "대추차",
+            "price": 6500,
+            "maxPrice": null
+          },
+          {
+            "name": "문경오미자에이드",
+            "price": 5500,
+            "maxPrice": null
+          },
+          {
+            "name": "레몬에이드",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "자몽에이드",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "유자에이드",
+            "price": 5500,
+            "maxPrice": null
+          },
+          {
+            "name": "딸기라떼",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "미숫가루라떼",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "아이스티",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "플레인요거트스무디",
+            "price": 5500,
+            "maxPrice": null
+          },
+          {
+            "name": "블루베리스무디",
+            "price": 5500,
+            "maxPrice": null
+          },
+          {
+            "name": "딸기요거트스무디",
+            "price": 5500,
+            "maxPrice": null
+          },
+          {
+            "name": "청도홍시슬러시",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "쌍화차",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "레몬생강차",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "자몽차",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "특급보이차",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "카모마일",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "단팥죽(겨울)",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "호박죽",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "팥&홍시",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "브라운치즈 크로플",
+            "price": 4500,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 36.7332863,
+          "lng": 128.1093771
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경북 문경시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 250
+    }
+  ],
+  "held": [
+    {
+      "place": "풍년기름집",
+      "region": "경기 성남시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 풍년기름집 (서울특별시 중구 퇴계로83길 10-12 (황학동)) — 다른 시군구 (서울특별시 중구 퇴계로83길 10-12 (황학동)) | 2. 풍년기름집 (서울특별시 동대문구 경동시장로3길 13) — 다른 시군구 (서울특별시 동대문구 경동시장로3길 13) | 3. 풍년기름집 (경기도 부천시 역곡로14번길 29) — 다른 시군구 (경기도 부천시 역곡로14번길 29) | 4. 풍년기름집 (인천광역시 남동구 호구포로790번길 7, 1층 4호 (구월동)) — 다른 시군구 (인천광역시 남동구 호구포로790번길 7, 1층 4호 (구월동)) | 5. 풍년기름집 (경기도 파주시 문산읍 문향로 57) — 다른 시군구 (경기도 파주시 문산읍 문향로 57) | 6. 풍년기름집 (충청남도 아산시 영인면 아산리길 9) — 다른 시군구 (충청남도 아산시 영인면 아산리길 9) | 7. 풍년기름집 (강원특별자치도 춘천시 춘천로185번길 6-6) — 다른 시군구 (강원특별자치도 춘천시 춘천로185번길 6-6) | 8. 풍년기름집 (전북특별자치도 전주시 완산구 팔달로 267-8) — 다른 시군구 (전북특별자치도 전주시 완산구 팔달로 267-8) | 9. 풍년기름집 (경상남도 김해시 생림면 봉림로21번길 25) — 다른 시군구 (경상남도 김해시 생림면 봉림로21번길 25) | 10. 풍년기름집 (경상남도 진주시 촉석로27번길 11) — 다른 시군구 (경상남도 진주시 촉석로27번길 11)) / 인허가 '풍년기름' + '성남시' / 0건",
+      "context": "[생생정보 모란시장 방앗간] 모란역 풍년기름집, 성남 모란전통시장 갓 짜낸 참기름·들기름 맛집 핫플",
+      "eatery": false
+    }
+  ],
+  "excluded": [
+    {
+      "place": "송림수제화",
+      "region": "서울 중구",
+      "name": "송림수제화",
+      "category": "시설 > 산업시설 > 제조시설"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1220b",
+  "status": "pending",
+  "publishAfter": "2026-10-20T03:36:27.048Z",
+  "preparedAt": "2026-10-20T03:21:27.048Z"
+}
