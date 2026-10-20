@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-20",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "justlaben/224447976523",
+      "program": "생방송 투데이",
+      "title": "[생방송투데이 증평 짜글이맛집] 증평장뜰시장 삼순이, 2억 빚 갚은 할머니의 얼큰한 돼지 짜글이 맛집 핫플",
+      "place": "삼순이",
+      "region": "충북 증평군",
+      "dishes": [
+        "돼지 짜글이",
+        "짜글이"
+      ],
+      "corner": "UDT",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224447976523",
+      "postedAt": "2026-10-20T08:39:11.000Z",
+      "dishVotes": {
+        "돼지 짜글이": 1,
+        "짜글이": 1
+      },
+      "votes": {
+        "생방송 투데이": 2
+      },
+      "copies": 2
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1740b-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-20",
+        "episode": null,
+        "corner": "UDT",
+        "episodeTitle": null,
+        "region": "충북 증평군",
+        "place": "삼순이",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "justlaben",
+          "link": "https://blog.naver.com/justlaben/224447976523",
+          "title": "[생방송투데이 증평 짜글이맛집] 증평장뜰시장 삼순이, 2억 빚 갚은 할머니의 얼큰한 돼지 짜글이 맛집 핫플",
+          "postedAt": "2026-10-20T08:39:11.000Z"
+        },
+        "dishHints": [
+          "돼지 짜글이",
+          "짜글이"
+        ],
+        "dishVotes": {
+          "돼지 짜글이": 1,
+          "짜글이": 1
+        }
+      },
+      "store": {
+        "name": "삼순이",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "충청북도 증평군 증평읍 삼보로7길 35",
+        "jibunAddress": "충청북도 증평군 증평읍 창동리 294",
+        "phone": "043-838-1873",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 36.78310815651068,
+          "lng": 127.57912502916317
+        },
+        "licenseDate": "1993-05-06",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 삼순이건설 (null) — 주소 없음 | 2. 내이름삼순이 (서울특별시 송파구 동남로8길 30-37 (문정동)) — 다른 시군구 (서울특별시 송파구 동남로8길 30-37 (문정동)) | 3. 곱돌이와삼순이 (서울 광진구 뚝섬로 612) — 다른 시군구 (서울 광진구 뚝섬로 612) | 4. 삼순이식당 (서울 중랑구 동일로149길 15 2동 114호) — 다른 시군구 (서울 중랑구 동일로149길 15 2동 114호) | 5. 삼순이계단 (서울특별시 중구 소파로 46 서울특별시교육연구정보원) — 다른 시군구 (서울특별시 중구 소파로 46 서울특별시교육연구정보원) | 6. 삼순이포차 (서울특별시 강동구 양재대로 1479) — 다른 시군구 (서울특별시 강동구 양재대로 1479) | 7. 삼순이생선구이 (서울 중랑구 동일로129길 35) — 다른 시군구 (서울 중랑구 동일로129길 35) | 8. 삼순이 (인천 검단구 검단로 485-1 1층) — 다른 시군구 (인천 검단구 검단로 485-1 1층) | 9. 삼순이빈대떡홍어삼합 (경기도 성남시 수정구 성남대로1226번길 2, 1층 (수진동)) — 다른 시군구 (경기도 성남시 수정구 성남대로1226번길 2, 1층 (수진동)) | 10. 삼순이바지락손칼국수 (서울 영등포구 양산로7길 3 우림보보카운티오피스텔) — 다른 시군구 (서울 영등포구 양산로7길 3 우림보보카운티오피스텔)) / 인허가 '삼순이' + '증평군' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 262
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1740b",
+  "status": "pending",
+  "publishAfter": "2026-10-20T08:56:01.204Z",
+  "preparedAt": "2026-10-20T08:41:01.204Z"
+}
