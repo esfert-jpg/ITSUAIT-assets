@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-20",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "justlaben/224447581649",
+      "program": "생생정보",
+      "title": "[생생정보 13900원 돼지갈비] 가격파괴why, 수유역 강북구청 백로참숯구이, 국내산 돼지갈비 400g 가성비 맛집 핫플",
+      "place": "백로참숯구이",
+      "region": "서울 강북구",
+      "dishes": [
+        "돼지갈비"
+      ],
+      "corner": "가격파괴 Why",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224447581649",
+      "postedAt": "2026-10-20T03:05:16.000Z",
+      "dishVotes": {
+        "돼지갈비": 2
+      },
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224447583599",
+      "program": "생생정보",
+      "title": "[생생정보 모란시장 돼지부속맛집] 모란공영주차장 원조쌍둥이네, 성남 모란전통시장 돼지부속 맛집 핫플",
+      "place": "원조쌍둥이네",
+      "region": "경기 성남시",
+      "dishes": [
+        "돼지부속"
+      ],
+      "corner": "요즘 시장 24시",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224447583599",
+      "postedAt": "2026-10-20T03:07:10.000Z",
+      "dishVotes": {
+        "돼지부속": 2
+      },
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    },
+    {
+      "key": "justlaben/224447585397",
+      "program": "생생정보",
+      "title": "[생생정보 모란시장 흑염소즙] 모란역 태양건강원, 성남 모란전통시장 진한 흑염소즙 보양식 맛집 핫플",
+      "place": "태양건강원",
+      "region": "경기 성남시",
+      "dishes": [
+        "흑염소즙"
+      ],
+      "corner": "요즘 시장 24시",
+      "blog": "justlaben",
+      "link": "https://blog.naver.com/justlaben/224447585397",
+      "postedAt": "2026-10-20T03:08:55.000Z",
+      "dishVotes": {
+        "흑염소즙": 2
+      },
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 3,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1210b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-20",
+        "episode": null,
+        "corner": "가격파괴 Why",
+        "episodeTitle": null,
+        "region": "서울 강북구",
+        "place": "백로참숯구이",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "justlaben",
+          "link": "https://blog.naver.com/justlaben/224447581649",
+          "title": "[생생정보 13900원 돼지갈비] 가격파괴why, 수유역 강북구청 백로참숯구이, 국내산 돼지갈비 400g 가성비 맛집 핫플",
+          "postedAt": "2026-10-20T03:05:16.000Z"
+        },
+        "dishHints": [
+          "돼지갈비"
+        ],
+        "dishVotes": {
+          "돼지갈비": 2
+        }
+      },
+      "store": {
+        "name": "백로참숯구이",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%B0%B1%EB%A1%9C%EC%B0%B8%EC%88%AF%EA%B5%AC%EC%9D%B4-9txxppunofcn/",
+        "address": "서울특별시 강북구 한천로140길 11-10 (수유동)",
+        "category": "음식점 > 한식 > 고기 구이",
+        "roadAddress": "서울특별시 강북구 한천로140길 11-10 (수유동)",
+        "jibunAddress": "서울특별시 강북구 수유동 176-66",
+        "phone": "029835599",
+        "safePhone": null,
+        "hours": {
+          "월": "11:10~23:00",
+          "화": "11:10~23:00",
+          "수": "11:10~23:00",
+          "목": "11:10~23:00",
+          "금": "11:10~23:00",
+          "토": "11:10~23:00",
+          "일": "11:30~22:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "돼지갈비전골(점심특선,비조리)",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "국내산양념돼지갈비(400g,비조리)",
+            "price": 13900,
+            "maxPrice": null
+          },
+          {
+            "name": "슈퍼골든듀록생갈비(200g,비조리)",
+            "price": 11900,
+            "maxPrice": null
+          },
+          {
+            "name": "족구이(300g,비조리)",
+            "price": 12900,
+            "maxPrice": null
+          },
+          {
+            "name": "불족구이(300g,비조리)",
+            "price": 13900,
+            "maxPrice": null
+          },
+          {
+            "name": "청국장(비조리)",
+            "price": 5000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.6410006200878,
+          "lng": 127.026813951512
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 강북구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 247
+    }
+  ],
+  "held": [
+    {
+      "place": "원조쌍둥이네",
+      "region": "경기 성남시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '원조쌍둥' + '성남시' / 0건",
+      "context": "[생생정보 모란시장 돼지부속맛집] 모란공영주차장 원조쌍둥이네, 성남 모란전통시장 돼지부속 맛집 핫플",
+      "eatery": true
+    },
+    {
+      "place": "태양건강원",
+      "region": "경기 성남시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '태양건강' + '성남시' / 0건",
+      "context": "[생생정보 모란시장 흑염소즙] 모란역 태양건강원, 성남 모란전통시장 진한 흑염소즙 보양식 맛집 핫플",
+      "eatery": true
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1210b",
+  "status": "pending",
+  "publishAfter": "2026-10-20T03:26:24.322Z",
+  "preparedAt": "2026-10-20T03:11:24.322Z"
+}
