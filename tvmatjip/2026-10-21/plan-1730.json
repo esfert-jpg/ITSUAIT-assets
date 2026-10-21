@@ -422,7 +422,35 @@
   "retry": [],
   "blocked": null,
   "batch": "1730",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-21T08:49:29.036Z",
-  "preparedAt": "2026-10-21T08:34:29.036Z"
+  "preparedAt": "2026-10-21T08:34:29.036Z",
+  "publishedAt": "2026-10-21T08:52:10.192Z",
+  "result": {
+    "published": [
+      {
+        "name": "보배김밥",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_21.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-21/naver/1730-1.html",
+        "naverTitle": "생생정보 교통카드면 충분해 보배김밥 경북 경주 위치"
+      },
+      {
+        "name": "경주뷔페식당",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_545.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-21/naver/1730-2.html",
+        "naverTitle": "생생정보 교통카드면 충분해 경주뷔페식당 경북 경주 위치"
+      },
+      {
+        "name": "놋전집",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_734.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-21/naver/1730-3.html",
+        "naverTitle": "생생정보 교통카드면 충분해 놋전집 경북 경주 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
