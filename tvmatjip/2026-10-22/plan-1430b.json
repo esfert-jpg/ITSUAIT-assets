@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-22",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224450123175",
+      "program": "생생정보",
+      "title": "2tv 생생정보 ㅣ하남 미사 휴대폰 성지 휴대폰 도매폰센타 하남점 솔직 방문 후기!",
+      "place": "휴대폰도매폰센타 하남점",
+      "region": "경기 하남시",
+      "dishes": [],
+      "corner": "똑똑한 소비자 리포트",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224450123175",
+      "postedAt": "2026-10-22T05:28:58.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "휴대폰도매폰센타 하남점",
+      "region": "경기 하남시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '휴대폰도' + '하남시' / 0건",
+      "context": "2tv 생생정보 ㅣ하남 미사 휴대폰 성지 휴대폰 도매폰센타 하남점 솔직 방문 후기!",
+      "eatery": false
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1430b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-22T05:31:07.610Z"
+}
