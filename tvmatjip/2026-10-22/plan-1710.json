@@ -75,7 +75,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1710",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-22T08:25:51.581Z",
-  "preparedAt": "2026-10-22T08:10:51.581Z"
+  "preparedAt": "2026-10-22T08:10:51.581Z",
+  "publishedAt": "2026-10-22T08:31:18.920Z",
+  "result": {
+    "published": [
+      {
+        "name": "단샤오담 노원본점",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_408.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-22/naver/1710-1.html",
+        "naverTitle": "생방송 투데이 맛있는 퇴근 단샤오담 노원본점 서울 노원 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
