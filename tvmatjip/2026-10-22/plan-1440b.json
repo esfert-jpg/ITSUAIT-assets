@@ -87,7 +87,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1440b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-22T05:56:00.015Z",
-  "preparedAt": "2026-10-22T05:41:00.015Z"
+  "preparedAt": "2026-10-22T05:41:00.015Z",
+  "publishedAt": "2026-10-22T06:01:24.743Z",
+  "result": {
+    "published": [
+      {
+        "name": "피셔맨즈",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_22.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-22/naver/1440b-1.html",
+        "naverTitle": "생생정보 스타밥집 피셔맨즈 경기 김포 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
