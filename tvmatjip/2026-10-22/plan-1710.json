@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-22",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=557546",
+    "airDate": "2026-10-22",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=557546",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 서울 노원구 딤섬 맛집, 골라 먹는 즐거움",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 1,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1710-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-22",
+        "episode": null,
+        "corner": "맛있는 퇴근",
+        "episodeTitle": null,
+        "region": "서울 노원구",
+        "place": "단샤오담 노원본점",
+        "description": "이번 방송은 '오늘은 골라 먹는 딤섬!'이라는 주제로 진행된다. 퇴근 후 즐길 수 있는 음식으로 딤섬을 선정하고, 여러 종류를 골라 먹는 즐거움에 주목할 예정이다. 이날 방송에서 찾아가는 곳은 서울 노원구에 위치한 '단샤오담 노원본점'이다. 딤섬을 중심으로 한 식사를 소개하는 장소로, 이번 '맛있는 퇴근'의 주요 식당이다. 딤섬은 이번 방송의 핵심 음식이다. '골라 먹는 딤섬'이라는 제목처럼 한 가지 메뉴가 아닌 다양한 딤섬을 선택해 즐기는 방식에 초점을 맞춘다. 특히 이번 편에서는 퇴근 후 먹는 저녁 식사와 딤섬을 연결한다. 하루 일과를 마친 뒤 어떤 음식을 먹을지 고민하는 이들에게 딤섬이라는 메뉴를 소개하는 내용이다. '단샤오담 노원본점'은 서울 노원구에 자리한 식당으로, 이번 방송에서 딤섬을 만나는 장소다. 다양한 딤섬을 골라 먹는다는 주제 아래 식당의 음식을 살펴볼 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=557546",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "단샤오담 노원본점",
+        "url": null,
+        "address": null,
+        "category": "기타",
+        "roadAddress": "서울특별시 노원구 상계로3길 15, 현우빌딩 1층 7호 (상계동)",
+        "jibunAddress": "서울특별시 노원구 상계동 602-2 현우빌딩",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.65690918240406,
+          "lng": 127.06215761548724
+        },
+        "licenseDate": "2025-01-10",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '단샤오담' + '노원구' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 285
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1710",
+  "status": "pending",
+  "publishAfter": "2026-10-22T08:25:51.581Z",
+  "preparedAt": "2026-10-22T08:10:51.581Z"
+}
