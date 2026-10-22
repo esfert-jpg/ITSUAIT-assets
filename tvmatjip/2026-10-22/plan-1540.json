@@ -211,7 +211,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1540",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-22T06:57:00.044Z",
-  "preparedAt": "2026-10-22T06:42:00.044Z"
+  "preparedAt": "2026-10-22T06:42:00.044Z",
+  "publishedAt": "2026-10-22T07:01:19.453Z",
+  "result": {
+    "published": [
+      {
+        "name": "홍원항횟집",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_210.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-22/naver/1540-1.html",
+        "naverTitle": "생생정보 떠나요~이야기로(路) 홍원항횟집 충남 서천 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
