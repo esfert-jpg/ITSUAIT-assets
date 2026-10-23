@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>네이버 원고 · itsuait</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1d2127;--sub:#6b7280;--line:#e3e6ea;--acc:#03c75a;--acc-ink:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#15171a;--card:#1f2226;--ink:#e8eaed;--sub:#9aa0a6;--line:#30343a;--acc:#1ec26b;--acc-ink:#0b1a10}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif}
+main{max-width:720px;margin:0 auto;padding:16px}
+h1{font-size:15px;color:var(--sub);font-weight:600;margin:4px 0 12px}
+section{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin:0 0 12px}
+.head{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px}
+.head b{font-size:14px;color:var(--sub)}
+.hint{font-size:12px;color:var(--sub);text-align:right}
+.btn{appearance:none;border:0;border-radius:10px;background:var(--acc);color:var(--acc-ink);font-weight:700;font-size:15px;padding:10px 16px;cursor:pointer;text-decoration:none;display:inline-block}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line);font-weight:600;font-size:14px;padding:8px 12px}
+.box{white-space:pre-wrap;word-break:break-all}
+#body p{margin:0}
+.title{font-size:18px;font-weight:700}
+figure{margin:0 0 12px}figure img{display:block;max-width:100%;border-radius:8px;margin-bottom:6px}
+#toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:999px;font-size:14px;opacity:0;transition:opacity .2s;pointer-events:none}
+#toast.on{opacity:1}
+.steps{font-size:14px;color:var(--sub);margin:0;padding-left:18px}
+</style></head><body><main>
+<h1>네이버 블로그 원고 · itsuait</h1>
+<section><div class="head"><b>① 제목</b><button class="btn" data-copy="title">제목 복사</button></div><div class="box title" id="title">오픈AI 디시선스 API, 의사결정 10배 빠르게 처리…가격은</div></section>
+<section><div class="head"><b>② 사진</b><span class="hint">저장 → 공유 시트에서 '이미지 저장'. 또는 사진을 길게 눌러 '사진에 추가'</span></div><figure><img src="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-10-24/080131/blog-cover.png" alt="사진 1"><a class="btn ghost" data-img="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-10-24/080131/blog-cover.png" href="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-10-24/080131/blog-cover.png" download="itsuait-1">사진 1 저장</a></figure></section>
+<section><div class="head"><b>③ 본문 (태그 포함)</b><button class="btn" data-copy="body">본문 복사</button></div><div id="body"><p>오픈AI가 분류와 선택에 특화한 '디시선스 API'를 정식 출시했어요. 기존 방식보다 최대 10배 빠르면서도 더 저렴하게 의사결정 작업을 처리할 수 있습니다.</p><p><br></p><p>▶ 1~3초 걸리던 판단을 100밀리초대로</p><p>이 API는 애플리케이션과 AI 에이전트가 반복적으로 처리하는 작은 판단에 맞춰 만들어졌어요. 입력 내용을 분류하거나 요청을 올바른 경로로 전달하고, 다음 행동을 정하는 식의 작업이에요. 개별 판단 자체는 간단하지만, 큰 서비스에서 이런 작업이 쌓이면 지연 시간과 비용이 눈덩이처럼 늘어나요.</p><p><br></p><p>기존에 1~3초 걸리던 작업을 100~180밀리초 수준으로 줄일 수 있어요. 오픈AI는 새로운 의사결정 전용 모델을 따로 만드는 대신 GPT-6 루나의 추론 과정을 최적화하는 방식으로 속도와 비용을 개선했어요.</p><p><br></p><p>▶ 질문과 답변을 정의하고 데이터를 넣으면 끝</p><p>개발자가 사용하는 방법은 간단해요. API에 질문과 허용되는 답변을 정의한 뒤 텍스트, 이미지, 구조화된 JSON 데이터를 입력하면 돼요. 결과는 확률, 선택지, 점수 세 가지 형태로 돌아오고, 애플리케이션은 이를 바탕으로 다음 작업을 결정할 수 있어요.</p><p><br></p><p>공개 베타 기간 동안 기능도 크게 늘었어요. GPT-라이브와 기본 통합을 지원하고, 반복 사용하는 문맥을 위한 프롬프트 캐싱 기능을 더했어요. 미국과 유럽연합 내에서만 추론을 처리하도록 설정하는 기능도 있어요.</p><p><br></p><p>▶ 입력 100만 토큰당 0.10달러, 캐싱은 0.01달러</p><p>요금은 입력 토큰 100만개당 0.10달러예요. 캐싱된 입력에는 0.01달러만 나와요. 출력 토큰에는 별도 요금을 매기지 않으니 비용 예측이 쉬워요. 자격을 갖춘 고객은 제로 데이터 보존 옵션도 이용할 수 있어요.</p><p><br></p><p>음성 비서 닷츠, 거래 내역 분류, 언론 보도 평가 등 오픈AI 내부에서도 여러 곳에 활용 중이에요. AI 언어 학습 서비스 스픽은 GPT-라이브에 이 API를 통합한 시험에서 다음 행동까지 걸리는 시간을 1.4초에서 0.13초로 단축했어요. 박스, 데이터독, 램프 같은 주요 기업들도 초기 시험에 참여했어요.</p><p><br></p><p>▶ 음성 서비스에 실시간 판단을 더하다</p><p>GPT-라이브와 결합하면 음성 기반 AI 서비스가 대화 도중 실시간으로 판단을 내릴 수 있어요. 고객 지원 에이전트가 추가 질문을 할지, 다른 담당자에게 넘길지 순간순간 결정하는 식이에요. 가상 아바타가 사용자의 말에 맞춰 표정과 반응을 바꾸는 데도 쓸 수 있어요.</p><p><br></p><p>이렇게 하면 음성 서비스의 상호작용이 훨씬 자연스러워져요. 빠른 판단이 가능해지니까 사용자 입장에서는 끊김 없는 대화를 경험할 수 있는 거예요.</p><p><br></p><p>출처: AI타임스</p><p><br></p><p>👉 표와 원문 링크까지 정리한 글은 여기 있어요</p><p><a href="https://itsuait.blogspot.com/2026/10/api-10.html">https://itsuait.blogspot.com/2026/10/api-10.html</a></p><p><br></p><p>#오픈AI #OpenAI #챗GPT #ChatGPT #AI뉴스 #IT이슈</p></div></section>
+<section><ol class="steps"><li>네이버 블로그 글쓰기를 연다</li><li>제목 복사 → 제목 칸에 붙여넣기</li><li>사진 저장 → 사진첩에서 본문 맨 위에 첨부</li><li>본문 복사 → 사진 아래에 붙여넣기 (끝의 #태그는 발행할 때 태그로 자동 등록된다)</li><li>발행 또는 예약</li></ol></section>
+</main><div id="toast"></div>
+<script>
+const D={"title":"오픈AI 디시선스 API, 의사결정 10배 빠르게 처리…가격은","body":"오픈AI가 분류와 선택에 특화한 '디시선스 API'를 정식 출시했어요. 기존 방식보다 최대 10배 빠르면서도 더 저렴하게 의사결정 작업을 처리할 수 있습니다.\n\n▶ 1~3초 걸리던 판단을 100밀리초대로\n이 API는 애플리케이션과 AI 에이전트가 반복적으로 처리하는 작은 판단에 맞춰 만들어졌어요. 입력 내용을 분류하거나 요청을 올바른 경로로 전달하고, 다음 행동을 정하는 식의 작업이에요. 개별 판단 자체는 간단하지만, 큰 서비스에서 이런 작업이 쌓이면 지연 시간과 비용이 눈덩이처럼 늘어나요.\n\n기존에 1~3초 걸리던 작업을 100~180밀리초 수준으로 줄일 수 있어요. 오픈AI는 새로운 의사결정 전용 모델을 따로 만드는 대신 GPT-6 루나의 추론 과정을 최적화하는 방식으로 속도와 비용을 개선했어요.\n\n▶ 질문과 답변을 정의하고 데이터를 넣으면 끝\n개발자가 사용하는 방법은 간단해요. API에 질문과 허용되는 답변을 정의한 뒤 텍스트, 이미지, 구조화된 JSON 데이터를 입력하면 돼요. 결과는 확률, 선택지, 점수 세 가지 형태로 돌아오고, 애플리케이션은 이를 바탕으로 다음 작업을 결정할 수 있어요.\n\n공개 베타 기간 동안 기능도 크게 늘었어요. GPT-라이브와 기본 통합을 지원하고, 반복 사용하는 문맥을 위한 프롬프트 캐싱 기능을 더했어요. 미국과 유럽연합 내에서만 추론을 처리하도록 설정하는 기능도 있어요.\n\n▶ 입력 100만 토큰당 0.10달러, 캐싱은 0.01달러\n요금은 입력 토큰 100만개당 0.10달러예요. 캐싱된 입력에는 0.01달러만 나와요. 출력 토큰에는 별도 요금을 매기지 않으니 비용 예측이 쉬워요. 자격을 갖춘 고객은 제로 데이터 보존 옵션도 이용할 수 있어요.\n\n음성 비서 닷츠, 거래 내역 분류, 언론 보도 평가 등 오픈AI 내부에서도 여러 곳에 활용 중이에요. AI 언어 학습 서비스 스픽은 GPT-라이브에 이 API를 통합한 시험에서 다음 행동까지 걸리는 시간을 1.4초에서 0.13초로 단축했어요. 박스, 데이터독, 램프 같은 주요 기업들도 초기 시험에 참여했어요.\n\n▶ 음성 서비스에 실시간 판단을 더하다\nGPT-라이브와 결합하면 음성 기반 AI 서비스가 대화 도중 실시간으로 판단을 내릴 수 있어요. 고객 지원 에이전트가 추가 질문을 할지, 다른 담당자에게 넘길지 순간순간 결정하는 식이에요. 가상 아바타가 사용자의 말에 맞춰 표정과 반응을 바꾸는 데도 쓸 수 있어요.\n\n이렇게 하면 음성 서비스의 상호작용이 훨씬 자연스러워져요. 빠른 판단이 가능해지니까 사용자 입장에서는 끊김 없는 대화를 경험할 수 있는 거예요.\n\n출처: AI타임스\n\n👉 표와 원문 링크까지 정리한 글은 여기 있어요\nhttps://itsuait.blogspot.com/2026/10/api-10.html\n\n#오픈AI #OpenAI #챗GPT #ChatGPT #AI뉴스 #IT이슈"};
+const toast=(m)=>{const t=document.getElementById('toast');t.textContent=m;t.classList.add('on');setTimeout(()=>t.classList.remove('on'),1400)};
+function selectCopy(el){const r=document.createRange();r.selectNodeContents(el);const s=getSelection();s.removeAllRanges();s.addRange(r);let ok=false;try{ok=document.execCommand('copy')}catch(e){}s.removeAllRanges();return ok}
+async function copyText(t,el){try{await navigator.clipboard.writeText(t);return true}catch(e){return selectCopy(el)}}
+async function copyRich(el,plain){try{if(window.ClipboardItem&&navigator.clipboard&&navigator.clipboard.write){await navigator.clipboard.write([new ClipboardItem({'text/html':new Blob([el.innerHTML],{type:'text/html'}),'text/plain':new Blob([plain],{type:'text/plain'})})]);return true}}catch(e){}return selectCopy(el)}
+document.querySelectorAll('[data-copy]').forEach((b)=>b.addEventListener('click',async()=>{const k=b.dataset.copy;const el=document.getElementById(k);const ok=k==='body'?await copyRich(el,D.body):await copyText(D[k],el);toast(ok?({title:'제목',body:'본문'}[k])+' 복사됨':'복사 실패 — 길게 눌러 직접 복사하세요')}));
+// 사진 저장: 공유 시트 → '이미지 저장' 이 사진첩으로 간다. 사파리는 클릭 뒤 await 가 끼면 share 를 거부해서 미리 받아 둔다.
+// jpg·png 가 아니면(webp 등) 브라우저에서 jpg 로 바꾼다. 네이버가 webp 를 안 받는다 (2026-10-19 사용자 실측).
+// 화면의 <img> 와 PC 내려받기 링크도 바꾼 jpg 로 갈아 끼운다. 길게 눌러 '사진에 추가' 해도 jpg 가 들어간다. 변환이 안 되면 원본 그대로 둔다.
+const IMGS=new Map();
+const toJpg=(b)=>['image/jpeg','image/png'].includes(b.type)?Promise.resolve(b):createImageBitmap(b).then((bm)=>{const c=document.createElement('canvas');c.width=bm.width;c.height=bm.height;const x=c.getContext('2d');x.fillStyle='#fff';x.fillRect(0,0,c.width,c.height);x.drawImage(bm,0,0);return new Promise((ok,no)=>c.toBlob((j)=>j?ok(j):no(new Error('toBlob')),'image/jpeg',0.92))}).catch(()=>b);
+document.querySelectorAll('[data-img]').forEach((a)=>{const u=a.dataset.img;fetch(u,{cache:'no-store'}).then((r)=>r.ok?r.blob():Promise.reject(r.status)).then(toJpg).then((b)=>{const ext=(b.type.split('/')[1]||'png').replace('jpeg','jpg');IMGS.set(u,new File([b],(a.getAttribute('download')||'photo')+'.'+ext,{type:b.type}));if(!u.endsWith('.'+ext)){const o=URL.createObjectURL(b);const img=a.parentElement.querySelector('img');if(img)img.src=o;a.href=o}}).catch(()=>{});
+a.addEventListener('click',(e)=>{const f=IMGS.get(u);if(f&&navigator.share&&navigator.canShare&&navigator.canShare({files:[f]})){e.preventDefault();navigator.share({files:[f]}).catch((err)=>{if(err&&err.name!=='AbortError')toast('공유 실패 — 사진을 길게 눌러 사진에 추가하세요')})}})});
+</script></body></html>
