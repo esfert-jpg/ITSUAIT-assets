@@ -95,7 +95,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1430b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-26T05:46:06.931Z",
-  "preparedAt": "2026-10-26T05:31:06.931Z"
+  "preparedAt": "2026-10-26T05:31:06.931Z",
+  "publishedAt": "2026-10-26T05:51:22.605Z",
+  "result": {
+    "published": [
+      {
+        "name": "맹돌이생선구이쌈밥",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_26.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-26/naver/1430b-1.html",
+        "naverTitle": "생생정보 장사의 신 맹돌이생선구이쌈밥 생선구이쌈밥 서울 중랑 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
