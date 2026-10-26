@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-26",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "msu6242/224454301968",
+      "program": "생방송 투데이",
+      "title": "SBS 생방송 투데이 이천 편｜경기도 이천시 중리천로31번길｜이천 관고전통시장 빈대떡 및 이천쌀빵 맛집 ｜명가빈대떡",
+      "place": "명가빈대떡",
+      "region": "경기 이천시",
+      "dishes": [
+        "빈대떡",
+        "이천쌀빵"
+      ],
+      "corner": "세상 속으로",
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224454301968",
+      "postedAt": "2026-10-26T08:30:00.000Z",
+      "dishVotes": {
+        "빈대떡": 1,
+        "이천쌀빵": 1
+      },
+      "votes": {
+        "생방송 투데이": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1740b-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-26",
+        "episode": null,
+        "corner": "세상 속으로",
+        "episodeTitle": null,
+        "region": "경기 이천시",
+        "place": "명가빈대떡",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "msu6242",
+          "link": "https://blog.naver.com/msu6242/224454301968",
+          "title": "SBS 생방송 투데이 이천 편｜경기도 이천시 중리천로31번길｜이천 관고전통시장 빈대떡 및 이천쌀빵 맛집 ｜명가빈대떡",
+          "postedAt": "2026-10-26T08:30:00.000Z"
+        },
+        "dishHints": [
+          "빈대떡",
+          "이천쌀빵"
+        ],
+        "dishVotes": {
+          "빈대떡": 1,
+          "이천쌀빵": 1
+        }
+      },
+      "store": {
+        "name": "명가빈대떡",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%AA%85%EA%B0%80%EB%B9%88%EB%8C%80%EB%96%A1-zft5zidoph5p/",
+        "address": "경기도 이천시 중리천로31번길 14 (창전동)",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "경기도 이천시 중리천로31번길 14 (창전동)",
+        "jibunAddress": "경기도 이천시 창전동 154-22",
+        "phone": null,
+        "safePhone": "050713374243",
+        "hours": {
+          "월": null,
+          "화": "12:00~24:00",
+          "수": "12:00~24:00",
+          "목": "12:00~24:00",
+          "금": "12:00~24:00",
+          "토": "12:00~24:00",
+          "일": "12:00~24:00"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "월"
+        ],
+        "menu": [
+          {
+            "name": "해물파전",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "이천쌀빵",
+            "price": 3000,
+            "maxPrice": null
+          },
+          {
+            "name": "사탕수수",
+            "price": 4000,
+            "maxPrice": null
+          },
+          {
+            "name": "김치전",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "모둠전",
+            "price": 25000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.280770309795855,
+          "lng": 127.44071624560999
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "2순위 / 상호 완전 일치 / 경기 이천시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 306
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1740b",
+  "status": "pending",
+  "publishAfter": "2026-10-26T08:55:55.404Z",
+  "preparedAt": "2026-10-26T08:40:55.404Z"
+}
