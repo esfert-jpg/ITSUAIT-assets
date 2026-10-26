@@ -135,7 +135,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1740b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-26T08:55:55.404Z",
-  "preparedAt": "2026-10-26T08:40:55.404Z"
+  "preparedAt": "2026-10-26T08:40:55.404Z",
+  "publishedAt": "2026-10-26T09:02:31.399Z",
+  "result": {
+    "published": [
+      {
+        "name": "명가빈대떡",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_115.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-26/naver/1740b-1.html",
+        "naverTitle": "생방송 투데이 세상 속으로 명가빈대떡 빈대떡 경기 이천 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
