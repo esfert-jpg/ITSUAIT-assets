@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-26",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "msu6242/224454293484",
+      "program": "생방송 투데이",
+      "title": "SBS 생방송 투데이 전주 편｜전라북도 전주시 덕진구 초포다리로｜전주 여의동 21,000원 무한리필 감자탕 맛집 ｜전원집",
+      "place": "전원집",
+      "region": "전북 전주시",
+      "dishes": [
+        "감자탕"
+      ],
+      "corner": "슬기로운 외식생활",
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224454293484",
+      "postedAt": "2026-10-26T07:18:17.000Z",
+      "dishVotes": {
+        "감자탕": 1
+      },
+      "votes": {
+        "생방송 투데이": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1620b-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-26",
+        "episode": null,
+        "corner": "슬기로운 외식생활",
+        "episodeTitle": null,
+        "region": "전북 전주시",
+        "place": "전원집",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "msu6242",
+          "link": "https://blog.naver.com/msu6242/224454293484",
+          "title": "SBS 생방송 투데이 전주 편｜전라북도 전주시 덕진구 초포다리로｜전주 여의동 21,000원 무한리필 감자탕 맛집 ｜전원집",
+          "postedAt": "2026-10-26T07:18:17.000Z"
+        },
+        "dishHints": [
+          "감자탕"
+        ],
+        "dishVotes": {
+          "감자탕": 1
+        }
+      },
+      "store": {
+        "name": "전원집",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%A0%84%EC%9B%90%EC%A7%91-t7cuskj67u45/",
+        "address": "전북특별자치도 전주시 덕진구 초포다리로 66 (호성동1가)",
+        "category": "음식점 > 한식 > 탕/전골/찌개",
+        "roadAddress": "전북특별자치도 전주시 덕진구 초포다리로 66 (호성동1가)",
+        "jibunAddress": "전북특별자치도 전주시 덕진구 호성동1가 128-1",
+        "phone": "0632536689",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 35.8617126526072,
+          "lng": 127.159909434596
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 전북 전주시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 300
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1620b",
+  "status": "pending",
+  "publishAfter": "2026-10-26T07:35:55.255Z",
+  "preparedAt": "2026-10-26T07:20:55.255Z"
+}
