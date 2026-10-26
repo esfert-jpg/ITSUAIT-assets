@@ -118,7 +118,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1801",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-26T09:16:47.000Z",
-  "preparedAt": "2026-10-26T09:01:47.000Z"
+  "preparedAt": "2026-10-26T09:01:47.000Z",
+  "publishedAt": "2026-10-26T09:21:20.805Z",
+  "result": {
+    "published": [
+      {
+        "name": "야장조개",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_891.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-26/naver/1801-1.html",
+        "naverTitle": "생방송 투데이 대식가 야장조개 경기 시흥 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
