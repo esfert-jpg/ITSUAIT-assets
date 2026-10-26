@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-26",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224454231208",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 전남 영광 3년 차 풀 베는 청춘의 땀방울, 청년예초 전남영광점  솔직 후기",
+      "place": "청년예초",
+      "region": "전남 영광군",
+      "dishes": [],
+      "corner": "힘쓰니까 청춘이다",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224454231208",
+      "postedAt": "2026-10-26T06:32:35.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "청년예초",
+      "region": "전남 영광군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 4개 중 상호·시군구가 다 맞는 곳 없음: 1. Big Tree (서울특별시 서초구 효령로 304 (서초동)) — 상호 불일치 (찾은 것: 'Big Tree') | 2. 나무삼춘 (null) — 상호 불일치 (찾은 것: '나무삼춘') | 3. 에이치농원 (null) — 상호 불일치 (찾은 것: '에이치농원') | 4. 철거기공 예초기기공 베테 서울전지역 (서울특별시 강남구 강남대로114길 24 (논현동)) — 상호 불일치 (찾은 것: '철거기공 예초기기공 베테 서울전지역')) / 인허가 '청년예초' + '영광군' / 0건",
+      "context": "[2TV 생생정보] 전남 영광 3년 차 풀 베는 청춘의 땀방울, 청년예초 전남영광점  솔직 후기",
+      "eatery": false
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1540b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-26T06:40:54.742Z"
+}
