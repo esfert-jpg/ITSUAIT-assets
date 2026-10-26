@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-26",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224454140349",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 중랑구 32년 내공의 맛 생선구이쌈밥 맛집, 맹돌이생선구이쌈밥전문점 솔직 후기",
+      "place": "맹돌이생선구이쌈밥전문점",
+      "region": "서울 중랑구",
+      "dishes": [
+        "생선구이쌈밥"
+      ],
+      "corner": "장사의 신",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224454140349",
+      "postedAt": "2026-10-26T05:24:39.000Z",
+      "dishVotes": {
+        "생선구이쌈밥": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1430b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-26",
+        "episode": null,
+        "corner": "장사의 신",
+        "episodeTitle": null,
+        "region": "서울 중랑구",
+        "place": "맹돌이생선구이쌈밥전문점",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224454140349",
+          "title": "[2TV 생생정보] 중랑구 32년 내공의 맛 생선구이쌈밥 맛집, 맹돌이생선구이쌈밥전문점 솔직 후기",
+          "postedAt": "2026-10-26T05:24:39.000Z"
+        },
+        "dishHints": [
+          "생선구이쌈밥"
+        ],
+        "dishVotes": {
+          "생선구이쌈밥": 1
+        }
+      },
+      "store": {
+        "name": "맹돌이생선구이쌈밥",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "서울특별시 중랑구 용마산로115길 59, 2층 (망우동)",
+        "jibunAddress": "서울특별시 중랑구 망우동 491-39 2층",
+        "phone": "02-491-8221",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.59827221155166,
+          "lng": 127.09703866828985
+        },
+        "licenseDate": "1994-04-07",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '맹돌이생' + '중랑구' / 입력 상호의 일부만 상호로 씀 ('맹돌이생선구이쌈밥')",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 293
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1430b",
+  "status": "pending",
+  "publishAfter": "2026-10-26T05:46:06.931Z",
+  "preparedAt": "2026-10-26T05:31:06.931Z"
+}
