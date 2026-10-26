@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-26",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224454065468",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 매콤한 김치등갈비찜 vs 구수한 고구마줄기감자탕! 취향대로 즐기는 뼈 요리 맞수다",
+      "place": "사거리매운양푼등갈비찜 본점",
+      "region": "서울 광진구",
+      "dishes": [
+        "김치등갈비찜",
+        "고구마줄기감자탕"
+      ],
+      "corner": "맛집 맞수다",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224454065468",
+      "postedAt": "2026-10-26T04:22:50.000Z",
+      "dishVotes": {
+        "김치등갈비찜": 1,
+        "고구마줄기감자탕": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224454071723",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 정선 임계 사과농원 힐링 여행! 잉매힐스사과농원 방문 후기",
+      "place": "잉매힐스사과농원",
+      "region": "강원 정선군",
+      "dishes": [],
+      "corner": "나나랜드",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224454071723",
+      "postedAt": "2026-10-26T04:28:22.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 2,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "사거리매운양푼등갈비찜 본점",
+      "region": "서울 광진구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '사거리매' + '광진구' / 0건",
+      "context": "[2TV 생생정보] 매콤한 김치등갈비찜 vs 구수한 고구마줄기감자탕! 취향대로 즐기는 뼈 요리 맞수다",
+      "eatery": true
+    },
+    {
+      "place": "잉매힐스사과농원",
+      "region": "강원 정선군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '잉매힐스' + '정선군' / 0건",
+      "context": "[2TV 생생정보] 정선 임계 사과농원 힐링 여행! 잉매힐스사과농원 방문 후기",
+      "eatery": false
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1330b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-26T04:31:06.377Z"
+}
