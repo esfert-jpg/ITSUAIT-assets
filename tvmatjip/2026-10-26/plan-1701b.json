@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-26",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "msu6242/224454299011",
+      "program": "생방송 투데이",
+      "title": "SBS 생방송 투데이 청양 편｜충청남도 청양군 정산면 저동길｜100년 세월 대가족 시골 보물정원 맛집 및 명소 ｜덕암재",
+      "place": "덕암재",
+      "region": "충남 청양군",
+      "dishes": [],
+      "corner": "대한민국 보물정원",
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224454299011",
+      "postedAt": "2026-10-26T07:50:00.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생방송 투데이": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "덕암재",
+      "region": "충남 청양군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '덕암재' + '청양군' / 0건",
+      "context": "SBS 생방송 투데이 청양 편｜충청남도 청양군 정산면 저동길｜100년 세월 대가족 시골 보물정원 맛집 및 명소 ｜덕암재",
+      "eatery": true
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1701b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-26T08:01:05.725Z"
+}
