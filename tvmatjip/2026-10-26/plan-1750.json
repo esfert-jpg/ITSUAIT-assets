@@ -173,7 +173,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1750",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-26T09:07:04.151Z",
-  "preparedAt": "2026-10-26T08:52:04.151Z"
+  "preparedAt": "2026-10-26T08:52:04.151Z",
+  "publishedAt": "2026-10-26T09:11:27.418Z",
+  "result": {
+    "published": [
+      {
+        "name": "예미정본채",
+        "url": "https://wherethatplace.blogspot.com/2026/10/6_01267034269.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-26/naver/1750-1.html",
+        "naverTitle": "6시 내고향 예미정본채 경북 안동 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
