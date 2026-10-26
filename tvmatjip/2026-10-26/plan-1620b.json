@@ -95,7 +95,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1620b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-26T07:35:55.255Z",
-  "preparedAt": "2026-10-26T07:20:55.255Z"
+  "preparedAt": "2026-10-26T07:20:55.255Z",
+  "publishedAt": "2026-10-26T07:41:14.143Z",
+  "result": {
+    "published": [
+      {
+        "name": "전원집",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_639.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-26/naver/1620b-1.html",
+        "naverTitle": "생방송 투데이 슬기로운 외식생활 전원집 감자탕 전북 전주 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
