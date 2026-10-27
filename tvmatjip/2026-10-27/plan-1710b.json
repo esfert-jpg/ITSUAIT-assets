@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-27",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "msu6242/224455614198",
+      "program": "생생정보",
+      "title": "KBS2 2TV 생생정보 남원 지금이딱제철, 전북특별자치도 남원시 요천로｜광한루원 요천변 전통 남원 추어탕 정식 맛집 ｜새집추어탕",
+      "place": "새집추어탕",
+      "region": "전북 남원시",
+      "dishes": [
+        "추어탕",
+        "추어탕 정식"
+      ],
+      "corner": "지금이 딱~ 제철",
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224455614198",
+      "postedAt": "2026-10-27T08:04:23.000Z",
+      "dishVotes": {
+        "추어탕": 1,
+        "추어탕 정식": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "새집추어탕",
+      "region": "전북 남원시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '새집추어' + '남원시' / 0건",
+      "context": "KBS2 2TV 생생정보 남원 지금이딱제철, 전북특별자치도 남원시 요천로｜광한루원 요천변 전통 남원 추어탕 정식 맛집 ｜새집추어탕",
+      "eatery": true
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1710b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-27T08:10:51.266Z"
+}
