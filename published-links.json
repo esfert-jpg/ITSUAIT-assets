@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-27T01:43:57.462Z",
+  "updatedAt": "2026-10-27T23:04:24.848Z",
   "records": [
+    {
+      "date": "2026-10-28",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "mediaId": "18645186067053429"
+    },
     {
       "date": "2026-10-27",
       "url": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515",
