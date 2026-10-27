@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-25T23:04:01.663Z",
+  "updatedAt": "2026-10-27T01:43:57.462Z",
   "records": [
+    {
+      "date": "2026-10-27",
+      "url": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515",
+      "title": "Microsoft releases emergency .NET security fixes for Google Brotli bug",
+      "mediaId": "18010466615993222"
+    },
     {
       "date": "2026-10-26",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216608",
