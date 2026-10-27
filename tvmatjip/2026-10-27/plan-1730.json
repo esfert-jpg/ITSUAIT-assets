@@ -446,7 +446,35 @@
   "retry": [],
   "blocked": null,
   "batch": "1730",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-27T08:48:01.521Z",
-  "preparedAt": "2026-10-27T08:33:01.521Z"
+  "preparedAt": "2026-10-27T08:33:01.521Z",
+  "publishedAt": "2026-10-27T08:52:08.746Z",
+  "result": {
+    "published": [
+      {
+        "name": "편가네된장",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_27.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-27/naver/1730-1.html",
+        "naverTitle": "생생정보 할매~ 밥 됩니까? 편가네된장 꽃게탕 인천 강화 위치"
+      },
+      {
+        "name": "산씽(san xing)",
+        "url": "https://wherethatplace.blogspot.com/2026/10/san-xing.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-27/naver/1730-2.html",
+        "naverTitle": "생방송 투데이 UDT 산씽(san xing) 서울 용산 위치"
+      },
+      {
+        "name": "호보갈비 용산본점",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_253.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-27/naver/1730-3.html",
+        "naverTitle": "생방송 투데이 UDT 호보갈비 용산본점 서울 용산 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
