@@ -95,7 +95,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1410b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-28T05:25:54.299Z",
-  "preparedAt": "2026-10-28T05:10:54.299Z"
+  "preparedAt": "2026-10-28T05:10:54.299Z",
+  "publishedAt": "2026-10-28T05:31:22.991Z",
+  "result": {
+    "published": [
+      {
+        "name": "처녀밥상",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_28.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-28/naver/1410b-1.html",
+        "naverTitle": "생생정보 처녀밥상 돼지불고기 대구 달성 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
