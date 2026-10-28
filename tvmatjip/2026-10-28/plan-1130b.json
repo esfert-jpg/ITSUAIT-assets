@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-28",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "ohs016830/224456434178",
+      "program": "생생정보",
+      "title": "KBS2 2TV 생생정보｜가격파괴 Why, 대구광역시 달성군  국내산 돼지불고기 무한리필·김치찌개 맛집 ｜처녀밥상",
+      "place": "처녀밥상",
+      "region": "대구 달성군",
+      "dishes": [
+        "돼지불고기",
+        "김치찌개"
+      ],
+      "corner": "가격파괴 Why",
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224456434178",
+      "postedAt": "2026-10-28T02:21:53.000Z",
+      "dishVotes": {
+        "돼지불고기": 1,
+        "김치찌개": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [],
+  "excluded": [],
+  "failed": [
+    {
+      "place": "처녀밥상",
+      "reason": "조회 실패: HTTP 429 (https://www.daangn.com/kr/local-profile/?search=%EC%B2%98%EB%85%80%EB%B0%A5%EC%83%81)"
+    }
+  ],
+  "retry": [],
+  "blocked": null,
+  "batch": "1130b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-28T02:30:57.256Z"
+}
