@@ -1,0 +1,208 @@
+{
+  "date": "2026-10-28",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=559277",
+    "airDate": "2026-10-28",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=559277",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 이유 있는 맛플리, 직접 만든 면으로 즐기는 칼국수",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=559276",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 경남 고성에서 만난 부부의 특별한 홍가리비 수확기",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 2,
+  "targets": 3,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1730-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-28",
+        "episode": null,
+        "corner": "이유 있는 맛플리",
+        "episodeTitle": null,
+        "region": "경기 화성시",
+        "place": "까치네",
+        "description": "이번 방송은 '가을 추위엔 자가제면 칼국수'라는 주제로 진행된다. 쌀쌀한 가을 날씨와 함께 떠오르는 따뜻한 음식인 칼국수를 중심으로 이야기가 펼쳐질 예정이다. 이날 방송에서 찾아가는 곳은 경기 화성시 병점구에 위치한 '까치네'이다. 자가제면 칼국수를 내세운 식당으로, 이번 '이유 있는 맛플리'의 주요 장소다. 이번 방송의 핵심 음식은 칼국수다. 특히 직접 면을 만드는 자가제면 방식이 주요 특징으로 소개된다. 자가제면은 식당에서 직접 면을 만드는 방식이다. 이번 편에서는 칼국수라는 음식과 자가제면이라는 요소를 연결해 소개할 예정이다. '까치네'는 경기 화성시 병점구에 자리한 식당으로, 이번 방송에서 자가제면 칼국수를 만나는 장소다. 가을 추위에 어울리는 한 끼 식사로 칼국수를 소개하는 내용이다. 특히 '가을 추위엔 자가제면 칼국수'라는 제목처럼 계절과 음식을 연결한 구성이 특징이다. 따뜻한 칼국수를 중심으로 직접 만든 면의 매력을 살펴볼 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=559277",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "까치네",
+        "url": "https://www.daangn.com/kr/local-profile/%EA%B9%8C%EC%B9%98%EB%84%A4-yotzrh6ct8mm/",
+        "address": "경기 화성시 병점구 병점동로42번길 1 1층",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "경기 화성시 병점구 병점동로42번길 1 1층",
+        "jibunAddress": "경기 화성시 병점구 병점동 259-6",
+        "phone": null,
+        "safePhone": "050713817944",
+        "hours": {
+          "월": "11:00~20:00",
+          "화": "11:00~20:00",
+          "수": "11:00~20:00",
+          "목": "11:00~20:00",
+          "금": "11:00~20:00",
+          "토": "11:00~20:00",
+          "일": "11:00~15:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "한우 사골 칼국수",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "들기름 메밀국수",
+            "price": 11000,
+            "maxPrice": null
+          },
+          {
+            "name": "동치미 메밀국수",
+            "price": 11000,
+            "maxPrice": null
+          },
+          {
+            "name": "백합 온(溫) 메밀국수 (겨울 한정)",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "통영 굴 칼국수 (겨울 한정)",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "반판 수육 (125g) 점심 한정",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "잔치수육 (250g)",
+            "price": 18000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.2086224,
+          "lng": 127.0433782
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "8순위 / 상호 완전 일치 / 경기 화성시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 350
+    },
+    {
+      "id": "1730-2",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-28",
+        "episode": null,
+        "corner": "삼촌 어디가요?",
+        "episodeTitle": null,
+        "region": "경남 고성군",
+        "place": "쪼이수산",
+        "description": "이번 방송은 '흥 넘치는 부부의 홍가리비 수확기'라는 주제로 진행된다. 경남 고성군에서 홍가리비를 수확하는 부부의 이야기를 중심으로 현장을 찾아갈 예정이다. 이날 방송에서 소개되는 곳은 경남 고성군에 위치한 '쪼이수산'이다. 홍가리비 수확을 주제로 한 이번 편의 주요 장소로, 부부가 함께하는 수확 현장이 등장한다. 이번 방송의 핵심은 홍가리비다. 바다에서 수확하는 홍가리비를 중심으로 부부의 일과 수확 이야기를 만나볼 예정이다. 특히 '흥 넘치는 부부'라는 방송 제목처럼 두 사람이 함께하는 모습에 초점을 맞춘다. 홍가리비 수확이라는 일과 부부의 이야기가 함께 소개되는 내용이다. 경남 고성군의 '쪼이수산'을 배경으로 진행되는 이번 편에서는 홍가리비를 수확하는 현장이 주요 내용으로 등장한다. 수확이라는 작업을 중심으로 두 사람이 함께하는 시간을 살펴볼 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=559276",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "쪼이수산",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%AA%BC%EC%9D%B4%EC%88%98%EC%82%B0-hzwtks3no9pa/",
+        "address": "경상남도 고성군 하일면 자란만로 1410",
+        "category": "음식점 > 한식 > 수산물/횟집",
+        "roadAddress": "경상남도 고성군 하일면 자란만로 1410",
+        "jibunAddress": "경상남도 고성군 하일면 송천리 635",
+        "phone": "01073932635",
+        "safePhone": null,
+        "hours": {
+          "월": "10:00~18:00",
+          "화": "10:00~18:00",
+          "수": null,
+          "목": "10:00~18:00",
+          "금": "10:00~18:00",
+          "토": "10:00~18:00",
+          "일": "10:00~18:00"
+        },
+        "breakTime": {
+          "월": "12:00~14:00",
+          "화": "12:00~14:00",
+          "목": "12:00~14:00",
+          "금": "12:00~14:00",
+          "토": "12:00~14:00",
+          "일": "12:00~14:00"
+        },
+        "closedDays": [
+          "수"
+        ],
+        "menu": [
+          {
+            "name": "정치망 멸치",
+            "price": 50000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 34.9161082603675,
+          "lng": 128.19841086111
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경남 고성군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 351
+    }
+  ],
+  "held": [
+    {
+      "place": "흥 넘치는 부부",
+      "region": "경남 고성군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '흥넘치는' + '고성군' / 0건",
+      "context": "이번 방송은 '흥 넘치는 부부의 홍가리비 수확기'라는 주제로 진행된다. 경남 고성군에서 홍가리비를 수확하는 부부의 이야기를 중심으로 현장을 찾아갈 예정이다. 이날 방송에서 소개되는 곳은 경남 고성군에 위치한 '쪼이수산'이다. 홍가리비 수확을 주제로 한 이번 편의 주요 장소로, 부부가 함께하는 수확 현장이 등장한다. 이번 방송의 핵심은 홍가리비다. 바다에서 수확하는 홍가리비를 중심으로 부부의 일과 수확 이야기를 만나볼 예정이다. 특히 '흥 넘치는 부부'라는 방송 제목처럼 두 사람이 함께하는 모습에 초점을 맞춘다. 홍가리비 수확이라는 일과 부부의 이야기가 함께 소개되는 내용이다. 경남 고성군의 '쪼이수산'을 배경으로 진행되는 이번 편에서는 홍가리비를 수확하는 현장이 주요 내용으로 등장한다. 수확이라는 작업을 중심으로 두 사람이 함께하는 시간을 살펴볼 예정이다.",
+      "eatery": false
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1730",
+  "status": "pending",
+  "publishAfter": "2026-10-28T08:46:18.671Z",
+  "preparedAt": "2026-10-28T08:31:18.671Z"
+}
