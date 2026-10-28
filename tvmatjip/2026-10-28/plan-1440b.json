@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-28",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224456646215",
+      "program": "생생정보",
+      "title": "2TV 생생정보ㅣ상봉먹자골목 육회 맛집 함평국밥 방문 솔직 후기",
+      "place": "함평국밥",
+      "region": "서울 중랑구",
+      "dishes": [
+        "육회"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224456646215",
+      "postedAt": "2026-10-28T05:35:56.000Z",
+      "dishVotes": {
+        "육회": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224456650368",
+      "program": "생생정보",
+      "title": "2TV 생생정보 ㅣ 상봉먹자골목 골뱅이탕 맛집 골탕 방문 솔직 후기",
+      "place": "골탕",
+      "region": "서울 중랑구",
+      "dishes": [
+        "골뱅이탕"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224456650368",
+      "postedAt": "2026-10-28T05:39:23.000Z",
+      "dishVotes": {
+        "골뱅이탕": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 2,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1440b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-28",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "서울 중랑구",
+        "place": "함평국밥",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224456646215",
+          "title": "2TV 생생정보ㅣ상봉먹자골목 육회 맛집 함평국밥 방문 솔직 후기",
+          "postedAt": "2026-10-28T05:35:56.000Z"
+        },
+        "dishHints": [
+          "육회"
+        ],
+        "dishVotes": {
+          "육회": 1
+        }
+      },
+      "store": {
+        "name": "함평국밥",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "서울특별시 중랑구 봉우재로33길 73 (상봉동)",
+        "jibunAddress": "서울특별시 중랑구 상봉동 90-64",
+        "phone": "02-436-7922",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.595464195127114,
+          "lng": 127.0892296229748
+        },
+        "licenseDate": "1989-10-30",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '함평국밥' + '중랑구' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 336
+    },
+    {
+      "id": "1440b-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-28",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "서울 중랑구",
+        "place": "골탕",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224456650368",
+          "title": "2TV 생생정보 ㅣ 상봉먹자골목 골뱅이탕 맛집 골탕 방문 솔직 후기",
+          "postedAt": "2026-10-28T05:39:23.000Z"
+        },
+        "dishHints": [
+          "골뱅이탕"
+        ],
+        "dishVotes": {
+          "골뱅이탕": 1
+        }
+      },
+      "store": {
+        "name": "골탕",
+        "url": "https://www.daangn.com/kr/local-profile/%EA%B3%A8%ED%83%95-mtv2byc6aopk/",
+        "address": "서울특별시 중랑구 봉우재로33길 32 (상봉동)",
+        "category": "음식점 > 주점/바 > 일반 주점/바",
+        "roadAddress": "서울특별시 중랑구 봉우재로33길 32 (상봉동)",
+        "jibunAddress": "서울특별시 중랑구 상봉동 105-30번지",
+        "phone": "024360123",
+        "safePhone": null,
+        "hours": {
+          "월": "17:00~02:00",
+          "화": "17:00~02:00",
+          "수": "17:00~02:00",
+          "목": "17:00~02:00",
+          "금": "17:00~02:00",
+          "토": "17:00~02:00",
+          "일": null
+        },
+        "breakTime": null,
+        "closedDays": [
+          "일"
+        ],
+        "menu": [
+          {
+            "name": "백골뱅이탕 ",
+            "price": 30000,
+            "maxPrice": null
+          },
+          {
+            "name": "골뱅이무침",
+            "price": 20000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.59383476010631,
+          "lng": 127.08783736089434
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 중랑구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 337
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1440b",
+  "status": "pending",
+  "publishAfter": "2026-10-28T05:56:04.176Z",
+  "preparedAt": "2026-10-28T05:41:04.176Z"
+}
