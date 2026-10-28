@@ -438,7 +438,42 @@
   "retry": [],
   "blocked": null,
   "batch": "1610",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-28T07:26:50.624Z",
-  "preparedAt": "2026-10-28T07:11:50.624Z"
+  "preparedAt": "2026-10-28T07:11:50.624Z",
+  "publishedAt": "2026-10-28T07:31:58.994Z",
+  "result": {
+    "published": [
+      {
+        "name": "메가MGC커피 아산지중해마을점",
+        "url": "https://wherethatplace.blogspot.com/2026/10/6-mgc.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-28/naver/1610-1.html",
+        "naverTitle": "6시 내고향 메가MGC커피 아산지중해마을점 충남 아산 위치"
+      },
+      {
+        "name": "몽펠리에",
+        "url": "https://wherethatplace.blogspot.com/2026/10/6_0301487463.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-28/naver/1610-2.html",
+        "naverTitle": "6시 내고향 몽펠리에 충남 아산 위치"
+      },
+      {
+        "name": "모산짬뽕가게",
+        "url": "https://wherethatplace.blogspot.com/2026/10/6_01831026604.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-28/naver/1610-3.html",
+        "naverTitle": "6시 내고향 모산짬뽕가게 충남 아산 위치"
+      },
+      {
+        "name": "군위이로운한우",
+        "url": "https://wherethatplace.blogspot.com/2026/10/6_0645124917.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-28/naver/1610-4.html",
+        "naverTitle": "6시 내고향 군위이로운한우 대구 군위 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
