@@ -125,7 +125,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1801b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-28T09:16:15.424Z",
-  "preparedAt": "2026-10-28T09:01:15.424Z"
+  "preparedAt": "2026-10-28T09:01:15.424Z",
+  "publishedAt": "2026-10-28T09:21:26.572Z",
+  "result": {
+    "published": [
+      {
+        "name": "본가감자탕",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_315.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-28/naver/1801b-1.html",
+        "naverTitle": "생생정보 핫 플레이스 NOW 본가감자탕 목뼈감자탕 서울 중랑 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
