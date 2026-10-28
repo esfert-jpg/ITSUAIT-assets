@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-27T23:04:24.848Z",
+  "updatedAt": "2026-10-28T23:03:51.373Z",
   "records": [
+    {
+      "date": "2026-10-29",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216768",
+      "title": "구글, 1년 만에 AI 성능 평가 1위 탈환…'제미나이 4 카본' 출시",
+      "mediaId": "17914014084504743"
+    },
     {
       "date": "2026-10-28",
       "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
