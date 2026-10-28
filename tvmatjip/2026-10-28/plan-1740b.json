@@ -1,0 +1,233 @@
+{
+  "date": "2026-10-28",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "ohs016830/224456467676",
+      "program": "생생정보",
+      "title": "KBS2 2TV 생생정보 장PD AI여행기｜경기도 포천시얼큰하고 깊은 민물 매운탕 맛집 ｜동강매운탕",
+      "place": "동강매운탕",
+      "region": "경기 포천시",
+      "dishes": [
+        "민물 매운탕"
+      ],
+      "corner": "장PD의 AI 여행기",
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224456467676",
+      "postedAt": "2026-10-28T08:30:00.000Z",
+      "dishVotes": {
+        "민물 매운탕": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1740b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-28",
+        "episode": null,
+        "corner": "장PD의 AI 여행기",
+        "episodeTitle": null,
+        "region": "경기 포천시",
+        "place": "동강매운탕",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "ohs016830",
+          "link": "https://blog.naver.com/ohs016830/224456467676",
+          "title": "KBS2 2TV 생생정보 장PD AI여행기｜경기도 포천시얼큰하고 깊은 민물 매운탕 맛집 ｜동강매운탕",
+          "postedAt": "2026-10-28T08:30:00.000Z"
+        },
+        "dishHints": [
+          "민물 매운탕"
+        ],
+        "dishVotes": {
+          "민물 매운탕": 1
+        }
+      },
+      "store": {
+        "name": "동강매운탕",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%8F%99%EA%B0%95%EB%A7%A4%EC%9A%B4%ED%83%95-e1spbpzeftgd/",
+        "address": "경기 포천시 소흘읍 죽엽산로 378",
+        "category": "음식점 > 한식 > 수산물/횟집",
+        "roadAddress": "경기 포천시 소흘읍 죽엽산로 378",
+        "jibunAddress": "경기 포천시 소흘읍 고모리 281",
+        "phone": null,
+        "safePhone": "050714095017",
+        "hours": {
+          "월": "10:00~21:30",
+          "화": "10:00~21:30",
+          "수": null,
+          "목": "10:00~21:30",
+          "금": "10:00~21:30",
+          "토": null,
+          "일": "10:00~21:30"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "수",
+          "토"
+        ],
+        "menu": [
+          {
+            "name": "메기 小",
+            "price": 40000,
+            "maxPrice": null
+          },
+          {
+            "name": "메기 中",
+            "price": 50000,
+            "maxPrice": null
+          },
+          {
+            "name": "메기 大",
+            "price": 60000,
+            "maxPrice": null
+          },
+          {
+            "name": "메기+빠가 小",
+            "price": 45000,
+            "maxPrice": null
+          },
+          {
+            "name": "메기+빠가 中",
+            "price": 55000,
+            "maxPrice": null
+          },
+          {
+            "name": "메기+빠가 大",
+            "price": 65000,
+            "maxPrice": null
+          },
+          {
+            "name": "잡고기 小",
+            "price": 45000,
+            "maxPrice": null
+          },
+          {
+            "name": "잡고기 中",
+            "price": 55000,
+            "maxPrice": null
+          },
+          {
+            "name": "잡고기 大",
+            "price": 65000,
+            "maxPrice": null
+          },
+          {
+            "name": "빠가사리 小",
+            "price": 50000,
+            "maxPrice": null
+          },
+          {
+            "name": "빠가사리 中",
+            "price": 60000,
+            "maxPrice": null
+          },
+          {
+            "name": "빠가사리 大",
+            "price": 70000,
+            "maxPrice": null
+          },
+          {
+            "name": "쏘가리 小",
+            "price": 80000,
+            "maxPrice": null
+          },
+          {
+            "name": "쏘가리 中",
+            "price": 110000,
+            "maxPrice": null
+          },
+          {
+            "name": "쏘가리 大",
+            "price": 140000,
+            "maxPrice": null
+          },
+          {
+            "name": "어린이메뉴 떡갈비",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "참게 추가",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "새우 추가",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "미꾸라지튀김",
+            "price": 20000,
+            "maxPrice": null
+          },
+          {
+            "name": "메밀전병",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "볶음밥",
+            "price": 2000,
+            "maxPrice": null
+          },
+          {
+            "name": "칼국수사리",
+            "price": 3000,
+            "maxPrice": null
+          },
+          {
+            "name": "수제비사리",
+            "price": 2000,
+            "maxPrice": null
+          },
+          {
+            "name": "공기밥,라면사리",
+            "price": 1000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.7996012,
+          "lng": 127.1667716
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "6순위 / 상호 완전 일치 / 경기 포천시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 355
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1740b",
+  "status": "pending",
+  "publishAfter": "2026-10-28T08:55:56.643Z",
+  "preparedAt": "2026-10-28T08:40:56.643Z"
+}
