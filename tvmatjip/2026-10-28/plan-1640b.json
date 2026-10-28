@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-28",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "ohs016830/224456470049",
+      "program": "생생정보",
+      "title": "KBS2 2TV 생생정보 장PD AI여행기｜경기도 포천시 수제 약과 디저트 카페 ｜장인더포천본점",
+      "place": "장인더포천본점",
+      "region": "경기 포천시",
+      "dishes": [
+        "수제 약과",
+        "디저트"
+      ],
+      "corner": "장PD의 AI 여행기",
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224456470049",
+      "postedAt": "2026-10-28T07:30:00.000Z",
+      "dishVotes": {
+        "수제 약과": 1,
+        "디저트": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "장인더포천본점",
+      "region": "경기 포천시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '장인더포' + '포천시' / 0건",
+      "context": "KBS2 2TV 생생정보 장PD AI여행기｜경기도 포천시 수제 약과 디저트 카페 ｜장인더포천본점",
+      "eatery": true
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1640b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-28T07:41:16.003Z"
+}
