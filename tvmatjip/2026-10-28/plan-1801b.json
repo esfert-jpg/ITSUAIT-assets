@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-28",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "ohs016830/224456463286",
+      "program": "생생정보",
+      "title": "KBS2 2TV 생생정보 핫플레이스편｜서울특별시 상봉먹자골목 상봉역 야외 식당 감성 목뼈감자탕·순살감자탕 맛집 ｜본가감자탕",
+      "place": "본가감자탕",
+      "region": "서울 중랑구",
+      "dishes": [
+        "목뼈감자탕",
+        "순살감자탕"
+      ],
+      "corner": "핫 플레이스 NOW",
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224456463286",
+      "postedAt": "2026-10-28T08:50:00.000Z",
+      "dishVotes": {
+        "목뼈감자탕": 1,
+        "순살감자탕": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1801b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-28",
+        "episode": null,
+        "corner": "핫 플레이스 NOW",
+        "episodeTitle": null,
+        "region": "서울 중랑구",
+        "place": "본가감자탕",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "ohs016830",
+          "link": "https://blog.naver.com/ohs016830/224456463286",
+          "title": "KBS2 2TV 생생정보 핫플레이스편｜서울특별시 상봉먹자골목 상봉역 야외 식당 감성 목뼈감자탕·순살감자탕 맛집 ｜본가감자탕",
+          "postedAt": "2026-10-28T08:50:00.000Z"
+        },
+        "dishHints": [
+          "목뼈감자탕",
+          "순살감자탕"
+        ],
+        "dishVotes": {
+          "목뼈감자탕": 1,
+          "순살감자탕": 1
+        }
+      },
+      "store": {
+        "name": "본가감자탕",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%B3%B8%EA%B0%80%EA%B0%90%EC%9E%90%ED%83%95-obu8ju2y9c93/",
+        "address": "서울특별시 중랑구 봉우재로33길 40",
+        "category": "음식점 > 한식 > 국밥",
+        "roadAddress": "서울특별시 중랑구 봉우재로33길 40",
+        "jibunAddress": "서울특별시 중랑구 상봉동 105-21",
+        "phone": "024331570",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "냉면",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "닭볶음탕",
+            "price": 27000,
+            "maxPrice": null
+          },
+          {
+            "name": "뼈해장국",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "오리 주물럭",
+            "price": 30000,
+            "maxPrice": null
+          },
+          {
+            "name": "한방오리백숙",
+            "price": 45000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.594119,
+          "lng": 127.088191
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "2순위 / 상호 완전 일치 / 서울 중랑구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 359
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1801b",
+  "status": "pending",
+  "publishAfter": "2026-10-28T09:16:15.424Z",
+  "preparedAt": "2026-10-28T09:01:15.424Z"
+}
