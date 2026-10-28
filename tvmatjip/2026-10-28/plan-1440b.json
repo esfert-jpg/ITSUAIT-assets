@@ -190,7 +190,28 @@
   "retry": [],
   "blocked": null,
   "batch": "1440b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-28T05:56:04.176Z",
-  "preparedAt": "2026-10-28T05:41:04.176Z"
+  "preparedAt": "2026-10-28T05:41:04.176Z",
+  "publishedAt": "2026-10-28T06:02:00.756Z",
+  "result": {
+    "published": [
+      {
+        "name": "함평국밥",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_696.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-28/naver/1440b-1.html",
+        "naverTitle": "생생정보 함평국밥 육회 서울 중랑 위치"
+      },
+      {
+        "name": "골탕",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_477.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-28/naver/1440b-2.html",
+        "naverTitle": "생생정보 골탕 골뱅이탕 서울 중랑 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
