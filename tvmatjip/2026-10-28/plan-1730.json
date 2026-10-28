@@ -202,7 +202,28 @@
   "retry": [],
   "blocked": null,
   "batch": "1730",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-28T08:46:18.671Z",
-  "preparedAt": "2026-10-28T08:31:18.671Z"
+  "preparedAt": "2026-10-28T08:31:18.671Z",
+  "publishedAt": "2026-10-28T08:51:45.958Z",
+  "result": {
+    "published": [
+      {
+        "name": "까치네",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_74.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-28/naver/1730-1.html",
+        "naverTitle": "생방송 투데이 이유 있는 맛플리 까치네 칼국수 경기 화성 위치"
+      },
+      {
+        "name": "쪼이수산",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_311.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-28/naver/1730-2.html",
+        "naverTitle": "생방송 투데이 삼촌 어디가요? 쪼이수산 경남 고성 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
