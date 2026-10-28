@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-28",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224456608838",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 대구 다사 맛집 추천 처녀밥상 돼지불고기 무한리필 솔직후기",
+      "place": "처녀밥상",
+      "region": "대구 달성군",
+      "dishes": [
+        "돼지불고기"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224456608838",
+      "postedAt": "2026-10-28T05:03:54.000Z",
+      "dishVotes": {
+        "돼지불고기": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1410b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-28",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "대구 달성군",
+        "place": "처녀밥상",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224456608838",
+          "title": "[2TV 생생정보] 대구 다사 맛집 추천 처녀밥상 돼지불고기 무한리필 솔직후기",
+          "postedAt": "2026-10-28T05:03:54.000Z"
+        },
+        "dishHints": [
+          "돼지불고기"
+        ],
+        "dishVotes": {
+          "돼지불고기": 1
+        }
+      },
+      "store": {
+        "name": "처녀밥상",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%B2%98%EB%85%80%EB%B0%A5%EC%83%81-3nak3g8smmfu/",
+        "address": "대구광역시 달성군 다사읍 세천로 127",
+        "category": "음식점 > 한식 > 고기 구이",
+        "roadAddress": "대구광역시 달성군 다사읍 세천로 127",
+        "jibunAddress": "대구광역시 달성군 다사읍 세천리 1582-4",
+        "phone": "01081881005",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 35.87420153698063,
+          "lng": 128.47491946430233
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 대구 달성군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 330
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1410b",
+  "status": "pending",
+  "publishAfter": "2026-10-28T05:25:54.299Z",
+  "preparedAt": "2026-10-28T05:10:54.299Z"
+}
