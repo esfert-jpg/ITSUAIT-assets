@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-28",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224456616658",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 중랑구 곱창 맛집 이주소곱창 방문 솔직 후기!",
+      "place": "이주소곱창",
+      "region": "서울 중랑구",
+      "dishes": [],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224456616658",
+      "postedAt": "2026-10-28T05:11:02.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1420b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-28",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "서울 중랑구",
+        "place": "이주소곱창",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224456616658",
+          "title": "[2TV 생생정보] 중랑구 곱창 맛집 이주소곱창 방문 솔직 후기!",
+          "postedAt": "2026-10-28T05:11:02.000Z"
+        },
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "이주소곱창",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%9D%B4%EC%A3%BC%EC%86%8C%EA%B3%B1%EC%B0%BD-5eezddbk6v25/",
+        "address": "서울 중랑구 봉우재로33길 34",
+        "category": "음식점 > 한식 > 내장 요리",
+        "roadAddress": "서울 중랑구 봉우재로33길 34",
+        "jibunAddress": "서울 중랑구 상봉동 105-29",
+        "phone": "029784723",
+        "safePhone": null,
+        "hours": {
+          "월": "14:30~22:00",
+          "화": "14:30~22:00",
+          "수": "14:30~22:00",
+          "목": "14:30~22:00",
+          "금": "14:30~23:00",
+          "토": "14:30~23:00",
+          "일": null
+        },
+        "breakTime": null,
+        "closedDays": [
+          "일"
+        ],
+        "menu": [
+          {
+            "name": "모듬구이",
+            "price": 50000,
+            "maxPrice": null
+          },
+          {
+            "name": "곱창구이",
+            "price": 25000,
+            "maxPrice": null
+          },
+          {
+            "name": "양구이",
+            "price": 27000,
+            "maxPrice": null
+          },
+          {
+            "name": "대창구이",
+            "price": 25000,
+            "maxPrice": null
+          },
+          {
+            "name": "막창구이",
+            "price": 25000,
+            "maxPrice": null
+          },
+          {
+            "name": "곱창전골(중)",
+            "price": 35000,
+            "maxPrice": null
+          },
+          {
+            "name": "염통구이",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "볶음밥",
+            "price": 3000,
+            "maxPrice": null
+          },
+          {
+            "name": "곱창전골(대)",
+            "price": 45000,
+            "maxPrice": null
+          },
+          {
+            "name": "유창구이",
+            "price": 25000,
+            "maxPrice": null
+          },
+          {
+            "name": "간.천엽",
+            "price": 10000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.593972,
+          "lng": 127.087999
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 중랑구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 332
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1420b",
+  "status": "pending",
+  "publishAfter": "2026-10-28T05:35:52.842Z",
+  "preparedAt": "2026-10-28T05:20:52.842Z"
+}
