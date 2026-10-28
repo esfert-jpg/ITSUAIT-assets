@@ -227,7 +227,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1740b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-28T08:55:56.643Z",
-  "preparedAt": "2026-10-28T08:40:56.643Z"
+  "preparedAt": "2026-10-28T08:40:56.643Z",
+  "publishedAt": "2026-10-28T09:01:47.748Z",
+  "result": {
+    "published": [
+      {
+        "name": "동강매운탕",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_973.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-28/naver/1740b-1.html",
+        "naverTitle": "생생정보 장PD의 AI 여행기 동강매운탕 민물 매운탕 경기 포천 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
