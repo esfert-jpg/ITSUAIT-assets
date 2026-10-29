@@ -356,7 +356,35 @@
   "retry": [],
   "blocked": null,
   "batch": "1520",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-29T06:35:28.185Z",
-  "preparedAt": "2026-10-29T06:22:28.185Z"
+  "preparedAt": "2026-10-29T06:22:28.185Z",
+  "publishedAt": "2026-10-29T06:42:21.629Z",
+  "result": {
+    "published": [
+      {
+        "name": "비선대만남의광장",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_29.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-29/naver/1520-1.html",
+        "naverTitle": "생생정보 교통카드면 충분해 비선대만남의광장 강원 속초 위치"
+      },
+      {
+        "name": "칠성조선소",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_840.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-29/naver/1520-2.html",
+        "naverTitle": "생생정보 교통카드면 충분해 칠성조선소 강원 속초 위치"
+      },
+      {
+        "name": "평양냉면 율평",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_930.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-29/naver/1520-3.html",
+        "naverTitle": "생생정보 결정적 한 수 평양냉면 율평 손만두전골 경기 성남 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
