@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-29",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=559645",
+    "airDate": "2026-10-29",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=559645",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 경북 경주 유럽 쌈 채소 재배 농장 어디?",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=559642",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 전남 여수 굴·갓 어디? 돌산에서 만나는 먹거리",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=559638",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 홍천에서 만나는 차, 지역 먹거리 이야기",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 3,
+  "targets": 2,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "셋골농원",
+      "region": "경북 경주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '셋골농원' + '경주시' / 0건",
+      "context": "이번 방송에서는 '셋골농원'을 통해 유럽 쌈 채소를 만나보고, 경주에서 소개되는 농산물에 관한 이야기를 전할 예정이다. 유럽 쌈 채소는 이번 방송에서 다루는 주요 품목이다. 방송에서는 경북 경주에서 만날 수 있는 유럽 쌈 채소를 소개하며 채소를 주제로 한 농장 이야기를 이어간다. 이번에 소개되는 곳은 '셋골농원'이다. 방송에서는 이 농장을 찾아 유럽 쌈 채소를 살펴보고, 해당 농산물이 소개되는 현장을 담아낼 예정이다. 경북 경주시에서 유럽 쌈 채소를 만날 수 있는 '셋골농원'의 이야기는 KBS1 '6시 내고향'을 통해 전해질 예정이다.",
+      "eatery": false
+    },
+    {
+      "place": "티앤라이프",
+      "region": "강원 홍천군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '티앤라이' + '홍천군' / 0건",
+      "context": "이번 방송에서는 차와 관련된 업체인 '티앤라이프'를 통해 홍천에서 만날 수 있는 차에 관한 이야기를 전할 예정이다. 이번 방송에서 소개되는 곳은 '티앤라이프'이다. 강원 홍천군의 차 관련 업체로, 방송에서는 이곳을 중심으로 차를 조명한다. 차는 물에 우려 마시는 음료로, 다양한 원료를 활용할 수 있는 것이 특징이다. 이번 방송에서는 '티앤라이프'와 관련된 차를 소개하며 홍천에서 만날 수 있는 음료에 관심을 모을 예정이다. 강원 홍천군에서 소개되는 차와 '티앤라이프'에 관한 이야기는 KBS1 '6시 내고향'을 통해 전해질 예정이다.",
+      "eatery": false
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1630",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-29T07:31:07.486Z"
+}
