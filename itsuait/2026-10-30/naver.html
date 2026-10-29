@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>네이버 원고 · itsuait</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1d2127;--sub:#6b7280;--line:#e3e6ea;--acc:#03c75a;--acc-ink:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#15171a;--card:#1f2226;--ink:#e8eaed;--sub:#9aa0a6;--line:#30343a;--acc:#1ec26b;--acc-ink:#0b1a10}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif}
+main{max-width:720px;margin:0 auto;padding:16px}
+h1{font-size:15px;color:var(--sub);font-weight:600;margin:4px 0 12px}
+section{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin:0 0 12px}
+.head{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px}
+.head b{font-size:14px;color:var(--sub)}
+.hint{font-size:12px;color:var(--sub);text-align:right}
+.btn{appearance:none;border:0;border-radius:10px;background:var(--acc);color:var(--acc-ink);font-weight:700;font-size:15px;padding:10px 16px;cursor:pointer;text-decoration:none;display:inline-block}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line);font-weight:600;font-size:14px;padding:8px 12px}
+.box{white-space:pre-wrap;word-break:break-all}
+#body p{margin:0}
+.title{font-size:18px;font-weight:700}
+figure{margin:0 0 12px}figure img{display:block;max-width:100%;border-radius:8px;margin-bottom:6px}
+#toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:999px;font-size:14px;opacity:0;transition:opacity .2s;pointer-events:none}
+#toast.on{opacity:1}
+.steps{font-size:14px;color:var(--sub);margin:0;padding-left:18px}
+</style></head><body><main>
+<h1>네이버 블로그 원고 · itsuait</h1>
+<section><div class="head"><b>① 제목</b><button class="btn" data-copy="title">제목 복사</button></div><div class="box title" id="title">네모트론 3.5 트랜스크라이브, 40개 언어 음성을 텍스트로</div></section>
+<section><div class="head"><b>② 사진</b><span class="hint">저장 → 공유 시트에서 '이미지 저장'. 또는 사진을 길게 눌러 '사진에 추가'</span></div><figure><img src="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-10-30/080100/blog-cover.png" alt="사진 1"><a class="btn ghost" data-img="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-10-30/080100/blog-cover.png" href="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-10-30/080100/blog-cover.png" download="itsuait-1">사진 1 저장</a></figure></section>
+<section><div class="head"><b>③ 본문 (태그 포함)</b><button class="btn" data-copy="body">본문 복사</button></div><div id="body"><p>엔비디아가 40개 언어 음성을 텍스트로 바꾸는 오픈웨이트 모델을 내놨어요. 여러 사람의 목소리를 구분하고 자연어로 받아쓰기 방식을 지정할 수 있으며, 상업적으로 자유롭게 쓸 수 있어요.</p><p><br></p><p>▶ 어떤 일을 할 수 있나요</p><p>네모트론 3.5 트랜스크라이브는 음성을 받아쓰는 기본 기능뿐 아니라 여러 작업을 동시에 처리해요. 40개 언어의 음성을 인식하고, 영어 중심으로 31개 언어 간 번역을 수행할 수 있어요. 녹음의 언어를 자동으로 식별하고, 음성 내용에 관한 질문에 답하는 음성 이해 기능도 포함돼요.</p><p><br></p><p>화자 구분 기능으로 여러 명이 동시에 말하는 상황에서 누가 언제 말했는지 기록해요. 최대 8명의 화자를 구분할 수 있어서 회의록 작성, 의료 상담 기록, 법률 자문 기록 같은 전문 분야에 딱 맞아요. 최대 1시간 길이의 녹음 파일을 처리하고, 65,536토큰까지 다룰 수 있어요.</p><p><br></p><p>▶ 자연어로 글쓰기 방식을 조정하는 방법</p><p>가장 돋보이는 기능은 '컨텍스트 ASR'이에요. 사용자가 원하는 받아쓰기 방식을 자연어로 지시하면 모델이 그에 맞춰 응대해요. 발언을 그대로 옮기거나 읽기 쉽게 다듬을 수도 있고, 숫자 표기법이나 전문용어, 고유명사를 문맥에 맞춰 처리하도록 설정할 수 있어요.</p><p><br></p><p>의료 분야에서 실험한 결과 이 기능의 위력이 드러났어요. 특정 의학용어를 미리 알려주면 해당 단어를 정확히 인식해서 고유명사 관련 오류를 6분의 1 수준으로 줄일 수 있었어요. 의료·법률 같은 전문용어가 많은 분야에서 맞춤형 음성 인식 서비스를 구축하는 게 가능하다는 뜻이에요.</p><p><br></p><p>▶ 정확도는 어느 정도인가요</p><p>영어 오픈 음성 인식 리더보드에서 단어 오류율 4.71%로 공개 가중치 모델 중 1위를 기록했어요. 단어 오류율은 낮을수록 정확도가 높다는 뜻이에요. 7개 언어를 대상으로 한 다국어 평가에서도 평균 오류율 4.62%로 최고 성능을 달성했어요.</p><p><br></p><p>의료 분야에서는 자체 데이터로 모델을 추가 학습했을 때 단어 오류율이 상대적으로 45.8% 감소했어요. 기존에 최적화된 방식과 비교했을 때의 개선 폭이어요. 이는 업체가 자신의 데이터로 모델을 재학습하면 해당 분야에 특화된 높은 정확도를 얻을 수 있다는 의미예요.</p><p><br></p><p>▶ 어떻게 설치하고 쓸 수 있나요</p><p>엔비디아는 모델 가중치를 허깅페이스에 공개했고, 오픈MDW 1.1 라이선스로 배포해요. 기업과 개발자 모두 상업적으로 자유롭게 사용할 수 있어요. 자신의 컴퓨터나 서버에 직접 설치하고, 자신의 데이터로 추가 학습도 가능해요.</p><p><br></p><p>1×H100 80GB GPU에서 배포할 수 있으며, 세 가지 정밀도 옵션이 제공돼요. BF16은 전체 정밀도 참고용이고, FP8과 NVFP4 변형도 있어요. 네모 스피치 도구와 음성 학습 데이터셋인 그래너리 2도 함께 제공되니 자기 환경에 맞게 커스터마이징할 수 있어요. 다만 실시간 스트리밍 음성은 처리하지 못하고 녹음된 오디오만 입력받으니 참고해야 해요.</p><p><br></p><p>출처: AI타임스</p><p><br></p><p>👉 표와 원문 링크까지 정리한 글은 여기 있어요</p><p><a href="https://itsuait.blogspot.com/2026/10/35-40.html">https://itsuait.blogspot.com/2026/10/35-40.html</a></p><p><br></p><p>#엔비디아 #NVIDIA #AI뉴스 #IT이슈</p></div></section>
+<section><ol class="steps"><li>네이버 블로그 글쓰기를 연다</li><li>제목 복사 → 제목 칸에 붙여넣기</li><li>사진 저장 → 사진첩에서 본문 맨 위에 첨부</li><li>본문 복사 → 사진 아래에 붙여넣기 (끝의 #태그는 발행할 때 태그로 자동 등록된다)</li><li>발행 또는 예약</li></ol></section>
+</main><div id="toast"></div>
+<script>
+const D={"title":"네모트론 3.5 트랜스크라이브, 40개 언어 음성을 텍스트로","body":"엔비디아가 40개 언어 음성을 텍스트로 바꾸는 오픈웨이트 모델을 내놨어요. 여러 사람의 목소리를 구분하고 자연어로 받아쓰기 방식을 지정할 수 있으며, 상업적으로 자유롭게 쓸 수 있어요.\n\n▶ 어떤 일을 할 수 있나요\n네모트론 3.5 트랜스크라이브는 음성을 받아쓰는 기본 기능뿐 아니라 여러 작업을 동시에 처리해요. 40개 언어의 음성을 인식하고, 영어 중심으로 31개 언어 간 번역을 수행할 수 있어요. 녹음의 언어를 자동으로 식별하고, 음성 내용에 관한 질문에 답하는 음성 이해 기능도 포함돼요.\n\n화자 구분 기능으로 여러 명이 동시에 말하는 상황에서 누가 언제 말했는지 기록해요. 최대 8명의 화자를 구분할 수 있어서 회의록 작성, 의료 상담 기록, 법률 자문 기록 같은 전문 분야에 딱 맞아요. 최대 1시간 길이의 녹음 파일을 처리하고, 65,536토큰까지 다룰 수 있어요.\n\n▶ 자연어로 글쓰기 방식을 조정하는 방법\n가장 돋보이는 기능은 '컨텍스트 ASR'이에요. 사용자가 원하는 받아쓰기 방식을 자연어로 지시하면 모델이 그에 맞춰 응대해요. 발언을 그대로 옮기거나 읽기 쉽게 다듬을 수도 있고, 숫자 표기법이나 전문용어, 고유명사를 문맥에 맞춰 처리하도록 설정할 수 있어요.\n\n의료 분야에서 실험한 결과 이 기능의 위력이 드러났어요. 특정 의학용어를 미리 알려주면 해당 단어를 정확히 인식해서 고유명사 관련 오류를 6분의 1 수준으로 줄일 수 있었어요. 의료·법률 같은 전문용어가 많은 분야에서 맞춤형 음성 인식 서비스를 구축하는 게 가능하다는 뜻이에요.\n\n▶ 정확도는 어느 정도인가요\n영어 오픈 음성 인식 리더보드에서 단어 오류율 4.71%로 공개 가중치 모델 중 1위를 기록했어요. 단어 오류율은 낮을수록 정확도가 높다는 뜻이에요. 7개 언어를 대상으로 한 다국어 평가에서도 평균 오류율 4.62%로 최고 성능을 달성했어요.\n\n의료 분야에서는 자체 데이터로 모델을 추가 학습했을 때 단어 오류율이 상대적으로 45.8% 감소했어요. 기존에 최적화된 방식과 비교했을 때의 개선 폭이어요. 이는 업체가 자신의 데이터로 모델을 재학습하면 해당 분야에 특화된 높은 정확도를 얻을 수 있다는 의미예요.\n\n▶ 어떻게 설치하고 쓸 수 있나요\n엔비디아는 모델 가중치를 허깅페이스에 공개했고, 오픈MDW 1.1 라이선스로 배포해요. 기업과 개발자 모두 상업적으로 자유롭게 사용할 수 있어요. 자신의 컴퓨터나 서버에 직접 설치하고, 자신의 데이터로 추가 학습도 가능해요.\n\n1×H100 80GB GPU에서 배포할 수 있으며, 세 가지 정밀도 옵션이 제공돼요. BF16은 전체 정밀도 참고용이고, FP8과 NVFP4 변형도 있어요. 네모 스피치 도구와 음성 학습 데이터셋인 그래너리 2도 함께 제공되니 자기 환경에 맞게 커스터마이징할 수 있어요. 다만 실시간 스트리밍 음성은 처리하지 못하고 녹음된 오디오만 입력받으니 참고해야 해요.\n\n출처: AI타임스\n\n👉 표와 원문 링크까지 정리한 글은 여기 있어요\nhttps://itsuait.blogspot.com/2026/10/35-40.html\n\n#엔비디아 #NVIDIA #AI뉴스 #IT이슈"};
+const toast=(m)=>{const t=document.getElementById('toast');t.textContent=m;t.classList.add('on');setTimeout(()=>t.classList.remove('on'),1400)};
+function selectCopy(el){const r=document.createRange();r.selectNodeContents(el);const s=getSelection();s.removeAllRanges();s.addRange(r);let ok=false;try{ok=document.execCommand('copy')}catch(e){}s.removeAllRanges();return ok}
+async function copyText(t,el){try{await navigator.clipboard.writeText(t);return true}catch(e){return selectCopy(el)}}
+async function copyRich(el,plain){try{if(window.ClipboardItem&&navigator.clipboard&&navigator.clipboard.write){await navigator.clipboard.write([new ClipboardItem({'text/html':new Blob([el.innerHTML],{type:'text/html'}),'text/plain':new Blob([plain],{type:'text/plain'})})]);return true}}catch(e){}return selectCopy(el)}
+document.querySelectorAll('[data-copy]').forEach((b)=>b.addEventListener('click',async()=>{const k=b.dataset.copy;const el=document.getElementById(k);const ok=k==='body'?await copyRich(el,D.body):await copyText(D[k],el);toast(ok?({title:'제목',body:'본문'}[k])+' 복사됨':'복사 실패 — 길게 눌러 직접 복사하세요')}));
+// 사진 저장: 공유 시트 → '이미지 저장' 이 사진첩으로 간다. 사파리는 클릭 뒤 await 가 끼면 share 를 거부해서 미리 받아 둔다.
+// jpg·png 가 아니면(webp 등) 브라우저에서 jpg 로 바꾼다. 네이버가 webp 를 안 받는다 (2026-10-19 사용자 실측).
+// 화면의 <img> 와 PC 내려받기 링크도 바꾼 jpg 로 갈아 끼운다. 길게 눌러 '사진에 추가' 해도 jpg 가 들어간다. 변환이 안 되면 원본 그대로 둔다.
+const IMGS=new Map();
+const toJpg=(b)=>['image/jpeg','image/png'].includes(b.type)?Promise.resolve(b):createImageBitmap(b).then((bm)=>{const c=document.createElement('canvas');c.width=bm.width;c.height=bm.height;const x=c.getContext('2d');x.fillStyle='#fff';x.fillRect(0,0,c.width,c.height);x.drawImage(bm,0,0);return new Promise((ok,no)=>c.toBlob((j)=>j?ok(j):no(new Error('toBlob')),'image/jpeg',0.92))}).catch(()=>b);
+document.querySelectorAll('[data-img]').forEach((a)=>{const u=a.dataset.img;fetch(u,{cache:'no-store'}).then((r)=>r.ok?r.blob():Promise.reject(r.status)).then(toJpg).then((b)=>{const ext=(b.type.split('/')[1]||'png').replace('jpeg','jpg');IMGS.set(u,new File([b],(a.getAttribute('download')||'photo')+'.'+ext,{type:b.type}));if(!u.endsWith('.'+ext)){const o=URL.createObjectURL(b);const img=a.parentElement.querySelector('img');if(img)img.src=o;a.href=o}}).catch(()=>{});
+a.addEventListener('click',(e)=>{const f=IMGS.get(u);if(f&&navigator.share&&navigator.canShare&&navigator.canShare({files:[f]})){e.preventDefault();navigator.share({files:[f]}).catch((err)=>{if(err&&err.name!=='AbortError')toast('공유 실패 — 사진을 길게 눌러 사진에 추가하세요')})}})});
+</script></body></html>
