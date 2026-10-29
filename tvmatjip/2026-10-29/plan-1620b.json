@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-29",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224457936955",
+      "program": "생생정보",
+      "title": "[2tv생생정보] 속초 대포항원조튀김골목 맛집 바삭한 왕새우튀김 솔직 후기",
+      "place": "대포항원조튀김골목",
+      "region": "강원 속초시",
+      "dishes": [
+        "왕새우튀김"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224457936955",
+      "postedAt": "2026-10-29T07:13:42.000Z",
+      "dishVotes": {
+        "왕새우튀김": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224457942647",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 대구 수성구 복싱 명소 레드앤복싱짐 솔직 후기",
+      "place": "레드앤복싱짐",
+      "region": "대구 수성구",
+      "dishes": [],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224457942647",
+      "postedAt": "2026-10-29T07:18:27.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [
+    "대포항원조튀김골목"
+  ],
+  "stores": [],
+  "held": [
+    {
+      "place": "레드앤복싱짐",
+      "region": "대구 수성구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '레드앤복' + '수성구' / 0건",
+      "context": "[2TV 생생정보] 대구 수성구 복싱 명소 레드앤복싱짐 솔직 후기",
+      "eatery": false
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1620b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-10-29T07:20:59.067Z"
+}
