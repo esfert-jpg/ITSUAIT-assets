@@ -87,7 +87,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1640b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-30T07:53:56.805Z",
-  "preparedAt": "2026-10-30T07:40:56.805Z"
+  "preparedAt": "2026-10-30T07:40:56.805Z",
+  "publishedAt": "2026-10-30T08:01:23.626Z",
+  "result": {
+    "published": [
+      {
+        "name": "조이통통생구이",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_947.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-30/naver/1640b-1.html",
+        "naverTitle": "생생정보 이야기로(路) 조이통통생구이 경북 상주 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
