@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-30",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224459185020",
+      "program": "생생정보",
+      "title": "[2TV 생생정보 홍대 이색 맛집] 마포 상수 네팔 인도 요리 전문점 예티 솔직 후기",
+      "place": "예티",
+      "region": "서울 마포구",
+      "dishes": [],
+      "corner": "스타밥집",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224459185020",
+      "postedAt": "2026-10-30T07:22:29.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224459190271",
+      "program": "생생정보",
+      "title": "[2TV 생생정보 상주 곶감 맛집] 전통시장 명물 제일청과 방문기",
+      "place": "제일청과",
+      "region": "경북 상주시",
+      "dishes": [
+        "곶감"
+      ],
+      "corner": "이야기로",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224459190271",
+      "postedAt": "2026-10-30T07:26:43.000Z",
+      "dishVotes": {
+        "곶감": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 2,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1630b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-10-30",
+        "episode": null,
+        "corner": "스타밥집",
+        "episodeTitle": null,
+        "region": "서울 마포구",
+        "place": "예티",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224459185020",
+          "title": "[2TV 생생정보 홍대 이색 맛집] 마포 상수 네팔 인도 요리 전문점 예티 솔직 후기",
+          "postedAt": "2026-10-30T07:22:29.000Z"
+        },
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "홍대 예티",
+        "url": "https://www.daangn.com/kr/local-profile/%ED%99%8D%EB%8C%80-%EC%98%88%ED%8B%B0-pc5xcu6ctco1/",
+        "address": "서울특별시 마포구 와우산로18길 20",
+        "category": "음식점 > 아시아 요리 > 기타 아시아 음식",
+        "roadAddress": "서울특별시 마포구 와우산로18길 20",
+        "jibunAddress": "서울특별시 마포구 서교동 360-18",
+        "phone": null,
+        "safePhone": "050713190745",
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.551001,
+          "lng": 126.924017
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "2순위 / 입력 상호를 포함 ('홍대 예티') / 서울 마포구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 376
+    }
+  ],
+  "held": [
+    {
+      "place": "제일청과",
+      "region": "경북 상주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 제일청과 (서울특별시 광진구 자양로13나길 5) — 다른 시군구 (서울특별시 광진구 자양로13나길 5) | 2. 제일청과 (서울특별시 광진구 능동로47길 37) — 다른 시군구 (서울특별시 광진구 능동로47길 37) | 3. 제일청과야채 (서울특별시 성북구 성북로4길 52 한신한진아파트) — 다른 시군구 (서울특별시 성북구 성북로4길 52 한신한진아파트) | 4. 제일청과 (서울특별시 강서구 발산로 40) — 다른 시군구 (서울특별시 강서구 발산로 40) | 5. 제일청과 (경기도 부천시 성지로 101) — 다른 시군구 (경기도 부천시 성지로 101) | 6. 제일청과 (경기도 안산시 상록구 충장로 312) — 다른 시군구 (경기도 안산시 상록구 충장로 312) | 7. 제일청과 (경기도 화성시 영통로27번길 53 신영통 현대타운) — 다른 시군구 (경기도 화성시 영통로27번길 53 신영통 현대타운) | 8. 제일청과 (경상남도 양산시 덕계2길 11-8 (덕계동)) — 다른 시군구 (경상남도 양산시 덕계2길 11-8 (덕계동)) | 9. 강서제일청과 (서울특별시 강서구 시장도매인로 1 (외발산동)) — 다른 시군구 (서울특별시 강서구 시장도매인로 1 (외발산동)) | 10. 제일청과 (경기도 양평군 양평읍 시민로 7) — 다른 시군구 (경기도 양평군 양평읍 시민로 7)) / 인허가 '제일청과' + '상주시' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1630b",
+  "status": "pending",
+  "publishAfter": "2026-10-30T07:44:11.669Z",
+  "preparedAt": "2026-10-30T07:31:11.669Z"
+}
