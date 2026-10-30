@@ -226,7 +226,28 @@
   "retry": [],
   "blocked": null,
   "batch": "1745b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-30T08:59:05.546Z",
-  "preparedAt": "2026-10-30T08:46:05.547Z"
+  "preparedAt": "2026-10-30T08:46:05.547Z",
+  "publishedAt": "2026-10-30T09:02:14.247Z",
+  "result": {
+    "published": [
+      {
+        "name": "화곡영양족발",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_801.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-30/naver/1745b-1.html",
+        "naverTitle": "생방송 투데이 맛불작전 화곡영양족발 족발 서울 강서 위치"
+      },
+      {
+        "name": "남도보쌈파전",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_204.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-30/naver/1745b-2.html",
+        "naverTitle": "생방송 투데이 맛불작전 남도보쌈파전 보쌈 서울 동대문 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
