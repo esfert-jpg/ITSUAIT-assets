@@ -1,0 +1,232 @@
+{
+  "date": "2026-10-30",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "msu6242/224459273161",
+      "program": "생방송 투데이",
+      "title": "SBS 생방송투데이 맛불작전｜서울 강서구 족발 맛집｜화곡본동시장 족발 맛집",
+      "place": "화곡영양족발",
+      "region": "서울 강서구",
+      "dishes": [
+        "족발",
+        "순대국"
+      ],
+      "corner": "맛불작전",
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224459273161",
+      "postedAt": "2026-10-30T08:35:05.000Z",
+      "dishVotes": {
+        "족발": 1,
+        "순대국": 1
+      },
+      "votes": {
+        "생방송 투데이": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "msu6242/224459274892",
+      "program": "생방송 투데이",
+      "title": "SBS 생방송투데이 맛불작전 서울 동대문 보쌈·바삭한 파전 맛집 ｜남도보쌈파전",
+      "place": "남도보쌈파전",
+      "region": "서울 동대문구",
+      "dishes": [
+        "보쌈",
+        "파전"
+      ],
+      "corner": "맛불작전",
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224459274892",
+      "postedAt": "2026-10-30T08:40:00.000Z",
+      "dishVotes": {
+        "보쌈": 1,
+        "파전": 1
+      },
+      "votes": {
+        "생방송 투데이": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 2,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1745b-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-30",
+        "episode": null,
+        "corner": "맛불작전",
+        "episodeTitle": null,
+        "region": "서울 강서구",
+        "place": "화곡영양족발",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "msu6242",
+          "link": "https://blog.naver.com/msu6242/224459273161",
+          "title": "SBS 생방송투데이 맛불작전｜서울 강서구 족발 맛집｜화곡본동시장 족발 맛집",
+          "postedAt": "2026-10-30T08:35:05.000Z"
+        },
+        "dishHints": [
+          "족발",
+          "순대국"
+        ],
+        "dishVotes": {
+          "족발": 1,
+          "순대국": 1
+        }
+      },
+      "store": {
+        "name": "화곡영양족발",
+        "url": "https://www.daangn.com/kr/local-profile/%ED%99%94%EA%B3%A1%EC%98%81%EC%96%91%EC%A1%B1%EB%B0%9C-bfnc9yu9yfgf/",
+        "address": "서울 강서구 초록마을로2길 48 1층 화곡영양족발",
+        "category": "음식점 > 한식 > 보쌈/족발",
+        "roadAddress": "서울 강서구 초록마을로2길 48 1층 화곡영양족발",
+        "jibunAddress": "서울 강서구 화곡동 98-154",
+        "phone": null,
+        "safePhone": "050713197914",
+        "hours": {
+          "월": "10:30~21:30",
+          "화": "10:30~21:30",
+          "수": "10:30~21:30",
+          "목": "10:30~21:30",
+          "금": "10:30~21:30",
+          "토": "10:30~21:30",
+          "일": "10:30~21:30"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "족발大",
+            "price": 47000,
+            "maxPrice": null
+          },
+          {
+            "name": "막국수",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "[포장] 족발",
+            "price": 0,
+            "maxPrice": null
+          },
+          {
+            "name": "족발 中",
+            "price": 42000,
+            "maxPrice": null
+          },
+          {
+            "name": "순대국",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "미니족발",
+            "price": 35000,
+            "maxPrice": null
+          },
+          {
+            "name": "술국",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "[포장] 순대국",
+            "price": 11000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5432636,
+          "lng": 126.8434604
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "2순위 / 상호 완전 일치 / 서울 강서구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 380
+    },
+    {
+      "id": "1745b-2",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-10-30",
+        "episode": null,
+        "corner": "맛불작전",
+        "episodeTitle": null,
+        "region": "서울 동대문구",
+        "place": "남도보쌈파전",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "msu6242",
+          "link": "https://blog.naver.com/msu6242/224459274892",
+          "title": "SBS 생방송투데이 맛불작전 서울 동대문 보쌈·바삭한 파전 맛집 ｜남도보쌈파전",
+          "postedAt": "2026-10-30T08:40:00.000Z"
+        },
+        "dishHints": [
+          "보쌈",
+          "파전"
+        ],
+        "dishVotes": {
+          "보쌈": 1,
+          "파전": 1
+        }
+      },
+      "store": {
+        "name": "남도보쌈파전",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "서울특별시 동대문구 장한로 160, 1층 (장안동)",
+        "jibunAddress": "서울특별시 동대문구 장안동 310-3",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.574662608203894,
+          "lng": 127.0722491434308
+        },
+        "licenseDate": "2019-01-15",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '남도보쌈파전' + '동대문구' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 381
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1745b",
+  "status": "pending",
+  "publishAfter": "2026-10-30T08:59:05.546Z",
+  "preparedAt": "2026-10-30T08:46:05.547Z"
+}
