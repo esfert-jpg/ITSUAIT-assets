@@ -116,7 +116,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1630b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-10-30T07:44:11.669Z",
-  "preparedAt": "2026-10-30T07:31:11.669Z"
+  "preparedAt": "2026-10-30T07:31:11.669Z",
+  "publishedAt": "2026-10-30T07:46:31.105Z",
+  "result": {
+    "published": [
+      {
+        "name": "홍대 예티",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_30.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-10-30/naver/1630b-1.html",
+        "naverTitle": "생생정보 스타밥집 홍대 예티 서울 마포 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
