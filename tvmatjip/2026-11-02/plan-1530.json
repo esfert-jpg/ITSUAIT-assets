@@ -1,0 +1,268 @@
+{
+  "date": "2026-11-02",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=560425",
+    "airDate": "2026-11-02",
+    "episode": null
+  },
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=560425",
+      "program": "생생정보",
+      "title": "'생생정보' 꽃나물향 가득한 빵집, 충주 수안보의 특별한 빵",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=560422",
+      "program": "생생정보",
+      "title": "'생생정보' 김요한의 익산 여행, 귀금속 아르바이트부터 먹거리까지",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=560421",
+      "program": "생생정보",
+      "title": "'생생정보' 바다 별미 맛 대결, 강원 양양 섭 vs 충남 보령 굴",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=560418",
+      "program": "생생정보",
+      "title": "'생생정보' 한우의 날은 어떤 날? 청계광장에서 만나는 한우 행사",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=560423",
+      "reason": "리드 문단(방영 예정)을 찾지 못함"
+    }
+  ],
+  "recaps": [],
+  "corners": 4,
+  "targets": 9,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1530-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-02",
+        "episode": null,
+        "corner": "시골빵집",
+        "episodeTitle": null,
+        "region": "충북 충주시",
+        "place": "오미브레드",
+        "description": "이번 방송은 '꽃나물향 가득한 빵집'이라는 주제로 진행된다. 꽃나물향을 내세운 빵을 중심으로 충북 충주시의 빵집을 찾아갈 예정이다. 이날 방송에서 소개되는 곳은 충북 충주시 수안보에 위치한 '오미브레드'이다. 이번 '시골빵집'에서 꽃나물향을 주제로 한 빵을 만나는 장소다. 이번 방송의 핵심은 꽃나물향이다. 일반적인 빵집 소개와 달리 꽃나물향이라는 소재를 중심으로 빵 이야기가 펼쳐질 예정이다. '오미브레드'는 충북 충주시 수안보에 자리한 빵집으로, 이번 편의 주요 장소다. 꽃나물향 가득한 빵집이라는 방송 제목에 맞춰 이곳의 빵을 소개할 예정이다. 특히 이번 '시골빵집'에서는 꽃나물향과 빵이라는 두 가지 요소를 연결한다. 향을 중심으로 한 빵집의 이야기를 만나볼 수 있다는 점이 이번 방송의 특징이다. 충주 수안보에 위치한 '오미브레드'를 배경으로 꽃나물향을 내세운 빵집의 모습을 살펴볼 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=560425",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "오미브레드(Bread)",
+        "url": null,
+        "address": null,
+        "category": "기타",
+        "roadAddress": "충청북도 충주시 수안보면 주정산로 53, 101호",
+        "jibunAddress": "충청북도 충주시 수안보면 온천리 793-4",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 36.84566734122739,
+          "lng": 127.9873258898637
+        },
+        "licenseDate": "2024-03-22",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '오미브레드' + '충주시' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 386
+    },
+    {
+      "id": "1530-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-02",
+        "episode": null,
+        "corner": "맛집 맞수다",
+        "episodeTitle": null,
+        "region": "강원 양양군",
+        "place": "옛뜰",
+        "description": "이번 방송은 '바다 별미의 맛 대결! 섭 vs 굴'이라는 주제로 진행된다. 강원 양양군과 충남 보령시에 위치한 두 식당을 찾아가 서로 다른 해산물의 맛을 살펴볼 예정이다. 먼저 소개되는 곳은 강원 양양군에 위치한 '옛뜰'이다. 이번 방송에서는 섭을 중심으로 한 바다 별미를 만나는 장소로 등장한다. 섭은 이번 맛 대결의 첫 번째 주인공이다. 강원 양양의 식당을 배경으로 섭이라는 해산물을 중심으로 이야기가 펼쳐질 예정이다. 이에 맞서는 두 번째 음식은 굴이다. 굴을 소개하는 곳은 충남 보령시에 위치한 '천북굴단지 청수굴집수산'이다. '천북굴단지 청수굴집수산'은 이번 방송에서 굴을 중심으로 한 먹거리를 소개하는 장소다. 섭과는 다른 바다 별미인 굴을 통해 맛 대결을 이어갈 예정이다. 이번 '맛집 맞수다'에서는 강원 양양의 섭과 충남 보령의 굴을 각각 소개한다. 두 지역의 식당을 연결하며 섭과 굴이라는 서로 다른 해산물을 한 편에서 만나보는 구성이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=560421",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "옛뜰",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%98%9B%EB%9C%B0-idmt6oyopxin/",
+        "address": "강원 양양군 손양면 동명로 289",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "강원 양양군 손양면 동명로 289",
+        "jibunAddress": "강원 양양군 손양면 송전리 81-1",
+        "phone": null,
+        "safePhone": "050713847014",
+        "hours": {
+          "월": null,
+          "화": "09:00~15:00",
+          "수": "09:00~15:00",
+          "목": "09:00~15:00",
+          "금": "09:00~15:00",
+          "토": "09:00~15:00",
+          "일": "09:00~15:00"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "월"
+        ],
+        "menu": [
+          {
+            "name": "오향 섭밥과 자박두부",
+            "price": 34000,
+            "maxPrice": null
+          },
+          {
+            "name": "자연산 섭국",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "섭 비빔밥",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "순두부 째복(비단조개)탕",
+            "price": 13000,
+            "maxPrice": null
+          },
+          {
+            "name": "들기름 두부구이",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "메밀밭에 간 도토리 묵무침",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "송이 두부구이양념찜",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "나잠(해녀) 삼합",
+            "price": 30000,
+            "maxPrice": null
+          },
+          {
+            "name": "옥선 자박두부",
+            "price": 20000,
+            "maxPrice": null
+          },
+          {
+            "name": "오향 섭 문어 나물밥",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "모두부",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "순두부",
+            "price": 10000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 38.0881885,
+          "lng": 128.6541908
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 강원 양양군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 387
+    }
+  ],
+  "held": [
+    {
+      "place": "익산 귀금속 제조업 협동조합",
+      "region": "전북 익산시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '익산귀금' + '익산시' / 0건"
+    },
+    {
+      "place": "익산천만송이국화축제",
+      "region": "전북 익산시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '익산천만' + '익산시' / 0건"
+    },
+    {
+      "place": "본향 익산",
+      "region": "전북 익산시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '본향익산' + '익산시' / 0건"
+    },
+    {
+      "place": "천북굴단지 청수굴집수산",
+      "region": "충남 보령시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '천북굴단' + '보령시' / 4건이라 자동 선택 안 함: 천북굴단지 강석이네 삼형제수산, 천북굴단지 해당화굴수산, 천북굴단지 서광굴수산, 천북굴단지 전통굴수산"
+    },
+    {
+      "place": "한우자조금관리위원회",
+      "region": "서울 중구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '한우자조' + '중구' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "익산중앙체육공원",
+      "region": "전북 익산시",
+      "name": "익산중앙체육공원",
+      "category": "스포츠/운동 > 피트니스/체육관 > 스포츠 시설"
+    },
+    {
+      "place": "청계광장",
+      "region": "서울 중구",
+      "name": "청계광장교차로",
+      "category": "교통/물류 > 도로 교량 > 교차로"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1530",
+  "status": "pending",
+  "publishAfter": "2026-11-02T06:47:03.657Z",
+  "preparedAt": "2026-11-02T06:34:03.657Z"
+}
