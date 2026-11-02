@@ -256,7 +256,28 @@
   "retry": [],
   "blocked": null,
   "batch": "1800",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-02T09:16:36.090Z",
-  "preparedAt": "2026-11-02T09:03:36.090Z"
+  "preparedAt": "2026-11-02T09:03:36.090Z",
+  "publishedAt": "2026-11-02T09:31:55.627Z",
+  "result": {
+    "published": [
+      {
+        "name": "다시 봄 다이닝",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_02.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-02/naver/1800-1.html",
+        "naverTitle": "생방송 투데이 대식가 다시 봄 다이닝 경기 수원 위치"
+      },
+      {
+        "name": "해정집",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_991.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-02/naver/1800-2.html",
+        "naverTitle": "생방송 투데이 대식가 해정집 서울 마포 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
