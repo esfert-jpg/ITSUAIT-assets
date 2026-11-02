@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-02",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=560439",
+    "airDate": "2026-11-02",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=560439",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 경남 밀양 단감 체험 어디? 가을 농촌 찾아간다",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=560438",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 나주 배·채소꾸러미·감귤, 지역 농산물 소개",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=560434",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 영덕에서 만나는 수산물, 병곡면 현장 찾아간다",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 3,
+  "targets": 5,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "푸요팜",
+      "region": "전남광주통합특별시 나주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '푸요팜' + '나주시' / 0건"
+    },
+    {
+      "place": "통큰손수산 심해랑",
+      "region": "경북 영덕군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '통큰손수' + '영덕군' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "참샘허브나라",
+      "region": "경남 밀양시",
+      "name": "참샘허브나라",
+      "category": "상품 판매 > 원예/조경 > 꽃집"
+    },
+    {
+      "place": "으뜸농장",
+      "region": "전남광주통합특별시 나주시",
+      "name": "으뜸농장",
+      "category": "상품 판매 > 식품 > 농산물"
+    },
+    {
+      "place": "몽송뜨락농장",
+      "region": "전남광주통합특별시 나주시",
+      "name": "몽송뜨락농장",
+      "category": "상품 판매 > 식품 > 과일/채소"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1545",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-02T06:46:52.602Z"
+}
