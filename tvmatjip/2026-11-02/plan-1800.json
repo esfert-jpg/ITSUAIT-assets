@@ -1,0 +1,262 @@
+{
+  "date": "2026-11-02",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=560524",
+    "airDate": "2026-11-02",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=560524",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 수원에서 만나는 특별한 한 상, 빵·뇨키·화분의 비밀",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=560523",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 페퍼로니 피자의 반전, 불타는 쫀득 말랑이 정체는?",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 2,
+  "targets": 6,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1800-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-11-02",
+        "episode": null,
+        "corner": "대식가",
+        "episodeTitle": null,
+        "region": "경기 수원시",
+        "place": "다시 봄 다이닝",
+        "description": "이날 방송에서 찾아가는 곳은 경기 수원시 영통구에 위치한 '다시 봄 다이닝'이다. 이번 편에서는 세 가지 흥미로운 주제를 중심으로 다양한 음식을 만나볼 예정이다. 먼저 소개되는 것은 '빵 속에 숨겨진 보물'이다. 빵이라는 익숙한 음식에 숨겨진 또 다른 요소를 주제로, 빵 안에 무엇이 들어 있는지 궁금증을 자아낸다. 겉으로 보이는 모습만으로는 알 수 없는 빵 속의 정체가 이번 방송에서 공개될 예정이다. 빵을 중심으로 한 첫 번째 음식 이야기가 펼쳐진다. 이어 등장하는 음식은 뇨키다. 이번 방송에서는 '뇨키의 화끈한 일탈'이라는 제목으로 소개된다. 뇨키와 화끈함이라는 요소가 어떻게 연결되는지 살펴볼 예정이다. 마지막으로는 '화분의 정체?'라는 주제가 등장한다. 화분이라는 소재가 음식과 어떤 관계를 맺고 있는지에 초점을 맞춘다. 앞서 소개된 빵과 뇨키에 이어 또 다른 궁금증을 남기는 구성이다. 경기 수원시 영통구의 '다시 봄 다이닝'에서는 이처럼 빵, 뇨키, 화분이라는 서로 다른 소재를 중심으로 한 음식들이 소개될 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=560524",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "다시 봄 다이닝",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%8B%A4%EC%8B%9C-%EB%B4%84-%EB%8B%A4%EC%9D%B4%EB%8B%9D-zddnbafvapvg/",
+        "address": "경기 수원시 영통구 권선로882번길 108-27 1층",
+        "category": "음식점 > 기타 음식점 > 기타 외국 음식",
+        "roadAddress": "경기 수원시 영통구 권선로882번길 108-27 1층",
+        "jibunAddress": "경기 수원시 영통구 신동 994",
+        "phone": "07042073792",
+        "safePhone": null,
+        "hours": {
+          "월": "11:00~20:30",
+          "화": "11:00~20:30",
+          "수": "11:00~20:30",
+          "목": "11:00~20:30",
+          "금": "11:00~20:30",
+          "토": "11:00~20:30",
+          "일": "11:00~20:30"
+        },
+        "breakTime": {
+          "월": "15:00~17:00",
+          "화": "15:00~17:00",
+          "수": "15:00~17:00",
+          "목": "15:00~17:00",
+          "금": "15:00~17:00",
+          "토": "15:00~17:00",
+          "일": "15:00~17:00"
+        },
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "비프웰링턴",
+            "price": 55000,
+            "maxPrice": null
+          },
+          {
+            "name": "살치살 스테이크",
+            "price": 45000,
+            "maxPrice": null
+          },
+          {
+            "name": "잠봉 매운 크림 뇨끼",
+            "price": 21000,
+            "maxPrice": null
+          },
+          {
+            "name": "트러플 크림 뇨끼",
+            "price": 21000,
+            "maxPrice": null
+          },
+          {
+            "name": "꽃게 로제 파스타",
+            "price": 24000,
+            "maxPrice": null
+          },
+          {
+            "name": "전복 감태 파스타",
+            "price": 23000,
+            "maxPrice": null
+          },
+          {
+            "name": "갑오징어 리조또",
+            "price": 22000,
+            "maxPrice": null
+          },
+          {
+            "name": "대하 오일 파스타",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "명란 크림 파스타",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "라구 파스타",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "부라타치즈 토마토 파스타",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "잠봉 옥수수 치즈 듬뿍 피자",
+            "price": 24000,
+            "maxPrice": null
+          },
+          {
+            "name": "치즈 듬뿍 마리게리타",
+            "price": 24000,
+            "maxPrice": null
+          },
+          {
+            "name": "부라타치즈 샐러드",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "살치살 샐러드",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "화분 샐러드",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "갓 구운 화덕빵",
+            "price": 3000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.2473686,
+          "lng": 127.0409823
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경기 수원시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 392
+    },
+    {
+      "id": "1800-2",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-11-02",
+        "episode": null,
+        "corner": "대식가",
+        "episodeTitle": null,
+        "region": "서울 마포구",
+        "place": "해정집",
+        "description": "이날 방송에서 찾아가는 곳은 서울 마포구에 위치한 '해정집'이다. 이번 편은 '페퍼로니 듬뿍 피자의 반전'과 '불타는 쫀득 말랑이'라는 두 가지 주제로 진행된다. 먼저 눈길을 끄는 음식은 페퍼로니 피자다. 페퍼로니를 듬뿍 올린 피자를 중심으로 예상과 다른 반전이 있다는 점을 방송 제목으로 내세웠다. 이번 방송에서는 페퍼로니 피자에 어떤 반전이 담겨 있는지 살펴볼 예정이다. 익숙한 피자라는 음식에 '반전'이라는 요소를 더한 구성이 특징이다. 이어 소개되는 음식은 '불타는 쫀득 말랑이'다. 불타는이라는 표현과 쫀득하고 말랑한 식감을 함께 내세운 음식으로, 이번 '대식가'의 또 다른 주요 메뉴다. 특히 이번 편에서는 페퍼로니 피자와 쫀득 말랑이라는 서로 다른 음식의 특징을 연결한다. 하나는 피자의 반전, 다른 하나는 불타는 맛과 식감을 주제로 소개될 예정이다. 서울 마포구에 자리한 '해정집'을 배경으로 두 가지 음식의 이야기가 펼쳐진다. 페퍼로니를 듬뿍 올린 피자와 쫀득하고 말랑한 음식의 정체가 이번 방송의 관심거리다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=560523",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "해정집",
+        "url": "https://www.daangn.com/kr/local-profile/%ED%95%B4%EC%A0%95%EC%A7%91-1wsaq2um6yi1/",
+        "address": "서울특별시 마포구 양화로6길 45",
+        "category": "음식점 > 기타 음식점 > 기타 음식",
+        "roadAddress": "서울특별시 마포구 양화로6길 45",
+        "jibunAddress": "서울특별시 마포구 서교동 396-32",
+        "phone": "023369030",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.5489456,
+          "lng": 126.9168146
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 마포구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 393
+    }
+  ],
+  "held": [
+    {
+      "place": "빵 속에 숨겨진 보물",
+      "region": "경기 수원시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '빵속에숨' + '수원시' / 0건"
+    },
+    {
+      "place": "페퍼로니 듬뿍 피자의 반전",
+      "region": "서울 마포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '페퍼로니' + '마포구' / 0건"
+    },
+    {
+      "place": "불타는 쫀득 말랑이",
+      "region": "서울 마포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '불타는쫀' + '마포구' / 0건"
+    },
+    {
+      "place": "반전",
+      "region": "서울 마포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 반전 (경기도 광명시 범안로 1042 제일빌딩) — 다른 시군구 (경기도 광명시 범안로 1042 제일빌딩) | 2. 대반전 (서울특별시 영등포구 대방천로 155 신풍두산위브센티움) — 다른 시군구 (서울특별시 영등포구 대방천로 155 신풍두산위브센티움) | 3. 대반전 (서울특별시 양천구 오목로 148, 지상1층 (신정동)) — 다른 시군구 (서울특별시 양천구 오목로 148, 지상1층 (신정동)) | 4. 반전 홈케어 (null) — 주소 없음 | 5. 반전 (경기도 광주시 곤지암읍 곤지암로50번길 2) — 다른 시군구 (경기도 광주시 곤지암읍 곤지암로50번길 2) | 6. 모란 대반전 (경기도 성남시 중원구 광명로 33-1) — 다른 시군구 (경기도 성남시 중원구 광명로 33-1) | 7. 대반전 사당점 (서울 동작구 동작대로7길 98 1층) — 다른 시군구 (서울 동작구 동작대로7길 98 1층) | 8. 반전 (강원 강릉시 성덕포남로 89-10 1층2호) — 다른 시군구 (강원 강릉시 성덕포남로 89-10 1층2호) | 9. 대반전 신풍역점 (서울특별시 영등포구 대방천로 155 (신길동)) — 다른 시군구 (서울특별시 영등포구 대방천로 155 (신길동)) | 10. 대반전 모란점 (경기도 성남시 중원구 광명로 33-1 (성남동)) — 다른 시군구 (경기도 성남시 중원구 광명로 33-1 (성남동))) / 인허가 '반전' + '마포구' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1800",
+  "status": "pending",
+  "publishAfter": "2026-11-02T09:16:36.090Z",
+  "preparedAt": "2026-11-02T09:03:36.090Z"
+}
