@@ -262,7 +262,28 @@
   "retry": [],
   "blocked": null,
   "batch": "1530",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-02T06:47:03.657Z",
-  "preparedAt": "2026-11-02T06:34:03.657Z"
+  "preparedAt": "2026-11-02T06:34:03.657Z",
+  "publishedAt": "2026-11-02T07:01:54.083Z",
+  "result": {
+    "published": [
+      {
+        "name": "오미브레드(Bread)",
+        "url": "https://wherethatplace.blogspot.com/2026/11/bread.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-02/naver/1530-1.html",
+        "naverTitle": "생생정보 시골빵집 오미브레드(Bread) 충북 충주 위치"
+      },
+      {
+        "name": "옛뜰",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-02/naver/1530-2.html",
+        "naverTitle": "생생정보 맛집 맞수다 옛뜰 강원 양양 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
