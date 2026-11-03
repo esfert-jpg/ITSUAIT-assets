@@ -1,0 +1,640 @@
+{
+  "date": "2026-11-03",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=560812",
+    "airDate": "2026-11-03",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향",
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=560812",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 경북 봉화 오전약수탕과 백숙, 지역 먹거리 기행",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=560810",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 전남 여수 홍갓, 지역 농산물 이야기",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=560794",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 경기 김포 연근 소개, 오씨네연근 찾아간다",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=560785",
+      "program": "생생정보",
+      "title": "'생생정보' 인천 차이나타운부터 목섬까지, 사진 한 컷 여행",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=560783",
+      "program": "생생정보",
+      "title": "'생생정보' 음식 X-파일, 가을 제철 감의 다양한 모습",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=560778",
+      "program": "생생정보",
+      "title": "'생생정보' 장사의 신, 안양 만안구 3종 보쌈·청국장 한 상",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=560773",
+      "program": "생생정보",
+      "title": "'생생정보' 서울 남산의 특별한 가을밤, 나이트 페스티벌 개최",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 7,
+  "targets": 19,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1615-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-11-03",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "경북 봉화군",
+        "place": "산장식당",
+        "description": "이번 방송에서는 봉화군 물야면에 위치한 '산장식당'과 '오전약수탕'을 중심으로 지역의 먹거리와 방문 명소를 살펴볼 예정이다. 먼저 소개되는 곳은 경북 봉화군 물야면에 자리한 '산장식당'이다. 이곳은 이번 방송에서 백숙 식당으로 등장한다. 방송에서는 백숙을 주요 음식으로 소개하며 봉화에서 만날 수 있는 먹거리에 관한 이야기를 전할 예정이다. 백숙은 닭 등을 물에 넣고 푹 삶아 만드는 음식이다. 이번 방송에서는 '산장식당'을 통해 백숙을 만나보고, 봉화 지역에서 소개되는 식당의 모습을 담아낼 예정이다. 이어 찾아가는 곳은 '오전약수탕'이다. 경북 봉화군 물야면에 위치한 이곳은 이번 방송에서 소개되는 약수탕으로, 백숙 식당과 함께 봉화 여정의 주요 방문지에 포함된다. 방송에서는 '오전약수탕'을 찾아 약수탕 현장을 살펴보고, 봉화군 물야면에서 만날 수 있는 장소를 소개할 예정이다. 백숙 식당을 방문한 뒤 약수탕으로 이어지는 일정으로 지역의 먹거리와 명소를 함께 만나본다. 경북 봉화군 물야면의 '산장식당'에서 소개하는 백숙과 '오전약수탕'을 둘러보는 여정은 KBS1 '6시 내고향'을 통해 전해질 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=560812",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "산장식당",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%82%B0%EC%9E%A5%EC%8B%9D%EB%8B%B9-rxxib6oc4r4q/",
+        "address": "경북 봉화군 물야면 오전약수탕길 26",
+        "category": "음식점 > 한식 > 닭/오리 요리",
+        "roadAddress": "경북 봉화군 물야면 오전약수탕길 26",
+        "jibunAddress": "경북 봉화군 물야면 오전리 61-4",
+        "phone": null,
+        "safePhone": "050714181900",
+        "hours": {
+          "월": "11:00~15:00",
+          "화": "11:00~15:00",
+          "수": null,
+          "목": "11:00~15:00",
+          "금": "11:00~15:00",
+          "토": null,
+          "일": "11:00~19:00"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "수",
+          "토"
+        ],
+        "menu": [
+          {
+            "name": "봉화자연산능이토종닭백숙",
+            "price": 80000,
+            "maxPrice": null
+          },
+          {
+            "name": "한방토종닭백숙",
+            "price": 60000,
+            "maxPrice": null
+          },
+          {
+            "name": "소금구이닭불고기",
+            "price": 28000,
+            "maxPrice": null
+          },
+          {
+            "name": "토종옻닭백숙",
+            "price": 65000,
+            "maxPrice": null
+          },
+          {
+            "name": "송이오리한방백숙",
+            "price": 90000,
+            "maxPrice": null
+          },
+          {
+            "name": "능이오리한방백숙",
+            "price": 80000,
+            "maxPrice": null
+          },
+          {
+            "name": "한방오리백숙",
+            "price": 70000,
+            "maxPrice": null
+          },
+          {
+            "name": "감자전",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "봉화자연산송이토종닭백숙",
+            "price": 90000,
+            "maxPrice": null
+          },
+          {
+            "name": "양념 닭 불고기",
+            "price": 30000,
+            "maxPrice": null
+          },
+          {
+            "name": "닭백숙",
+            "price": 40000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.0135874,
+          "lng": 128.7490092
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "9순위 / 상호 완전 일치 / 경북 봉화군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 399
+    },
+    {
+      "id": "1615-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-03",
+        "episode": null,
+        "corner": "미스터 Lee의 사진 한 컷, 대한민국",
+        "episodeTitle": null,
+        "region": "인천 옹진군",
+        "place": "하라보라",
+        "description": "이번 방송에서는 인천의 차이나타운과 옹진군의 여러 섬을 중심으로 다양한 장소를 찾아갈 예정이다. 먼저 인천 제물포구에 위치한 '차이나타운 연경 본관'이 등장한다. 이번 여행에서 소개되는 식당으로, 인천 차이나타운을 배경으로 이야기가 시작된다. 이어 인천 옹진군 북도면으로 이동해 '휠프렌즈 신도점'을 소개한다. 다음으로는 모도에 위치한 '배미꾸미조각공원'을 찾아간다. 시도에서는 '느진구지해변'이 등장한다. 인천 옹진군에 위치한 해변으로, 이번 사진 여행에서 소개되는 자연 명소다. 또 다른 장소는 '하라보라'이다. 굴뚝빵을 소개하는 곳으로, 이번 방송에서 만나는 먹거리 장소 중 하나다. 이어 인천 옹진군 영흥면에 위치한 '선재2리마을'을 찾아간다. 마지막으로 소개되는 곳은 같은 지역에 자리한 '목섬'이다. 이번 490번째 미션에서는 인천 제물포구의 차이나타운부터 옹진군의 신도와 모도, 시도, 선재도 일대까지 다양한 장소가 등장한다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=560785",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "하라보라",
+        "url": "https://www.daangn.com/kr/local-profile/%ED%95%98%EB%9D%BC%EB%B3%B4%EB%9D%BC-73vvmnyayph9/",
+        "address": "인천 옹진군 북도면 시도로 83",
+        "category": "음식점 > 카페/디저트 > 카페",
+        "roadAddress": "인천 옹진군 북도면 시도로 83",
+        "jibunAddress": "인천 옹진군 북도면 시도리 392",
+        "phone": null,
+        "safePhone": "050713412460",
+        "hours": {
+          "월": "10:30~18:30",
+          "화": null,
+          "수": "10:30~18:30",
+          "목": "10:30~18:30",
+          "금": "10:30~18:30",
+          "토": null,
+          "일": "10:30~18:30"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "화",
+          "토"
+        ],
+        "menu": [
+          {
+            "name": "아메리카노",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "굴뚝빵 3~4인용",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "카페 라떼",
+            "price": 5500,
+            "maxPrice": null
+          },
+          {
+            "name": "굴뚝빵 1~2인용",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "카라멜 마끼아또",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "바닐라 카페라떼",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "연유라떼",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "카페모카",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "얼그레이",
+            "price": 4500,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5327465,
+          "lng": 126.4282971
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 인천 옹진군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 400
+    },
+    {
+      "id": "1615-3",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-03",
+        "episode": null,
+        "corner": "미스터 Lee의 사진 한 컷, 대한민국",
+        "episodeTitle": null,
+        "region": "인천 옹진군",
+        "place": "목섬",
+        "description": "이번 방송에서는 인천의 차이나타운과 옹진군의 여러 섬을 중심으로 다양한 장소를 찾아갈 예정이다. 먼저 인천 제물포구에 위치한 '차이나타운 연경 본관'이 등장한다. 이번 여행에서 소개되는 식당으로, 인천 차이나타운을 배경으로 이야기가 시작된다. 이어 인천 옹진군 북도면으로 이동해 '휠프렌즈 신도점'을 소개한다. 다음으로는 모도에 위치한 '배미꾸미조각공원'을 찾아간다. 시도에서는 '느진구지해변'이 등장한다. 인천 옹진군에 위치한 해변으로, 이번 사진 여행에서 소개되는 자연 명소다. 또 다른 장소는 '하라보라'이다. 굴뚝빵을 소개하는 곳으로, 이번 방송에서 만나는 먹거리 장소 중 하나다. 이어 인천 옹진군 영흥면에 위치한 '선재2리마을'을 찾아간다. 마지막으로 소개되는 곳은 같은 지역에 자리한 '목섬'이다. 이번 490번째 미션에서는 인천 제물포구의 차이나타운부터 옹진군의 신도와 모도, 시도, 선재도 일대까지 다양한 장소가 등장한다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=560785",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "목섬칼국수",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "인천광역시 옹진군 영흥면 선재로 39",
+        "jibunAddress": "인천광역시 옹진군 영흥면 선재리 142-8",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.23309769600845,
+          "lng": 126.53330023809036
+        },
+        "licenseDate": "2001-11-09",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(상위 1개 중 상호·시군구가 다 맞는 곳 없음: 1. 몬더비 (서울특별시 서초구 강남대로51길 10 (서초동)) — 상호 불일치 (찾은 것: '몬더비')) / 인허가 '목섬' + '옹진군' / 입력 상호로 시작 ('목섬칼국수')",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 401
+    },
+    {
+      "id": "1615-4",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-03",
+        "episode": null,
+        "corner": "음식 X-파일",
+        "episodeTitle": null,
+        "region": "전남광주통합특별시 담양군",
+        "place": "까망감",
+        "description": "이번 방송은 '달콤한 가을의 선물, 감'이라는 주제로 진행된다. 충북 영동군과 전남광주통합특별시 담양군에 위치한 여러 장소를 찾아가 감을 중심으로 한 이야기를 살펴볼 예정이다. 먼저 소개되는 곳은 충북 영동군에 위치한 '추풍령 감골농장'이다. 이번 방송에서 감을 주제로 찾아가는 첫 번째 장소다. 이어 전남광주통합특별시 담양군에 위치한 '시목원'이 등장한다. 감을 중심으로 한 이번 '음식 X-파일'에서 함께 소개되는 장소로, 영동에 이어 담양으로 이야기가 이어진다. 다음으로 찾아가는 곳은 담양군에 자리한 '까망감'이다. '시목원'과 함께 담양에서 소개되는 장소로, 이번 방송의 주요 취재 대상이다. 이번 편에서는 충북 영동군의 '추풍령 감골농장'과 담양군의 '시목원', '까망감'을 연결해 가을 과일인 감을 살펴본다. 특히 '달콤한 가을의 선물'이라는 제목처럼 감이라는 과일 자체에 초점을 맞춘다. 서로 다른 지역의 세 장소를 통해 감을 주제로 한 이야기가 펼쳐질 예정이다. 이번 촬영에는 김영준 칼럼니스트도 협조했다. 가을철 감을 중심으로 한 이번 편에서 여러 취재 장소가 함께 소개된다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=560783",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "까망감",
+        "url": "https://www.daangn.com/kr/local-profile/%EA%B9%8C%EB%A7%9D%EA%B0%90-go3aov9312t7/",
+        "address": "전남광주 담양군 용면 추월산로 900-9",
+        "category": "음식점 > 카페/디저트 > 카페",
+        "roadAddress": "전남광주 담양군 용면 추월산로 900-9",
+        "jibunAddress": "전남광주 담양군 용면 월계리 79-38",
+        "phone": null,
+        "safePhone": "050713181164",
+        "hours": {
+          "월": "11:00~18:00",
+          "화": "11:00~18:00",
+          "수": "11:00~18:00",
+          "목": "11:00~18:00",
+          "금": "11:00~18:00",
+          "토": "11:00~19:00",
+          "일": "11:00~19:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "홍시치즈타르트",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "홍시푸딩",
+            "price": 6500,
+            "maxPrice": null
+          },
+          {
+            "name": "월계딸기라떼",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "여름밤",
+            "price": 6800,
+            "maxPrice": null
+          },
+          {
+            "name": "피스타치오 티라미수",
+            "price": 8500,
+            "maxPrice": null
+          },
+          {
+            "name": "서양꼬깜",
+            "price": 6800,
+            "maxPrice": null
+          },
+          {
+            "name": "까망스페너",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "봄과숲",
+            "price": 7500,
+            "maxPrice": null
+          },
+          {
+            "name": "홍시에이드",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "애플레몬에이드",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "서양꼬깜",
+            "price": 6700,
+            "maxPrice": null
+          },
+          {
+            "name": "티라미수",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "딸기요거트",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "딸기아이스크림",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "썸머라떼",
+            "price": 7500,
+            "maxPrice": null
+          },
+          {
+            "name": "초코추월숲",
+            "price": 7000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 35.3957606,
+          "lng": 127.0001475
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 전남 담양군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 402
+    },
+    {
+      "id": "1615-5",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-03",
+        "episode": null,
+        "corner": "장사의 신",
+        "episodeTitle": null,
+        "region": "경기 안양시",
+        "place": "뽕나무집보쌈칼국수",
+        "description": "이날 방송에서 찾아가는 곳은 경기 안양시 만안구에 위치한 '뽕나무집보쌈칼국수'이다. 이번 편은 '3종 보쌈 & 청국장 세트'라는 주제로 진행된다. 방송에서 소개되는 대표 메뉴는 '갓성비 보쌈정식'이다. 가격은 1인 13,000원으로 안내됐다. 이번 보쌈정식의 핵심은 3종 보쌈과 청국장이다. 세 가지 종류의 보쌈을 내세운 구성에 청국장을 함께 제공하는 한 상이 이번 방송의 주요 내용이다. 특히 '장사의 신'에서는 13,000원이라는 가격과 음식 구성을 함께 소개할 예정이다. 보쌈과 청국장을 한 끼 식사로 즐길 수 있다는 점에 초점을 맞춘다. '뽕나무집보쌈칼국수'는 경기 안양시 만안구에 자리한 식당으로, 이번 방송에서 3종 보쌈과 청국장 세트를 만나는 장소다. 보쌈이라는 고기 메뉴와 청국장이라는 음식이 함께 등장하는 구성으로, '갓성비 보쌈정식'이라는 이름과 가격이 주요 정보로 소개된다. 이번 방송에서는 3종 보쌈의 구성과 청국장이 함께하는 한 상을 중심으로 이야기가 펼쳐질 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=560778",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "뽕나무집",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "경기도 안양시 만안구 삼막로 5 (석수동,239)",
+        "jibunAddress": "경기도 안양시 만안구 석수동 101-9 239",
+        "phone": "031-471-7766",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": null,
+        "licenseDate": "1998-06-18",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '뽕나무집' + '안양시' / 입력 상호의 일부만 상호로 씀 ('뽕나무집')",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 403
+    },
+    {
+      "id": "1615-6",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-03",
+        "episode": null,
+        "corner": "생생 현장",
+        "episodeTitle": null,
+        "region": "서울 중구",
+        "place": "나이트",
+        "description": "이번 방송은 '가을밤의 낭만! 2026 남산 나이트 페스티벌'이라는 주제로 진행된다. 가을밤을 배경으로 펼쳐지는 축제 현장을 중심으로 서울 도심에서 만나는 계절 행사를 살펴볼 예정이다. '2026 남산 나이트 페스티벌'은 지난 10월 23일부터 오는 11월 14일까지 진행되는 행사다. 축제 장소는 서울 중구에 위치한 '남산공원백범광장'이다. 이번 행사는 가을밤의 낭만을 주제로 남산에서 열리는 축제라는 점이 특징이다. 이날 '생생 현장'에서는 '남산공원백범광장'을 배경으로 가을밤의 축제 분위기를 소개한다. 남산이라는 서울의 대표적인 장소와 야간 축제라는 주제를 연결한 내용이다. 특히 축제 이름에 담긴 '나이트'라는 표현처럼 밤을 중심으로 한 행사가 이번 방송의 주요 소재다. 가을이라는 계절과 남산이라는 장소가 어우러지는 현장을 만나볼 예정이다. 서울 중구의 '남산공원백범광장'에서 열리는 '2026 남산 나이트 페스티벌'은 10월 말부터 11월 중순까지 이어지는 일정으로 소개된다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=560773",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "대구 저스트 나이트",
+        "url": null,
+        "address": null,
+        "category": "정종/대포집/소주방",
+        "roadAddress": "대구광역시 중구 경상감영길 11, 1층 (서문로1가)",
+        "jibunAddress": "대구광역시 중구 서문로1가 0049-0001",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 35.871219275506384,
+          "lng": 128.5880441479378
+        },
+        "licenseDate": "2020-04-01",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(상위 9개 중 상호·시군구가 다 맞는 곳 없음: 1. 강남리베라호텔H2O나이트 (서울특별시 강남구 영동대로 737 (청담동)) — 다른 시군구 (서울특별시 강남구 영동대로 737 (청담동)) | 2. 길동 찬스나이트 (서울특별시 강동구 천호대로 1135 (길동)) — 다른 시군구 (서울특별시 강동구 천호대로 1135 (길동)) | 3. 한국관관광나이트 (서울특별시 중랑구 망우로 326) — 다른 시군구 (서울특별시 중랑구 망우로 326) | 4. 인덕원국빈관나이트 (경기도 안양시 동안구 흥안대로 524 삼우프라자) — 다른 시군구 (경기도 안양시 동안구 흥안대로 524 삼우프라자) | 5. 불광동호박나이트 (서울특별시 은평구 통일로 730 (불광동)) — 다른 시군구 (서울특별시 은평구 통일로 730 (불광동)) | 6. 답십리돈텔마마나이트 (서울특별시 동대문구 고미술로 99) — 다른 시군구 (서울특별시 동대문구 고미술로 99) | 7. 국빈관 관광나이트클럽 (서울특별시 금천구 범안로 1209 (독산동)) — 다른 시군구 (서울특별시 금천구 범안로 1209 (독산동)) | 8. 턴 (서울 강남구 역삼로3길 17-5) — 상호 불일치 (찾은 것: '턴') | 9. 강남풀싸롱제니실장 (서울특별시 강남구 강남대로 298 (역삼동)) — 상호 불일치 (찾은 것: '강남풀싸롱제니실장')) / 인허가 '나이트' + '중구' / 입력 상호를 포함 ('대구 저스트 나이트')",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 404
+    }
+  ],
+  "held": [
+    {
+      "place": "오전약수탕",
+      "region": "경북 봉화군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '오전약수' + '봉화군' / 0건"
+    },
+    {
+      "place": "뚱땡이 돌산 갓김치",
+      "region": "전남광주통합특별시 여수시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '뚱땡이돌' + '여수시' / 0건"
+    },
+    {
+      "place": "농업회사법인연꽃정원(오씨네연근)",
+      "region": "경기 김포시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '농업회사' + '김포시' / 0건"
+    },
+    {
+      "place": "차이나타운 연경 본관",
+      "region": "인천 제물포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '차이나타' + '제물포구' / 3건이라 자동 선택 안 함: 우리술상회 차이나타운점, 해운대 달맞이빵 인천차이나타운점, 까페 꼰띠고 인천차이나타운점"
+    },
+    {
+      "place": "휠프렌즈 신도점",
+      "region": "인천 옹진군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '휠프렌즈' + '옹진군' / 0건"
+    },
+    {
+      "place": "배미꾸미조각공원",
+      "region": "인천 옹진군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '배미꾸미' + '옹진군' / 0건"
+    },
+    {
+      "place": "느진구지해변",
+      "region": "인천 옹진군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '느진구지' + '옹진군' / 0건"
+    },
+    {
+      "place": "선재2리마을",
+      "region": "인천 옹진군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '선재2리' + '옹진군' / 0건"
+    },
+    {
+      "place": "추풍령 감골농장",
+      "region": "충북 영동군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '추풍령감' + '영동군' / 0건"
+    },
+    {
+      "place": "시목원",
+      "region": "전남광주통합특별시 담양군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '시목원' + '담양군' / 0건"
+    },
+    {
+      "place": "갓성비 보쌈정식",
+      "region": "경기 안양시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '갓성비보' + '안양시' / 0건"
+    },
+    {
+      "place": "2026 남산 나이트 페스티벌",
+      "region": "서울 중구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '2026' + '중구' / 0건"
+    },
+    {
+      "place": "남산공원백범광장",
+      "region": "서울 중구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '남산공원' + '중구' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1615",
+  "status": "pending",
+  "publishAfter": "2026-11-03T07:37:35.004Z",
+  "preparedAt": "2026-11-03T07:24:35.004Z"
+}
