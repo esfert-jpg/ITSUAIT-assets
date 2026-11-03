@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-03",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224463428919",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 안양 삼막사 갓성비 맛집! 뽕나무집보쌈칼국수 3종 보쌈 & 청국장 세트 솔직 후기",
+      "place": "뽕나무집보쌈칼국수",
+      "region": "경기 안양시",
+      "dishes": [
+        "보쌈",
+        "칼국수",
+        "청국장"
+      ],
+      "corner": "장사의 신",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224463428919",
+      "postedAt": "2026-11-03T04:46:17.000Z",
+      "dishVotes": {
+        "보쌈": 1,
+        "칼국수": 1,
+        "청국장": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224463435506",
+      "program": "생생정보",
+      "title": "2tv 생생정보 ㅣ [음식 X-파일] 영동 달콤한 곶감 명소 추풍령 감골농장",
+      "place": "추풍령 감골농장",
+      "region": "충북 영동군",
+      "dishes": [
+        "곶감"
+      ],
+      "corner": "음식 X-파일",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224463435506",
+      "postedAt": "2026-11-03T04:51:51.000Z",
+      "dishVotes": {
+        "곶감": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224463440394",
+      "program": "생생정보",
+      "title": "2tv 생생정보 l [음식 X-파일] 담양 명품 단감의 고향 시목원 방문기",
+      "place": "시목원",
+      "region": "전남 담양군",
+      "dishes": [],
+      "corner": "음식 X-파일",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224463440394",
+      "postedAt": "2026-11-03T04:55:53.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224463445546",
+      "program": "생생정보",
+      "title": "2tv생생정보 l[미스터 Lee의 사진 한 컷, 대한민국] 인천 차이나타운 원조 짜장면 맛집 연경 본관",
+      "place": "연경 본관",
+      "region": "인천 중구",
+      "dishes": [
+        "짜장면"
+      ],
+      "corner": "미스터 Lee의 사진 한 컷, 대한민국",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224463445546",
+      "postedAt": "2026-11-03T05:00:09.000Z",
+      "dishVotes": {
+        "짜장면": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 4,
+  "skipped": [],
+  "stores": [],
+  "held": [],
+  "excluded": [],
+  "failed": [
+    {
+      "place": "뽕나무집보쌈칼국수",
+      "reason": "조회 실패: HTTP 429 (https://www.daangn.com/kr/local-profile/?search=%EB%BD%95%EB%82%98%EB%AC%B4%EC%A7%91%EB%B3%B4%EC%8C%88%EC%B9%BC%EA%B5%AD%EC%88%98)"
+    },
+    {
+      "place": "추풍령 감골농장",
+      "reason": "조회 실패: HTTP 429 (https://www.daangn.com/kr/local-profile/?search=%EC%B6%94%ED%92%8D%EB%A0%B9%20%EA%B0%90%EA%B3%A8%EB%86%8D%EC%9E%A5)"
+    },
+    {
+      "place": "시목원",
+      "reason": "조회 실패: HTTP 429 (https://www.daangn.com/kr/local-profile/?search=%EC%8B%9C%EB%AA%A9%EC%9B%90)"
+    },
+    {
+      "place": "연경 본관",
+      "reason": "조회 실패: HTTP 429 (https://www.daangn.com/kr/local-profile/?search=%EC%97%B0%EA%B2%BD%20%EB%B3%B8%EA%B4%80)"
+    }
+  ],
+  "retry": [],
+  "blocked": null,
+  "batch": "1401b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-03T05:01:17.941Z"
+}
