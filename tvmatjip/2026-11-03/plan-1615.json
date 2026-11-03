@@ -634,7 +634,56 @@
   "retry": [],
   "blocked": null,
   "batch": "1615",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-03T07:37:35.004Z",
-  "preparedAt": "2026-11-03T07:24:35.004Z"
+  "preparedAt": "2026-11-03T07:24:35.004Z",
+  "publishedAt": "2026-11-03T07:47:37.058Z",
+  "result": {
+    "published": [
+      {
+        "name": "산장식당",
+        "url": "https://wherethatplace.blogspot.com/2026/11/6.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-03/naver/1615-1.html",
+        "naverTitle": "6시 내고향 산장식당 백숙 경북 봉화 위치"
+      },
+      {
+        "name": "하라보라",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_03.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-03/naver/1615-2.html",
+        "naverTitle": "생생정보 미스터 Lee의 사진 한 컷, 대한민국 하라보라 인천 옹진 위치"
+      },
+      {
+        "name": "목섬칼국수",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_778.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-03/naver/1615-3.html",
+        "naverTitle": "생생정보 미스터 Lee의 사진 한 컷, 대한민국 목섬칼국수 인천 옹진 위치"
+      },
+      {
+        "name": "까망감",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_121.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-03/naver/1615-4.html",
+        "naverTitle": "생생정보 음식 X-파일 까망감 전남 담양 위치"
+      },
+      {
+        "name": "뽕나무집",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_668.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-03/naver/1615-5.html",
+        "naverTitle": "생생정보 장사의 신 뽕나무집 경기 안양 위치"
+      },
+      {
+        "name": "대구 저스트 나이트",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_549.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-03/naver/1615-6.html",
+        "naverTitle": "생생정보 생생 현장 대구 저스트 나이트 서울 중 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
