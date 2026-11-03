@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-11-02T23:04:02.719Z",
+  "updatedAt": "2026-11-03T23:04:12.839Z",
   "records": [
+    {
+      "date": "2026-11-04",
+      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "mediaId": "18077911271722874"
+    },
     {
       "date": "2026-11-03",
       "url": "https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967",
