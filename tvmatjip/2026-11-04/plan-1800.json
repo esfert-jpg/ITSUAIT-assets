@@ -275,7 +275,35 @@
   "retry": [],
   "blocked": null,
   "batch": "1800",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-04T09:16:10.146Z",
-  "preparedAt": "2026-11-04T09:03:10.146Z"
+  "preparedAt": "2026-11-04T09:03:10.146Z",
+  "publishedAt": "2026-11-04T09:32:20.156Z",
+  "result": {
+    "published": [
+      {
+        "name": "으뜸식당",
+        "url": "https://wherethatplace.blogspot.com/2026/11/6_01030070810.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-04/naver/1800-1.html",
+        "naverTitle": "6시 내고향 으뜸식당 회춘탕 전남 강진 위치"
+      },
+      {
+        "name": "동끝횟집",
+        "url": "https://wherethatplace.blogspot.com/2026/11/6_0724633480.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-04/naver/1800-2.html",
+        "naverTitle": "6시 내고향 동끝횟집 방어회 경북 포항 위치"
+      },
+      {
+        "name": "모슬포좁짝뼈국수(주식회사)",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_553.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-04/naver/1800-3.html",
+        "naverTitle": "생방송 투데이 이유 있는 맛플리 모슬포좁짝뼈국수(주식회사) 제주 서귀포 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
