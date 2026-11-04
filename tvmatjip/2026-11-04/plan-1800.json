@@ -1,0 +1,281 @@
+{
+  "date": "2026-11-04",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=561220",
+    "airDate": "2026-11-04",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향",
+    "생방송 투데이"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561220",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 거창 마리면에서 만나는 복숭아, 지역 농산물 소개",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561217",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 전남 강진 여행, 생태공원과 전통시장·먹거리 소개",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561216",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 경북 영덕 방어회 소개, 구룡포 횟집 어디?",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561215",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 제주 서귀포에서 만나는 토박이의 국수 한 그릇",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561214",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 콩과 함께 알콩달콩, 천안 부부의 귀농일기",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 5,
+  "targets": 10,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1800-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-11-04",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "전남광주통합특별시 강진군",
+        "place": "으뜸식당",
+        "description": "이번 방송에서는 강진만의 자연경관을 시작으로 지역 시장과 특색 있는 먹거리를 만나는 여정이 펼쳐질 예정이다. 먼저 찾아가는 곳은 강진군 강진읍에 위치한 '강진만 생태공원'이다. 이곳에서는 갈대숲을 만나볼 수 있으며, 갈대 관람은 11월 말까지 가능하다. 다만 기상 상황에 따라 관람 시기는 달라질 수 있다. 생태공원에서는 자연환경해설사와 관련된 내용도 소개된다. 자연환경 해설은 오전 10시부터 오후 5시까지 진행되며, 낮 12시부터 오후 1시까지는 점심시간이다. 방송에서는 갈대숲과 함께 자연환경 해설을 통해 공원을 살펴볼 예정이다. 이어 강진의 전통시장인 '강진오감통시장'을 찾아간다. 강진군 강진읍에 자리한 이곳은 날짜 끝자리가 4일과 9일인 날에 오일장이 열리는 시장이다. 방송에서는 전통시장 현장을 통해 강진의 또 다른 모습을 소개한다. 지역 먹거리로는 회춘탕이 등장한다. 회춘탕 식당으로 소개되는 곳은 강진읍에 위치한 '으뜸식당'이다. 방송에서는 이곳의 회춘탕을 살펴보며 강진에서 만날 수 있는 음식을 조명할 예정이다. 마지막으로 소개되는 먹거리는 황가오리빵이다. 강진군 도암면에 자리한 '황가오리빵굽는집'에서 만날 수 있는 음식으로, 이번 방송에서는 황가오리빵을 통해 강진의 또 다른 먹거리를 소개한다. 갈대숲과 자연환경 해설, 오일장이 열리는 전통시장부터 회춘탕과 황가오리빵까지 강진의 자연과 먹거리를 함께 만나는 여정은 KBS1 '6시 내고향'을 통해 전해질 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=561217",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "으뜸식당",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%9C%BC%EB%9C%B8%EC%8B%9D%EB%8B%B9-65b6fk6ugfpb/",
+        "address": "전남광주 강진군 강진읍 오감길 2 2동",
+        "category": "음식점 > 한식 > 수산물/횟집",
+        "roadAddress": "전남광주 강진군 강진읍 오감길 2 2동",
+        "jibunAddress": "전남광주 강진군 강진읍 동성리 185",
+        "phone": "0614322011",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "병어찜회 대",
+            "price": 70000,
+            "maxPrice": null
+          },
+          {
+            "name": "병어찜회 중",
+            "price": 60000,
+            "maxPrice": null
+          },
+          {
+            "name": "갈치찜 대",
+            "price": 60000,
+            "maxPrice": null
+          },
+          {
+            "name": "갈치찜 중",
+            "price": 50000,
+            "maxPrice": null
+          },
+          {
+            "name": "바지락회무침",
+            "price": 45000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 34.639186,
+          "lng": 126.7732632
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "6순위 / 상호 완전 일치 / 전남 강진군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 410
+    },
+    {
+      "id": "1800-2",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-11-04",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "경북 포항시",
+        "place": "동끝횟집",
+        "description": "이번 방송과 관련해 안내된 식당은 경북 포항시 남구 구룡포읍에 위치한 '동끝횟집'이다. 방어회는 방어를 손질해 회로 먹는 음식이다. 이번 방송에서는 방어회를 주요 먹거리로 다루며 경북 지역에서 만날 수 있는 수산물 음식에 관한 이야기를 전할 예정이다. 방어회와 관련해 소개되는 '동끝횟집'은 포항시 구룡포읍에 자리한 횟집이다. 방송에서는 이곳을 통해 방어회를 소개하고, 지역의 수산물 먹거리를 살펴볼 예정이다. 이번 방송의 주제 지역은 경북 영덕으로 안내됐으나, 방어회 식당의 실제 소재지는 경북 포항시이다. 방송에서 소개되는 음식은 방어회이며, 관련 식당은 '동끝횟집'으로 확인된다. 방어회를 중심으로 경북 지역의 수산물 먹거리를 만나보는 이야기는 KBS1 '6시 내고향'을 통해 전해질 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=561216",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "동끝횟집",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%8F%99%EB%81%9D%ED%9A%9F%EC%A7%91-f6hgw5bc62qo/",
+        "address": "경북 포항시 남구 구룡포읍 땅끝마을길 57 지하1층",
+        "category": "음식점 > 한식 > 수산물/횟집",
+        "roadAddress": "경북 포항시 남구 구룡포읍 땅끝마을길 57 지하1층",
+        "jibunAddress": "경북 포항시 남구 구룡포읍 석병리 685-10",
+        "phone": null,
+        "safePhone": "050713651094",
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "방어회",
+            "price": 0,
+            "maxPrice": null
+          },
+          {
+            "name": "물회",
+            "price": 20000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 36.0167779,
+          "lng": 129.5820221
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경북 포항시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 411
+    },
+    {
+      "id": "1800-3",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-11-04",
+        "episode": null,
+        "corner": "이유 있는 맛플리",
+        "episodeTitle": null,
+        "region": "제주 서귀포시",
+        "place": "모슬포좁짝뼈국수",
+        "description": "이번 방송은 '토박이가 완성한 제주의 맛'이라는 주제로 진행된다. 제주 서귀포시에 위치한 음식점을 찾아가 지역의 맛을 담은 국수 이야기를 만나볼 예정이다. 이날 방송에서 소개되는 곳은 제주 서귀포시 대정읍에 위치한 '모슬포좁짝뼈국수'이다. 이번 편에서는 제주 토박이가 완성한 음식이라는 주제와 함께 국수가 주요 먹거리로 등장한다. '모슬포좁짝뼈국수'는 제주 서귀포시의 모슬포 지역에 자리한 식당이다. 이번 방송에서는 식당 이름에도 담긴 좁짝뼈국수를 중심으로 이야기가 펼쳐질 예정이다. 특히 '토박이가 완성한 제주의 맛'이라는 방송 제목처럼 제주라는 지역과 음식을 만든 사람의 이야기를 연결한다. 제주 토박이라는 점이 이번 편의 주요 특징으로 소개된다. 이번 '이유 있는 맛플리'에서는 제주 서귀포시 대정읍의 '모슬포좁짝뼈국수'를 배경으로 국수 한 그릇에 담긴 이야기를 살펴볼 예정이다. 제주에서 만나는 국수라는 음식과 토박이가 완성한 맛이라는 주제가 함께 등장한다. 지역의 이름을 담은 식당과 국수 메뉴를 중심으로 제주의 먹거리를 소개하는 내용이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=561215",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "모슬포좁짝뼈국수(주식회사)",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "제주특별자치도 서귀포시 대정읍 신영로 80-1",
+        "jibunAddress": "제주특별자치도 서귀포시 대정읍 하모리 1050-4",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 33.22039714761506,
+          "lng": 126.251358990852
+        },
+        "licenseDate": "2022-06-07",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '모슬포좁짝뼈국수' + '서귀포시' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 412
+    }
+  ],
+  "held": [
+    {
+      "place": "오구현 농장",
+      "region": "경남 거창군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '오구현농' + '거창군' / 0건"
+    },
+    {
+      "place": "강진만 생태공원",
+      "region": "전남광주통합특별시 강진군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '강진만생' + '강진군' / 0건"
+    },
+    {
+      "place": "강진오감통시장",
+      "region": "전남광주통합특별시 강진군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '강진오감' + '강진군' / 0건"
+    },
+    {
+      "place": "황가오리빵굽는집",
+      "region": "전남광주통합특별시 강진군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '황가오리' + '강진군' / 0건"
+    },
+    {
+      "place": "토박이가 완성한 제주의 맛",
+      "region": "제주 서귀포시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '토박이가' + '서귀포시' / 0건"
+    },
+    {
+      "place": "알콩달콩",
+      "region": "충남 천안시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 알콩달콩 (null) — 주소 없음 | 2. 알콩달콩빠앙 (서울 동작구 사당로 310) — 다른 시군구 (서울 동작구 사당로 310) | 3. cafe알콩달콩 (서울특별시 관악구 대학6길 36) — 다른 시군구 (서울특별시 관악구 대학6길 36) | 4. 알콩달콩하우스 (서울특별시 송파구 석촌호수로20길 37) — 다른 시군구 (서울특별시 송파구 석촌호수로20길 37) | 5. 알콩달콩 (경기도 의왕시 부곡복지관길 27 (삼동, 장미아파트)) — 다른 시군구 (경기도 의왕시 부곡복지관길 27 (삼동, 장미아파트)) | 6. 알콩달콩두부 (서울 성북구 한천로73길 28) — 다른 시군구 (서울 성북구 한천로73길 28) | 7. 알콩달콩사진관 (서울특별시 성북구 동소문로24길 27 (동선동1가)) — 다른 시군구 (서울특별시 성북구 동소문로24길 27 (동선동1가)) | 8. 알콩달콩 (경기도 의정부시 호국로 1131 (가능동)) — 다른 시군구 (경기도 의정부시 호국로 1131 (가능동)) | 9. 알콩달콩얌얌 평촌점 (경기도 안양시 동안구 시민대로327번길 6 (관양동)) — 다른 시군구 (경기도 안양시 동안구 시민대로327번길 6 (관양동)) | 10. 알콩달콩 (경기도 시흥시 시흥대로 지하467(광석동)) — 다른 시군구 (경기도 시흥시 시흥대로 지하467(광석동))) / 인허가 '알콩달콩' + '천안시' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "전통참장원",
+      "region": "충남 천안시",
+      "name": "전통참장원",
+      "category": "상품 판매 > 식품 > 식자재"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1800",
+  "status": "pending",
+  "publishAfter": "2026-11-04T09:16:10.146Z",
+  "preparedAt": "2026-11-04T09:03:10.146Z"
+}
