@@ -1,0 +1,311 @@
+{
+  "date": "2026-11-04",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=561213",
+    "airDate": "2026-11-04",
+    "episode": null
+  },
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561213",
+      "program": "생생정보",
+      "title": "'생생정보' 독한 인생, 서울에서 부산까지 뉴욕식 베이글 도전기",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561212",
+      "program": "생생정보",
+      "title": "'생생정보' 명순 할매의 오징어꽃순대, 속초에서 만나는 특별한 맛",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561211",
+      "program": "생생정보",
+      "title": "'생생정보' 지금이 딱 제철, 가을 홍가리비와 바다 별미",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561210",
+      "program": "생생정보",
+      "title": "'생생정보' 궁금한 건 못 참지, 종이비행기 세계 정상의 비밀",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561209",
+      "program": "생생정보",
+      "title": "'생생정보' 한눈에 반했섬, 남해군 조도의 매력은?",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 5,
+  "targets": 7,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1730-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-04",
+        "episode": null,
+        "corner": "독한 인생",
+        "episodeTitle": null,
+        "region": "서울 서대문구",
+        "place": "마더린러 베이글",
+        "description": "이번 방송은 '사업 실패 딛고 뉴욕식 베이글로 일어서다'라는 주제로 진행된다. 사업 실패라는 어려움을 겪은 뒤 뉴욕식 베이글을 통해 새로운 길을 찾은 인생 이야기가 펼쳐질 예정이다. 이날 방송에서 소개되는 곳은 서울 서대문구에 위치한 '마더린러 베이글'이다. 이번 편에서는 뉴욕식 베이글을 중심으로 한 사업 이야기를 만나는 장소로 등장한다. 뉴욕식 베이글은 이번 방송의 핵심 음식이다. 특히 사업 실패 이후 다시 일어서는 과정에서 베이글이 중요한 소재로 소개된다. 이어 부산 해운대구에 위치한 '마더린러 베이글 해운대점'도 등장한다. 서울의 '마더린러 베이글'과 함께 이번 방송에서 소개되는 또 하나의 장소다. 이번 '독한 인생'에서는 서울 서대문구와 부산 해운대구의 두 매장을 연결해 뉴욕식 베이글을 중심으로 한 이야기를 살펴볼 예정이다. 특히 '사업 실패 딛고 뉴욕식 베이글로 일어서다'라는 제목처럼 실패와 재도전이 이번 방송의 주요 내용이다. 사업 실패라는 경험과 뉴욕식 베이글이라는 음식을 중심으로 한 인생 이야기가 소개된다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=561213",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "마더린러 베이글",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%A7%88%EB%8D%94%EB%A6%B0%EB%9F%AC-%EB%B2%A0%EC%9D%B4%EA%B8%80-79y1eqbe7u6f/",
+        "address": "서울 서대문구 이화여대5길 5 지상 1층",
+        "category": "음식점 > 카페/디저트 > 베이커리",
+        "roadAddress": "서울 서대문구 이화여대5길 5 지상 1층",
+        "jibunAddress": "서울 서대문구 대현동 56-23",
+        "phone": null,
+        "safePhone": "050714123030",
+        "hours": {
+          "월": "08:30~16:30",
+          "화": "08:30~16:30",
+          "수": null,
+          "목": "08:30~16:30",
+          "금": "08:30~16:30",
+          "토": null,
+          "일": null
+        },
+        "breakTime": null,
+        "closedDays": [
+          "수",
+          "토",
+          "일"
+        ],
+        "menu": [
+          {
+            "name": "Catering Service",
+            "price": 0,
+            "maxPrice": null
+          },
+          {
+            "name": "전국택배(12개입/10+2개 무료)",
+            "price": 32000,
+            "maxPrice": null
+          },
+          {
+            "name": "훈제연어 샌드위치 (NOVA)",
+            "price": 10900,
+            "maxPrice": null
+          },
+          {
+            "name": "필리치즈스테이크 [그릴]",
+            "price": 9800,
+            "maxPrice": null
+          },
+          {
+            "name": "베이컨 에그 앤 치즈 [아침식사]",
+            "price": 8900,
+            "maxPrice": null
+          },
+          {
+            "name": "블랙커피 (Black Coffee)",
+            "price": 4000,
+            "maxPrice": null
+          },
+          {
+            "name": "플레인 베이글",
+            "price": 3200,
+            "maxPrice": null
+          },
+          {
+            "name": "더즌 베이글 [12개]",
+            "price": 32000,
+            "maxPrice": null
+          },
+          {
+            "name": "햄 에그 앤 치즈 [아침식사]",
+            "price": 8900,
+            "maxPrice": null
+          },
+          {
+            "name": "베이컨 앤 에그 [아침식사]",
+            "price": 8400,
+            "maxPrice": null
+          },
+          {
+            "name": "햄 앤 에그 [아침식사]",
+            "price": 8400,
+            "maxPrice": null
+          },
+          {
+            "name": "에그 앤 치즈 [아침식사]",
+            "price": 7900,
+            "maxPrice": null
+          },
+          {
+            "name": "낫소 샌드위치 (Nassau)",
+            "price": 9800,
+            "maxPrice": null
+          },
+          {
+            "name": "에그샐러드 Egg Salad",
+            "price": 8900,
+            "maxPrice": null
+          },
+          {
+            "name": "터키클럽 (Turkey Club)",
+            "price": 9800,
+            "maxPrice": null
+          },
+          {
+            "name": "베이글클럽 Bagel Club[그릴]",
+            "price": 9800,
+            "maxPrice": null
+          },
+          {
+            "name": "포트워싱턴 스타일 [그릴]",
+            "price": 9800,
+            "maxPrice": null
+          },
+          {
+            "name": "이탈리안클럽(Italian Club)",
+            "price": 9800,
+            "maxPrice": null
+          },
+          {
+            "name": "B.L.T",
+            "price": 9800,
+            "maxPrice": null
+          },
+          {
+            "name": "투나 멜트 [그릴]",
+            "price": 9800,
+            "maxPrice": null
+          },
+          {
+            "name": "투나 샐러드 Tuna Salad",
+            "price": 8900,
+            "maxPrice": null
+          },
+          {
+            "name": "그릴치즈멜트 [그릴]",
+            "price": 9800,
+            "maxPrice": null
+          },
+          {
+            "name": "치킨타임 (Chicken Time)",
+            "price": 9800,
+            "maxPrice": null
+          },
+          {
+            "name": "치킨샐러드 Chicken Salad",
+            "price": 8900,
+            "maxPrice": null
+          },
+          {
+            "name": "블루베리 베이글",
+            "price": 3200,
+            "maxPrice": null
+          },
+          {
+            "name": "에그 베이글",
+            "price": 3200,
+            "maxPrice": null
+          },
+          {
+            "name": "시나몬 레이즌 베이글",
+            "price": 3200,
+            "maxPrice": null
+          },
+          {
+            "name": "홀위트(통밀) 베이글",
+            "price": 3200,
+            "maxPrice": null
+          },
+          {
+            "name": "에브리띵 베이글",
+            "price": 3200,
+            "maxPrice": null
+          },
+          {
+            "name": "갈릭 베이글",
+            "price": 3200,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5583125,
+          "lng": 126.9453653
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 서대문구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 407
+    }
+  ],
+  "held": [
+    {
+      "place": "마더린러 베이글 해운대점",
+      "region": "부산 해운대구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '마더린러' + '해운대구' / 0건"
+    },
+    {
+      "place": "충주상회",
+      "region": "강원 속초시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 9개 중 상호·시군구가 다 맞는 곳 없음: 1. 충주상회  (null) — 주소 없음 | 2. 충주상회 (서울특별시 동대문구 경동시장로 13-1) — 다른 시군구 (서울특별시 동대문구 경동시장로 13-1) | 3. 충주상회 (서울특별시 영등포구 영등포로45길 16-1) — 다른 시군구 (서울특별시 영등포구 영등포로45길 16-1) | 4. 충주상회 (서울특별시 동대문구 외대역동로1길 24, 상가동 101호 (휘경동,롯데낙천대 아파트)) — 다른 시군구 (서울특별시 동대문구 외대역동로1길 24, 상가동 101호 (휘경동,롯데낙천대 아파트)) | 5. 충주상회 (서울특별시 강북구 삼양로123길 41) — 다른 시군구 (서울특별시 강북구 삼양로123길 41) | 6. 충주상회 (인천광역시 남동구 백범로 312-31) — 다른 시군구 (인천광역시 남동구 백범로 312-31) | 7. 충주상회 (충청북도 청주시 흥덕구 백봉로 254 농수산물도매시장) — 다른 시군구 (충청북도 청주시 흥덕구 백봉로 254 농수산물도매시장) | 8. 충주상회 (충청북도 청주시 서원구 창신로31번길 7-2) — 다른 시군구 (충청북도 청주시 서원구 창신로31번길 7-2) | 9. 충주상회 (강원특별자치도 태백시 태백로 934) — 다른 시군구 (강원특별자치도 태백시 태백로 934)) / 인허가 '충주상회' + '속초시' / 0건"
+    },
+    {
+      "place": "위플레이",
+      "region": "서울 강서구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 위플레이 (서울특별시 강남구 논현로149길 5) — 다른 시군구 (서울특별시 강남구 논현로149길 5) | 2. 위플레이 (서울특별시 강남구 논현로159길 22) — 다른 시군구 (서울특별시 강남구 논현로159길 22) | 3. 위플레이스 (서울특별시 강남구 강남대로 340 경원빌딩) — 다른 시군구 (서울특별시 강남구 강남대로 340 경원빌딩) | 4. 위플레이스 (서울특별시 강남구 테헤란로22길 9) — 다른 시군구 (서울특별시 강남구 테헤란로22길 9) | 5. 위플레이스 강남 2호점 (서울특별시 서초구 서초대로73길 9 타임빌딩) — 다른 시군구 (서울특별시 서초구 서초대로73길 9 타임빌딩) | 6. 위플레이글롭 (서울특별시 서초구 강남대로 527) — 다른 시군구 (서울특별시 서초구 강남대로 527) | 7. 위플레이 (서울특별시 성동구 마조로 22-2 한대동문회관) — 다른 시군구 (서울특별시 성동구 마조로 22-2 한대동문회관) | 8. 위플레이코리아 (서울특별시 성동구 아차산로1길 9) — 다른 시군구 (서울특별시 성동구 아차산로1길 9) | 9. 위플레이스선릉 (서울특별시 강남구 선릉로91길 18) — 다른 시군구 (서울특별시 강남구 선릉로91길 18) | 10. 위플레이 (경기도 성남시 분당구 판교로 182-7) — 다른 시군구 (경기도 성남시 분당구 판교로 182-7)) / 인허가 '위플레이' + '강서구' / 0건"
+    },
+    {
+      "place": "조도",
+      "region": "경남 남해군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '조도' + '남해군' / 0건"
+    },
+    {
+      "place": "조도어촌체험휴양마을",
+      "region": "경남 남해군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '조도어촌' + '남해군' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "미조항",
+      "region": "경남 남해군",
+      "name": "미조항",
+      "category": "교통/물류 > 항만/해운 > 항구"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1730",
+  "status": "pending",
+  "publishAfter": "2026-11-04T08:45:21.136Z",
+  "preparedAt": "2026-11-04T08:32:21.136Z"
+}
