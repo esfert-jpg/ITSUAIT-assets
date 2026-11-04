@@ -305,7 +305,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1730",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-04T08:45:21.136Z",
-  "preparedAt": "2026-11-04T08:32:21.136Z"
+  "preparedAt": "2026-11-04T08:32:21.136Z",
+  "publishedAt": "2026-11-04T08:46:21.115Z",
+  "result": {
+    "published": [
+      {
+        "name": "마더린러 베이글",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_04.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-04/naver/1730-1.html",
+        "naverTitle": "생생정보 독한 인생 마더린러 베이글 뉴욕식 베이글 서울 서대문 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
