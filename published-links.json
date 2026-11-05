@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-11-04T23:04:07.342Z",
+  "updatedAt": "2026-11-05T23:05:41.113Z",
   "records": [
+    {
+      "date": "2026-11-06",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "title": "Claude AI can plug directly into your bank account",
+      "mediaId": "18085074086361857"
+    },
     {
       "date": "2026-11-05",
       "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
