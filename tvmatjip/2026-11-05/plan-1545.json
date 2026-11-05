@@ -162,7 +162,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1545",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-05T07:06:35.608Z",
-  "preparedAt": "2026-11-05T06:53:35.608Z"
+  "preparedAt": "2026-11-05T06:53:35.608Z",
+  "publishedAt": "2026-11-05T07:16:34.801Z",
+  "result": {
+    "published": [
+      {
+        "name": "꽈배기진 전주남부시장점",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_242.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-05/naver/1545-1.html",
+        "naverTitle": "생생정보 요즘 시장 24시 꽈배기진 전주남부시장점 전북 전주 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
