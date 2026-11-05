@@ -1,0 +1,168 @@
+{
+  "date": "2026-11-05",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=561503",
+    "airDate": "2026-11-05",
+    "episode": null
+  },
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561503",
+      "program": "생생정보",
+      "title": "'생생정보' 장PD의 AI 여행기, 하늘에서 숲길까지 원주 명소 탐방",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561501",
+      "program": "생생정보",
+      "title": "'생생정보' 요즘 시장 24시, 전주남부시장 야시장과 먹거리",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561500",
+      "program": "생생정보",
+      "title": "'생생정보' 한우육개장 가격파괴, 인천 미추홀구 한 그릇의 가격은?",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561495",
+      "program": "생생정보",
+      "title": "'생생정보' 엄마들의 가을 보양 나들이, 충북 괴산 특별한 숙소",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 4,
+  "targets": 10,
+  "skipped": [
+    "박순례손말이고기산정집",
+    "우정식당",
+    "봉봉과자",
+    "심정",
+    "쌍곡 떡바위산장"
+  ],
+  "stores": [
+    {
+      "id": "1545-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-05",
+        "episode": null,
+        "corner": "요즘 시장 24시",
+        "episodeTitle": null,
+        "region": "전북 전주시",
+        "place": "전주남부시장",
+        "description": "이번 방송은 '하루 세 번 변하는 반전 매력, 전주남부시장'이라는 주제로 진행된다. 하루 동안 서로 다른 모습을 보여주는 시장의 이야기를 중심으로 다양한 장소를 살펴볼 예정이다. 먼저 소개되는 곳은 전북 전주시 완산구에 위치한 '도깨비시장'이다. 이번 편에서 '전주남부시장'과 함께 등장하는 주요 장소다. 이어 '우정식당'을 찾아간다. 전북 전주시 완산구에 자리한 식당으로, 시장을 중심으로 한 이번 방송에서 소개되는 먹거리 장소다. 다음으로 등장하는 곳은 '목림방'이다. 역시 전주시 완산구에 위치한 곳으로, 이번 '요즘 시장 24시'에서 함께 소개된다. 야시장에서는 '마왕육전'이 등장한다. 이번 방송에서 야시장 먹거리로 소개되는 곳으로, '전주남부시장'의 또 다른 모습을 만나는 장소다. 마지막으로 '봉봉과자'가 소개된다. 전주시 완산구에 자리한 곳으로, 시장 일대의 다양한 먹거리를 살펴보는 이번 편에 포함된다. 이번 방송에서는 '도깨비시장'과 여러 식당, 야시장 먹거리를 연결해 '전주남부시장'의 모습을 소개할 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=561501",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "꽈배기진 전주남부시장점",
+        "url": null,
+        "address": null,
+        "category": "분식",
+        "roadAddress": "전북특별자치도 전주시 완산구 풍남문2길 63, 2동 33~35호 (전동3가, 남부시장)",
+        "jibunAddress": "전북특별자치도 전주시 완산구 전동3가 2-242 남부시장 2동 33~35호",
+        "phone": "063-288-0990",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 35.81242446750925,
+          "lng": 127.14661052994897
+        },
+        "licenseDate": "2012-01-11",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '전주남부시장' + '전주시' / 입력 상호를 포함 ('꽈배기진 전주남부시장점')",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 419
+    }
+  ],
+  "held": [
+    {
+      "place": "반계리 은행나무",
+      "region": "강원 원주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '반계리은' + '원주시' / 0건"
+    },
+    {
+      "place": "반계리 은행나무 축제",
+      "region": "강원 원주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '반계리은' + '원주시' / 0건"
+    },
+    {
+      "place": "소금산 그랜드밸리",
+      "region": "강원 원주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '소금산그' + '원주시' / 0건"
+    },
+    {
+      "place": "원주 산악자전거파크",
+      "region": "강원 원주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '원주산악' + '원주시' / 0건"
+    },
+    {
+      "place": "도깨비시장",
+      "region": "전북 전주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 도깨비시장 (경기도 안양시 만안구 전파로44번길 24 (안양동)) — 다른 시군구 (경기도 안양시 만안구 전파로44번길 24 (안양동)) | 2. 도깨비시장 (경기도 하남시 초광로 211-1) — 다른 시군구 (경기도 하남시 초광로 211-1) | 3. 도깨비어시장 (서울 마포구 신촌로 74) — 상호 불일치 (찾은 것: '도깨비어시장') | 4. 도깨비시장 (null) — 주소 없음 | 5. 미성동도깨비시장 (서울특별시 관악구 미성3길 1 (신림동)) — 다른 시군구 (서울특별시 관악구 미성3길 1 (신림동)) | 6. 도깨비시장 (서울특별시 도봉구 도당로13라길 152 경서10차) — 다른 시군구 (서울특별시 도봉구 도당로13라길 152 경서10차) | 7. 도깨비시장 공릉 (서울특별시 노원구 동일로180길 53 본향성결교회) — 다른 시군구 (서울특별시 노원구 동일로180길 53 본향성결교회) | 8. 풍납도깨비시장 (서울특별시 송파구 풍납동 148-24) — 다른 시군구 (서울특별시 송파구 풍납동 148-24) | 9. 공릉동도깨비시장 (서울특별시 노원구 공릉동 583-3) — 다른 시군구 (서울특별시 노원구 공릉동 583-3) | 10. 남대문도깨비시장 (서울특별시 중구 남대문시장4길 9 (남창동, 지하1층외공83,84호)) — 다른 시군구 (서울특별시 중구 남대문시장4길 9 (남창동, 지하1층외공83,84호))) / 인허가 '도깨비시' + '전주시' / 0건"
+    },
+    {
+      "place": "마왕육전",
+      "region": "전북 전주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '마왕육전' + '전주시' / 0건"
+    },
+    {
+      "place": "가을 보양 나들이",
+      "region": "충북 괴산군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '가을보양' + '괴산군' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "강원감영",
+      "region": "강원 원주시",
+      "name": "원주강원감영",
+      "category": "관광/명소 > 일반 명소 > 유적지"
+    },
+    {
+      "place": "목림방",
+      "region": "전북 전주시",
+      "name": "목림방",
+      "category": "상품 판매 > 가구 > 일반 가구"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1545",
+  "status": "pending",
+  "publishAfter": "2026-11-05T07:06:35.608Z",
+  "preparedAt": "2026-11-05T06:53:35.608Z"
+}
