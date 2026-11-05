@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-05",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=561652",
+    "airDate": "2026-11-05",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561652",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 순살 감자탕면, 수원에서 만나는 특별한 한 그릇",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 1,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1815-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-11-05",
+        "episode": null,
+        "corner": "맛있는 퇴근",
+        "episodeTitle": null,
+        "region": "경기 수원시",
+        "place": "인계면옥",
+        "description": "이번 방송은 '오늘은 순살 감자탕면!'이라는 주제로 진행된다. 퇴근 후 즐기는 한 끼 식사로 감자탕과 면을 결합한 메뉴를 만나볼 예정이다. 이날 방송에서 찾아가는 곳은 경기 수원시 권선구에 위치한 '인계면옥'이다. 이번 편에서는 순살 감자탕면을 중심으로 한 음식 이야기가 펼쳐진다. 순살 감자탕면은 이번 방송의 핵심 메뉴다. 감자탕과 면이라는 두 가지 요소를 함께 내세운 음식으로, 순살이라는 특징이 더해진 이름이 눈길을 끈다. 특히 이번 '맛있는 퇴근'에서는 감자탕을 면 요리와 연결한 구성이 주목된다. 감자탕과 면을 한 그릇에서 만나는 메뉴라는 점이 이번 방송의 주요 내용이다. '인계면옥'은 경기 수원시 권선구에 자리한 식당으로, 순살 감자탕면을 소개하는 장소다. 이번 방송에서는 이곳의 메뉴를 중심으로 퇴근길 한 끼 식사 이야기를 전할 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=561652",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "인계면옥",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%9D%B8%EA%B3%84%EB%A9%B4%EC%98%A5-udgj9fng9kxd/",
+        "address": "경기도 수원시 권선구 권선로 774-1 (권선동)",
+        "category": "음식점 > 기타 음식점 > 퓨전 요리",
+        "roadAddress": "경기도 수원시 권선구 권선로 774-1 (권선동)",
+        "jibunAddress": "경기도 수원시 권선구 권선동 1166-4",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.2565871908306,
+          "lng": 127.035641641539
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경기 수원시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 421
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1815",
+  "status": "pending",
+  "publishAfter": "2026-11-05T09:28:53.021Z",
+  "preparedAt": "2026-11-05T09:15:53.021Z"
+}
