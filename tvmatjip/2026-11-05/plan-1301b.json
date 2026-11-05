@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-05",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224465847765",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 충북 괴산 가을 나들이 숙소 추천! 계곡 뷰 힐링 감성 맛집 '쌍곡 떡바위산장' 솔직 후기",
+      "place": "쌍곡 떡바위산장",
+      "region": "충북 괴산군",
+      "dishes": [],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224465847765",
+      "postedAt": "2026-11-05T03:56:35.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224465852736",
+      "program": "생생정보",
+      "title": "2tv생생정보 l[가격파괴 Why] 인천 미추홀구 얼큰하고 깊은 맛! 인천 한우육개장 심정 방문 후기",
+      "place": "인천 한우육개장 심정",
+      "region": "인천 미추홀구",
+      "dishes": [
+        "한우육개장"
+      ],
+      "corner": "가격파괴 Why",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224465852736",
+      "postedAt": "2026-11-05T04:00:51.000Z",
+      "dishVotes": {
+        "한우육개장": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 2,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "쌍곡 떡바위산장",
+      "region": "충북 괴산군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '쌍곡떡바' + '괴산군' / 0건"
+    },
+    {
+      "place": "인천 한우육개장 심정",
+      "region": "인천 미추홀구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '인천한우' + '미추홀구' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1301b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-05T04:03:26.444Z"
+}
