@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-05",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224465871287",
+      "program": "생생정보",
+      "title": "2tv 생생정보l 강원도 가을 여행 추천 맛집 원주 박순례손말이고기산정집 솔직 방문기",
+      "place": "박순례손말이고기산정집",
+      "region": "강원 원주시",
+      "dishes": [],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224465871287",
+      "postedAt": "2026-11-05T04:16:15.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1331b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-05",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "강원 원주시",
+        "place": "박순례손말이고기산정집",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224465871287",
+          "title": "2tv 생생정보l 강원도 가을 여행 추천 맛집 원주 박순례손말이고기산정집 솔직 방문기",
+          "postedAt": "2026-11-05T04:16:15.000Z"
+        },
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "박순례손말이고기산정집",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "강원특별자치도 원주시 천사로 203-13, 1층 (일산동)",
+        "jibunAddress": "강원특별자치도 원주시 일산동 217-10",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.351456218474375,
+          "lng": 127.94609803634435
+        },
+        "licenseDate": "2023-06-09",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '박순례손말이고기산정집' + '원주시' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 417
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1331b",
+  "status": "pending",
+  "publishAfter": "2026-11-05T04:45:13.523Z",
+  "preparedAt": "2026-11-05T04:32:13.523Z"
+}
