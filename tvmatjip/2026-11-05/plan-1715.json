@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-05",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=561612",
+    "airDate": "2026-11-05",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561612",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 전북 진안 누룽지 먹거리",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561611",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 식재료 원정대, 장준감 순무 요리 3종 레시피 공개",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561609",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 인천 강화 순무부터 장준감 농원까지, 가을 먹거리 탐방",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561606",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 포항에서 만나는 사과, 지역 농산물 이야기",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 4,
+  "targets": 4,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "동선식품",
+      "region": "전북특별자치도 진안군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '동선식품' + '진안군' / 0건"
+    },
+    {
+      "place": "옥림 순무",
+      "region": "인천 강화군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '옥림순무' + '강화군' / 0건"
+    },
+    {
+      "place": "금드레 장준감 농원",
+      "region": "인천 강화군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '금드레장' + '강화군' / 0건"
+    },
+    {
+      "place": "수줍은 태산 농원",
+      "region": "경북 포항시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '수줍은태' + '포항시' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1715",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-05T08:18:07.778Z"
+}
