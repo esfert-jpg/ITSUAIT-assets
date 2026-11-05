@@ -75,7 +75,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1815",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-05T09:28:53.021Z",
-  "preparedAt": "2026-11-05T09:15:53.021Z"
+  "preparedAt": "2026-11-05T09:15:53.021Z",
+  "publishedAt": "2026-11-05T09:31:37.339Z",
+  "result": {
+    "published": [
+      {
+        "name": "인계면옥",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_236.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-05/naver/1815-1.html",
+        "naverTitle": "생방송 투데이 맛있는 퇴근 인계면옥 순살 감자탕면 경기 수원 위치"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
