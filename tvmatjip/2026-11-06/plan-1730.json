@@ -287,7 +287,28 @@
   "retry": [],
   "blocked": null,
   "batch": "1730",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-06T08:45:20.935Z",
-  "preparedAt": "2026-11-06T08:32:20.935Z"
+  "preparedAt": "2026-11-06T08:32:20.935Z",
+  "publishedAt": "2026-11-06T08:47:31.412Z",
+  "result": {
+    "published": [
+      {
+        "name": "황전식당",
+        "url": "https://wherethatplace.blogspot.com/2026/11/6-11-6.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-06/naver/1730-1.html",
+        "naverTitle": "6시 내고향 11월 6일 전남 순천 동외동 웃장국밥 맛집 황전식당"
+      },
+      {
+        "name": "돌집식당",
+        "url": "https://wherethatplace.blogspot.com/2026/11/6-11-6_02092283481.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-06/naver/1730-2.html",
+        "naverTitle": "6시 내고향 11월 6일 충북 단양 곤드레 마늘 정식 맛집 돌집식당"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
