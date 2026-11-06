@@ -216,7 +216,28 @@
   "retry": [],
   "blocked": null,
   "batch": "1745",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-06T08:59:23.022Z",
-  "preparedAt": "2026-11-06T08:46:23.022Z"
+  "preparedAt": "2026-11-06T08:46:23.022Z",
+  "publishedAt": "2026-11-06T09:02:05.823Z",
+  "result": {
+    "published": [
+      {
+        "name": "영등포 청온칼국수",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-6.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-06/naver/1745-1.html",
+        "naverTitle": "생방송 투데이 11월 6일 인정 맛집 서울 영등포 맛집 영등포 청온칼국수"
+      },
+      {
+        "name": "엄마매점",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-6_0441139034.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-06/naver/1745-2.html",
+        "naverTitle": "생방송 투데이 11월 6일 인생분식 전남 여수 맛집 엄마매점"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
