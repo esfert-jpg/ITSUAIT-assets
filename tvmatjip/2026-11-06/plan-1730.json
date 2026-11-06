@@ -1,0 +1,293 @@
+{
+  "date": "2026-11-06",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=561955",
+    "airDate": "2026-11-06",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561955",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 밀양에서 만나는 꾸지뽕, 지역 농산물 찾아간다",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561954",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 천안 광덕면에서 만나는 하늘마, 지역 농산물 주목",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561952",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 순천만습지·국가정원·전통 야생차 체험 어디?",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561939",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 충북 단양의 특별한 한 끼, 곤드레 마늘 정식",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 4,
+  "targets": 7,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1730-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-11-06",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "전남광주통합특별시 순천시",
+        "place": "황전식당",
+        "description": "이번 방송에서는 순천의 자연을 만날 수 있는 장소부터 지역 먹거리와 체험 공간까지 다양한 곳을 살펴볼 예정이다. 먼저 소개되는 장소는 순천시에 위치한 '순천만국가정원'이다. 이번 방송에서는 순천을 대표하는 정원 공간을 찾아가며 자연을 주제로 한 여행지를 소개한다. 순천만국가정원은 매월 마지막 주 월요일이 휴무일이다. 이어 방문하는 곳은 '순천만습지'이다. 순천시에 자리한 이곳은 습지의 자연환경을 만날 수 있는 장소로, 방송에서는 순천만국가정원과 함께 순천의 자연을 살펴볼 수 있는 여행지로 소개될 예정이다. 순천의 먹거리로는 웃장국밥이 등장한다. 이번에 안내된 식당은 순천시에 위치한 '황전식당'이다. 방송에서는 이곳의 웃장국밥을 통해 순천에서 만날 수 있는 지역 음식을 소개할 예정이다. 마지막으로 순천시 승주읍에 자리한 '순천전통야생차체험관'을 찾아간다. 이곳은 전통 야생차를 주제로 한 체험 공간으로, 순천에서 즐길 수 있는 차 관련 체험을 소개한다. 순천전통야생차체험관은 매주 월요일 정기 휴관한다. 순천만국가정원과 순천만습지에서 만나는 자연, '황전식당'의 웃장국밥, '순천전통야생차체험관'의 전통 야생차 체험까지 순천의 여러 장소를 찾아가는 이야기는 KBS1 '6시 내고향'을 통해 전해질 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=561952",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "황전식당",
+        "url": "https://www.daangn.com/kr/local-profile/%ED%99%A9%EC%A0%84%EC%8B%9D%EB%8B%B9-2uxie52pbx5p/",
+        "address": "전남광주 순천시 북문길 40 황전식당",
+        "category": "음식점 > 한식 > 국밥",
+        "roadAddress": "전남광주 순천시 북문길 40 황전식당",
+        "jibunAddress": "전남광주 순천시 동외동 168-1",
+        "phone": "0617523637",
+        "safePhone": null,
+        "hours": {
+          "월": "08:00~19:50",
+          "화": null,
+          "수": "08:00~19:50",
+          "목": "08:00~19:50",
+          "금": "08:00~19:50",
+          "토": "08:00~19:50",
+          "일": "08:00~19:50"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "화"
+        ],
+        "menu": [
+          {
+            "name": "국밥",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "수육 중",
+            "price": 20000,
+            "maxPrice": null
+          },
+          {
+            "name": "순대국밥",
+            "price": 10000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 34.958649,
+          "lng": 127.4850484
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 전남 순천시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 426
+    },
+    {
+      "id": "1730-2",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-11-06",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "충북 단양군",
+        "place": "돌집식당",
+        "description": "이번 방송에서는 단양읍에 위치한 '돌집식당'을 통해 곤드레와 마늘을 활용한 한 상을 만나볼 예정이다. 이번에 소개되는 음식은 곤드레 마늘 정식이다. 곤드레와 마늘이 음식 이름에 함께 등장하는 메뉴로, 방송에서는 단양에서 만날 수 있는 정식 요리로 소개될 예정이다. 곤드레 마늘 정식과 관련해 안내된 곳은 충북 단양군 단양읍에 자리한 '돌집식당'이다. 이곳은 이번 방송에서 곤드레 마늘 정식을 만날 수 있는 식당으로 등장한다. 곤드레는 나물로 활용되는 식재료이며, 마늘은 다양한 음식에 사용되는 채소이다. 이번 방송에서는 두 식재료의 이름을 담은 곤드레 마늘 정식을 통해 단양의 먹거리를 살펴본다. 충북 단양군의 '돌집식당'에서 소개되는 곤드레 마늘 정식에 관한 이야기는 KBS1 '6시 내고향'을 통해 전해질 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=561939",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "돌집식당",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%8F%8C%EC%A7%91%EC%8B%9D%EB%8B%B9-e4rycus9cpke/",
+        "address": "충북 단양군 단양읍 중앙2로 11",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "충북 단양군 단양읍 중앙2로 11",
+        "jibunAddress": "충북 단양군 단양읍 별곡리 607",
+        "phone": null,
+        "safePhone": "050713392842",
+        "hours": {
+          "월": "09:00~21:00",
+          "화": "09:00~21:00",
+          "수": "09:00~21:00",
+          "목": "09:00~21:00",
+          "금": "09:00~21:00",
+          "토": "09:00~21:00",
+          "일": "09:00~21:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "흑마늘정식(1인가격/2인이상)",
+            "price": 26000,
+            "maxPrice": null
+          },
+          {
+            "name": "돌집정식",
+            "price": 23000,
+            "maxPrice": null
+          },
+          {
+            "name": "곤드레 마늘 정식",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "곤드레 정식",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "올갱이해장국",
+            "price": 11000,
+            "maxPrice": null
+          },
+          {
+            "name": "돌솥비빔밥",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "비빔밥",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "순두부찌개",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "된장찌개",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "불고기전골",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "떡갈비 대",
+            "price": 25000,
+            "maxPrice": null
+          },
+          {
+            "name": "떡갈비 중",
+            "price": 20000,
+            "maxPrice": null
+          },
+          {
+            "name": "수육 대",
+            "price": 20000,
+            "maxPrice": null
+          },
+          {
+            "name": "수육 중",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "마늘육회",
+            "price": 35000,
+            "maxPrice": null
+          },
+          {
+            "name": "봄동비빔밥",
+            "price": 10000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 36.9862697,
+          "lng": 128.3706589
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 충북 단양군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 427
+    }
+  ],
+  "held": [
+    {
+      "place": "밀양꾸지뽕영농",
+      "region": "경남 밀양시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '밀양꾸지' + '밀양시' / 0건"
+    },
+    {
+      "place": "다울 농장",
+      "region": "충남 천안시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '다울농장' + '천안시' / 0건"
+    },
+    {
+      "place": "순천전통야생차체험관",
+      "region": "전남광주통합특별시 순천시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '순천전통' + '순천시' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "순천만국가정원",
+      "region": "전남광주통합특별시 순천시",
+      "name": "순천만국가정원",
+      "category": "관광/명소 > 일반 명소 > 테마파크"
+    },
+    {
+      "place": "순천만습지",
+      "region": "전남광주통합특별시 순천시",
+      "name": "순천만습지",
+      "category": "관광/명소 > 공원 > 대형시민공원"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1730",
+  "status": "pending",
+  "publishAfter": "2026-11-06T08:45:20.935Z",
+  "preparedAt": "2026-11-06T08:32:20.935Z"
+}
