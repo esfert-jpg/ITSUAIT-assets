@@ -1,0 +1,222 @@
+{
+  "date": "2026-11-06",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=561960",
+    "airDate": "2026-11-06",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561960",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 쌀쌀한 날씨에 딱, 영등포 맛집 한 그릇",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561959",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 인생분식, 전남 여수에서 만나는 행복한 한 끼",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=561957",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 물속에서 00를 한다? 수중하키 동호회의 정체",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 3,
+  "targets": 4,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1745-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-11-06",
+        "episode": null,
+        "corner": "인정 맛집",
+        "episodeTitle": null,
+        "region": "서울 영등포구",
+        "place": "영등포 청온칼국수",
+        "description": "이번 방송은 '쌀쌀한 지금이 딱! 영등포 0000'이라는 주제로 진행된다. 쌀쌀한 계절에 어울리는 먹거리를 중심으로 영등포의 맛집을 찾아갈 예정이다. 이날 방송에서 소개되는 곳은 서울 영등포구에 위치한 '영등포 청온칼국수'이다. 이번 편에서는 칼국수 전문점을 중심으로 음식 이야기가 펼쳐진다. '영등포 청온칼국수'는 이번 '인정 맛집'의 주요 취재 장소다. 쌀쌀한 날씨라는 계절적 배경과 함께 영등포의 먹거리를 소개하는 곳으로 등장한다. 특히 이번 방송은 '쌀쌀한 지금이 딱!'이라는 제목을 내세웠다. 계절과 음식이라는 두 가지 요소를 연결해 영등포의 식당을 소개할 예정이다. 방송 제목에서 음식의 정체는 '0000'으로 표시돼 있다. 이에 따라 구체적인 메뉴는 방송을 통해 공개될 예정이다. 이번 '인정 맛집'에서는 서울 영등포구의 '영등포 청온칼국수'를 찾아가 쌀쌀한 계절에 어울리는 음식 이야기를 살펴본다. 식당과 메뉴가 이번 방송의 중심 소재다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=561960",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "영등포 청온칼국수",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%98%81%EB%93%B1%ED%8F%AC-%EC%B2%AD%EC%98%A8%EC%B9%BC%EA%B5%AD%EC%88%98-35rs3bvbn3ij/",
+        "address": "서울특별시 영등포구 영등포로 216 (영등포동3가)",
+        "category": "음식점 > 한식 > 국수/냉면",
+        "roadAddress": "서울특별시 영등포구 영등포로 216 (영등포동3가)",
+        "jibunAddress": "서울특별시 영등포구 영등포동3가 6",
+        "phone": "0226756033",
+        "safePhone": null,
+        "hours": {
+          "월": "11:00~22:00",
+          "화": "11:00~22:00",
+          "수": "11:00~22:00",
+          "목": "11:00~22:00",
+          "금": "11:00~22:00",
+          "토": "11:00~22:00",
+          "일": "11:00~22:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "진한닭육수 닭칼국수",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "단백질 듬뿍 닭곰탕",
+            "price": 11000,
+            "maxPrice": null
+          },
+          {
+            "name": "가마솥에 끓인 닭한마리",
+            "price": 30000,
+            "maxPrice": null
+          },
+          {
+            "name": "가마솥 삼계칼국수",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "가마솥 백숙백반",
+            "price": 14000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5195715947035,
+          "lng": 126.905344732424
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 영등포구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 428
+    },
+    {
+      "id": "1745-2",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-11-06",
+        "episode": null,
+        "corner": "인생분식",
+        "episodeTitle": null,
+        "region": "전남 여수시",
+        "place": "엄마매점",
+        "description": "이번 방송은 '내 곁에 행복을 말하다'라는 주제로 진행된다. 일상에서 만나는 분식과 행복이라는 두 가지 소재를 연결한 이야기가 펼쳐질 예정이다. 이날 방송에서 찾아가는 곳은 전남 여수시 돌산읍에 위치한 '엄마매점'이다. 이번 편에서는 분식집을 중심으로 한 음식과 일상의 이야기를 소개한다. '엄마매점'은 이번 '인생분식'의 주요 취재 장소다. 방송 제목에 담긴 '내 곁에 행복을 말하다'라는 표현과 함께 이곳의 이야기가 소개될 예정이다. 특히 이번 방송에서는 특정 음식의 이름보다 분식집 자체와 행복이라는 주제에 초점을 맞춘다. '엄마매점'이라는 장소를 중심으로 이야기가 이어지는 구성이다. 전남 여수시 돌산읍에 자리한 '엄마매점'은 이번 편에서 소개되는 분식집이다. 지역과 가게를 중심으로 한 음식 이야기가 방송의 주요 내용이다. 이번 '인생분식'에서는 여수의 분식집을 배경으로 '내 곁에 행복을 말하다'라는 주제를 살펴볼 예정이다. 분식이라는 친숙한 먹거리와 가게를 중심으로 이야기가 펼쳐진다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=561959",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "엄마매점",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%97%84%EB%A7%88%EB%A7%A4%EC%A0%90-ev1vuqrxyymk/",
+        "address": "전남광주 여수시 돌산읍 돌산로 3551",
+        "category": "음식점 > 분식 > 일반 분식",
+        "roadAddress": "전남광주 여수시 돌산읍 돌산로 3551",
+        "jibunAddress": "전남광주 여수시 돌산읍 우두리 704",
+        "phone": "0616447230",
+        "safePhone": null,
+        "hours": {
+          "월": "11:30~19:00",
+          "화": "11:30~19:00",
+          "수": null,
+          "목": "11:30~19:00",
+          "금": "11:30~19:00",
+          "토": "11:30~19:00",
+          "일": "11:30~19:00"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "수"
+        ],
+        "menu": [
+          {
+            "name": "왕새우",
+            "price": 2000,
+            "maxPrice": null
+          },
+          {
+            "name": "야채/고추",
+            "price": 3000,
+            "maxPrice": null
+          },
+          {
+            "name": "김말이/고구마/오징어",
+            "price": 2000,
+            "maxPrice": null
+          },
+          {
+            "name": "떡볶이 1인분",
+            "price": 4000,
+            "maxPrice": null
+          },
+          {
+            "name": "오뎅탕",
+            "price": 1000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 34.7277626,
+          "lng": 127.7439276
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 전남 여수시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 429
+    }
+  ],
+  "held": [
+    {
+      "place": "0000",
+      "region": "서울 영등포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 0000 (서울특별시 송파구 가락로 208(송파동)) — 다른 시군구 (서울특별시 송파구 가락로 208(송파동)) | 2. 0000 (null) — 주소 없음 | 3. 이훈PlAN30000 (서울특별시 강남구 강남대로 482 (논현동)) — 다른 시군구 (서울특별시 강남구 강남대로 482 (논현동)) | 4. 쿠쿠룸190000 (서울특별시 강남구 강남대로96길 13) — 다른 시군구 (서울특별시 강남구 강남대로96길 13) | 5. 스마트전자명함 20000 (서울특별시 강남구 언주로98길 14 (역삼동)) — 다른 시군구 (서울특별시 강남구 언주로98길 14 (역삼동)) | 6. 이훈 ALL 30000 (서울특별시 관악구 남부순환로 1936, 2층 (봉천동)) — 다른 시군구 (서울특별시 관악구 남부순환로 1936, 2층 (봉천동)) | 7. 이훈ALL30000 (서울특별시 관악구 중앙길 5) — 다른 시군구 (서울특별시 관악구 중앙길 5) | 8. 00000000 (대전광역시 서구 가수원로 97 (가수원동)) — 다른 시군구 (대전광역시 서구 가수원로 97 (가수원동)) | 9. 10000k (경기도 군포시 번영로610번길 8 (금정동)) — 다른 시군구 (경기도 군포시 번영로610번길 8 (금정동)) | 10. 이훈plan30000 방배역점 (서울특별시 서초구 효령로 115) — 다른 시군구 (서울특별시 서초구 효령로 115)) / 인허가 '0000' + '영등포구' / 0건"
+    },
+    {
+      "place": "내 곁에 행복을 말하다",
+      "region": "전남 여수시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '내곁에행' + '여수시' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1745",
+  "status": "pending",
+  "publishAfter": "2026-11-06T08:59:23.022Z",
+  "preparedAt": "2026-11-06T08:46:23.022Z"
+}
