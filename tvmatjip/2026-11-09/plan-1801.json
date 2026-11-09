@@ -273,7 +273,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1801",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-09T09:16:09.587Z",
-  "preparedAt": "2026-11-09T09:03:09.587Z"
+  "preparedAt": "2026-11-09T09:03:09.587Z",
+  "publishedAt": "2026-11-09T09:31:31.046Z",
+  "result": {
+    "published": [
+      {
+        "name": "박가네빈대떡 2호점",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-9-2.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-09/naver/1801-1.html",
+        "naverTitle": "생방송 투데이 11월 9일 대식가 서울 종로 맛집 박가네빈대떡 2호점"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
