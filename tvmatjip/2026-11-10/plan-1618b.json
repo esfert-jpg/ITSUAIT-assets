@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-10",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224471792419",
+      "program": "생생정보",
+      "title": "[2TV 생생정보 맛집] 경남 김해 보양식 가마솥추어탕 명가, 김해 길벗추어탕 솔직 방문기",
+      "place": "길벗추어탕",
+      "region": "경남 김해시",
+      "dishes": [
+        "가마솥추어탕"
+      ],
+      "corner": "스타밥집",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224471792419",
+      "postedAt": "2026-11-10T07:15:26.000Z",
+      "dishVotes": {
+        "가마솥추어탕": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [],
+  "excluded": [],
+  "failed": [
+    {
+      "place": "길벗추어탕",
+      "reason": "조회 실패: HTTP 429 (https://www.daangn.com/kr/local-profile/?search=%EA%B8%B8%EB%B2%97%EC%B6%94%EC%96%B4%ED%83%95)"
+    }
+  ],
+  "retry": [],
+  "blocked": null,
+  "batch": "1618b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-10T07:18:06.342Z"
+}
