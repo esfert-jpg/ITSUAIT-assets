@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-10",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=562644",
+    "airDate": "2026-11-10",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=562644",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 전남 구례에서 만나는 나물사관학교 이야기",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 1,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "수숲기간",
+      "region": "전남광주통합특별시 구례군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '수숲기간' + '구례군' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1445",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-10T05:45:55.288Z"
+}
