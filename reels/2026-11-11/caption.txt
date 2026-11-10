@@ -1,0 +1,8 @@
+회의 중에 Claude가 알아서 정리해줄 수 있다고?
+
+Anthropic이 Claude Meetings를 공개했어요. Google Meet 통화에 Claude를 초대하면 대화를 따라가며 실시간으로 계획안을 작성하고 질문에 답변해줘요. 회의 끝나고 따로 정리할 필요 없이 진행 중에 바로 논의가 행동 계획으로 바뀐다는 게 핵심이에요.
+추가로 Claude Whiteboards와 Claude Sheets로 팀이 보드와 스프레드시트도 함께 만들 수 있어요. 다만 Team·Enterprise 유료 요금제 베타 이용자만 쓸 수 있고, 외부 게스트가 있으면 Claude는 자동 퇴장한답니다.
+
+자세한 내용은 프로필 링크에서 확인하세요
+
+#AI뉴스 #IT뉴스 #잇슈에잇 #인공지능 #AI툴 #생산성 #자동화 #Anthropic #Claude
