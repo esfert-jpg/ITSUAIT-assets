@@ -143,7 +143,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1631b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-10T07:44:06.209Z",
-  "preparedAt": "2026-11-10T07:31:06.209Z"
+  "preparedAt": "2026-11-10T07:31:06.209Z",
+  "publishedAt": "2026-11-10T07:46:37.844Z",
+  "result": {
+    "published": [
+      {
+        "name": "삼우정 본점",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_10.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-10/naver/1631b-1.html",
+        "naverTitle": "생생정보 서울 중구 서소문동 불고기 맛집 삼우정 본점"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
