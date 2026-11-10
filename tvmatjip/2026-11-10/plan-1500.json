@@ -106,7 +106,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1500",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-10T06:15:11.763Z",
-  "preparedAt": "2026-11-10T06:02:11.763Z"
+  "preparedAt": "2026-11-10T06:02:11.763Z",
+  "publishedAt": "2026-11-10T06:16:05.650Z",
+  "result": {
+    "published": [
+      {
+        "name": "라이드앤브루",
+        "url": "https://wherethatplace.blogspot.com/2026/11/6-11-10.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-10/naver/1500-1.html",
+        "naverTitle": "6시 내고향 11월 10일 충북 보은 맛집 라이드앤브루"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
