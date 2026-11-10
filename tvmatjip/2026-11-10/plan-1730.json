@@ -166,7 +166,28 @@
   "retry": [],
   "blocked": null,
   "batch": "1730",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-10T08:44:56.262Z",
-  "preparedAt": "2026-11-10T08:31:56.262Z"
+  "preparedAt": "2026-11-10T08:31:56.262Z",
+  "publishedAt": "2026-11-10T08:46:49.759Z",
+  "result": {
+    "published": [
+      {
+        "name": "럭켓",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-10.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-10/naver/1730-1.html",
+        "naverTitle": "생방송 투데이 11월 10일 UDT 서울 강동 성내동 맛집 럭켓"
+      },
+      {
+        "name": "탁이담",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-10_01597709272.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-10/naver/1730-2.html",
+        "naverTitle": "생방송 투데이 11월 10일 UDT 서울 강동 성내동 맛집 탁이담"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
