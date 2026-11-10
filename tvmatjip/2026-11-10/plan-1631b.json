@@ -1,0 +1,149 @@
+{
+  "date": "2026-11-10",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224471800073",
+      "program": "생생정보",
+      "title": "[2tv 생생정보] 서울 시청역 덕수궁 불고기 맛집, 시청역 삼우정 방문기",
+      "place": "삼우정",
+      "region": "서울 중구",
+      "dishes": [
+        "불고기"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224471800073",
+      "postedAt": "2026-11-10T07:21:01.000Z",
+      "dishVotes": {
+        "불고기": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1631b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-10",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "서울 중구",
+        "place": "삼우정",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224471800073",
+          "title": "[2tv 생생정보] 서울 시청역 덕수궁 불고기 맛집, 시청역 삼우정 방문기",
+          "postedAt": "2026-11-10T07:21:01.000Z"
+        },
+        "dishHints": [
+          "불고기"
+        ],
+        "dishVotes": {
+          "불고기": 1
+        }
+      },
+      "store": {
+        "name": "삼우정 본점",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%82%BC%EC%9A%B0%EC%A0%95-%EB%B3%B8%EC%A0%90-yjgufw9r8ubq/",
+        "address": "서울 중구 서소문로 134-12",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "서울 중구 서소문로 134-12",
+        "jibunAddress": "서울 중구 서소문동 106",
+        "phone": null,
+        "safePhone": "050713638044",
+        "hours": {
+          "월": "11:00~21:30",
+          "화": "11:00~21:30",
+          "수": "11:00~21:30",
+          "목": "11:00~21:30",
+          "금": "11:00~21:30",
+          "토": null,
+          "일": null
+        },
+        "breakTime": {
+          "월": "14:00~17:00",
+          "화": "14:00~17:00",
+          "수": "14:00~17:00",
+          "목": "14:00~17:00",
+          "금": "14:00~17:00"
+        },
+        "closedDays": [
+          "토",
+          "일"
+        ],
+        "menu": [
+          {
+            "name": "불고기정식",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "훈제오리 한마리",
+            "price": 65000,
+            "maxPrice": null
+          },
+          {
+            "name": "등심",
+            "price": 45000,
+            "maxPrice": null
+          },
+          {
+            "name": "주물럭등심",
+            "price": 46000,
+            "maxPrice": null
+          },
+          {
+            "name": "차돌박이",
+            "price": 29000,
+            "maxPrice": null
+          },
+          {
+            "name": "냉면",
+            "price": 7000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5631714,
+          "lng": 126.9756475
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "3순위 / 입력 상호로 시작 ('삼우정 본점') / 서울 중구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 444
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1631b",
+  "status": "pending",
+  "publishAfter": "2026-11-10T07:44:06.209Z",
+  "preparedAt": "2026-11-10T07:31:06.209Z"
+}
