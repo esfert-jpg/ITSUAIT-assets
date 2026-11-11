@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-11",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224473011758",
+      "program": "생생정보",
+      "title": "[생생정보 ] 광주 동구 무등산 맛집, 구수한 보리밥 한상 물레방아보리밥",
+      "place": "물레방아보리밥",
+      "region": "광주 동구",
+      "dishes": [
+        "보리밥"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224473011758",
+      "postedAt": "2026-11-11T06:03:56.000Z",
+      "dishVotes": {
+        "보리밥": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224473023905",
+      "program": "생생정보",
+      "title": "[2tv 생생정보]광주 맛집 입에서 사르르 녹는 소고기 육전 전문점, 육전한옥",
+      "place": "육전한옥",
+      "region": "광주 서구",
+      "dishes": [
+        "소고기 육전"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224473023905",
+      "postedAt": "2026-11-11T06:12:51.000Z",
+      "dishVotes": {
+        "소고기 육전": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 2,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "물레방아보리밥",
+      "region": "광주 동구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '물레방아' + '동구' / 0건"
+    },
+    {
+      "place": "육전한옥",
+      "region": "광주 서구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '육전한옥' + '서구' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1515b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-11T06:17:37.751Z"
+}
