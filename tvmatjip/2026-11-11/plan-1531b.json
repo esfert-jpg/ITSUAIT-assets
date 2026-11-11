@@ -1,0 +1,171 @@
+{
+  "date": "2026-11-11",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224473037186",
+      "program": "생생정보",
+      "title": "[생생정보 맛집] 구리 토평동 진한 도가니탕과 매콤 소꼬리찜, 구리 우양각",
+      "place": "우양각",
+      "region": "경기 구리시",
+      "dishes": [
+        "도가니탕",
+        "소꼬리찜"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224473037186",
+      "postedAt": "2026-11-11T06:22:36.000Z",
+      "dishVotes": {
+        "도가니탕": 1,
+        "소꼬리찜": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "ohs016830/224473042498",
+      "program": "생생정보",
+      "title": "KBS 2TV 생생정보 해피벌쓰데이,광주 보리밥 맛집 ｜물레방아보리밥",
+      "place": "물레방아보리밥",
+      "region": "광주 동구",
+      "dishes": [
+        "보리밥",
+        "된장찌개"
+      ],
+      "corner": "해피벌쓰데이",
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224473042498",
+      "postedAt": "2026-11-11T06:26:45.000Z",
+      "dishVotes": {
+        "보리밥": 1,
+        "된장찌개": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224473047890",
+      "program": "생생정보",
+      "title": "2tv생생정보 ㅣ분당 판교 맛집 푹 고아낸 소꼬리찜의 진수, 백현동 The부자꼬리",
+      "place": "The부자꼬리",
+      "region": "경기 성남시",
+      "dishes": [
+        "소꼬리찜",
+        "꼬리곰탕",
+        "소꼬리 수육"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224473047890",
+      "postedAt": "2026-11-11T06:30:40.000Z",
+      "dishVotes": {
+        "소꼬리찜": 1,
+        "꼬리곰탕": 1,
+        "소꼬리 수육": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 2,
+  "skipped": [
+    "물레방아보리밥"
+  ],
+  "stores": [
+    {
+      "id": "1531b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-11",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "경기 구리시",
+        "place": "우양각",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224473037186",
+          "title": "[생생정보 맛집] 구리 토평동 진한 도가니탕과 매콤 소꼬리찜, 구리 우양각",
+          "postedAt": "2026-11-11T06:22:36.000Z"
+        },
+        "dishHints": [
+          "도가니탕",
+          "소꼬리찜"
+        ],
+        "dishVotes": {
+          "도가니탕": 1,
+          "소꼬리찜": 1
+        }
+      },
+      "store": {
+        "name": "우양각",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%9A%B0%EC%96%91%EA%B0%81-va9fc51otjpq/",
+        "address": "경기도 구리시 벌말로 155 (토평동)",
+        "category": "음식점 > 한식 > 탕/전골/찌개",
+        "roadAddress": "경기도 구리시 벌말로 155 (토평동)",
+        "jibunAddress": "경기도 구리시 토평동 966-4 프라임빌딩",
+        "phone": "0315661997",
+        "safePhone": null,
+        "hours": {
+          "월": "07:00~21:30",
+          "화": "07:00~21:30",
+          "수": "07:00~21:30",
+          "목": "07:00~21:30",
+          "금": "07:00~21:30",
+          "토": "07:00~21:30",
+          "일": "07:00~21:30"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.5905135109174,
+          "lng": 127.149178955497
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경기 구리시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 452
+    }
+  ],
+  "held": [
+    {
+      "place": "The부자꼬리",
+      "region": "경기 성남시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 'The부' + '성남시' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1531b",
+  "status": "pending",
+  "publishAfter": "2026-11-11T06:45:20.799Z",
+  "preparedAt": "2026-11-11T06:32:20.799Z"
+}
