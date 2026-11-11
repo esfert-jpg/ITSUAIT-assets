@@ -165,7 +165,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1531b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-11T06:45:20.799Z",
-  "preparedAt": "2026-11-11T06:32:20.799Z"
+  "preparedAt": "2026-11-11T06:32:20.799Z",
+  "publishedAt": "2026-11-11T06:47:25.856Z",
+  "result": {
+    "published": [
+      {
+        "name": "우양각",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_11.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-11/naver/1531b-1.html",
+        "naverTitle": "생생정보 경기 구리 토평동 도가니탕 맛집 우양각"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
