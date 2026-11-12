@@ -1,0 +1,223 @@
+{
+  "date": "2026-11-12",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224474449259",
+      "program": "생생정보",
+      "title": "2TV 생생정보 할머니 옥반지 화제, 종로 옥시방 위치 및 방문 팁",
+      "place": "옥시방",
+      "region": "서울 종로구",
+      "dishes": [],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224474449259",
+      "postedAt": "2026-11-12T07:03:37.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224474456015",
+      "program": "생생정보",
+      "title": "2tv 생생정보 l장사의 신 안산 상록수역 왕갈비짬뽕 맛집, 완전짬뽕맛있는집 솔직 후기",
+      "place": "완전짬뽕맛있는집",
+      "region": "경기 안산시",
+      "dishes": [
+        "왕갈비짬뽕",
+        "짬뽕"
+      ],
+      "corner": "장사의 신",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224474456015",
+      "postedAt": "2026-11-12T07:08:47.000Z",
+      "dishVotes": {
+        "왕갈비짬뽕": 1,
+        "짬뽕": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224474464803",
+      "program": "생생정보",
+      "title": "2tv 생생정보l 음식 X-파일 제주 애월 감귤냉면 맛집, 오나가나이맛이야 솔직 후기",
+      "place": "오나가나이맛이야",
+      "region": "제주 제주시",
+      "dishes": [
+        "감귤냉면"
+      ],
+      "corner": "음식 X-파일",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224474464803",
+      "postedAt": "2026-11-12T07:15:11.000Z",
+      "dishVotes": {
+        "감귤냉면": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224474472786",
+      "program": "생생정보",
+      "title": "2tv생생정보 l 미스터 Lee의 사진 한 컷 대전광역시 구즉마을, 대전 유성 할머니묵집 방문기",
+      "place": "할머니묵집",
+      "region": "대전 유성구",
+      "dishes": [],
+      "corner": "미스터 Lee의 사진 한 컷",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224474472786",
+      "postedAt": "2026-11-12T07:21:11.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 3,
+  "skipped": [
+    "할머니묵집"
+  ],
+  "stores": [
+    {
+      "id": "1622b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-12",
+        "episode": null,
+        "corner": "장사의 신",
+        "episodeTitle": null,
+        "region": "경기 안산시",
+        "place": "완전짬뽕맛있는집",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224474456015",
+          "title": "2tv 생생정보 l장사의 신 안산 상록수역 왕갈비짬뽕 맛집, 완전짬뽕맛있는집 솔직 후기",
+          "postedAt": "2026-11-12T07:08:47.000Z"
+        },
+        "dishHints": [
+          "왕갈비짬뽕",
+          "짬뽕"
+        ],
+        "dishVotes": {
+          "왕갈비짬뽕": 1,
+          "짬뽕": 1
+        }
+      },
+      "store": {
+        "name": "완전짬뽕맛있는집",
+        "url": null,
+        "address": null,
+        "category": "중국식",
+        "roadAddress": "경기도 안산시 상록구 상록수로 28, 121,122,123호 (본오동)",
+        "jibunAddress": "경기도 안산시 상록구 본오동 877-8 121~123호",
+        "phone": "031-417-3888",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.30213090021866,
+          "lng": 126.86297727129478
+        },
+        "licenseDate": "2000-10-19",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 직화짬뽕 (서울특별시 서초구 효령로55길 28 (서초동)) — 상호 불일치 (찾은 것: '직화짬뽕') | 2. 천지궁  (null) — 상호 불일치 (찾은 것: '천지궁 ') | 3. 뽕사부 (서울특별시 서초구 서초대로 270 (서초동)) — 상호 불일치 (찾은 것: '뽕사부') | 4. 강남짬뽕 (서울특별시 서초구 효령로 289, 2층 (서초동)) — 상호 불일치 (찾은 것: '강남짬뽕') | 5. 공리 서초점 (서울 서초구 반포대로7길 7 동양빌딩) — 상호 불일치 (찾은 것: '공리 서초점') | 6. 중국성 (서울 서초구 서초중앙로8길 136) — 상호 불일치 (찾은 것: '중국성') | 7. 짬뽕전설 (서울 서초구 남부순환로335길 37 1층) — 상호 불일치 (찾은 것: '짬뽕전설') | 8. 강릉교동짬뽕 교대점 (서울특별시 서초구 서초대로54길 24, 103호 (서초동)) — 상호 불일치 (찾은 것: '강릉교동짬뽕 교대점') | 9. 최고야 전국5대짬뽕 (서울 서초구 반포대로23길 14) — 상호 불일치 (찾은 것: '최고야 전국5대짬뽕') | 10. 짬뽕관 성신여대점 (서울 성북구 동소문로 119-1 1층) — 상호 불일치 (찾은 것: '짬뽕관 성신여대점')) / 인허가 '완전짬뽕맛있는집' + '안산시' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 456
+    },
+    {
+      "id": "1622b-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-12",
+        "episode": null,
+        "corner": "음식 X-파일",
+        "episodeTitle": null,
+        "region": "제주 제주시",
+        "place": "오나가나이맛이야",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224474464803",
+          "title": "2tv 생생정보l 음식 X-파일 제주 애월 감귤냉면 맛집, 오나가나이맛이야 솔직 후기",
+          "postedAt": "2026-11-12T07:15:11.000Z"
+        },
+        "dishHints": [
+          "감귤냉면"
+        ],
+        "dishVotes": {
+          "감귤냉면": 1
+        }
+      },
+      "store": {
+        "name": "오나가나이맛이야",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%98%A4%EB%82%98%EA%B0%80%EB%82%98%EC%9D%B4%EB%A7%9B%EC%9D%B4%EC%95%BC-fsmr9wia7kc2/",
+        "address": "제주특별자치도 제주시 애월읍 부룡수길 35-12",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "제주특별자치도 제주시 애월읍 부룡수길 35-12",
+        "jibunAddress": "제주특별자치도 제주시 애월읍 신엄리 2880-3",
+        "phone": null,
+        "safePhone": "050713224446",
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 33.47589857356548,
+          "lng": 126.35681224776052
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 제주 제주시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 457
+    }
+  ],
+  "held": [
+    {
+      "place": "옥시방",
+      "region": "서울 종로구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 3개 중 상호·시군구가 다 맞는 곳 없음: 1. 옥스피시방 (전라남도 무안군 삼향읍 대죽동로16번길 21) — 상호 불일치 (찾은 것: '옥스피시방') | 2. 옥스피시방 (세종특별자치시 한누리대로 589 (도담동)) — 상호 불일치 (찾은 것: '옥스피시방') | 3. 옥스피시방 (경상남도 창원시 마산회원구 양덕로 162 생명장한의원) — 상호 불일치 (찾은 것: '옥스피시방')) / 인허가 '옥시방' + '종로구' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1622b",
+  "status": "pending",
+  "publishAfter": "2026-11-12T07:36:14.073Z",
+  "preparedAt": "2026-11-12T07:23:14.073Z"
+}
