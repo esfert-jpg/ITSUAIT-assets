@@ -217,7 +217,28 @@
   "retry": [],
   "blocked": null,
   "batch": "1622b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-12T07:36:14.073Z",
-  "preparedAt": "2026-11-12T07:23:14.073Z"
+  "preparedAt": "2026-11-12T07:23:14.073Z",
+  "publishedAt": "2026-11-12T07:46:44.954Z",
+  "result": {
+    "published": [
+      {
+        "name": "완전짬뽕맛있는집",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_12.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-12/naver/1622b-1.html",
+        "naverTitle": "생생정보 장사의 신 경기 안산 본오동 왕갈비짬뽕 맛집 완전짬뽕맛있는집"
+      },
+      {
+        "name": "오나가나이맛이야",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_581.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-12/naver/1622b-2.html",
+        "naverTitle": "생생정보 음식 X-파일 제주 제주 감귤냉면 맛집 오나가나이맛이야"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
