@@ -1,0 +1,213 @@
+{
+  "date": "2026-11-12",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=563421",
+    "airDate": "2026-11-12",
+    "episode": null
+  },
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563421",
+      "program": "생생정보",
+      "title": "'생생정보' 힘쓰니까 청춘이다, 맞춤 가구 시공 7년의 현장",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563416",
+      "program": "생생정보",
+      "title": "'생생정보' 사진 한 컷 대한민국, 대전의 자연과 마을 탐방",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563403",
+      "program": "생생정보",
+      "title": "'생생정보' 제주 감귤 여행, 귤 체험과 특별한 먹거리 소개",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 3,
+  "targets": 12,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1615-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-12",
+        "episode": null,
+        "corner": "미스터 Lee의 사진 한 컷, 대한민국",
+        "episodeTitle": null,
+        "region": "대전 유성구",
+        "place": "할머니묵집",
+        "description": "이번 방송은 491번째 미션으로 진행된다. 대전 곳곳의 자연 공간과 마을, 먹거리 장소를 찾아가 사진 한 컷에 담길 풍경을 만나는 내용이다. 먼저 소개되는 곳은 대전 동구에 위치한 '명상정원'이다. 이번 미션에서 방문하는 주요 장소 중 하나로, 대전 여행의 첫 번째 취재지로 안내됐다. 이어 대전 유성구에 자리한 '할머니묵집'을 찾아간다. 이번 방송에서 소개되는 먹거리 장소로, 자연 공간을 둘러보는 일정과 함께 등장한다. 다음으로 방문하는 곳은 대전 서구의 '장태산자연휴양림'이다. 이번 편에서는 대전의 자연을 만나는 장소로 소개된다. 대전 동구에 위치한 '상소동 산림욕장'도 주요 방문지다. 산림욕장이라는 이름처럼 숲을 주제로 한 장소로, 이번 여행 일정에 포함됐다. 이어 대전 서구의 '평촌마을'을 찾아간다. 이번 방송에서는 대전의 마을을 소개하는 장소로 등장한다. 마지막으로 대전 동구에 위치한 '세천공원'을 방문한다. '명상정원'부터 '세천공원'까지 대전의 여러 장소를 연결한 구성이 이번 미션의 특징이다. 이번 '미스터 Lee의 사진 한 컷, 대한민국'에서는 대전 동구와 서구, 유성구를 오가며 자연과 마을, 먹거리 장소를 살펴볼 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=563416",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "할머니 묵집",
+        "url": "https://www.daangn.com/kr/local-profile/%ED%95%A0%EB%A8%B8%EB%8B%88-%EB%AC%B5%EC%A7%91-9c51udw8qs85/",
+        "address": "대전광역시 유성구 금남구즉로 1378 (봉산동)",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "대전광역시 유성구 금남구즉로 1378 (봉산동)",
+        "jibunAddress": "대전광역시 유성구 봉산동 709-16번지",
+        "phone": "0429355842",
+        "safePhone": null,
+        "hours": {
+          "월": "11:00~20:00",
+          "화": "11:00~20:00",
+          "수": "11:00~20:00",
+          "목": "11:00~20:00",
+          "금": "11:00~20:00",
+          "토": "11:00~20:00",
+          "일": "11:00~20:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "도토리묵사발",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "보리밥",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "도토리전",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "묵무침",
+            "price": 13000,
+            "maxPrice": null
+          },
+          {
+            "name": "토종백숙",
+            "price": 55000,
+            "maxPrice": null
+          },
+          {
+            "name": "옻닭(토종닭)",
+            "price": 58000,
+            "maxPrice": null
+          },
+          {
+            "name": "토종닭볶음탕",
+            "price": 55000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 36.4461700445173,
+          "lng": 127.38384090501
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "2순위 / 상호 완전 일치 / 대전 유성구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 455
+    }
+  ],
+  "held": [
+    {
+      "place": "인천토탈씽크",
+      "region": "인천 남동구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '인천토탈' + '남동구' / 0건"
+    },
+    {
+      "place": "장태산자연휴양림",
+      "region": "대전 서구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '장태산자' + '서구' / 0건"
+    },
+    {
+      "place": "평촌마을",
+      "region": "대전 서구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '평촌마을' + '서구' / 0건"
+    },
+    {
+      "place": "세천공원",
+      "region": "대전 동구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '세천공원' + '동구' / 0건"
+    },
+    {
+      "place": "제주 담은 귤",
+      "region": "제주 서귀포시",
+      "name": "제주담은정식(섬사랑)",
+      "category": "한식",
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '제주담은' + '서귀포시' / 상호 불일치 (찾은 것: '제주담은정식(섬사랑)')"
+    },
+    {
+      "place": "신효귤향과즐",
+      "region": "제주 서귀포시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '신효귤향' + '서귀포시' / 0건"
+    },
+    {
+      "place": "오나가나이맛이야",
+      "region": "제주 서귀포시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 1개 중 상호·시군구가 다 맞는 곳 없음: 1. 오나가나이맛이야 (제주특별자치도 제주시 애월읍 부룡수길 35-12) — 다른 시군구 (제주특별자치도 제주시 애월읍 부룡수길 35-12)) / 인허가 '오나가나' + '서귀포시' / 0건"
+    },
+    {
+      "place": "제주 고스트하우스",
+      "region": "제주 서귀포시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 3개 중 상호·시군구가 다 맞는 곳 없음: 1. 고스트하우스 (제주특별자치도 제주시 애월읍 부룡수길 35-12, 1층) — 다른 시군구 (제주특별자치도 제주시 애월읍 부룡수길 35-12, 1층) | 2. 이월드 고스트하우스 (대구광역시 달서구 두류공원로 200) — 상호 불일치 (찾은 것: '이월드 고스트하우스') | 3. 경주월드 고스트하우스 (경상북도 경주시 보문로 544) — 상호 불일치 (찾은 것: '경주월드 고스트하우스')) / 인허가 '제주고스' + '서귀포시' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "명상정원",
+      "region": "대전 동구",
+      "name": "명상정원",
+      "category": "관광/명소 > 일반 명소 > 일반 관광지"
+    },
+    {
+      "place": "상소동 산림욕장",
+      "region": "대전 동구",
+      "name": "상소동산림욕장",
+      "category": "관광/명소 > 자연 명소 > 수목원/휴양림/숲"
+    },
+    {
+      "place": "감귤박물관",
+      "region": "제주 서귀포시",
+      "name": "감귤박물관",
+      "category": "시설 > 문화시설 > 기타 문화시설"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1615",
+  "status": "pending",
+  "publishAfter": "2026-11-12T07:35:10.113Z",
+  "preparedAt": "2026-11-12T07:22:10.113Z"
+}
