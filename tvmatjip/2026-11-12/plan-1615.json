@@ -207,7 +207,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1615",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-12T07:35:10.113Z",
-  "preparedAt": "2026-11-12T07:22:10.113Z"
+  "preparedAt": "2026-11-12T07:22:10.113Z",
+  "publishedAt": "2026-11-12T07:46:03.268Z",
+  "result": {
+    "published": [
+      {
+        "name": "할머니 묵집",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-12.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-12/naver/1615-1.html",
+        "naverTitle": "생생정보 11월 12일 미스터 Lee의 사진 한 컷, 대한민국 대전 유성 봉산동 맛집 할머니 묵집"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
