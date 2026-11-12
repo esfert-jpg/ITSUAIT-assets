@@ -231,7 +231,35 @@
   "retry": [],
   "blocked": null,
   "batch": "1815",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-12T09:32:17.007Z",
-  "preparedAt": "2026-11-12T09:19:17.007Z"
+  "preparedAt": "2026-11-12T09:19:17.007Z",
+  "publishedAt": "2026-11-12T09:46:35.178Z",
+  "result": {
+    "published": [
+      {
+        "name": "강원수산횟집",
+        "url": "https://wherethatplace.blogspot.com/2026/11/6-11-12.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-12/naver/1815-1.html",
+        "naverTitle": "6시 내고향 11월 12일 강원 평창 맛집 강원수산횟집"
+      },
+      {
+        "name": "온유네농장",
+        "url": "https://wherethatplace.blogspot.com/2026/11/6-11-12_01629859639.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-12/naver/1815-2.html",
+        "naverTitle": "6시 내고향 11월 12일 강원 평창 맛집 온유네농장"
+      },
+      {
+        "name": "와규몽",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-12_0900861105.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-12/naver/1815-3.html",
+        "naverTitle": "생방송 투데이 11월 12일 맛있는 퇴근 인천 남동 구월동 맛집 와규몽"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
