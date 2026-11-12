@@ -1,0 +1,237 @@
+{
+  "date": "2026-11-12",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=563497",
+    "airDate": "2026-11-12",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향",
+    "생방송 투데이"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563497",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 영주 부석면에서 만나는 사과, 지역 농산물 주목",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563496",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 익산 왕궁면에서 만나는 팥죽과 팥칼국수",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563495",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 평창 미탄면 횟집부터 방림면 송화버섯까지",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563494",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 식재료 원정대, 송어와 송화버섯 활용한 요리 3종 공개",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563493",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 경남 산청에서 만나는 오리백숙 한 상",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563492",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 인천 남동구 가성비 소고기 한 상, 퇴근길 맛집",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 6,
+  "targets": 7,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1815-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-11-12",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "강원 평창군",
+        "place": "강원수산횟집",
+        "description": "이번 방송에서는 평창군 미탄면과 방림면에 위치한 두 곳을 통해 지역의 먹거리와 농산물을 살펴볼 예정이다. 먼저 소개되는 곳은 강원 평창군 미탄면에 자리한 '강원수산횟집'이다. 이번 방송에서는 평창의 횟집으로 안내된 이곳을 찾아 지역에서 만날 수 있는 먹거리를 소개한다. 이어 송화버섯과 관련된 장소로 '온유네농장'이 등장한다. 강원 평창군 방림면에 위치한 이 농장은 이번 방송에서 송화버섯을 소개하는 곳이다. 송화버섯은 이번 평창 편에서 다루는 주요 식재료 가운데 하나이다. 방송에서는 '온유네농장'을 통해 송화버섯을 살펴보며 평창의 농산물에 관한 이야기를 전할 예정이다. 강원 평창군 미탄면의 '강원수산횟집'과 방림면의 '온유네농장'에서 만나는 먹거리와 송화버섯에 관한 이야기는 KBS1 '6시 내고향'을 통해 소개될 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=563495",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "강원수산횟집",
+        "url": null,
+        "address": null,
+        "category": "횟집",
+        "roadAddress": "강원특별자치도 평창군 미탄면 송어길 30-4",
+        "jibunAddress": "강원특별자치도 평창군 미탄면 창리 267-1",
+        "phone": "033-332-3702",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.34294981647457,
+          "lng": 128.50325011437943
+        },
+        "licenseDate": "1992-07-28",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '강원수산횟집' + '평창군' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 460
+    },
+    {
+      "id": "1815-2",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-11-12",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "강원 평창군",
+        "place": "온유네농장",
+        "description": "이번 방송에서는 평창군 미탄면과 방림면에 위치한 두 곳을 통해 지역의 먹거리와 농산물을 살펴볼 예정이다. 먼저 소개되는 곳은 강원 평창군 미탄면에 자리한 '강원수산횟집'이다. 이번 방송에서는 평창의 횟집으로 안내된 이곳을 찾아 지역에서 만날 수 있는 먹거리를 소개한다. 이어 송화버섯과 관련된 장소로 '온유네농장'이 등장한다. 강원 평창군 방림면에 위치한 이 농장은 이번 방송에서 송화버섯을 소개하는 곳이다. 송화버섯은 이번 평창 편에서 다루는 주요 식재료 가운데 하나이다. 방송에서는 '온유네농장'을 통해 송화버섯을 살펴보며 평창의 농산물에 관한 이야기를 전할 예정이다. 강원 평창군 미탄면의 '강원수산횟집'과 방림면의 '온유네농장'에서 만나는 먹거리와 송화버섯에 관한 이야기는 KBS1 '6시 내고향'을 통해 소개될 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=563495",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "온유네농장",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%98%A8%EC%9C%A0%EB%84%A4%EB%86%8D%EC%9E%A5-98sis95krpgn/",
+        "address": "강원특별자치도 평창군 평창읍 종부로 74",
+        "category": "음식점 > 기타 음식점 > 기타 음식",
+        "roadAddress": "강원특별자치도 평창군 평창읍 종부로 74",
+        "jibunAddress": "강원특별자치도 평창군 평창읍 종부리 535-7",
+        "phone": "0333325413",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.359795,
+          "lng": 128.3881842
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 강원 평창군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 461
+    },
+    {
+      "id": "1815-3",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-11-12",
+        "episode": null,
+        "corner": "맛있는 퇴근",
+        "episodeTitle": null,
+        "region": "인천 남동구",
+        "place": "와규몽",
+        "description": "이번 방송은 '오늘은 가성비 소고기 한 상!'이라는 주제로 진행된다. 퇴근 후 즐기는 한 끼 식사로 소고기를 내세운 음식점을 찾아갈 예정이다. 이날 방송에서 소개되는 곳은 인천 남동구에 위치한 '와규몽'이다. 이번 편에서는 가성비 소고기 한 상을 만나는 식당으로 등장한다. 이번 방송의 핵심은 소고기와 가성비다. 소고기를 중심으로 한 상을 즐길 수 있다는 점을 내세워 퇴근길 먹거리로 소개할 예정이다. 특히 '맛있는 퇴근'이라는 코너의 취지에 맞춰 하루 일과를 마친 뒤 찾을 수 있는 음식점에 주목한다. 이번 편에서는 소고기 한 상이라는 메뉴 구성이 주요 내용이다. '와규몽'은 인천 남동구에 자리한 식당으로, 이번 방송에서 소개되는 주요 취재 장소다. 소고기와 가성비라는 두 가지 요소를 중심으로 이야기가 펼쳐질 예정이다. 방송 제목에 등장하는 '가성비 소고기 한 상'은 이번 편의 핵심 키워드다. 다만 구체적인 메뉴 구성과 판매 가격은 사전 방송정보에 안내되지 않았다. 이번 '맛있는 퇴근'에서는 인천 남동구의 '와규몽'을 찾아가 소고기 한 상을 중심으로 한 음식 이야기를 전할 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=563492",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "와규몽",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%99%80%EA%B7%9C%EB%AA%BD-b4afhrjee2s5/",
+        "address": "인천광역시 남동구 인하로511번길 10-3 (구월동)",
+        "category": "음식점 > 한식 > 고기 구이",
+        "roadAddress": "인천광역시 남동구 인하로511번길 10-3 (구월동)",
+        "jibunAddress": "인천광역시 남동구 구월동 1173-20",
+        "phone": "0328344282",
+        "safePhone": null,
+        "hours": {
+          "월": "11:00~23:50",
+          "화": "11:00~23:50",
+          "수": "11:00~23:50",
+          "목": "11:00~23:50",
+          "금": "11:00~23:50",
+          "토": "11:00~23:50",
+          "일": "11:00~23:50"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.4437508808088,
+          "lng": 126.703556720497
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 인천 남동구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 462
+    }
+  ],
+  "held": [
+    {
+      "place": "사그레이 사과",
+      "region": "경북 영주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '사그레이' + '영주시' / 0건"
+    },
+    {
+      "place": "고동재농원",
+      "region": "경남 산청군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '고동재농' + '산청군' / 0건"
+    },
+    {
+      "place": "가성비 소고기 한 상",
+      "region": "인천 남동구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '가성비소' + '남동구' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "담꽃",
+      "region": "전북특별자치도 익산시",
+      "name": "담꽃팩토리",
+      "category": "시설 > 산업시설 > 제조시설"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1815",
+  "status": "pending",
+  "publishAfter": "2026-11-12T09:32:17.007Z",
+  "preparedAt": "2026-11-12T09:19:17.007Z"
+}
