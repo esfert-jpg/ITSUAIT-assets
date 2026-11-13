@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-11-12T23:04:33.152Z",
+  "updatedAt": "2026-11-13T23:04:17.651Z",
   "records": [
+    {
+      "date": "2026-11-14",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715486",
+      "title": "오픈AI, 챗GPT 월렛 출시...AI 에이전트 '닷'이 구매·결제 대신",
+      "mediaId": "17976739629168425"
+    },
     {
       "date": "2026-11-13",
       "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
