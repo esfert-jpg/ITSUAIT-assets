@@ -166,7 +166,28 @@
   "retry": [],
   "blocked": null,
   "batch": "1530",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-13T06:47:30.114Z",
-  "preparedAt": "2026-11-13T06:34:30.114Z"
+  "preparedAt": "2026-11-13T06:34:30.114Z",
+  "publishedAt": "2026-11-13T07:01:54.414Z",
+  "result": {
+    "published": [
+      {
+        "name": "동백가든",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-13.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-13/naver/1530-1.html",
+        "naverTitle": "생생정보 11월 13일 할매~ 밥 됩니까? 부산 금정 금성동 오리불고기 맛집 동백가든"
+      },
+      {
+        "name": "원조대지호",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-13_01533931647.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-13/naver/1530-2.html",
+        "naverTitle": "생생정보 11월 13일 지금이 딱~ 제철! 강원 속초 청호동 맛집 원조대지호"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
