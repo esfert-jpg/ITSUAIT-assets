@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-13",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=563771",
+    "airDate": "2026-11-13",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563771",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 양구에서 만나는 시래기, 시래기 연합회 소개",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563769",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 충남 서산 박첨지놀이 소개, 전통 인형극 주목",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563766",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 인천 강화군 농장 소개…하점면 찾아간다",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 3,
+  "targets": 3,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "시래기와",
+      "region": "강원 양구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '시래기와' + '양구' / 0건"
+    },
+    {
+      "place": "박첨지놀이전수관",
+      "region": "충남 서산시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '박첨지놀' + '서산시' / 0건"
+    },
+    {
+      "place": "나인스토리가든",
+      "region": "인천광역시 강화군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '나인스토' + '강화군' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1745",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-13T08:46:50.382Z"
+}
