@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-13",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=563699",
+    "airDate": "2026-11-13",
+    "episode": null
+  },
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563699",
+      "program": "생생정보",
+      "title": "'생생정보' 한눈에 반했섬, 인천 옹진군 덕적도의 매력",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563698",
+      "program": "생생정보",
+      "title": "'생생정보' 단열 전문가로 연 매출 6억 원, 성공 비결은?",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563697",
+      "program": "생생정보",
+      "title": "'생생정보' 말자 할매의 오리불고기와 오리백숙, 부산 금정구 맛집",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563696",
+      "program": "생생정보",
+      "title": "'생생정보' 속초 도루묵 양미리 축제, 겨울 바다 별미 총출동",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 4,
+  "targets": 6,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1530-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-13",
+        "episode": null,
+        "corner": "할매~ 밥 됩니까?",
+        "episodeTitle": null,
+        "region": "부산 금정구",
+        "place": "동백가든",
+        "description": "이번 방송은 '말자 할매의 오리불고기와 오리백숙'이라는 주제로 진행된다. 부산 금정구의 음식점을 찾아가 두 가지 오리 요리를 중심으로 이야기를 펼칠 예정이다. 이날 방송에서 소개되는 곳은 부산 금정구에 위치한 '동백가든'이다. 이번 편에서는 말자 할매의 오리불고기와 오리백숙을 만나는 식당으로 등장한다. 먼저 소개되는 음식은 오리불고기다. 오리를 활용한 불고기 요리로, 이번 방송에서 오리백숙과 함께 주요 메뉴로 등장한다. 이어 오리백숙이 소개된다. 오리불고기와는 다른 형태의 오리 요리로, 말자 할매의 음식 이야기를 구성하는 또 하나의 메뉴다. 특히 이번 '할매~ 밥 됩니까?'에서는 말자 할매라는 인물과 두 가지 오리 요리를 연결한다. 오리불고기와 오리백숙을 중심으로 할매의 음식 이야기가 펼쳐질 예정이다. '동백가든'은 부산 금정구에 자리한 식당으로, 이번 방송의 주요 취재 장소다. 방송에서는 말자 할매의 오리 요리 두 가지를 함께 소개한다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=563697",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "동백가든",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%8F%99%EB%B0%B1%EA%B0%80%EB%93%A0-uv87g17trq4h/",
+        "address": "부산광역시 금정구 공해2길 17 (금성동)",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "부산광역시 금정구 공해2길 17 (금성동)",
+        "jibunAddress": "부산광역시 금정구 금성동 967번지",
+        "phone": "0515176614",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 35.2436899694327,
+          "lng": 129.055868015492
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "6순위 / 상호 완전 일치 / 부산 금정구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 465
+    },
+    {
+      "id": "1530-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-13",
+        "episode": null,
+        "corner": "지금이 딱~ 제철!",
+        "episodeTitle": null,
+        "region": "강원 속초시",
+        "place": "원조대지호",
+        "description": "이번 방송은 '겨울 바다의 별미 도루묵과 양미리'라는 주제로 진행된다. 강원 속초시를 찾아가 제철 수산물과 이를 활용한 요리를 만나볼 예정이다. 먼저 소개되는 곳은 '2026 속초 도루묵 양미리 축제'이다. 축제는 11월 6일부터 15일까지 강원 속초시 속초항 항만부지에서 진행된다. 이번 축제에서는 도루묵과 양미리라는 두 가지 수산물이 주요 소재로 등장한다. 방송에서는 축제 현장과 함께 겨울 바다의 먹거리 이야기를 전할 예정이다. 이어 강원 속초시에 위치한 '원조대지호'를 찾아간다. 이번 편에서는 도루묵과 양미리 요리를 소개하는 장소로 등장한다. 특히 이번 '지금이 딱~ 제철!'에서는 축제와 음식점을 함께 소개한다. 속초항에서 열리는 축제와 도루묵&middot;양미리 요리를 연결한 구성이 특징이다. 방송에서는 김재영 선장의 촬영 협조도 이루어졌다. 도루묵과 양미리라는 제철 수산물을 중심으로 속초의 겨울 바다 이야기가 펼쳐질 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=563696",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "원조대지호",
+        "url": null,
+        "address": null,
+        "category": "횟집",
+        "roadAddress": "강원특별자치도 속초시 청호로 121-10 (청호동)",
+        "jibunAddress": "강원특별자치도 속초시 청호동 1064",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 38.20047066218106,
+          "lng": 128.5942580380925
+        },
+        "licenseDate": "2018-04-11",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '원조대지호' + '속초시' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 466
+    }
+  ],
+  "held": [
+    {
+      "place": "서포비치펜션",
+      "region": "인천 옹진군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '서포비치' + '옹진군' / 띄어쓰기만 다른 동명 업소 포함 2건이라 자동 선택 안 함: 서포비치, 비치펜션"
+    },
+    {
+      "place": "힐더홈컴퍼니",
+      "region": "경기 광주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '힐더홈컴' + '광주시' / 0건"
+    },
+    {
+      "place": "2026 속초 도루묵 양미리 축제",
+      "region": "강원 속초시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '2026' + '속초시' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "덕적도",
+      "region": "인천광역시 옹진군",
+      "name": "덕적도",
+      "category": "관광/명소 > 자연 명소 > 섬"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1530",
+  "status": "pending",
+  "publishAfter": "2026-11-13T06:47:30.114Z",
+  "preparedAt": "2026-11-13T06:34:30.114Z"
+}
