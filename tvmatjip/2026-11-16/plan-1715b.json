@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-16",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "ohs016830/224479341230",
+      "program": "생방송 투데이",
+      "title": "생방송투데이 경기도 시흥 거북섬 굴·냉삼겹 솥뚜껑 해물 칼국수 맛집 ｜101더테라스 거북섬본점",
+      "place": "101더테라스 거북섬본점",
+      "region": "경기 시흥시",
+      "dishes": [
+        "굴",
+        "냉삼겹",
+        "해물 칼국수"
+      ],
+      "corner": null,
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224479341230",
+      "postedAt": "2026-11-16T08:07:31.000Z",
+      "dishVotes": {
+        "굴": 1,
+        "냉삼겹": 1,
+        "해물 칼국수": 1
+      },
+      "votes": {
+        "생방송 투데이": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "ohs016830/224479349672",
+      "program": "생방송 투데이",
+      "title": "생방송투데이 대식가 서울 마포 떡볶이를 품은 화덕 빵·티라미수 피자 맛집 ｜피지피지 PZPZ",
+      "place": "피지피지 PZPZ",
+      "region": "서울 마포구",
+      "dishes": [
+        "떡볶이 피자",
+        "티라미수 피자"
+      ],
+      "corner": "대식가",
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224479349672",
+      "postedAt": "2026-11-16T08:13:45.000Z",
+      "dishVotes": {
+        "떡볶이 피자": 1,
+        "티라미수 피자": 1
+      },
+      "votes": {
+        "생방송 투데이": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 2,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "101더테라스 거북섬본점",
+      "region": "경기 시흥시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "피지피지 PZPZ",
+      "region": "서울 마포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1715b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-16T08:18:42.741Z"
+}
