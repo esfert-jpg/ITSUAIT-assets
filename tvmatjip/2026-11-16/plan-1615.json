@@ -561,7 +561,42 @@
   "retry": [],
   "blocked": null,
   "batch": "1615",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-16T07:43:26.020Z",
-  "preparedAt": "2026-11-16T07:30:26.020Z"
+  "preparedAt": "2026-11-16T07:30:26.020Z",
+  "publishedAt": "2026-11-16T07:47:31.815Z",
+  "result": {
+    "published": [
+      {
+        "name": "쪼이수산",
+        "url": "https://wherethatplace.blogspot.com/2026/10/blog-post_311.html",
+        "skipped": true,
+        "naverUrl": null,
+        "naverTitle": null
+      },
+      {
+        "name": "서천굴칼국수",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-16.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-16/naver/1615-2.html",
+        "naverTitle": "생생정보 11월 16일 장PD의 AI 여행기 충남 아산 용화동 굴칼국수 맛집 서천굴칼국수"
+      },
+      {
+        "name": "청수정",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-16_02028433078.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-16/naver/1615-3.html",
+        "naverTitle": "생생정보 11월 16일 핫 플레이스 NOW 서울 종로 삼청동 홍합밥 맛집 청수정"
+      },
+      {
+        "name": "스낵서울",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-16_01553777572.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-16/naver/1615-4.html",
+        "naverTitle": "생생정보 11월 16일 핫 플레이스 NOW 서울 종로 삼청동 맛집 스낵서울"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
