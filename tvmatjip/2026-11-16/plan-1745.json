@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-16",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=564279",
+    "airDate": "2026-11-16",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=564279",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 피자 위에 꽃이 피다, 티라미수 피자의 정체는?",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=564278",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 굴과 냉삼겹의 특별한 조합, 대형 솥뚜껑 칼국수",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=564277",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 제주 탄산 온천부터 석모도 해수 온천까지",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 3,
+  "targets": 8,
+  "skipped": [
+    "피지피지 PZPZ",
+    "101더테라스 거북섬본점"
+  ],
+  "stores": [],
+  "held": [
+    {
+      "place": "떡볶이를 품은 화덕 동글 빵",
+      "region": "서울 마포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '떡볶이를' + '마포구' / 0건"
+    },
+    {
+      "place": "피자 위에 꽃이 피다",
+      "region": "서울 마포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "티라미수 피자를 아시나요?",
+      "region": "서울 마포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "굴과 냉삼겹이 만났을 때",
+      "region": "경기 시흥시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '굴과냉삼' + '시흥시' / 0건"
+    },
+    {
+      "place": "특대 솥뚜껑 칼국수",
+      "region": "경기 시흥시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "제주레몬시티",
+      "region": "제주 제주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "유니아일랜드 더 스파빌",
+      "region": "인천 강화군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '유니아일' + '강화군' / 2건이라 자동 선택 안 함: 유니아일랜드 골프&스파리조트 대식당, 유니아일랜드 골프&스파리조트 티하우스"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "산방산 탄산온천",
+      "region": "제주 서귀포시",
+      "name": "산방산탄산온천",
+      "category": "서비스 > 피부/바디 케어 > 목욕/스파"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1745",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-16T08:56:21.100Z"
+}
