@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-16",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "ohs016830/224479160068",
+      "program": "6시 내고향",
+      "title": "6시 내고향 전북 완주 대봉감·흑곶감 맛집 구매처 농장 ｜사남매 곶감",
+      "place": "사남매 곶감",
+      "region": "전북 완주군",
+      "dishes": [
+        "대봉감",
+        "흑곶감"
+      ],
+      "corner": null,
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224479160068",
+      "postedAt": "2026-11-16T06:00:59.000Z",
+      "dishVotes": {
+        "대봉감": 1,
+        "흑곶감": 1
+      },
+      "votes": {
+        "6시 내고향": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "사남매 곶감",
+      "region": "전북 완주군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '사남매곶' + '완주군' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1515b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-16T06:17:05.580Z"
+}
