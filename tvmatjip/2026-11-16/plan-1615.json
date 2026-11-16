@@ -1,0 +1,567 @@
+{
+  "date": "2026-11-16",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=564203",
+    "airDate": "2026-11-16",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향",
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=564203",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 예천에서 만나는 궁채, 지역 농산물 소개",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=564202",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 전북 완주 농장 어디? 모악산 절임배추·크로바농장·사남매 곶감",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=564201",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 고성 하일면에서 만나는 멸치와 가리비",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=564192",
+      "program": "생생정보",
+      "title": "'생생정보' 경기 수원 자동차 복원 이야기, 덴트 작업의 세계",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=564191",
+      "program": "생생정보",
+      "title": "'생생정보' 장PD의 AI 여행기, 아산 수목원·민속마을·온천 탐방",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=564190",
+      "program": "생생정보",
+      "title": "'생생정보' 삼청동 핫플레이스, 민속박물관부터 북촌전망대까지",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=564189",
+      "program": "생생정보",
+      "title": "'생생정보' 가격파괴 Why, 돼지고기·우삼겹·셀프바 무한 리필 맛집",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=564183",
+      "program": "생생정보",
+      "title": "'생생정보' 생생현장, 최고의 한우를 찾아 떠난 김해",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 8,
+  "targets": 20,
+  "skipped": [
+    "사남매 곶감"
+  ],
+  "stores": [
+    {
+      "id": "1615-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-11-16",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "경남 고성군",
+        "place": "쪼이수산",
+        "description": "이번 방송에서는 고성군 하일면에 위치한 '쪼이수산'을 통해 지역 수산물에 관한 이야기를 전할 예정이다. 이번 방송에서 소개되는 수산물은 멸치와 가리비이다. 두 품목은 경남 고성의 수산물로 함께 등장하며, 방송에서는 이와 관련된 현장을 살펴볼 예정이다. 멸치와 가리비에 관한 문의처로 안내된 곳은 '쪼이수산'이다. 경남 고성군 하일면에 자리한 이곳은 이번 방송에서 소개되는 두 수산물과 관련된 업체이다. 방송에서는 '쪼이수산'을 중심으로 멸치와 가리비를 살펴보며 고성에서 만날 수 있는 수산물에 관한 내용을 전할 예정이다. 경남 고성군 하일면의 '쪼이수산'에서 소개되는 멸치와 가리비에 관한 이야기는 KBS1 '6시 내고향'을 통해 전해질 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=564201",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "쪼이수산",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%AA%BC%EC%9D%B4%EC%88%98%EC%82%B0-hzwtks3no9pa/",
+        "address": "경상남도 고성군 하일면 자란만로 1410",
+        "category": "음식점 > 한식 > 수산물/횟집",
+        "roadAddress": "경상남도 고성군 하일면 자란만로 1410",
+        "jibunAddress": "경상남도 고성군 하일면 송천리 635",
+        "phone": "01073932635",
+        "safePhone": null,
+        "hours": {
+          "월": "10:00~18:00",
+          "화": "10:00~18:00",
+          "수": null,
+          "목": "10:00~18:00",
+          "금": "10:00~18:00",
+          "토": "10:00~18:00",
+          "일": "10:00~18:00"
+        },
+        "breakTime": {
+          "월": "12:00~14:00",
+          "화": "12:00~14:00",
+          "목": "12:00~14:00",
+          "금": "12:00~14:00",
+          "토": "12:00~14:00",
+          "일": "12:00~14:00"
+        },
+        "closedDays": [
+          "수"
+        ],
+        "menu": [
+          {
+            "name": "정치망 멸치",
+            "price": 50000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 34.9161082603675,
+          "lng": 128.19841086111
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경남 고성군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 469
+    },
+    {
+      "id": "1615-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-16",
+        "episode": null,
+        "corner": "장PD의 AI 여행기",
+        "episodeTitle": null,
+        "region": "충남 아산시",
+        "place": "서천굴칼국수",
+        "description": "이번 방송은 '늦가을, 따뜻하게 즐기는 아산 여행'이라는 주제로 진행된다. 수목원과 민속마을, 온천, 식당, 전통시장을 연결한 여행이 펼쳐질 예정이다. 먼저 소개되는 곳은 충남 아산시에 위치한 '피나클랜드 수목원'이다. 이곳에서는 9월 19일부터 11월 30일까지 국화 축제가 진행된다. 오는 11월 21일에는 불꽃축제도 예정돼 있다. 이어 '외암민속마을'을 찾아간다. 충남 아산시에 자리한 곳으로, 이번 여행에서 민속마을을 둘러보는 장소다. 다음으로 방문하는 곳은 '온양온천랜드'이다. 이번 방송에서는 늦가을 여행의 온천 장소로 소개된다. 먹거리 장소로는 '서천굴칼국수'가 등장한다. 충남 아산시에 위치한 식당으로, 이번 편에서 굴칼국수와 관련된 장소로 안내됐다. 이어 '온양온천전통시장'을 찾아간다. 아산의 전통시장으로, 이번 여행의 주요 방문지 중 하나다. 시장에서는 '온양 삼색호떡'도 소개된다. '온양온천전통시장' 안에 자리한 곳으로, 이번 편에서 호떡을 만나는 장소다. 이번 '장PD의 AI 여행기'에서는 국화 축제와 민속마을, 온천, 굴칼국수, 전통시장과 호떡을 중심으로 아산의 늦가을 여행을 소개할 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=564191",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "서천굴칼국수",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%84%9C%EC%B2%9C%EA%B5%B4%EC%B9%BC%EA%B5%AD%EC%88%98-nn27uiy8733f/",
+        "address": "충남 아산시 시민로244번길 7-11 서천칼국수",
+        "category": "음식점 > 한식 > 국수/냉면",
+        "roadAddress": "충남 아산시 시민로244번길 7-11 서천칼국수",
+        "jibunAddress": "충남 아산시 용화동 743",
+        "phone": "0415481300",
+        "safePhone": null,
+        "hours": {
+          "월": null,
+          "화": "10:00~16:00",
+          "수": "10:00~16:00",
+          "목": "10:00~16:00",
+          "금": "10:00~16:00",
+          "토": "10:00~16:00",
+          "일": "10:00~16:00"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "월"
+        ],
+        "menu": [
+          {
+            "name": "곱빼기 추가",
+            "price": 1000,
+            "maxPrice": null
+          },
+          {
+            "name": "굴칼국수",
+            "price": 11000,
+            "maxPrice": null
+          },
+          {
+            "name": "굴파전",
+            "price": 17000,
+            "maxPrice": null
+          },
+          {
+            "name": "콩국수",
+            "price": 11000,
+            "maxPrice": null
+          },
+          {
+            "name": "구기자동동주",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "신창막걸리",
+            "price": 4000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 36.7723667,
+          "lng": 126.9954125
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "3순위 / 상호 완전 일치 / 충남 아산시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 470
+    },
+    {
+      "id": "1615-3",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-16",
+        "episode": null,
+        "corner": "핫 플레이스 NOW",
+        "episodeTitle": null,
+        "region": "서울 종로구",
+        "place": "청수정",
+        "description": "이번 방송은 '외국인들이 한눈에 반한 삼청동 문화거리'라는 주제로 진행된다. 삼청동 일대의 문화 공간과 음식점, 전망대, 기념품 가게 등을 찾아갈 예정이다. 먼저 소개되는 곳은 서울 종로구에 위치한 '국립민속박물관'이다. 이번 편에서는 삼청동 문화거리와 함께 방문하는 주요 문화 공간으로 등장한다. 이어 '청수정'을 찾아간다. 서울 종로구에 자리한 식당으로, 이번 방송에서는 홍합밥을 소개하는 장소다. 다음으로 방문하는 곳은 '북촌전망대'이다. 삼청동 일대에서 함께 소개되는 전망 공간으로, 이번 문화거리 탐방에 포함됐다. 기념품을 만나는 장소로는 '와유재'가 등장한다. 서울 종로구에 위치한 곳으로, 이번 편에서는 기념품과 관련된 장소로 안내됐다. 이어 '스낵서울'도 소개된다. 서울 종로구에 자리한 곳으로, 삼청동 문화거리 탐방에서 방문하는 또 하나의 장소다. 이번 '핫 플레이스 NOW'에서는 '국립민속박물관', '청수정', '북촌전망대', '와유재', '스낵서울'을 연결해 삼청동 일대를 소개할 예정이다. 외국인들이 한눈에 반한 장소라는 주제 아래 서울 종로구의 문화 공간과 먹거리, 기념품 관련 장소를 함께 살펴보는 구성이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=564190",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "청수정",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%B2%AD%EC%88%98%EC%A0%95-cimqq68u2pjh/",
+        "address": "서울 종로구 삼청로 91",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "서울 종로구 삼청로 91",
+        "jibunAddress": "서울 종로구 삼청동 80-6",
+        "phone": null,
+        "safePhone": "050713668293",
+        "hours": {
+          "월": "11:00~20:00",
+          "화": "11:00~20:00",
+          "수": "11:00~20:00",
+          "목": "11:00~20:00",
+          "금": "11:00~20:00",
+          "토": "11:00~20:00",
+          "일": "11:00~20:00"
+        },
+        "breakTime": {
+          "월": "15:00~16:00",
+          "화": "15:00~16:00",
+          "수": "15:00~16:00",
+          "목": "15:00~16:00",
+          "금": "15:00~16:00",
+          "토": "15:00~16:00",
+          "일": "15:00~16:00"
+        },
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "홍합밥정식",
+            "price": 21000,
+            "maxPrice": null
+          },
+          {
+            "name": "홍합비빔밥",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "홍합밥도시락",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "불고기 덮밥",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "해물파전",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "불고기",
+            "price": 24000,
+            "maxPrice": null
+          },
+          {
+            "name": "제육볶음",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "오징어볶음",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "홍합밥 공기추가",
+            "price": 3000,
+            "maxPrice": null
+          },
+          {
+            "name": "흰밥공기",
+            "price": 1000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5835571,
+          "lng": 126.9816875
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 종로구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 471
+    },
+    {
+      "id": "1615-4",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-16",
+        "episode": null,
+        "corner": "핫 플레이스 NOW",
+        "episodeTitle": null,
+        "region": "서울 종로구",
+        "place": "스낵서울",
+        "description": "이번 방송은 '외국인들이 한눈에 반한 삼청동 문화거리'라는 주제로 진행된다. 삼청동 일대의 문화 공간과 음식점, 전망대, 기념품 가게 등을 찾아갈 예정이다. 먼저 소개되는 곳은 서울 종로구에 위치한 '국립민속박물관'이다. 이번 편에서는 삼청동 문화거리와 함께 방문하는 주요 문화 공간으로 등장한다. 이어 '청수정'을 찾아간다. 서울 종로구에 자리한 식당으로, 이번 방송에서는 홍합밥을 소개하는 장소다. 다음으로 방문하는 곳은 '북촌전망대'이다. 삼청동 일대에서 함께 소개되는 전망 공간으로, 이번 문화거리 탐방에 포함됐다. 기념품을 만나는 장소로는 '와유재'가 등장한다. 서울 종로구에 위치한 곳으로, 이번 편에서는 기념품과 관련된 장소로 안내됐다. 이어 '스낵서울'도 소개된다. 서울 종로구에 자리한 곳으로, 삼청동 문화거리 탐방에서 방문하는 또 하나의 장소다. 이번 '핫 플레이스 NOW'에서는 '국립민속박물관', '청수정', '북촌전망대', '와유재', '스낵서울'을 연결해 삼청동 일대를 소개할 예정이다. 외국인들이 한눈에 반한 장소라는 주제 아래 서울 종로구의 문화 공간과 먹거리, 기념품 관련 장소를 함께 살펴보는 구성이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=564190",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "스낵서울",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%8A%A4%EB%82%B5%EC%84%9C%EC%9A%B8-91c6i999hwrf/",
+        "address": "서울특별시 종로구 팔판길 46 (삼청동)",
+        "category": "음식점 > 기타 음식점 > 기타 음식",
+        "roadAddress": "서울특별시 종로구 팔판길 46 (삼청동)",
+        "jibunAddress": "서울특별시 종로구 삼청동 80-6",
+        "phone": null,
+        "safePhone": null,
+        "hours": {
+          "월": "11:00~21:00",
+          "화": "11:00~21:00",
+          "수": "11:00~21:00",
+          "목": "11:00~21:00",
+          "금": "11:00~21:00",
+          "토": "11:00~21:00",
+          "일": "11:00~21:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "치즈누룽지 명란떡볶이",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "명란떡볶이",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "명란우동볶이",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "명란계란 감태말이",
+            "price": 13000,
+            "maxPrice": null
+          },
+          {
+            "name": "오징어소세지말이",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "후라이드 치킨말이",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "오징어김치 전스틱",
+            "price": 13000,
+            "maxPrice": null
+          },
+          {
+            "name": "해물파전스틱",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "불닭치즈 전스틱",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "스낵서울 막걸리",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "초당 옥수수 슬러시 막걸리",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "청포도 슬러시 막걸리",
+            "price": 14000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.58374318650648,
+          "lng": 126.9815998753574
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 종로구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 472
+    }
+  ],
+  "held": [
+    {
+      "place": "모악산 절임배추",
+      "region": "전북특별자치도 완주군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "크로바농장",
+      "region": "전북특별자치도 완주군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "덴트 잘하는 집",
+      "region": "경기 수원시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "온양온천전통시장",
+      "region": "충남 아산시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 8개 중 상호·시군구가 다 맞는 곳 없음: 1. 온양상회 (서울특별시 동대문구 왕산로33길 13) — 상호 불일치 (찾은 것: '온양상회') | 2. 온양떡집 (서울 종로구 이화장길 24) — 상호 불일치 (찾은 것: '온양떡집') | 3. 온양상회 (서울특별시 금천구 시흥대로148길 38-8) — 상호 불일치 (찾은 것: '온양상회') | 4. 온양온천시장 (충청남도 아산시 온천대로 1484-1) — 상호 불일치 (찾은 것: '온양온천시장') | 5. 관양시장 (경기도 안양시 동안구 관평로328번길 18 (관양동)) — 상호 불일치 (찾은 것: '관양시장') | 6. 온양식당 (서울 영등포구 영등포로30길 3) — 상호 불일치 (찾은 것: '온양식당') | 7. 온양식당 (서울특별시 영등포구 도림로126길 17 (문래동3가)) — 상호 불일치 (찾은 것: '온양식당') | 8. 안양관양시장 (경기도 안양시 동안구 관평로336번길 31) — 상호 불일치 (찾은 것: '안양관양시장')) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "온양 삼색호떡",
+      "region": "충남 아산시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "북촌전망대",
+      "region": "서울 종로구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "와유재",
+      "region": "서울 종로구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '와유재' + '종로구' / 0건"
+    },
+    {
+      "place": "봉다리삼겹",
+      "region": "인천 서해구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 봉다리삼겹 (인천광역시 서구 중봉대로586번길 22 청라 엑슬루타워 102동) — 다른 시군구 (인천광역시 서구 중봉대로586번길 22 청라 엑슬루타워 102동) | 2. 돼봉삼겹살 신논현점 (서울 강남구 봉은사로2길 21 1층) — 상호 불일치 (찾은 것: '돼봉삼겹살 신논현점') | 3. 형제삼겹 본점 (서울 서초구 사평대로56길 7 지하1층 b103호(서초동, 서초한일유앤아이주상복합)) — 상호 불일치 (찾은 것: '형제삼겹 본점') | 4. 봉용 파절이삼겹살 (서울특별시 관악구 봉천로 228 (신림동)) — 상호 불일치 (찾은 것: '봉용 파절이삼겹살') | 5. 쌈겹 (서울 서초구 남부순환로350길 29-19 대감빌딩 2층) — 상호 불일치 (찾은 것: '쌈겹') | 6. 돼봉삼겹살 신사점 (서울특별시 강남구 강남대로152길 20 포토피아) — 상호 불일치 (찾은 것: '돼봉삼겹살 신사점') | 7. 대복삼겹살 (서울특별시 동작구 사당로17가길 8 (사당동)) — 상호 불일치 (찾은 것: '대복삼겹살') | 8. 된장박이삼겹살좋구만 반포점 (서울 서초구 신반포로 213 반포쇼핑타운7동 지하1층) — 상호 불일치 (찾은 것: '된장박이삼겹살좋구만 반포점') | 9. 배달삼겹맛있으면돼지 역삼점 (서울 강남구 논현로63길 16) — 상호 불일치 (찾은 것: '배달삼겹맛있으면돼지 역삼점') | 10. 더삼겹 (서울 용산구 이촌로75길 22-5) — 상호 불일치 (찾은 것: '더삼겹')) / 인허가 '봉다리삼겹' + '서해구' / 1건이나 동명 업소 확인 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "김해축협 한우프라자",
+      "region": "경남 김해시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "대한민국 최고의 한우",
+      "region": "경남 김해시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "최고의 한우를 찾아서",
+      "region": "경남 김해시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '최고의한' + '김해시' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "지아팜",
+      "region": "경북 예천군",
+      "name": "지아팜",
+      "category": "상품 판매 > 식품 > 농산물"
+    },
+    {
+      "place": "피나클랜드 수목원",
+      "region": "충남 아산시",
+      "name": "피나클랜드 수목원",
+      "category": "시설 > 구역내시설물 > 기타 구역내시설물"
+    },
+    {
+      "place": "외암민속마을",
+      "region": "충남 아산시",
+      "name": "외암민속마을",
+      "category": "관광/명소 > 일반 명소 > 고택/민속마을"
+    },
+    {
+      "place": "온양온천랜드",
+      "region": "충남 아산시",
+      "name": "온양온천랜드",
+      "category": "서비스 > 피부/바디 케어 > 목욕/스파"
+    },
+    {
+      "place": "국립민속박물관",
+      "region": "서울 종로구",
+      "name": "국립민속박물관",
+      "category": "관광/명소 > 일반 명소 > 박물관"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1615",
+  "status": "pending",
+  "publishAfter": "2026-11-16T07:43:26.020Z",
+  "preparedAt": "2026-11-16T07:30:26.020Z"
+}
