@@ -1,0 +1,261 @@
+{
+  "date": "2026-11-17",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=564655",
+    "airDate": "2026-11-17",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=564655",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 철원 한탄강 물윗길, 자연이 허락한 특별한 산책",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=564653",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 면치기 좀 한다면 공릉동, 서울 노원구 맛집",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 2,
+  "targets": 8,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1815-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-11-17",
+        "episode": null,
+        "corner": "UDT",
+        "episodeTitle": null,
+        "region": "서울 노원구",
+        "place": "섬사나이",
+        "description": "이번 방송은 '면치기 좀 한다면, 노원구 공릉동'이라는 주제로 진행된다. 공릉동에 자리한 두 음식점을 찾아가 면 요리를 중심으로 동네의 먹거리를 살펴볼 예정이다. 이날 방송에서 소개되는 첫 번째 장소는 서울 노원구에 위치한 '섬사나이'이다. 이번 편에서는 공릉동 면치기 탐방의 주요 방문지로 등장한다. 이어 찾아가는 곳은 '공릉우동집'이다. 서울 노원구 공릉동에 자리한 음식점으로, 이번 방송에서 '섬사나이'와 함께 소개된다. 이번 'UDT'에서는 공릉동이라는 지역과 면치기라는 주제를 연결한다. 동네에 자리한 두 음식점을 중심으로 면 요리와 관련된 이야기가 펼쳐질 예정이다. 특히 '면치기 좀 한다면'이라는 방송 제목처럼 면 요리를 즐기는 사람들에게 초점을 맞춘 구성이 특징이다. 두 음식점에서 어떤 메뉴가 소개될지는 방송을 통해 공개될 예정이다. 서울 노원구 공릉동은 이번 편의 주요 배경이다. '섬사나이'와 '공릉우동집'을 방문하며 공릉동의 면 요리 관련 장소를 소개한다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=564653",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "섬사나이",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%84%AC%EC%82%AC%EB%82%98%EC%9D%B4-o27b9p4brsvd/",
+        "address": "서울 노원구 공릉로39길 21 섬사나이",
+        "category": "음식점 > 주점/바 > 일반 주점/바",
+        "roadAddress": "서울 노원구 공릉로39길 21 섬사나이",
+        "jibunAddress": "서울 노원구 공릉동 351-1",
+        "phone": null,
+        "safePhone": "050713352481",
+        "hours": {
+          "월": null,
+          "화": "17:00~25:00",
+          "수": "17:00~25:00",
+          "목": "17:00~25:00",
+          "금": "17:00~25:00",
+          "토": "17:00~25:00",
+          "일": "17:00~25:00"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "월"
+        ],
+        "menu": [
+          {
+            "name": "백짬뽕",
+            "price": 18900,
+            "maxPrice": null
+          },
+          {
+            "name": "오징어통찜",
+            "price": 0,
+            "maxPrice": null
+          },
+          {
+            "name": "섬소짬뽕",
+            "price": 16900,
+            "maxPrice": null
+          },
+          {
+            "name": "해산물 플래터",
+            "price": 34000,
+            "maxPrice": null
+          },
+          {
+            "name": "섬피자",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "우도짬뽕",
+            "price": 16900,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.6235239,
+          "lng": 127.07827
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 노원구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 482
+    },
+    {
+      "id": "1815-2",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-11-17",
+        "episode": null,
+        "corner": "UDT",
+        "episodeTitle": null,
+        "region": "서울 노원구",
+        "place": "공릉우동집",
+        "description": "이번 방송은 '면치기 좀 한다면, 노원구 공릉동'이라는 주제로 진행된다. 공릉동에 자리한 두 음식점을 찾아가 면 요리를 중심으로 동네의 먹거리를 살펴볼 예정이다. 이날 방송에서 소개되는 첫 번째 장소는 서울 노원구에 위치한 '섬사나이'이다. 이번 편에서는 공릉동 면치기 탐방의 주요 방문지로 등장한다. 이어 찾아가는 곳은 '공릉우동집'이다. 서울 노원구 공릉동에 자리한 음식점으로, 이번 방송에서 '섬사나이'와 함께 소개된다. 이번 'UDT'에서는 공릉동이라는 지역과 면치기라는 주제를 연결한다. 동네에 자리한 두 음식점을 중심으로 면 요리와 관련된 이야기가 펼쳐질 예정이다. 특히 '면치기 좀 한다면'이라는 방송 제목처럼 면 요리를 즐기는 사람들에게 초점을 맞춘 구성이 특징이다. 두 음식점에서 어떤 메뉴가 소개될지는 방송을 통해 공개될 예정이다. 서울 노원구 공릉동은 이번 편의 주요 배경이다. '섬사나이'와 '공릉우동집'을 방문하며 공릉동의 면 요리 관련 장소를 소개한다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=564653",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "공릉우동집",
+        "url": "https://www.daangn.com/kr/local-profile/%EA%B3%B5%EB%A6%89%EC%9A%B0%EB%8F%99%EC%A7%91-vupog27trh3n/",
+        "address": "서울 노원구 동일로192길 42",
+        "category": "음식점 > 분식 > 김밥",
+        "roadAddress": "서울 노원구 동일로192길 42",
+        "jibunAddress": "서울 노원구 공릉동 392-1",
+        "phone": "029761199",
+        "safePhone": null,
+        "hours": {
+          "월": "11:00~24:00",
+          "화": "11:00~24:00",
+          "수": "11:00~24:00",
+          "목": "11:00~24:00",
+          "금": "11:00~24:00",
+          "토": "11:00~24:00",
+          "일": null
+        },
+        "breakTime": null,
+        "closedDays": [
+          "일"
+        ],
+        "menu": [
+          {
+            "name": "김밥",
+            "price": 4000,
+            "maxPrice": null
+          },
+          {
+            "name": "짜장",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "우동",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "쫄면",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "비빔국수",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "잔치국수",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "열무국수",
+            "price": 7000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.626477,
+          "lng": 127.075436
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 노원구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 483
+    }
+  ],
+  "held": [
+    {
+      "place": "한탄강 물윗길",
+      "region": "강원 철원군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "한탄강 횃불전망대",
+      "region": "강원 철원군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '한탄강횃' + '철원군' / 0건"
+    },
+    {
+      "place": "은하수교",
+      "region": "강원 철원군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '은하수교' + '철원군' / 0건"
+    },
+    {
+      "place": "두루미교",
+      "region": "강원 철원군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '두루미교' + '철원군' / 0건"
+    },
+    {
+      "place": "학저수지",
+      "region": "강원 철원군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "면치기 좀 한다면",
+      "region": "서울 노원구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '면치기좀' + '노원구' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1815",
+  "status": "pending",
+  "publishAfter": "2026-11-17T09:34:03.725Z",
+  "preparedAt": "2026-11-17T09:21:03.725Z"
+}
