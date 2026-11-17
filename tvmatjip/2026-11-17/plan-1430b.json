@@ -1,0 +1,324 @@
+{
+  "date": "2026-11-17",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224480528585",
+      "program": "생생정보",
+      "title": "2tv 생생정보 ㅣ결정적 한 수 경주 보문뜰 입맛 깨우는 매콤함 매운돼지갈비찜 방문 후기",
+      "place": "보문뜰",
+      "region": "경북 경주시",
+      "dishes": [
+        "매운돼지갈비찜"
+      ],
+      "corner": "결정적 한 수",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224480528585",
+      "postedAt": "2026-11-17T05:16:20.000Z",
+      "dishVotes": {
+        "매운돼지갈비찜": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224480533677",
+      "program": "생생정보",
+      "title": "2TV 생생정보ㅣ 가평 미스터닭갈비 대중교통 타고 떠나는 춘천 여행 맛집 후기",
+      "place": "미스터닭갈비",
+      "region": "경기 가평군",
+      "dishes": [],
+      "corner": "교통카드면 충분해",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224480533677",
+      "postedAt": "2026-11-17T05:19:47.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224480539725",
+      "program": "생생정보",
+      "title": "2tv 생생정보 ㅣ 도심 속 자연을 품은 춘천 유기농카페 건강한 디저트와 커피 방문 후기",
+      "place": "춘천 유기농카페",
+      "region": "강원 춘천시",
+      "dishes": [
+        "건강한 디저트",
+        "커피"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224480539725",
+      "postedAt": "2026-11-17T05:23:49.000Z",
+      "dishVotes": {
+        "건강한 디저트": 1,
+        "커피": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224480544872",
+      "program": "생생정보",
+      "title": "2TV 생생정보 ㅣ강남 기타학원 노래만 듣고 연주하는 아이 안쌤의 기타나무숲 방문 후기",
+      "place": "기타나무숲",
+      "region": "서울 강남구",
+      "dishes": [],
+      "corner": "엄청난 친구들의 아찔한 재능",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224480544872",
+      "postedAt": "2026-11-17T05:27:30.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 4,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1430b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-17",
+        "episode": null,
+        "corner": "결정적 한 수",
+        "episodeTitle": null,
+        "region": "경북 경주시",
+        "place": "보문뜰",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224480528585",
+          "title": "2tv 생생정보 ㅣ결정적 한 수 경주 보문뜰 입맛 깨우는 매콤함 매운돼지갈비찜 방문 후기",
+          "postedAt": "2026-11-17T05:16:20.000Z"
+        },
+        "dishHints": [
+          "매운돼지갈비찜"
+        ],
+        "dishVotes": {
+          "매운돼지갈비찜": 1
+        }
+      },
+      "store": {
+        "name": "보문뜰",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%B3%B4%EB%AC%B8%EB%9C%B0-3ngsmxwsjoau/",
+        "address": "경북 경주시 경감로 142-3",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "경북 경주시 경감로 142-3",
+        "jibunAddress": "경북 경주시 보문동 40-27",
+        "phone": null,
+        "safePhone": "050714718312",
+        "hours": {
+          "월": "10:20~20:30",
+          "화": "10:20~20:30",
+          "수": null,
+          "목": "10:20~20:30",
+          "금": "10:20~20:30",
+          "토": null,
+          "일": "10:00~20:30"
+        },
+        "breakTime": {
+          "월": "15:20~17:00",
+          "화": "15:20~17:00",
+          "목": "15:20~17:00",
+          "금": "15:20~17:00",
+          "일": "15:30~17:00"
+        },
+        "closedDays": [
+          "수",
+          "토"
+        ],
+        "menu": [
+          {
+            "name": "매콤 소갈비찜",
+            "price": 29000,
+            "maxPrice": null
+          },
+          {
+            "name": "돼지갈비찜",
+            "price": 20000,
+            "maxPrice": null
+          },
+          {
+            "name": "매운 돼지갈비찜",
+            "price": 22000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우육회비빔밥",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "갈비탕",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우물회",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우수제 떡갈비",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "순두부",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우 육회",
+            "price": 27000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우불고기",
+            "price": 19000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 35.8426846,
+          "lng": 129.2517043
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경북 경주시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 479
+    },
+    {
+      "id": "1430b-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-17",
+        "episode": null,
+        "corner": "교통카드면 충분해",
+        "episodeTitle": null,
+        "region": "경기 가평군",
+        "place": "미스터닭갈비",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224480533677",
+          "title": "2TV 생생정보ㅣ 가평 미스터닭갈비 대중교통 타고 떠나는 춘천 여행 맛집 후기",
+          "postedAt": "2026-11-17T05:19:47.000Z"
+        },
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "미스터닭갈비",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%8B%AD%EA%B0%88%EB%B9%84-rni74ifbfi4e/",
+        "address": "경기 가평군 가평읍 북한강변로 1044-14 미스터닭갈비",
+        "category": "음식점 > 한식 > 닭/오리 요리",
+        "roadAddress": "경기 가평군 가평읍 북한강변로 1044-14 미스터닭갈비",
+        "jibunAddress": "경기 가평군 가평읍 달전리 106-2",
+        "phone": "0315822739",
+        "safePhone": null,
+        "hours": {
+          "월": "10:30~21:00",
+          "화": "10:30~21:00",
+          "수": "10:30~21:00",
+          "목": "10:30~21:00",
+          "금": "10:30~21:00",
+          "토": "09:30~21:00",
+          "일": "09:30~21:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "철판닭갈비",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "양념숯불닭갈비",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "소금숯불닭갈비",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "감자전",
+            "price": 13000,
+            "maxPrice": null
+          },
+          {
+            "name": "막국수",
+            "price": 10000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.8055454,
+          "lng": 127.5259515
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경기 가평군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 480
+    }
+  ],
+  "held": [
+    {
+      "place": "춘천 유기농카페",
+      "region": "강원 춘천시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 스톤플랜트 (강원 춘천시 퇴계농공로 19 2층) — 상호 불일치 (찾은 것: '스톤플랜트') | 2. 꺄호 커피 바 (강원특별자치도 춘천시 애막골길16번길 16-7 (석사동)) — 상호 불일치 (찾은 것: '꺄호 커피 바') | 3. 카페일리터 춘천석사점 (강원특별자치도 춘천시 석사길 10 (석사동, 봄내아파트)) — 상호 불일치 (찾은 것: '카페일리터 춘천석사점') | 4. 백억커피 춘천1호점 (강원특별자치도 춘천시 퇴계농공로 11 (석사동)) — 상호 불일치 (찾은 것: '백억커피 춘천1호점') | 5. 텔로스카페 (강원특별자치도 춘천시 새롬공원길4번길 23 (석사동)) — 상호 불일치 (찾은 것: '텔로스카페') | 6. 카페 콘크리트 춘천석사점 (강원 춘천시 퇴계로 249 105-2호) — 상호 불일치 (찾은 것: '카페 콘크리트 춘천석사점') | 7. 화양연화커피 (강원특별자치도 춘천시 후석로46번길 11) — 상호 불일치 (찾은 것: '화양연화커피') | 8. 커피레이크 (강원 춘천시 공지로 137 1층) — 상호 불일치 (찾은 것: '커피레이크') | 9. 카페 여름 (강원특별자치도 춘천시 동내면 동내로 87) — 상호 불일치 (찾은 것: '카페 여름') | 10. 노아카페 (강원특별자치도 춘천시 석사길5번길 40-2) — 상호 불일치 (찾은 것: '노아카페')) / 인허가 조회 실패: 인허가 API 응답 504"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "기타나무숲",
+      "region": "서울 강남구",
+      "name": "안쌤의기타나무숲",
+      "category": "교육 > 학원 > 일반 학원/교습소"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1430b",
+  "status": "pending",
+  "publishAfter": "2026-11-17T05:45:26.380Z",
+  "preparedAt": "2026-11-17T05:32:26.380Z"
+}
