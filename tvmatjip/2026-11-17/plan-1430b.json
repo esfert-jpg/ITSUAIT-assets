@@ -318,7 +318,28 @@
   "retry": [],
   "blocked": null,
   "batch": "1430b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-17T05:45:26.380Z",
-  "preparedAt": "2026-11-17T05:32:26.380Z"
+  "preparedAt": "2026-11-17T05:32:26.380Z",
+  "publishedAt": "2026-11-17T05:46:29.817Z",
+  "result": {
+    "published": [
+      {
+        "name": "보문뜰",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_17.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-17/naver/1430b-1.html",
+        "naverTitle": "생생정보 결정적 한 수 경북 경주 보문동 매운돼지갈비찜 맛집 보문뜰"
+      },
+      {
+        "name": "미스터닭갈비",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_670.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-17/naver/1430b-2.html",
+        "naverTitle": "생생정보 교통카드면 충분해 경기 가평 맛집 미스터닭갈비"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
