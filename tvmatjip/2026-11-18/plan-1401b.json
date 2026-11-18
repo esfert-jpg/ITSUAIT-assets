@@ -1,0 +1,364 @@
+{
+  "date": "2026-11-18",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224481932971",
+      "program": "생생정보",
+      "title": "2TV 생생정보 ㅣ가수 신유 단골집, 매콤한 고추장삼겹살 맛집 강남 선릉역 여유돼지",
+      "place": "여유돼지",
+      "region": "서울 강남구",
+      "dishes": [
+        "고추장삼겹살"
+      ],
+      "corner": "오늘 또 방문: 스타밥집",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224481932971",
+      "postedAt": "2026-11-18T04:47:52.000Z",
+      "dishVotes": {
+        "고추장삼겹살": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224481938223",
+      "program": "생생정보",
+      "title": "2TV 생생정보 ㅣ부산 영도 맛집, 바다 바람이 빚어낸 깊은 풍미 부산 영도 산호횟집",
+      "place": "산호횟집",
+      "region": "부산 영도구",
+      "dishes": [],
+      "corner": "떠나요~이야기로(路)",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224481938223",
+      "postedAt": "2026-11-18T04:51:34.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224481944453",
+      "program": "생생정보",
+      "title": "2TV 생생정보 ㅣ부산 북구 맛집, 바람이 빚어낸 쫄깃한 면발 부산 구포시장 이원화구포국시",
+      "place": "이원화구포국시",
+      "region": "부산 북구",
+      "dishes": [
+        "국수"
+      ],
+      "corner": "떠나요~이야기로(路)",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224481944453",
+      "postedAt": "2026-11-18T04:56:07.000Z",
+      "dishVotes": {
+        "국수": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 3,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1401b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-18",
+        "episode": null,
+        "corner": "오늘 또 방문: 스타밥집",
+        "episodeTitle": null,
+        "region": "서울 강남구",
+        "place": "여유돼지",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224481932971",
+          "title": "2TV 생생정보 ㅣ가수 신유 단골집, 매콤한 고추장삼겹살 맛집 강남 선릉역 여유돼지",
+          "postedAt": "2026-11-18T04:47:52.000Z"
+        },
+        "dishHints": [
+          "고추장삼겹살"
+        ],
+        "dishVotes": {
+          "고추장삼겹살": 1
+        }
+      },
+      "store": {
+        "name": "여유돼지",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%97%AC%EC%9C%A0%EB%8F%BC%EC%A7%80-7hihfb1wh7jv/",
+        "address": "서울 강남구 선릉로112길 26 1층 여유돼지",
+        "category": "음식점 > 한식 > 고기 구이",
+        "roadAddress": "서울 강남구 선릉로112길 26 1층 여유돼지",
+        "jibunAddress": "서울 강남구 삼성동 38-5",
+        "phone": "0234468803",
+        "safePhone": null,
+        "hours": {
+          "월": "11:30~21:50",
+          "화": "11:30~21:50",
+          "수": "11:30~21:50",
+          "목": "11:30~21:50",
+          "금": "11:30~21:50",
+          "토": null,
+          "일": null
+        },
+        "breakTime": {
+          "월": "14:30~17:00",
+          "화": "14:30~17:00",
+          "수": "14:30~17:00",
+          "목": "14:30~17:00",
+          "금": "14:30~17:00"
+        },
+        "closedDays": [
+          "토",
+          "일"
+        ],
+        "menu": [
+          {
+            "name": "통 목살 (180g)",
+            "price": 17000,
+            "maxPrice": null
+          },
+          {
+            "name": "통 삼겹살 (180g)",
+            "price": 17000,
+            "maxPrice": null
+          },
+          {
+            "name": "양념 주물럭 (200g)",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "고추장 삼겹살(200g)",
+            "price": 20000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5115468,
+          "lng": 127.0457841
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 강남구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 486
+    },
+    {
+      "id": "1401b-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-18",
+        "episode": null,
+        "corner": "떠나요~이야기로(路)",
+        "episodeTitle": null,
+        "region": "부산 영도구",
+        "place": "산호횟집",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224481938223",
+          "title": "2TV 생생정보 ㅣ부산 영도 맛집, 바다 바람이 빚어낸 깊은 풍미 부산 영도 산호횟집",
+          "postedAt": "2026-11-18T04:51:34.000Z"
+        },
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "산호횟집",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%82%B0%ED%98%B8%ED%9A%9F%EC%A7%91-qndq4j1v5mgh/",
+        "address": "부산 영도구 하리해안길 12",
+        "category": "음식점 > 한식 > 수산물/횟집",
+        "roadAddress": "부산 영도구 하리해안길 12",
+        "jibunAddress": "부산 영도구 동삼동 769-1",
+        "phone": "0514031830",
+        "safePhone": null,
+        "hours": {
+          "월": "11:00~21:30",
+          "화": "11:00~21:30",
+          "수": "11:00~21:30",
+          "목": "11:00~21:30",
+          "금": "11:00~21:30",
+          "토": "11:00~21:30",
+          "일": "11:00~21:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "모듬회 소",
+            "price": 40000,
+            "maxPrice": null
+          },
+          {
+            "name": "모듬회 중",
+            "price": 60000,
+            "maxPrice": null
+          },
+          {
+            "name": "모듬회 대",
+            "price": 80000,
+            "maxPrice": null
+          },
+          {
+            "name": "광어 자연산",
+            "price": 50000,
+            "maxPrice": null
+          },
+          {
+            "name": "광어 양식",
+            "price": 40000,
+            "maxPrice": null
+          },
+          {
+            "name": "회덮밥",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "물회",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "우럭탕",
+            "price": 15000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 35.0693732,
+          "lng": 129.0808908
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "6순위 / 상호 완전 일치 / 부산 영도구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 487
+    },
+    {
+      "id": "1401b-3",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-18",
+        "episode": null,
+        "corner": "떠나요~이야기로(路)",
+        "episodeTitle": null,
+        "region": "부산 북구",
+        "place": "이원화구포국시",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224481944453",
+          "title": "2TV 생생정보 ㅣ부산 북구 맛집, 바람이 빚어낸 쫄깃한 면발 부산 구포시장 이원화구포국시",
+          "postedAt": "2026-11-18T04:56:07.000Z"
+        },
+        "dishHints": [
+          "국수"
+        ],
+        "dishVotes": {
+          "국수": 1
+        }
+      },
+      "store": {
+        "name": "이원화구포국시",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%9D%B4%EC%9B%90%ED%99%94%EA%B5%AC%ED%8F%AC%EA%B5%AD%EC%8B%9C-f8soc2sr9f33/",
+        "address": "부산광역시 북구 구포시장1길 6 (구포동)",
+        "category": "음식점 > 한식 > 국수/냉면",
+        "roadAddress": "부산광역시 북구 구포시장1길 6 (구포동)",
+        "jibunAddress": "부산광역시 북구 구포동 599-17",
+        "phone": "01045523649",
+        "safePhone": null,
+        "hours": {
+          "월": null,
+          "화": "09:00~18:30",
+          "수": "09:00~18:30",
+          "목": "09:00~18:30",
+          "금": "09:00~18:30",
+          "토": "09:00~18:30",
+          "일": "09:00~18:30"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "월"
+        ],
+        "menu": [
+          {
+            "name": "따신국시,차븐국시 ",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "콩국시",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "비빔국시 ",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "아싸가오리 회비빔국시 ",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "김밥 ",
+            "price": 3500,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 35.2088987093155,
+          "lng": 129.003662619607
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 부산 북구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 488
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1401b",
+  "status": "pending",
+  "publishAfter": "2026-11-18T05:14:39.609Z",
+  "preparedAt": "2026-11-18T05:01:39.609Z"
+}
