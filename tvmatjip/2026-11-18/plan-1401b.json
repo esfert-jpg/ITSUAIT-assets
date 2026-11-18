@@ -358,7 +358,35 @@
   "retry": [],
   "blocked": null,
   "batch": "1401b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-18T05:14:39.609Z",
-  "preparedAt": "2026-11-18T05:01:39.609Z"
+  "preparedAt": "2026-11-18T05:01:39.609Z",
+  "publishedAt": "2026-11-18T05:17:07.151Z",
+  "result": {
+    "published": [
+      {
+        "name": "여유돼지",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_18.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-18/naver/1401b-1.html",
+        "naverTitle": "생생정보 오늘 또 방문: 스타밥집 서울 강남 삼성동 고추장삼겹살 맛집 여유돼지"
+      },
+      {
+        "name": "산호횟집",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_680.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-18/naver/1401b-2.html",
+        "naverTitle": "생생정보 떠나요~이야기로(路) 부산 영도 동삼동 맛집 산호횟집"
+      },
+      {
+        "name": "이원화구포국시",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_378.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-18/naver/1401b-3.html",
+        "naverTitle": "생생정보 떠나요~이야기로(路) 부산 북구 구포동 국수 맛집 이원화구포국시"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
