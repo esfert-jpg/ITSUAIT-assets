@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-18",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224481926622",
+      "program": "생생정보",
+      "title": "2TV 생생정보l 공주 여행 맛집, 쫄깃한 떡이 매력적인 공주산성시장 부자떡집",
+      "place": "부자떡집",
+      "region": "충남 공주시",
+      "dishes": [
+        "떡",
+        "알밤모찌",
+        "쑥개떡",
+        "영양떡"
+      ],
+      "corner": "생생현장",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224481926622",
+      "postedAt": "2026-11-18T04:43:16.000Z",
+      "dishVotes": {
+        "떡": 1,
+        "알밤모찌": 1,
+        "쑥개떡": 1,
+        "영양떡": 1
+      },
+      "votes": {
+        "생생정보": 2
+      },
+      "copies": 2
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [],
+  "excluded": [
+    {
+      "place": "부자떡집",
+      "region": "충남 공주시",
+      "name": "부자떡집",
+      "category": "상품 판매 > 식품 > 떡"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1345b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-18T04:45:51.033Z"
+}
