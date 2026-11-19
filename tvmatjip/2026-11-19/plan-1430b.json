@@ -144,7 +144,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1430b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-19T05:45:41.138Z",
-  "preparedAt": "2026-11-19T05:32:41.138Z"
+  "preparedAt": "2026-11-19T05:32:41.138Z",
+  "publishedAt": "2026-11-19T05:46:07.010Z",
+  "result": {
+    "published": [
+      {
+        "name": "쌈밥촌",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_843.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-19/naver/1430b-1.html",
+        "naverTitle": "생생정보 인천 남동 구월동 쌈밥 맛집 쌈밥촌"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
