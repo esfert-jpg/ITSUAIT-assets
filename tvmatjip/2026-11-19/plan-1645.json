@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-19",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=565194",
+    "airDate": "2026-11-19",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565194",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 제주에서 만나는 녹차 체험 장소는?",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565192",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 전북 정읍 감식초 만드는 곳",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565191",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 서천에서 만나는 박대와 동죽, 지역 수산물 소개",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 3,
+  "targets": 4,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "제주차농 차암문화원",
+      "region": "제주특별자치도 제주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "금계식품",
+      "region": "전북특별자치도 정읍시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '금계식품' + '정읍시' / 0건"
+    },
+    {
+      "place": "송석어촌계",
+      "region": "충남 서천군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '송석어촌' + '서천군' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "장항수산",
+      "region": "충남 서천군",
+      "name": "장항수산",
+      "category": "상품 판매 > 식품 > 수산물"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1645",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-19T07:49:26.016Z"
+}
