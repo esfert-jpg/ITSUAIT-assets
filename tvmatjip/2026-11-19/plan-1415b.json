@@ -336,7 +336,28 @@
   "retry": [],
   "blocked": null,
   "batch": "1415b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-19T05:29:35.455Z",
-  "preparedAt": "2026-11-19T05:16:35.455Z"
+  "preparedAt": "2026-11-19T05:16:35.455Z",
+  "publishedAt": "2026-11-19T05:33:23.503Z",
+  "result": {
+    "published": [
+      {
+        "name": "한어부의고등어사랑 해운대",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_19.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-19/naver/1415b-1.html",
+        "naverTitle": "생생정보 맛집 맞수다 부산 해운대 우동 고등어 맛집 한어부의고등어사랑 해운대"
+      },
+      {
+        "name": "돈바지",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_255.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-19/naver/1415b-2.html",
+        "naverTitle": "생생정보 맛집 맞수다 부산 기장 시래기버섯전골 맛집 돈바지"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
