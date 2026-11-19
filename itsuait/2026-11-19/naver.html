@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>네이버 원고 · itsuait</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1d2127;--sub:#6b7280;--line:#e3e6ea;--acc:#03c75a;--acc-ink:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#15171a;--card:#1f2226;--ink:#e8eaed;--sub:#9aa0a6;--line:#30343a;--acc:#1ec26b;--acc-ink:#0b1a10}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif}
+main{max-width:720px;margin:0 auto;padding:16px}
+h1{font-size:15px;color:var(--sub);font-weight:600;margin:4px 0 12px}
+section{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin:0 0 12px}
+.head{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px}
+.head b{font-size:14px;color:var(--sub)}
+.hint{font-size:12px;color:var(--sub);text-align:right}
+.btn{appearance:none;border:0;border-radius:10px;background:var(--acc);color:var(--acc-ink);font-weight:700;font-size:15px;padding:10px 16px;cursor:pointer;text-decoration:none;display:inline-block}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line);font-weight:600;font-size:14px;padding:8px 12px}
+.box{white-space:pre-wrap;word-break:break-all}
+#body p{margin:0}
+.title{font-size:18px;font-weight:700}
+figure{margin:0 0 12px}figure img{display:block;max-width:100%;border-radius:8px;margin-bottom:6px}
+#toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:999px;font-size:14px;opacity:0;transition:opacity .2s;pointer-events:none}
+#toast.on{opacity:1}
+.steps{font-size:14px;color:var(--sub);margin:0;padding-left:18px}
+</style></head><body><main>
+<h1>네이버 블로그 원고 · itsuait</h1>
+<section><div class="head"><b>① 제목</b><button class="btn" data-copy="title">제목 복사</button></div><div class="box title" id="title">윈도 차기 버전에 파워셸 7 기본 탑재 및 5.1 단계적 종료 계획</div></section>
+<section><div class="head"><b>② 사진</b><span class="hint">저장 → 공유 시트에서 '이미지 저장'. 또는 사진을 길게 눌러 '사진에 추가'</span></div><figure><img src="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-11-19/105350/blog-cover.png" alt="사진 1"><a class="btn ghost" data-img="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-11-19/105350/blog-cover.png" href="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-11-19/105350/blog-cover.png" download="itsuait-1">사진 1 저장</a></figure></section>
+<section><div class="head"><b>③ 본문 (태그 포함)</b><button class="btn" data-copy="body">본문 복사</button></div><div id="body"><p>마이크로소프트가 차기 윈도에 파워셸 7을 기본 탑재하기로 했어요. 기존에 기본 기능으로 쓰이던 파워셸 5.1은 점차 사용이 줄고, 주문형 기능으로 전환됩니다.</p><p><br></p><p>▶ 파워셸 7과 5.1, 내장 여부와 개발 차이</p><p>윈도 서버 2025와 윈도 11 26H2 버전까지는 파워셸 5.1이 기본 내장으로 활성화돼 있어요. 차기 윈도부터는 파워셸 5.1이 기본 기능이 아니고 필요할 때 설치하는 주문형 기능으로 바뀝니다. 이후 버전에서는 파워셸 5.1이 완전히 제거될 예정이에요.</p><p><br></p><p>파워셸 5.1은 더 이상 새로운 기능이 개발되지 않고 안정화 단계예요. 반면 파워셸 7은 오픈소스 기반으로 지속해서 새 기능을 더하고 있습니다. 지원 플랫폼도 달라서 파워셸 5.1은 윈도 전용, 닷넷 프레임워크 기반이고 파워셸 7은 크로스 플랫폼을 지원해요.</p><p><br></p><p>▶ 누가 어떤 파워셸 버전을 써야 하나요</p><p>새로운 자동화 환경에서는 파워셸 7 사용을 권장해요. 하지만 파워셸 5.1 전용 모듈이나 도구가 있을 때는 두 버전을 함께 쓰는 게 좋습니다. 관리자는 각 스크립트와 예약 작업, 설치 프로그램, 관리 에이전트가 어떤 파워셸 실행 파일을 사용하는지 먼저 확인해야 해요.</p><p><br></p><p>'powershell.exe'는 파워셸 5.1을 실행하고 'pwsh.exe'는 파워셸 7 이상을 실행합니다. 따라서 파워셸 5.1 전용 모듈을 쓸 경우, 미리 호환성을 꼼꼼히 점검해야 합니다.</p><p><br></p><p>▶ 차기 윈도에서 파워셸 설치와 사용법 변화</p><p>차기 윈도를 새롭게 설치해도 파워셸 5.1은 기본 활성화돼 있어요. 그러나 앞으로는 파워셸 5.1을 선택해 설치하는 주문형 기능으로 바뀌게 됩니다. 파워셸 7은 운영체제에 기본 내장돼 제공되며, 호환성을 높이기 위해 시스템 계정 예약 작업과 서비스 자동화 쪽 보완작업도 진행 중이에요.</p><p><br></p><p>윈도 파워셸 환경이 변하는 만큼 관리자는 스크립트나 관리 도구가 새 버전에 맞는지 호환성 테스트를 충분히 해야 합니다.</p><p><br></p><p>▶ 파워셸 7 내장 패키지 보완 사항과 기능 지원</p><p>파워셸 7 윈도 내장 패키지는 시스템 계정 실행, DISM 명령 지원, 컴퓨터 전체 설정 적용 같은 부분에 집중해 보완 중이에요. 이 작업 덕분에 예약 작업과 서비스 자동화도 원활하게 이뤄질 수 있습니다.</p><p><br></p><p>기존 파워셸 5.1 스크립트는 계속 실행할 수 있지만, 파워셸 7 전환 시 이와 같은 보완 점검을 꼼꼼히 수행해야 해요.</p><p><br></p><p>출처: ZDNet Korea, The Register</p><p><br></p><p>👉 표와 원문 링크까지 정리한 글은 여기 있어요</p><p><a href="https://itsuait.blogspot.com/2026/11/7-51.html">https://itsuait.blogspot.com/2026/11/7-51.html</a></p><p><br></p><p>#마이크로소프트 #Microsoft #AI뉴스 #IT이슈</p></div></section>
+<section><ol class="steps"><li>네이버 블로그 글쓰기를 연다</li><li>제목 복사 → 제목 칸에 붙여넣기</li><li>사진 저장 → 사진첩에서 본문 맨 위에 첨부</li><li>본문 복사 → 사진 아래에 붙여넣기 (끝의 #태그는 발행할 때 태그로 자동 등록된다)</li><li>발행 또는 예약</li></ol></section>
+</main><div id="toast"></div>
+<script>
+const D={"title":"윈도 차기 버전에 파워셸 7 기본 탑재 및 5.1 단계적 종료 계획","body":"마이크로소프트가 차기 윈도에 파워셸 7을 기본 탑재하기로 했어요. 기존에 기본 기능으로 쓰이던 파워셸 5.1은 점차 사용이 줄고, 주문형 기능으로 전환됩니다.\n\n▶ 파워셸 7과 5.1, 내장 여부와 개발 차이\n윈도 서버 2025와 윈도 11 26H2 버전까지는 파워셸 5.1이 기본 내장으로 활성화돼 있어요. 차기 윈도부터는 파워셸 5.1이 기본 기능이 아니고 필요할 때 설치하는 주문형 기능으로 바뀝니다. 이후 버전에서는 파워셸 5.1이 완전히 제거될 예정이에요.\n\n파워셸 5.1은 더 이상 새로운 기능이 개발되지 않고 안정화 단계예요. 반면 파워셸 7은 오픈소스 기반으로 지속해서 새 기능을 더하고 있습니다. 지원 플랫폼도 달라서 파워셸 5.1은 윈도 전용, 닷넷 프레임워크 기반이고 파워셸 7은 크로스 플랫폼을 지원해요.\n\n▶ 누가 어떤 파워셸 버전을 써야 하나요\n새로운 자동화 환경에서는 파워셸 7 사용을 권장해요. 하지만 파워셸 5.1 전용 모듈이나 도구가 있을 때는 두 버전을 함께 쓰는 게 좋습니다. 관리자는 각 스크립트와 예약 작업, 설치 프로그램, 관리 에이전트가 어떤 파워셸 실행 파일을 사용하는지 먼저 확인해야 해요.\n\n'powershell.exe'는 파워셸 5.1을 실행하고 'pwsh.exe'는 파워셸 7 이상을 실행합니다. 따라서 파워셸 5.1 전용 모듈을 쓸 경우, 미리 호환성을 꼼꼼히 점검해야 합니다.\n\n▶ 차기 윈도에서 파워셸 설치와 사용법 변화\n차기 윈도를 새롭게 설치해도 파워셸 5.1은 기본 활성화돼 있어요. 그러나 앞으로는 파워셸 5.1을 선택해 설치하는 주문형 기능으로 바뀌게 됩니다. 파워셸 7은 운영체제에 기본 내장돼 제공되며, 호환성을 높이기 위해 시스템 계정 예약 작업과 서비스 자동화 쪽 보완작업도 진행 중이에요.\n\n윈도 파워셸 환경이 변하는 만큼 관리자는 스크립트나 관리 도구가 새 버전에 맞는지 호환성 테스트를 충분히 해야 합니다.\n\n▶ 파워셸 7 내장 패키지 보완 사항과 기능 지원\n파워셸 7 윈도 내장 패키지는 시스템 계정 실행, DISM 명령 지원, 컴퓨터 전체 설정 적용 같은 부분에 집중해 보완 중이에요. 이 작업 덕분에 예약 작업과 서비스 자동화도 원활하게 이뤄질 수 있습니다.\n\n기존 파워셸 5.1 스크립트는 계속 실행할 수 있지만, 파워셸 7 전환 시 이와 같은 보완 점검을 꼼꼼히 수행해야 해요.\n\n출처: ZDNet Korea, The Register\n\n👉 표와 원문 링크까지 정리한 글은 여기 있어요\nhttps://itsuait.blogspot.com/2026/11/7-51.html\n\n#마이크로소프트 #Microsoft #AI뉴스 #IT이슈"};
+const toast=(m)=>{const t=document.getElementById('toast');t.textContent=m;t.classList.add('on');setTimeout(()=>t.classList.remove('on'),1400)};
+function selectCopy(el){const r=document.createRange();r.selectNodeContents(el);const s=getSelection();s.removeAllRanges();s.addRange(r);let ok=false;try{ok=document.execCommand('copy')}catch(e){}s.removeAllRanges();return ok}
+async function copyText(t,el){try{await navigator.clipboard.writeText(t);return true}catch(e){return selectCopy(el)}}
+async function copyRich(el,plain){try{if(window.ClipboardItem&&navigator.clipboard&&navigator.clipboard.write){await navigator.clipboard.write([new ClipboardItem({'text/html':new Blob([el.innerHTML],{type:'text/html'}),'text/plain':new Blob([plain],{type:'text/plain'})})]);return true}}catch(e){}return selectCopy(el)}
+document.querySelectorAll('[data-copy]').forEach((b)=>b.addEventListener('click',async()=>{const k=b.dataset.copy;const el=document.getElementById(k);const ok=k==='body'?await copyRich(el,D.body):await copyText(D[k],el);toast(ok?({title:'제목',body:'본문'}[k])+' 복사됨':'복사 실패 — 길게 눌러 직접 복사하세요')}));
+// 사진 저장: 공유 시트 → '이미지 저장' 이 사진첩으로 간다. 사파리는 클릭 뒤 await 가 끼면 share 를 거부해서 미리 받아 둔다.
+// jpg·png 가 아니면(webp 등) 브라우저에서 jpg 로 바꾼다. 네이버가 webp 를 안 받는다 (2026-10-19 사용자 실측).
+// 화면의 <img> 와 PC 내려받기 링크도 바꾼 jpg 로 갈아 끼운다. 길게 눌러 '사진에 추가' 해도 jpg 가 들어간다. 변환이 안 되면 원본 그대로 둔다.
+const IMGS=new Map();
+const toJpg=(b)=>['image/jpeg','image/png'].includes(b.type)?Promise.resolve(b):createImageBitmap(b).then((bm)=>{const c=document.createElement('canvas');c.width=bm.width;c.height=bm.height;const x=c.getContext('2d');x.fillStyle='#fff';x.fillRect(0,0,c.width,c.height);x.drawImage(bm,0,0);return new Promise((ok,no)=>c.toBlob((j)=>j?ok(j):no(new Error('toBlob')),'image/jpeg',0.92))}).catch(()=>b);
+document.querySelectorAll('[data-img]').forEach((a)=>{const u=a.dataset.img;fetch(u,{cache:'no-store'}).then((r)=>r.ok?r.blob():Promise.reject(r.status)).then(toJpg).then((b)=>{const ext=(b.type.split('/')[1]||'png').replace('jpeg','jpg');IMGS.set(u,new File([b],(a.getAttribute('download')||'photo')+'.'+ext,{type:b.type}));if(!u.endsWith('.'+ext)){const o=URL.createObjectURL(b);const img=a.parentElement.querySelector('img');if(img)img.src=o;a.href=o}}).catch(()=>{});
+a.addEventListener('click',(e)=>{const f=IMGS.get(u);if(f&&navigator.share&&navigator.canShare&&navigator.canShare({files:[f]})){e.preventDefault();navigator.share({files:[f]}).catch((err)=>{if(err&&err.name!=='AbortError')toast('공유 실패 — 사진을 길게 눌러 사진에 추가하세요')})}})});
+</script></body></html>
