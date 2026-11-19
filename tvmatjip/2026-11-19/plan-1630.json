@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-19",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=565190",
+    "airDate": "2026-11-19",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565190",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 강원 인제에서 만나는 치유농원 이야기",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565188",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 식재료 원정대, 박대 동죽 토마토솥밥·커틀릿·비빔국수 레시피 공개",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 2,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "목화공방스테이",
+      "region": "강원 인제군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '목화공방' + '인제군' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1630",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-19T07:31:29.786Z"
+}
