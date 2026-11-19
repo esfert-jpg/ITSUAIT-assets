@@ -1,0 +1,342 @@
+{
+  "date": "2026-11-19",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224483385869",
+      "program": "생생정보",
+      "title": "2TV 생생정보 ㅣ해운대 겨울철 별미 맛집, 한어부의고등어사랑 해운대 고등어 한 상 솔직 후기",
+      "place": "한어부의고등어사랑",
+      "region": "부산 해운대구",
+      "dishes": [
+        "고등어"
+      ],
+      "corner": "맛집 맞수다",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224483385869",
+      "postedAt": "2026-11-19T05:08:51.000Z",
+      "dishVotes": {
+        "고등어": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224483391967",
+      "program": "생생정보",
+      "title": "2TV 생생정보 ㅣ기장 겨울철 별미 맛집, 돈바지 기장 시래기버섯전골 솔직 후기",
+      "place": "돈바지",
+      "region": "부산 기장군",
+      "dishes": [
+        "시래기버섯전골"
+      ],
+      "corner": "맛집 맞수다",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224483391967",
+      "postedAt": "2026-11-19T05:12:53.000Z",
+      "dishVotes": {
+        "시래기버섯전골": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 2,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1415b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-19",
+        "episode": null,
+        "corner": "맛집 맞수다",
+        "episodeTitle": null,
+        "region": "부산 해운대구",
+        "place": "한어부의고등어사랑",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224483385869",
+          "title": "2TV 생생정보 ㅣ해운대 겨울철 별미 맛집, 한어부의고등어사랑 해운대 고등어 한 상 솔직 후기",
+          "postedAt": "2026-11-19T05:08:51.000Z"
+        },
+        "dishHints": [
+          "고등어"
+        ],
+        "dishVotes": {
+          "고등어": 1
+        }
+      },
+      "store": {
+        "name": "한어부의고등어사랑 해운대",
+        "url": "https://www.daangn.com/kr/local-profile/%ED%95%9C%EC%96%B4%EB%B6%80%EC%9D%98%EA%B3%A0%EB%93%B1%EC%96%B4%EC%82%AC%EB%9E%91-%ED%95%B4%EC%9A%B4%EB%8C%80-b9o26vm7fx22/",
+        "address": "부산 해운대구 해운대로594번길 5 2층",
+        "category": "음식점 > 한식 > 수산물/횟집",
+        "roadAddress": "부산 해운대구 해운대로594번길 5 2층",
+        "jibunAddress": "부산 해운대구 우동 639-9",
+        "phone": null,
+        "safePhone": "050714119096",
+        "hours": {
+          "월": "11:00~22:30",
+          "화": "11:00~22:30",
+          "수": "11:00~22:30",
+          "목": "11:00~22:30",
+          "금": "11:00~22:30",
+          "토": "11:00~22:30",
+          "일": "11:00~22:30"
+        },
+        "breakTime": {
+          "월": "15:00~17:00",
+          "화": "15:00~17:00",
+          "수": "15:00~17:00",
+          "목": "15:00~17:00",
+          "금": "15:00~17:00",
+          "토": "15:00~17:00",
+          "일": "15:00~17:00"
+        },
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "고등어한상",
+            "price": 50000,
+            "maxPrice": null
+          },
+          {
+            "name": "으뜸플러스",
+            "price": 30000,
+            "maxPrice": null
+          },
+          {
+            "name": "으뜸한상",
+            "price": 25000,
+            "maxPrice": null
+          },
+          {
+            "name": "[한어부에 오신걸 환영합니다] 꼭 읽어주세요.",
+            "price": 0,
+            "maxPrice": null
+          },
+          {
+            "name": "팔딱팔딱 고등어회(2인)",
+            "price": 54000,
+            "maxPrice": null
+          },
+          {
+            "name": "팔딱팔딱 고등어회(3인)",
+            "price": 74000,
+            "maxPrice": null
+          },
+          {
+            "name": "팔딱팔딱 고등어회(4인)",
+            "price": 94000,
+            "maxPrice": null
+          },
+          {
+            "name": "팔딱팔딱 고등어회(1인)",
+            "price": 33000,
+            "maxPrice": null
+          },
+          {
+            "name": "고등어회+전갱이회(2인)",
+            "price": 62000,
+            "maxPrice": null
+          },
+          {
+            "name": "고등어회+전갱이회(3인)",
+            "price": 82000,
+            "maxPrice": null
+          },
+          {
+            "name": "고등어회+전갱이회(4인)",
+            "price": 102000,
+            "maxPrice": null
+          },
+          {
+            "name": "고등어회+활어회 반반(4인)",
+            "price": 94000,
+            "maxPrice": null
+          },
+          {
+            "name": "고등어회+활어회 반반(3인)",
+            "price": 74000,
+            "maxPrice": null
+          },
+          {
+            "name": "고등어회+활어회 반반(2인)",
+            "price": 54000,
+            "maxPrice": null
+          },
+          {
+            "name": "고등어회+활어회 반반(1인)",
+            "price": 33000,
+            "maxPrice": null
+          },
+          {
+            "name": "대박활어회(3인)",
+            "price": 74000,
+            "maxPrice": null
+          },
+          {
+            "name": "대박활어회(2인)",
+            "price": 54000,
+            "maxPrice": null
+          },
+          {
+            "name": "대박활어회(4인)",
+            "price": 94000,
+            "maxPrice": null
+          },
+          {
+            "name": "대박활어회(1인)",
+            "price": 30000,
+            "maxPrice": null
+          },
+          {
+            "name": "갈치화덕구이정식(2토막)",
+            "price": 25000,
+            "maxPrice": null
+          },
+          {
+            "name": "스페셜화덕구이정식",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "고등어화덕구이정식",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "대삼치화덕구이정식",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "전갱이 화덕구이정식",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "고등어묵은지조림 고등어화덕구이세트",
+            "price": 21000,
+            "maxPrice": null
+          },
+          {
+            "name": "고등어묵은지조림정식",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "모듬물회",
+            "price": 28000,
+            "maxPrice": null
+          },
+          {
+            "name": "고등어물회",
+            "price": 24000,
+            "maxPrice": null
+          },
+          {
+            "name": "활어회덮밥",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "활어물회",
+            "price": 17000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 35.1618814,
+          "lng": 129.1567377
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 입력 상호로 시작 ('한어부의고등어사랑 해운대') / 부산 해운대구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 495
+    },
+    {
+      "id": "1415b-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-19",
+        "episode": null,
+        "corner": "맛집 맞수다",
+        "episodeTitle": null,
+        "region": "부산 기장군",
+        "place": "돈바지",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224483391967",
+          "title": "2TV 생생정보 ㅣ기장 겨울철 별미 맛집, 돈바지 기장 시래기버섯전골 솔직 후기",
+          "postedAt": "2026-11-19T05:12:53.000Z"
+        },
+        "dishHints": [
+          "시래기버섯전골"
+        ],
+        "dishVotes": {
+          "시래기버섯전골": 1
+        }
+      },
+      "store": {
+        "name": "돈바지",
+        "url": null,
+        "address": null,
+        "category": "기타",
+        "roadAddress": "부산광역시 기장군 철마면 곰내길 227, 1층",
+        "jibunAddress": "부산광역시 기장군 철마면 웅천리 557-7",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 35.28847852319423,
+          "lng": 129.16641956418854
+        },
+        "licenseDate": "2020-04-28",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '돈바지' + '기장군' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 496
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1415b",
+  "status": "pending",
+  "publishAfter": "2026-11-19T05:29:35.455Z",
+  "preparedAt": "2026-11-19T05:16:35.455Z"
+}
