@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-19",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=565278",
+    "airDate": "2026-11-19",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565278",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 맛있는 퇴근, 얼큰한 김치 전골과 매콤한 두루치기 맛집",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565277",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 관심집중 줌인, 취향을 엮는 뜨개질의 세계",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 2,
+  "targets": 6,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "뚝방길 생김치치기",
+      "region": "서울 용산구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '뚝방길생' + '용산구' / 0건"
+    },
+    {
+      "place": "SiNEKO studio",
+      "region": "서울 성동구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 'SiNE' + '성동구' / 0건"
+    },
+    {
+      "place": "쎄비 하우스",
+      "region": "서울 성동구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '쎄비하우' + '성동구' / 0건"
+    },
+    {
+      "place": "우리모사",
+      "region": "서울 종로구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '우리모사' + '종로구' / 0건"
+    },
+    {
+      "place": "전 세대를 사로잡은 뜨개질 열풍",
+      "region": "대전 유성구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '전세대를' + '유성구' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "얀하우스",
+      "region": "대전 유성구",
+      "name": "얀하우스",
+      "category": "상품 판매 > 건축/인테리어/홈데코 > 침구"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1815",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-19T09:18:41.303Z"
+}
