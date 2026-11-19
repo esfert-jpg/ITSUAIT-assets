@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-19",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224483404611",
+      "program": "생생정보",
+      "title": "2TV 생생정보 ㅣ인천 구월동 쌈밥 맛집, 푸짐한 한 상 인천 구월동 쌈밥촌 솔직 후기",
+      "place": "쌈밥촌",
+      "region": "인천 남동구",
+      "dishes": [
+        "쌈밥"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224483404611",
+      "postedAt": "2026-11-19T05:21:51.000Z",
+      "dishVotes": {
+        "쌈밥": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224483411901",
+      "program": "생생정보",
+      "title": "2TV 생생정보 ㅣ영월 해발 800m 구름 위의 오두막, 영월 모운동시절인연 솔직 후기",
+      "place": "모운동시절인연",
+      "region": "강원 영월군",
+      "dishes": [],
+      "corner": "나나랜드",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224483411901",
+      "postedAt": "2026-11-19T05:27:03.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 2,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1430b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-19",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "인천 남동구",
+        "place": "쌈밥촌",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224483404611",
+          "title": "2TV 생생정보 ㅣ인천 구월동 쌈밥 맛집, 푸짐한 한 상 인천 구월동 쌈밥촌 솔직 후기",
+          "postedAt": "2026-11-19T05:21:51.000Z"
+        },
+        "dishHints": [
+          "쌈밥"
+        ],
+        "dishVotes": {
+          "쌈밥": 1
+        }
+      },
+      "store": {
+        "name": "쌈밥촌",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%8C%88%EB%B0%A5%EC%B4%8C-dqx5s19yd8un/",
+        "address": "인천 남동구 예술로 198 2층 쌈밥촌",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "인천 남동구 예술로 198 2층 쌈밥촌",
+        "jibunAddress": "인천 남동구 구월동 1130",
+        "phone": null,
+        "safePhone": "050713206930",
+        "hours": {
+          "월": "10:00~21:30",
+          "화": "10:00~21:30",
+          "수": "10:00~21:30",
+          "목": "10:00~21:30",
+          "금": "10:00~21:30",
+          "토": "10:00~21:30",
+          "일": "10:00~21:30"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "삼겹쌈밥",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "제육쌈밥",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "불고기쌈밥",
+            "price": 9000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.4517378,
+          "lng": 126.7019632
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "3순위 / 상호 완전 일치 / 인천 남동구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 497
+    }
+  ],
+  "held": [
+    {
+      "place": "모운동시절인연",
+      "region": "강원 영월군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '모운동시' + '영월군' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1430b",
+  "status": "pending",
+  "publishAfter": "2026-11-19T05:45:41.138Z",
+  "preparedAt": "2026-11-19T05:32:41.138Z"
+}
