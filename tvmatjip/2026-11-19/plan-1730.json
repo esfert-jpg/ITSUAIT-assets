@@ -134,7 +134,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1730",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-19T08:47:29.576Z",
-  "preparedAt": "2026-11-19T08:34:29.576Z"
+  "preparedAt": "2026-11-19T08:34:29.576Z",
+  "publishedAt": "2026-11-19T09:01:28.972Z",
+  "result": {
+    "published": [
+      {
+        "name": "남도맛집",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-19.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-19/naver/1730-1.html",
+        "naverTitle": "생생정보 11월 19일 해피 벌(고)쓰(고)데이 전남 고흥 맛집 남도맛집"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
