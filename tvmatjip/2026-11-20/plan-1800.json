@@ -1,0 +1,473 @@
+{
+  "date": "2026-11-20",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=565554",
+    "airDate": "2026-11-20",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565554",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 인생분식, 서천 장항에서 만나는 정성의 한 끼",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565556",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 뜨거운 불맛 전쟁, 서울 영등포 vs 경기 고양 맛집",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565553",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 경북 구미 미용실 마스코트의 정체는?",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565552",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 일상 속 쉼터 동두천, 소요산에서 만나는 힐링",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 4,
+  "targets": 10,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1800-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-11-20",
+        "episode": null,
+        "corner": "맛불 작전",
+        "episodeTitle": null,
+        "region": "서울 영등포구",
+        "place": "양화갈매기",
+        "description": "이번 방송은 '뜨거운 불맛 전쟁'이라는 주제로 진행된다. 서울 영등포구와 경기 고양시에 위치한 음식점을 찾아가 불맛을 중심으로 한 음식 이야기를 전할 예정이다. 먼저 소개되는 곳은 서울 영등포구에 위치한 '양화갈매기'이다. 이번 편에서는 불맛을 주제로 한 주요 취재 장소로 등장한다. 이어 경기 고양시 덕양구에 위치한 '텍캠'을 찾아간다. 이번 방송에서 '양화갈매기'와 함께 소개되는 두 번째 음식점이다. 이번 '맛불 작전'에서는 두 곳을 연결해 '뜨거운 불맛 전쟁'이라는 주제를 다룬다. 서로 다른 지역에 자리한 음식점이 등장한다는 점이 이번 편의 특징이다. 특히 '불맛 전쟁'이라는 방송 제목처럼 불맛을 중심으로 한 음식이 주요 소재다. '양화갈매기'는 서울 영등포구에, '텍캠'은 경기 고양시 덕양구에 자리한 곳이다. 두 음식점을 중심으로 불맛과 관련된 이야기가 펼쳐질 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=565556",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "양화갈매기",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%96%91%ED%99%94%EA%B0%88%EB%A7%A4%EA%B8%B0-xq4x64aeaw73/",
+        "address": "서울 영등포구 선유로54길 14 102동 1층 106호",
+        "category": "음식점 > 한식 > 고기 구이",
+        "roadAddress": "서울 영등포구 선유로54길 14 102동 1층 106호",
+        "jibunAddress": "서울 영등포구 당산동6가 341-1",
+        "phone": null,
+        "safePhone": "050713442889",
+        "hours": {
+          "월": "15:00~27:00",
+          "화": "15:00~27:00",
+          "수": "15:00~27:00",
+          "목": "15:00~27:00",
+          "금": "15:00~27:00",
+          "토": "15:00~27:00",
+          "일": "12:00~24:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "한돈 생가로막이살",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "한돈 통알목살",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "한돈 항정살",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "한돈 오겹살",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "돼지 껍데기",
+            "price": 13000,
+            "maxPrice": null
+          },
+          {
+            "name": "불막창",
+            "price": 17000,
+            "maxPrice": null
+          },
+          {
+            "name": "돼지꼬랑지구이",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "더덕구이",
+            "price": 13000,
+            "maxPrice": null
+          },
+          {
+            "name": "무뼈불닭발",
+            "price": 17000,
+            "maxPrice": null
+          },
+          {
+            "name": "청국장",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "얼큰비지찌개",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "계란탕찜",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "정성가득 솥밥",
+            "price": 3000,
+            "maxPrice": null
+          },
+          {
+            "name": "곤드레표고솥밥",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "들기름굴솥밥",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "인생 삿포로 크림생맥주!!",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "뚝배기 물/비빔냉면",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "소주",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "맥주",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "직접담근 통큰한뿌리인삼주!",
+            "price": 25000,
+            "maxPrice": null
+          },
+          {
+            "name": "청하",
+            "price": 6500,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5356242,
+          "lng": 126.8998363
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 영등포구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 510
+    },
+    {
+      "id": "1800-2",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-11-20",
+        "episode": null,
+        "corner": "맛불 작전",
+        "episodeTitle": null,
+        "region": "경기 고양시",
+        "place": "텍캠",
+        "description": "이번 방송은 '뜨거운 불맛 전쟁'이라는 주제로 진행된다. 서울 영등포구와 경기 고양시에 위치한 음식점을 찾아가 불맛을 중심으로 한 음식 이야기를 전할 예정이다. 먼저 소개되는 곳은 서울 영등포구에 위치한 '양화갈매기'이다. 이번 편에서는 불맛을 주제로 한 주요 취재 장소로 등장한다. 이어 경기 고양시 덕양구에 위치한 '텍캠'을 찾아간다. 이번 방송에서 '양화갈매기'와 함께 소개되는 두 번째 음식점이다. 이번 '맛불 작전'에서는 두 곳을 연결해 '뜨거운 불맛 전쟁'이라는 주제를 다룬다. 서로 다른 지역에 자리한 음식점이 등장한다는 점이 이번 편의 특징이다. 특히 '불맛 전쟁'이라는 방송 제목처럼 불맛을 중심으로 한 음식이 주요 소재다. '양화갈매기'는 서울 영등포구에, '텍캠'은 경기 고양시 덕양구에 자리한 곳이다. 두 음식점을 중심으로 불맛과 관련된 이야기가 펼쳐질 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=565556",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "텍캠",
+        "url": "https://www.daangn.com/kr/local-profile/%ED%85%8D%EC%BA%A0-mp1coiv84pzh/",
+        "address": "경기 고양시 덕양구 충장로282번길 18",
+        "category": "음식점 > 기타 음식점 > 기타 외국 음식",
+        "roadAddress": "경기 고양시 덕양구 충장로282번길 18",
+        "jibunAddress": "경기 고양시 덕양구 화정동 131-3",
+        "phone": null,
+        "safePhone": "050713337333",
+        "hours": {
+          "월": "11:30~21:30",
+          "화": "11:30~21:30",
+          "수": "11:30~21:30",
+          "목": "11:30~21:30",
+          "금": "11:30~21:30",
+          "토": "11:30~21:30",
+          "일": "11:30~21:30"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "14시간 훈연한 3인 바베큐 플래터",
+            "price": 105000,
+            "maxPrice": null
+          },
+          {
+            "name": "14시간 훈연한 4인 바베큐 플래터",
+            "price": 145000,
+            "maxPrice": null
+          },
+          {
+            "name": "14시간 훈연한 7인 바베큐 플래터",
+            "price": 290000,
+            "maxPrice": null
+          },
+          {
+            "name": "14시간 훈연한 2인 바베큐 플래터",
+            "price": 65000,
+            "maxPrice": null
+          },
+          {
+            "name": "소고기 플래터",
+            "price": 78000,
+            "maxPrice": null
+          },
+          {
+            "name": "머쉬룸 크림파스타",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "연어샐러드",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "베이컨 토마토파스타",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "빠네",
+            "price": 23000,
+            "maxPrice": null
+          },
+          {
+            "name": "머쉬룸 크림리조또",
+            "price": 17000,
+            "maxPrice": null
+          },
+          {
+            "name": "풀드포크 크림리조또",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "오늘의 스프",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "새우베이컨 크림파스타",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "시그니처 폴드포크 떡볶이",
+            "price": 17000,
+            "maxPrice": null
+          },
+          {
+            "name": "베이컨 매콤 토마토파스타",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "새우베이컨 토마토파스타",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "수제 리코타치즈 샐러드",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "피쉬&칩",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "로제 크림치즈 떡볶이",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "매콤마늘 크림파스타",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "단짠 단짠 감자튀김",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "14시간 훈연한 프립(200g)",
+            "price": 35000,
+            "maxPrice": null
+          },
+          {
+            "name": "14시간 훈연한 브리스킷(200g)",
+            "price": 25000,
+            "maxPrice": null
+          },
+          {
+            "name": "14시간 훈연한 풀드포크(200g)",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "수비드 치킨 반 마리",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "파티빵(2개)",
+            "price": 2000,
+            "maxPrice": null
+          },
+          {
+            "name": "버터바른 모닝빵(2개)",
+            "price": 2000,
+            "maxPrice": null
+          },
+          {
+            "name": "베이크드빈",
+            "price": 2000,
+            "maxPrice": null
+          },
+          {
+            "name": "코우슬로",
+            "price": 2000,
+            "maxPrice": null
+          },
+          {
+            "name": "감자샐러드",
+            "price": 2000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.6381907,
+          "lng": 126.8390003
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경기 고양시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 511
+    }
+  ],
+  "held": [
+    {
+      "place": "원조 큰길휴게실",
+      "region": "충남 서천군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '원조큰길' + '서천군' / 0건"
+    },
+    {
+      "place": "그리움으로 정성을 잇다",
+      "region": "충남 서천군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '그리움으' + '서천군' / 0건"
+    },
+    {
+      "place": "불맛 전쟁",
+      "region": "경기 고양시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '불맛전쟁' + '고양시' / 0건"
+    },
+    {
+      "place": "리치헤어샵",
+      "region": "경북 구미시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 리치헤어 (서울특별시 강북구 노해로33길 9 (수유동)) — 다른 시군구 (서울특별시 강북구 노해로33길 9 (수유동)) | 2. 리치헤어샵 (충청북도 청주시 상당구 수영로137번길 26 (영운동)) — 다른 시군구 (충청북도 청주시 상당구 수영로137번길 26 (영운동)) | 3. 구미리치헤어샾  (경상북도 구미시 구미중앙로3길 7 (원평동)) — 상호 불일치 (찾은 것: '구미리치헤어샾 ') | 4. 리치미용실 (경상북도 구미시 구미중앙로3길 7 (원평동)) — 상호 불일치 (찾은 것: '리치미용실') | 5. 리치헤어 (서울특별시 동작구 동작대로35사길 3-2) — 다른 시군구 (서울특별시 동작구 동작대로35사길 3-2) | 6. 리즈헤어샵 (서울특별시 관악구 남현3길 59) — 상호 불일치 (찾은 것: '리즈헤어샵') | 7. 리치부동산 (서울특별시 서초구 사임당로 58 (서초동)) — 상호 불일치 (찾은 것: '리치부동산') | 8. 알앤에이치헤어 (서울특별시 강남구 선릉로112길 56, 1층 (삼성동)) — 상호 불일치 (찾은 것: '알앤에이치헤어') | 9. 리안헤어 (서울특별시 서초구 방배로 119 (방배동)) — 상호 불일치 (찾은 것: '리안헤어') | 10. 리치프로헤어 (충청남도 홍성군 홍성읍 충절로1053번길 115) — 상호 불일치 (찾은 것: '리치프로헤어')) / 인허가 '리치헤어' + '구미시' / 0건"
+    },
+    {
+      "place": "미용실 마스코트의 정체는?",
+      "region": "경북 구미시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '미용실마' + '구미시' / 0건"
+    },
+    {
+      "place": "힐링 1번지 동두천",
+      "region": "경기 동두천시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '힐링1번' + '동두천시' / 0건"
+    },
+    {
+      "place": "일상 속 쉼터",
+      "region": "경기 동두천시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '일상속쉼' + '동두천시' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "소요산",
+      "region": "경기 동두천시",
+      "name": "소요산",
+      "category": "관광/명소 > 자연 명소 > 주요산"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1800",
+  "status": "pending",
+  "publishAfter": "2026-11-20T09:16:55.303Z",
+  "preparedAt": "2026-11-20T09:03:55.303Z"
+}
