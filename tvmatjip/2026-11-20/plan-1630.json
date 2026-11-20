@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-20",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=565506",
+    "airDate": "2026-11-20",
+    "episode": null
+  },
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565506",
+      "program": "생생정보",
+      "title": "'생생정보' 힘쓰니까 청춘이다, 마라도 바다에서 일하는 32세 청년",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565505",
+      "program": "생생정보",
+      "title": "'생생정보' 강진의 자연과 마을, 사진 한 컷 여행 가볼 만한 곳",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565504",
+      "program": "생생정보",
+      "title": "'생생정보' 음식 X-파일, 합격을 기원하는 엿과 찹쌀떡",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565503",
+      "program": "생생정보",
+      "title": "'생생정보' 인천 월미도 우삼겹주꾸미볶음과 연포탕 맛집",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565501",
+      "program": "생생정보",
+      "title": "'생생정보' 부산 광안리 이색 케이크, 과일 닮은 디저트의 정체",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 5,
+  "targets": 14,
+  "skipped": [
+    "말랑당",
+    "시즌즈 광안리"
+  ],
+  "stores": [
+    {
+      "id": "1630-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-20",
+        "episode": null,
+        "corner": "장사의 신",
+        "episodeTitle": null,
+        "region": "인천 제물포구",
+        "place": "달쭈꾸미 월미도본점",
+        "description": "이번 방송은 '우주선 볶음(우삼겹주꾸미볶음) + 연포탕'이라는 주제로 진행된다. 인천 월미도에 위치한 음식점을 찾아가 두 가지 요리를 중심으로 이야기를 펼칠 예정이다. 이날 방송에서 소개되는 곳은 인천 제물포구에 위치한 '달쭈꾸미 월미도본점'이다. 이번 편에서는 우삼겹과 주꾸미를 활용한 볶음 요리, 연포탕을 만나는 식당으로 등장한다. 먼저 소개되는 음식은 '우주선 볶음'이다. 우삼겹과 주꾸미를 함께 사용하는 볶음 요리로, 방송에서는 두 재료의 조합에 주목할 예정이다. 이곳에서 안내된 '우쭈식량'은 우삼겹과 주꾸미로 구성된 메뉴이며 가격은 23,900원이다. 추가 메뉴로 우동 사리와 셀프 치즈볶음밥이 각각 3,000원에 안내돼 있다. 함께 소개되는 음식은 연포탕이다. 우삼겹주꾸미볶음과 함께 이번 방송의 주요 메뉴로 등장한다. 다만 연포탕의 구체적인 구성과 가격은 사전 방송정보에 공개되지 않았다. 이번 '장사의 신'에서는 볶음 요리와 탕 요리를 함께 소개한다. 인천 월미도라는 지역을 배경으로 우삼겹주꾸미볶음과 연포탕이 주요 소재로 등장한다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=565503",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "달쭈꾸미",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "인천광역시 제물포구 월미문화로 39, 1층 (북성동1가)",
+        "jibunAddress": "인천광역시 제물포구 북성동1가 98-339",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": null,
+        "licenseDate": "2020-06-11",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '달쭈꾸미' + '제물포구' / 입력 상호의 일부만 상호로 씀 ('달쭈꾸미')",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 508
+    }
+  ],
+  "held": [
+    {
+      "place": "해녀3대할망네",
+      "region": "제주 서귀포시",
+      "name": "원해녀3대",
+      "category": "한식",
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '해녀3대' + '서귀포시' / 상호 불일치 (찾은 것: '원해녀3대')"
+    },
+    {
+      "place": "유일무이!",
+      "region": "제주 서귀포시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '유일무이' + '서귀포시' / 0건"
+    },
+    {
+      "place": "중고저수지",
+      "region": "전남광주통합특별시 강진군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "석문공원",
+      "region": "전남광주통합특별시 강진군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '석문공원' + '강진군' / 0건"
+    },
+    {
+      "place": "화목가마 불지피기 페스티벌",
+      "region": "전남광주통합특별시 강진군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "논정마을",
+      "region": "전남광주통합특별시 강진군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '논정마을' + '강진군' / 0건"
+    },
+    {
+      "place": "신세계 백화점 강남점",
+      "region": "서울 동대문구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '신세계백' + '동대문구' / 0건"
+    },
+    {
+      "place": "우주선 볶음",
+      "region": "인천 제물포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '우주선볶' + '제물포구' / 0건"
+    },
+    {
+      "place": "우쭈식량",
+      "region": "인천 제물포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '우쭈식량' + '제물포구' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "강진짚트랙",
+      "region": "전남광주통합특별시 강진군",
+      "name": "강진짚트랙",
+      "category": "서비스 > 취미/오락 > 오락실"
+    },
+    {
+      "place": "주작산",
+      "region": "전남광주통합특별시 강진군",
+      "name": "주작산",
+      "category": "관광/명소 > 자연 명소 > 주요산"
+    },
+    {
+      "place": "고재구전통쌀엿",
+      "region": "전남광주통합특별시 담양군",
+      "name": "고재구전통쌀엿",
+      "category": "상품 판매 > 식품 > 기타 식품"
+    },
+    {
+      "place": "나미당",
+      "region": "경기 용인시",
+      "name": "나미당",
+      "category": "상품 판매 > 식품 > 떡"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1630",
+  "status": "pending",
+  "publishAfter": "2026-11-20T07:53:19.032Z",
+  "preparedAt": "2026-11-20T07:40:19.032Z"
+}
