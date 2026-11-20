@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-20",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=565463",
+    "airDate": "2026-11-20",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565463",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 용인 처인구 장촌마을 찾아간다, 마을 위치는?",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565461",
+      "program": "6시 내고향",
+      "title": "'6시 내고향' 속초 순대국 맛집 찾아간다…식당 어디?",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 2,
+  "targets": 2,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1500-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-11-20",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "강원특별자치도 속초시",
+        "place": "88순대국",
+        "description": "이번 방송에서는 속초시에 위치한 '88순대국'을 통해 지역에서 만날 수 있는 순대국을 살펴볼 예정이다. 이번에 소개되는 음식은 순대국이다. 순대국은 순대와 고기 등을 국물에 넣어 끓여 내는 음식으로, 한 그릇 식사로 즐길 수 있는 국물 요리이다. 순대국과 관련해 안내된 식당은 강원특별자치도 속초시에 자리한 '88순대국'이다. 이번 방송에서는 이곳을 방문해 순대국을 주요 메뉴로 소개할 예정이다. 속초에서 소개되는 '88순대국'은 이번 방송의 순대국 식당으로 안내된 곳이다. 방송에서는 해당 식당과 순대국에 관한 내용을 통해 속초의 먹거리를 전할 예정이다. 강원특별자치도 속초시의 '88순대국'에서 만나는 순대국 이야기는 KBS1 '6시 내고향'을 통해 소개될 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=565461",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "88순대국",
+        "url": "https://www.daangn.com/kr/local-profile/88%EC%88%9C%EB%8C%80%EA%B5%AD-v5vj85bwnz23/",
+        "address": "강원 속초시 중앙로129번길 35-13 88순대국",
+        "category": "음식점 > 한식 > 탕/전골/찌개",
+        "roadAddress": "강원 속초시 중앙로129번길 35-13 88순대국",
+        "jibunAddress": "강원 속초시 금호동 492-27",
+        "phone": "0336365798",
+        "safePhone": null,
+        "hours": {
+          "월": "07:30~21:00",
+          "화": "07:30~21:00",
+          "수": "07:30~21:00",
+          "목": "07:30~21:00",
+          "금": "07:30~21:00",
+          "토": "07:30~21:00",
+          "일": "07:30~21:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "순대국밥(찰순대)",
+            "price": 11000,
+            "maxPrice": null
+          },
+          {
+            "name": "얼큰 순대국밥",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "아바이순대국밥",
+            "price": 13000,
+            "maxPrice": null
+          },
+          {
+            "name": "김치 순대국밥",
+            "price": 13000,
+            "maxPrice": null
+          },
+          {
+            "name": "소머리 국밥",
+            "price": 13000,
+            "maxPrice": null
+          },
+          {
+            "name": "순대 모듬전골",
+            "price": 26000,
+            "maxPrice": 36000
+          },
+          {
+            "name": "편육",
+            "price": 11000,
+            "maxPrice": null
+          },
+          {
+            "name": "오징어순대",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "아바이순대",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "오징어+아바이 모듬",
+            "price": 26000,
+            "maxPrice": null
+          },
+          {
+            "name": "소머리안주+돼지머리안주",
+            "price": 31000,
+            "maxPrice": null
+          },
+          {
+            "name": "오징어+아바이+편육 모둠",
+            "price": 31000,
+            "maxPrice": null
+          },
+          {
+            "name": "(양이 두배) 순대국 포장",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "(포장) 소머리국",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "(포장) 소 내장탕",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "(포장)선지해장국 2인",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "명태식혜 1kg",
+            "price": 26000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 38.2043788,
+          "lng": 128.5889386
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 강원 속초시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 503
+    }
+  ],
+  "held": [
+    {
+      "place": "영농조합법인장촌마을",
+      "region": "경기 용인시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '영농조합' + '용인시' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1500",
+  "status": "pending",
+  "publishAfter": "2026-11-20T06:14:37.971Z",
+  "preparedAt": "2026-11-20T06:01:37.971Z"
+}
