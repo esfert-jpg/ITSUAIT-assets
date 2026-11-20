@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-20",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224484766141",
+      "program": "생생정보",
+      "title": "2TV 생생정보 ㅣ광안리 과일 케이크 맛집! 리얼한 비주얼 시즌즈 광안리 후기",
+      "place": "시즌즈 광안리",
+      "region": "부산 수영구",
+      "dishes": [
+        "과일 케이크"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224484766141",
+      "postedAt": "2026-11-20T05:41:14.000Z",
+      "dishVotes": {
+        "과일 케이크": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "시즌즈 광안리",
+      "region": "부산 수영구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1445b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-20T05:46:58.357Z"
+}
