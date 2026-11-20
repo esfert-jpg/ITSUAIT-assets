@@ -187,7 +187,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1530b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-20T06:44:03.189Z",
-  "preparedAt": "2026-11-20T06:31:03.189Z"
+  "preparedAt": "2026-11-20T06:31:03.189Z",
+  "publishedAt": "2026-11-20T06:46:11.739Z",
+  "result": {
+    "published": [
+      {
+        "name": "말랑당",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_20.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-20/naver/1530b-1.html",
+        "naverTitle": "생생정보 서울 동대문 이문동 맛집 말랑당"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
