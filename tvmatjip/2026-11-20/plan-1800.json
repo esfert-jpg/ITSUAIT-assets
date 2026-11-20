@@ -467,7 +467,28 @@
   "retry": [],
   "blocked": null,
   "batch": "1800",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-20T09:16:55.303Z",
-  "preparedAt": "2026-11-20T09:03:55.303Z"
+  "preparedAt": "2026-11-20T09:03:55.303Z",
+  "publishedAt": "2026-11-20T09:31:40.771Z",
+  "result": {
+    "published": [
+      {
+        "name": "양화갈매기",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-20_02022361116.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-20/naver/1800-1.html",
+        "naverTitle": "생방송 투데이 11월 20일 맛불 작전 서울 영등포 맛집 양화갈매기"
+      },
+      {
+        "name": "텍캠",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-20_080481363.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-20/naver/1800-2.html",
+        "naverTitle": "생방송 투데이 11월 20일 맛불 작전 경기 고양 화정동 맛집 텍캠"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
