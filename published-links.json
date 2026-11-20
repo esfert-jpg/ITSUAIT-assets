@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-11-19T23:03:46.128Z",
+  "updatedAt": "2026-11-20T23:03:52.211Z",
   "records": [
+    {
+      "date": "2026-11-21",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217632",
+      "title": "오픈AI, 'GPT-6.2' 응답 늦게 받으면 API 요금 최대 40% 할인",
+      "mediaId": "18135925390666568"
+    },
     {
       "date": "2026-11-20",
       "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
