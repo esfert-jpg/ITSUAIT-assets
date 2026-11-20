@@ -188,7 +188,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1630",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-20T07:53:19.032Z",
-  "preparedAt": "2026-11-20T07:40:19.032Z"
+  "preparedAt": "2026-11-20T07:40:19.032Z",
+  "publishedAt": "2026-11-20T08:01:19.708Z",
+  "result": {
+    "published": [
+      {
+        "name": "달쭈꾸미",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-20.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-20/naver/1630-1.html",
+        "naverTitle": "생생정보 11월 20일 장사의 신 인천 제물포 맛집 달쭈꾸미"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
