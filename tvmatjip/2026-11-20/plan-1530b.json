@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-20",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224484816901",
+      "program": "생생정보",
+      "title": "2TV 생생정보 ㅣ이문동 맛집! 정성 가득한 수제 먹거리 말랑당 후기",
+      "place": "말랑당",
+      "region": "서울 동대문구",
+      "dishes": [],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224484816901",
+      "postedAt": "2026-11-20T06:19:42.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1530b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-20",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "서울 동대문구",
+        "place": "말랑당",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224484816901",
+          "title": "2TV 생생정보 ㅣ이문동 맛집! 정성 가득한 수제 먹거리 말랑당 후기",
+          "postedAt": "2026-11-20T06:19:42.000Z"
+        },
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "말랑당",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%A7%90%EB%9E%91%EB%8B%B9-aze2xjpztt6b/",
+        "address": "서울 동대문구 이문로 120 오피스텔동 1층 A125호",
+        "category": "음식점 > 카페/디저트 > 카페",
+        "roadAddress": "서울 동대문구 이문로 120 오피스텔동 1층 A125호",
+        "jibunAddress": "서울 동대문구 이문동 149-8",
+        "phone": null,
+        "safePhone": "050713461699",
+        "hours": {
+          "월": "11:00~20:00",
+          "화": "11:00~20:00",
+          "수": null,
+          "목": null,
+          "금": null,
+          "토": null,
+          "일": null
+        },
+        "breakTime": null,
+        "closedDays": [
+          "수",
+          "목",
+          "금",
+          "토",
+          "일"
+        ],
+        "menu": [
+          {
+            "name": "딸기 모찌",
+            "price": 4000,
+            "maxPrice": null
+          },
+          {
+            "name": "청포도 모찌",
+            "price": 4000,
+            "maxPrice": null
+          },
+          {
+            "name": "오렌지 모찌",
+            "price": 4000,
+            "maxPrice": null
+          },
+          {
+            "name": "골드키위 모찌",
+            "price": 4500,
+            "maxPrice": null
+          },
+          {
+            "name": "파인애플 모찌",
+            "price": 4000,
+            "maxPrice": null
+          },
+          {
+            "name": "망고 모찌",
+            "price": 4800,
+            "maxPrice": null
+          },
+          {
+            "name": "백앙금딸기 모찌",
+            "price": 4000,
+            "maxPrice": null
+          },
+          {
+            "name": "앙모찌",
+            "price": 3500,
+            "maxPrice": null
+          },
+          {
+            "name": "초코딸기 모찌",
+            "price": 4200,
+            "maxPrice": null
+          },
+          {
+            "name": "크림치즈딸기 모찌",
+            "price": 4200,
+            "maxPrice": null
+          },
+          {
+            "name": "초코바나나 모찌",
+            "price": 3500,
+            "maxPrice": null
+          },
+          {
+            "name": "귤 모찌",
+            "price": 4000,
+            "maxPrice": null
+          },
+          {
+            "name": "블루베리 모찌",
+            "price": 4000,
+            "maxPrice": null
+          },
+          {
+            "name": "그린키위 모찌",
+            "price": 4000,
+            "maxPrice": null
+          },
+          {
+            "name": "바스크치즈 모찌",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "요거트딸기 모찌",
+            "price": 5800,
+            "maxPrice": null
+          },
+          {
+            "name": "요거트망고 모찌",
+            "price": 5800,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5967785,
+          "lng": 127.0617875
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 동대문구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 505
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1530b",
+  "status": "pending",
+  "publishAfter": "2026-11-20T06:44:03.189Z",
+  "preparedAt": "2026-11-20T06:31:03.189Z"
+}
