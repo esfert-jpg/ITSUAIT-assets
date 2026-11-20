@@ -183,7 +183,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1500",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-20T06:14:37.971Z",
-  "preparedAt": "2026-11-20T06:01:37.971Z"
+  "preparedAt": "2026-11-20T06:01:37.971Z",
+  "publishedAt": "2026-11-20T06:17:13.021Z",
+  "result": {
+    "published": [
+      {
+        "name": "88순대국",
+        "url": "https://wherethatplace.blogspot.com/2026/11/6-11-20-88.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-20/naver/1500-1.html",
+        "naverTitle": "6시 내고향 11월 20일 강원 속초 금호동 맛집 88순대국"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
