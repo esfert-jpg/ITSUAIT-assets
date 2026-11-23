@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-23",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=565914",
+    "airDate": "2026-11-23",
+    "episode": null
+  },
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565914",
+      "program": "생생정보",
+      "title": "'생생정보' 궁금한 건 못 참지, 담장 뚫은 느티나무의 정체",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 1,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [],
+  "excluded": [
+    {
+      "place": "동학사",
+      "region": "충남 공주시",
+      "name": "동학사",
+      "category": "기업/기관/단체 > 종교 > 대형사찰"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1715",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-23T08:15:44.205Z"
+}
