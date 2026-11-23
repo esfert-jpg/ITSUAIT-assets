@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-23",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "ohs016830/224488446797",
+      "program": "생생정보",
+      "title": "생생정보 할매 밥됩니까, 서울 강남 영동시장 성희 할머니 소머리국밥 맛집 위치정보 ｜예삐네집",
+      "place": "성희 할머니 소머리국밥",
+      "region": "서울 강남구",
+      "dishes": [
+        "소머리국밥"
+      ],
+      "corner": "할매 밥됩니까",
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224488446797",
+      "postedAt": "2026-11-23T06:10:25.000Z",
+      "dishVotes": {
+        "소머리국밥": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "성희 할머니 소머리국밥",
+      "region": "서울 강남구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '성희할머' + '강남구' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1515b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-23T06:16:16.712Z"
+}
