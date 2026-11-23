@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-23",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=565912",
+    "airDate": "2026-11-23",
+    "episode": null
+  },
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565912",
+      "program": "생생정보",
+      "title": "'생생정보' 독한 인생, 어린이 미용으로 일군 월 매출 1천만 원",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565911",
+      "program": "생생정보",
+      "title": "'생생정보' 성희 할매의 소머리국밥, 서울 강남구 영동시장 맛집",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565910",
+      "program": "생생정보",
+      "title": "'생생정보' 장난감도 빌리는 도서관, 육아비 절약의 새로운 방법",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 3,
+  "targets": 2,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "예삐네집",
+      "region": "서울 강남구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "서울장난감도서관",
+      "region": "서울 동작구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1645",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-23T07:48:13.724Z"
+}
