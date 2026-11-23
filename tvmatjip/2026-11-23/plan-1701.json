@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-23",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=565913",
+    "airDate": "2026-11-23",
+    "episode": null
+  },
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565913",
+      "program": "생생정보",
+      "title": "'생생정보' 대부도에서 만나는 풍도, 경기 안산 가볼 만한 곳",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 1,
+  "targets": 2,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "숙이네 민박",
+      "region": "경기 안산시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '숙이네민' + '안산시' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "풍도",
+      "region": "경기 안산시",
+      "name": "풍도",
+      "category": "관광/명소 > 자연 명소 > 섬"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1701",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-23T08:02:11.562Z"
+}
