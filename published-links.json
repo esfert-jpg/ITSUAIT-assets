@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-11-23T23:04:19.265Z",
+  "updatedAt": "2026-11-24T23:04:13.694Z",
   "records": [
+    {
+      "date": "2026-11-25",
+      "url": "https://zdnet.co.kr/view/?no=20261124211002",
+      "title": "DXC, Claude Mythos 기반 관리형 코드 보안 서비스 Frontier Code Assurance 출시",
+      "mediaId": "17915635884484339"
+    },
     {
       "date": "2026-11-24",
       "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
