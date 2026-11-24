@@ -181,7 +181,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1700",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-24T08:16:20.438Z",
-  "preparedAt": "2026-11-24T08:03:20.438Z"
+  "preparedAt": "2026-11-24T08:03:20.438Z",
+  "publishedAt": "2026-11-24T08:31:21.981Z",
+  "result": {
+    "published": [
+      {
+        "name": "탕196",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-24-196.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-24/naver/1700-1.html",
+        "naverTitle": "생방송 투데이 11월 24일 UDT 경기 고양 용두동 맛집 탕196"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
