@@ -404,7 +404,28 @@
   "retry": [],
   "blocked": null,
   "batch": "1631b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-24T07:44:51.480Z",
-  "preparedAt": "2026-11-24T07:31:51.480Z"
+  "preparedAt": "2026-11-24T07:31:51.480Z",
+  "publishedAt": "2026-11-24T07:48:49.301Z",
+  "result": {
+    "published": [
+      {
+        "name": "명동닭한마리 본점",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_24.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-24/naver/1631b-1.html",
+        "naverTitle": "생생정보 핫 플레이스 NOW 서울 종로 닭한마리 맛집 명동닭한마리 본점"
+      },
+      {
+        "name": "쟁반집",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_105.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-24/naver/1631b-2.html",
+        "naverTitle": "생생정보 핫 플레이스 NOW 서울 종로 생선구이 맛집 쟁반집"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
