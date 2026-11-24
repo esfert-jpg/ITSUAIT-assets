@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-24",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=566300",
+    "airDate": "2026-11-24",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이",
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566300",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' UDT, 찬 바람 부는 날 생각나는 우리 동네 빨간 맛",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566298",
+      "program": "생생정보",
+      "title": "'생생정보' 달라야 사는 크리에이터, 모래와 빛으로 만드는 샌드 아티스트의 세계",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566297",
+      "program": "생생정보",
+      "title": "'생생정보' 보성 차밭 전망대부터 해수녹차센터까지 여행 코스",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566296",
+      "program": "생생정보",
+      "title": "'생생정보' 핫 플레이스 NOW, 서울 종로구 닭한마리 골목 탐방",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566281",
+      "program": "생생정보",
+      "title": "'생생정보' 가격파괴 Why, 단돈 1만 원에 즐기는 회 정식",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566280",
+      "program": "생생정보",
+      "title": "'생생정보' 숙소를 찾아 줘, 일과 휴식을 함께 즐기는 완도 여행",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 6,
+  "targets": 7,
+  "skipped": [
+    "정가네원조꼬막회관 본점",
+    "초록잎이 펼치는 세상 티하우스",
+    "명동닭한마리 본점",
+    "쟁반집",
+    "더쌍화",
+    "순희네 닭한마리",
+    "모래뜰스테이"
+  ],
+  "stores": [
+    {
+      "id": "1700-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-11-24",
+        "episode": null,
+        "corner": "UDT",
+        "episodeTitle": null,
+        "region": "경기 고양시",
+        "place": "탕196",
+        "description": "이번 방송은 '추위 녹이는 우리 동네 빨간 맛'이라는 주제로 진행된다. 서울 마포구와 경기 고양시 덕양구에 위치한 두 음식점을 찾아가 추운 계절에 어울리는 먹거리를 살펴볼 예정이다. 먼저 소개되는 곳은 서울 마포구에 위치한 '크레파스'이다. 이번 편에서는 빨간 맛을 주제로 한 먹거리 탐방의 첫 번째 장소로 등장한다. 이어 경기 고양시 덕양구에 위치한 '탕196'을 찾아간다. '크레파스'와 함께 추위를 녹이는 빨간 맛을 선보이는 음식점으로 소개된다. 이번 'UDT'에서는 추운 날씨와 빨간 맛이라는 계절적 소재를 연결해 음식 이야기를 전한다. 서울과 경기도에 각각 자리한 두 음식점을 중심으로 서로 다른 먹거리의 매력을 살펴볼 예정이다. 특히 늦가을 추위를 녹이는 음식이라는 주제에 맞춰 '크레파스'와 '탕196'에서 선보이는 요리에 관심이 모인다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=566300",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "탕196",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "경기도 고양시 덕양구 서오릉로 406-11, 1(전체)층 (용두동)",
+        "jibunAddress": "경기도 고양시 덕양구 용두동 432-378 1층전체",
+        "phone": "02-356-7752",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.62718065453025,
+          "lng": 126.89585540839091
+        },
+        "licenseDate": "2019-03-26",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '탕196' + '고양시' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 545,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 546,
+          "fileId": "AgACAgUAAxUHawVExiw8QKtB_U4XBS1-IOQsq9sAAsIUaxsFtzBUCce9LnYUFgoBAAMCAAN5AAM9BA",
+          "source": "https://dq-files.gcdn.ntruss.com/contract/0196ad73-56fc-753e-bab3-a269d38084ca.jpeg"
+        },
+        {
+          "no": 2,
+          "messageId": 547,
+          "fileId": "AgACAgUAAxUHawVExkHLLJjiR3X9K-WSZXJs2QcAAsEUaxsFtzBUUGWroRfGRpABAAMCAAN5AAM9BA",
+          "source": "https://dq-files.gcdn.ntruss.com/contract/0196ad73-5706-72d2-80fa-a95e6bbe9a09.jpeg"
+        },
+        {
+          "no": 3,
+          "messageId": 548,
+          "fileId": "AgACAgUAAxUHawVEx_Sj-mUJoh78KQh2ZpO7ufIAAsMUaxsFtzBUVlYtZT815swBAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20260616_54/1781571903094NBaeL_JPEG/6712.jpg"
+        },
+        {
+          "no": 4,
+          "messageId": 549,
+          "fileId": "AgACAgUAAxUHawVExxUl5k4fs8gm31olAAGzRw7qAALEFGsbBbcwVPqA65Q57gYMAQADAgADdwADPQQ",
+          "source": "https://ldb-phinf.pstatic.net/20190827_291/1566891742936srRLv_JPEG/RTbv0Nnz3_WreKXMZUVM0MxM.JPG.jpg"
+        }
+      ]
+    }
+  ],
+  "held": [
+    {
+      "place": "크레파스",
+      "region": "서울 마포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 아티쉬 (서울특별시 서초구 남부순환로 2406 예술의전당) — 상호 불일치 (찾은 것: '아티쉬') | 2. 베스트펜 (서울특별시 서초구 효령로 314 연운빌딩) — 상호 불일치 (찾은 것: '베스트펜') | 3. 알파 교대점 (서울특별시 서초구 서초대로 308) — 상호 불일치 (찾은 것: '알파 교대점') | 4. 오피스디포 서초점 (서울특별시 서초구 서초대로 274 (서초동)) — 상호 불일치 (찾은 것: '오피스디포 서초점') | 5. 문구야놀자 강남도곡점 (서울특별시 강남구 남부순환로363길 12-3) — 상호 불일치 (찾은 것: '문구야놀자 강남도곡점') | 6. 문구야놀자 반포삼호가든점 (서울특별시 서초구 고무래로8길 8) — 상호 불일치 (찾은 것: '문구야놀자 반포삼호가든점') | 7. 토너피아 (서울특별시 서초구 반포대로14길 71 LG서초에클라트) — 상호 불일치 (찾은 것: '토너피아') | 8. 플레이그라운드 반포점 (서울특별시 서초구 서초중앙로 238 (반포동)) — 상호 불일치 (찾은 것: '플레이그라운드 반포점') | 9. 굿뉴스드로잉 (서울특별시 서초구 반포대로22길 17) — 상호 불일치 (찾은 것: '굿뉴스드로잉') | 10. 도잉아트(dohingart) (서울특별시 서초구 남부순환로325길 9 DS HALL빌딩) — 상호 불일치 (찾은 것: '도잉아트(dohingart)')) / 인허가 '크레파스' + '마포구' / 2건이라 자동 선택 안 함: 버터크레파스, 크레파스"
+    },
+    {
+      "place": "보성 차밭 전망대",
+      "region": "전남광주통합특별시 보성군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "샤이니 지퍼수선",
+      "region": "서울 종로구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '샤이니지' + '종로구' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "다향농장",
+      "region": "전남광주통합특별시 보성군",
+      "name": "다향농장",
+      "category": "시설 > 산업시설 > 농업시설"
+    },
+    {
+      "place": "율포해수녹차센터",
+      "region": "전남광주통합특별시 보성군",
+      "name": "율포해수녹차센터",
+      "category": "서비스 > 피부/바디 케어 > 목욕/스파"
+    },
+    {
+      "place": "완도해양치유센터",
+      "region": "전남광주통합특별시 완도군",
+      "name": "완도해양치유센터",
+      "category": "관광/명소 > 일반 명소 > 일반 관광지"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1700",
+  "status": "pending",
+  "publishAfter": "2026-11-24T08:16:20.438Z",
+  "preparedAt": "2026-11-24T08:03:20.438Z"
+}
