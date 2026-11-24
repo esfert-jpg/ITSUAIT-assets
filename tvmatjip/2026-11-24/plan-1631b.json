@@ -1,0 +1,410 @@
+{
+  "date": "2026-11-24",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224490103243",
+      "program": "생생정보",
+      "title": "2TV 생생정보 l가격파괴 Why 인천 계양구 1만 원 가성비 한 상 가득 계양구 회 정식 통영수산물회센타",
+      "place": "통영수산물회센타",
+      "region": "인천 계양구",
+      "dishes": [
+        "회 정식"
+      ],
+      "corner": "가격파괴 Why",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224490103243",
+      "postedAt": "2026-11-24T07:17:42.000Z",
+      "dishVotes": {
+        "회 정식": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224490110293",
+      "program": "생생정보",
+      "title": "2TV 생생정보 ㅣ핫 플레이스 NOW 찬 바람 불 때 생각나는 서울 종로 동대문 닭한마리 골목 명동닭한마리 본점",
+      "place": "명동닭한마리 본점",
+      "region": "서울 종로구",
+      "dishes": [
+        "닭한마리"
+      ],
+      "corner": "핫 플레이스 NOW",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224490110293",
+      "postedAt": "2026-11-24T07:22:08.000Z",
+      "dishVotes": {
+        "닭한마리": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224490118334",
+      "program": "생생정보",
+      "title": "2TV 생생정보ㅣ 핫 플레이스 NOW 서울 종로 동대문 연탄불 생선구이 노포 맛집 쟁반집",
+      "place": "쟁반집",
+      "region": "서울 종로구",
+      "dishes": [
+        "생선구이",
+        "밥"
+      ],
+      "corner": "핫 플레이스 NOW",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224490118334",
+      "postedAt": "2026-11-24T07:27:14.000Z",
+      "dishVotes": {
+        "생선구이": 1,
+        "밥": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 3,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1631b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-24",
+        "episode": null,
+        "corner": "핫 플레이스 NOW",
+        "episodeTitle": null,
+        "region": "서울 종로구",
+        "place": "명동닭한마리 본점",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224490110293",
+          "title": "2TV 생생정보 ㅣ핫 플레이스 NOW 찬 바람 불 때 생각나는 서울 종로 동대문 닭한마리 골목 명동닭한마리 본점",
+          "postedAt": "2026-11-24T07:22:08.000Z"
+        },
+        "dishHints": [
+          "닭한마리"
+        ],
+        "dishVotes": {
+          "닭한마리": 1
+        }
+      },
+      "store": {
+        "name": "명동닭한마리 본점",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%AA%85%EB%8F%99%EB%8B%AD%ED%95%9C%EB%A7%88%EB%A6%AC-%EB%B3%B8%EC%A0%90-vy57uxumz7ft/",
+        "address": "서울 종로구 종로40가길 14 명동 닭한마리",
+        "category": "음식점 > 한식 > 닭/오리 요리",
+        "roadAddress": "서울 종로구 종로40가길 14 명동 닭한마리",
+        "jibunAddress": "서울 종로구 종로5가 265-8",
+        "phone": "0222668249",
+        "safePhone": null,
+        "hours": {
+          "월": "10:00~24:30",
+          "화": "10:00~24:30",
+          "수": "10:00~24:30",
+          "목": "10:00~24:30",
+          "금": "10:00~24:30",
+          "토": "10:00~24:30",
+          "일": "10:00~24:30"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "엄나무닭한마리",
+            "price": 33000,
+            "maxPrice": null
+          },
+          {
+            "name": "닭볶음탕",
+            "price": 36000,
+            "maxPrice": null
+          },
+          {
+            "name": "삼계탕",
+            "price": 0,
+            "maxPrice": null
+          },
+          {
+            "name": "모래집볶음",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "보신인삼대추",
+            "price": 4000,
+            "maxPrice": null
+          },
+          {
+            "name": "모래집사리",
+            "price": 2000,
+            "maxPrice": null
+          },
+          {
+            "name": "감자",
+            "price": 2000,
+            "maxPrice": null
+          },
+          {
+            "name": "파",
+            "price": 2000,
+            "maxPrice": null
+          },
+          {
+            "name": "팽이버섯",
+            "price": 2000,
+            "maxPrice": null
+          },
+          {
+            "name": "국수사리",
+            "price": 2000,
+            "maxPrice": null
+          },
+          {
+            "name": "떡사리",
+            "price": 2000,
+            "maxPrice": null
+          },
+          {
+            "name": "찹쌀죽",
+            "price": 2000,
+            "maxPrice": null
+          },
+          {
+            "name": "볶음밥(2인분 기준)",
+            "price": 4000,
+            "maxPrice": null
+          },
+          {
+            "name": "공기밥",
+            "price": 1000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5703217,
+          "lng": 127.0058702
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 종로구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 522,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 523,
+          "fileId": "AgACAgUAAxUHawU9XWdStuA8GeHcM5W9msfhFmYAAp4UaxsFtzBU6Boa5eeE8gsBAAMCAAN3AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNjA0MjRfMTAx/MDAxNzc2OTg2MDI3NzA0.2_6dibVPRvVdlc5ZNVfm8SxTinVYlTb2J-Irqjs7Vs8g.01sONNfJrRVFX7iHB0LSZa0cgDOoHOLy8bdVolrXxnIg.JPEG/PostEncodingTask.885B5DD7-3F1C-4C26-AFB8-DB85DB926281.jpg"
+        },
+        {
+          "no": 2,
+          "messageId": 524,
+          "fileId": "AgACAgUAAxUHawU9XokIDN7giw-1KIAy2Yrz7kAAAp8UaxsFtzBU4DaWPpib8n4BAAMCAAN4AAM9BA",
+          "source": "https://d2uja84sd90jmv.cloudfront.net/posts/zl-y9fpw_Ffz57F9NyRfXA/ms.jpg?updated=-62167392000"
+        },
+        {
+          "no": 3,
+          "messageId": 525,
+          "fileId": "AgACAgUAAxUHawU9XnJ4f81K-pXraGuywATDhFIAAqAUaxsFtzBUBuFj2fdRakoBAAMCAAN3AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNjA0MjRfMjA1/MDAxNzc2OTg2MDI4Nzg2.I3fgOMQz82W0VsnYznSEIzW2hPj_FITHFwRyTyoOGywg.edfgVbUwDDaEPJ-7uYGnwAPZHQvz1u6r9REMdqROiK0g.JPEG/PostEncodingTask.ECAD76EA-45B1-488F-816C-55702B13849F.jpg"
+        },
+        {
+          "no": 4,
+          "messageId": 526,
+          "fileId": "AgACAgUAAxUHawU9XqH4NNkCBswkGXvQQ5Sy6-oAAqEUaxsFtzBU-UpYyIwuXQkBAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20200214_56/1581669579235lwm9m_JPEG/PbsV9FINjs7-f_WMc88zgHi3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1631b-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-24",
+        "episode": null,
+        "corner": "핫 플레이스 NOW",
+        "episodeTitle": null,
+        "region": "서울 종로구",
+        "place": "쟁반집",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224490118334",
+          "title": "2TV 생생정보ㅣ 핫 플레이스 NOW 서울 종로 동대문 연탄불 생선구이 노포 맛집 쟁반집",
+          "postedAt": "2026-11-24T07:27:14.000Z"
+        },
+        "dishHints": [
+          "생선구이",
+          "밥"
+        ],
+        "dishVotes": {
+          "생선구이": 1,
+          "밥": 1
+        }
+      },
+      "store": {
+        "name": "쟁반집",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%9F%81%EB%B0%98%EC%A7%91-dbm8bprtzwy3/",
+        "address": "서울 종로구 종로40가길 7",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "서울 종로구 종로40가길 7",
+        "jibunAddress": "서울 종로구 종로5가 281-10",
+        "phone": "0222714594",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "광릉불고기",
+            "price": 11000,
+            "maxPrice": null
+          },
+          {
+            "name": "낚지볶음",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "오징어볶음",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "부대찌개 (2인이상)",
+            "price": 0,
+            "maxPrice": null
+          },
+          {
+            "name": "김치찌개",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "된장찌개",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "순두부찌개",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "청국장",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "고등어구이",
+            "price": 13000,
+            "maxPrice": null
+          },
+          {
+            "name": "삼치구이",
+            "price": 13000,
+            "maxPrice": null
+          },
+          {
+            "name": "꽁치구이",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "조기구이",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "갈치구이",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "임연수구이",
+            "price": 13000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5702572,
+          "lng": 127.0062513
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "2순위 / 상호 완전 일치 / 서울 종로구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 527,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 528,
+          "fileId": "AgACAgUAAxUHawU9ZpK73AO-_X61mEqeWRPIH7IAAqMUaxsFtzBU9ujdZz-GBJ8BAAMCAAN5AAM9BA",
+          "source": "http://image-logo.alba.kr/%2Fdata_image2%2Fcomlogo%2F202204%2F2022042915115338440_0_m.jpg"
+        },
+        {
+          "no": 2,
+          "messageId": 529,
+          "fileId": "AgACAgUAAxUHawU9ZhUtQCook5Pa5EKcjsBopa8AAqIUaxsFtzBUuxkkiJB2O_kBAAMCAANtAAM9BA",
+          "source": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nov5o7FRgQOWGS2ildTrq4Os5TPUScHtwWdRWgUbDL0cnxpUVWBe4ZltuQiT-ShqZqVeKUa9aGkh3p2Ep_TMgTcDWx1LC443f9WaX9w8vaPajQnS8zgHGB_9yIzzrOXiQx5HDhmcg=w900-h900-p-k-no"
+        },
+        {
+          "no": 3,
+          "messageId": 530,
+          "fileId": "AgACAgUAAxUHawU9Zpapp0y0lNsLpVDzNvWU8h8AAqQUaxsFtzBUhL8OXTw8Zv8BAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20240430_298/1714460673440RQwkU_JPEG/KakaoTalk_20231208_130952460.jpg"
+        },
+        {
+          "no": 4,
+          "messageId": 531,
+          "fileId": "AgACAgUAAxUHawU9ZgrFfZBO7xhA7goUeNwnVn8AAqUUaxsFtzBUBdUTULyyHqcBAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20230108_71/16731706237591rG5p_JPEG/20230108_121519.jpg"
+        }
+      ]
+    }
+  ],
+  "held": [
+    {
+      "place": "통영수산물회센타",
+      "region": "인천 계양구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '통영수산물회센타' + '계양구' / 띄어쓰기만 다른 동명 업소 포함 2건이라 자동 선택 안 함: 통영수산물회센타, 수산물회센타"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1631b",
+  "status": "pending",
+  "publishAfter": "2026-11-24T07:44:51.480Z",
+  "preparedAt": "2026-11-24T07:31:51.480Z"
+}
