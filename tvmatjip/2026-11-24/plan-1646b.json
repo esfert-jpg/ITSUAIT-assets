@@ -1,0 +1,451 @@
+{
+  "date": "2026-11-24",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "ohs016830/224490048945",
+      "program": "생생정보",
+      "title": "생생정보 가격파괴why, 인천광역시 계양구 점심특선 1인 1만원 회정식 맛집 횟집 위치정보 ｜통영수산물회센타",
+      "place": "통영수산물회센타",
+      "region": "인천 계양구",
+      "dishes": [
+        "회정식"
+      ],
+      "corner": "가격파괴 Why",
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224490048945",
+      "postedAt": "2026-11-24T07:30:00.000Z",
+      "dishVotes": {
+        "회정식": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224490126391",
+      "program": "생생정보",
+      "title": "2TV 생생정보 ㅣ서울 종로 동대문역 9번 출구 인근 진한 전통 한방차 동대문 쌍화차 맛집 더쌍화",
+      "place": "더쌍화",
+      "region": "서울 종로구",
+      "dishes": [
+        "동대문 쌍화차"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224490126391",
+      "postedAt": "2026-11-24T07:32:17.000Z",
+      "dishVotes": {
+        "동대문 쌍화차": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224490133826",
+      "program": "생생정보",
+      "title": "2TV 생생정보 ㅣ서울 종로구 동대문 닭한마리 골목 진한 국물 맛집 동대문 순희네 닭한마리",
+      "place": "순희네 닭한마리",
+      "region": "서울 종로구",
+      "dishes": [
+        "닭한마리"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224490133826",
+      "postedAt": "2026-11-24T07:36:57.000Z",
+      "dishVotes": {
+        "닭한마리": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224490139852",
+      "program": "생생정보",
+      "title": "2TV 생생정보ㅣ  보성 벌교읍 푸짐한 한 상 차림 벌교 꼬막정식 맛집 정가네원조꼬막회관 본점",
+      "place": "정가네원조꼬막회관 본점",
+      "region": "전남 보성군",
+      "dishes": [
+        "꼬막정식",
+        "꼬막"
+      ],
+      "corner": "장PD의 AI 여행기",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224490139852",
+      "postedAt": "2026-11-24T07:40:53.000Z",
+      "dishVotes": {
+        "꼬막정식": 1,
+        "꼬막": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224490146523",
+      "program": "생생정보",
+      "title": "2TV 생생정보 ㅣ 전남 보성군 회천면 푸른 차밭 뷰 힐링 명소 보성 녹차 카페 초록잎이 펼치는 세상 티하우스",
+      "place": "초록잎이 펼치는 세상 티하우스",
+      "region": "전남 보성군",
+      "dishes": [],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224490146523",
+      "postedAt": "2026-11-24T07:45:30.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 4,
+  "skipped": [
+    "통영수산물회센타"
+  ],
+  "stores": [
+    {
+      "id": "1646b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-24",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "서울 종로구",
+        "place": "더쌍화",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224490126391",
+          "title": "2TV 생생정보 ㅣ서울 종로 동대문역 9번 출구 인근 진한 전통 한방차 동대문 쌍화차 맛집 더쌍화",
+          "postedAt": "2026-11-24T07:32:17.000Z"
+        },
+        "dishHints": [
+          "동대문 쌍화차"
+        ],
+        "dishVotes": {
+          "동대문 쌍화차": 1
+        }
+      },
+      "store": {
+        "name": "더쌍화 본사",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%8D%94%EC%8C%8D%ED%99%94-%EB%B3%B8%EC%82%AC-89j3hqznmnju/",
+        "address": "서울 종로구 종로 252-6 1층",
+        "category": "음식점 > 카페/디저트 > 카페",
+        "roadAddress": "서울 종로구 종로 252-6 1층",
+        "jibunAddress": "서울 종로구 종로5가 265-12",
+        "phone": "022635700",
+        "safePhone": null,
+        "hours": {
+          "월": "11:00~22:00",
+          "화": "11:00~22:00",
+          "수": "11:00~22:00",
+          "목": "11:00~22:00",
+          "금": "11:00~22:00",
+          "토": "11:00~22:00",
+          "일": "11:00~22:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "황실쌍화세트",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "황실MZ쌍화",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "황실샐러드세트",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "MZ 생강라떼 세트",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "MZ 쌍화라떼 세트",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "MZ 쌍화카푸치노 세트",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "MZ 쌍화스무디 세트",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "MZ 쌍화 세트",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "MZ Latte 세트",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "MZ COFFEE 세트",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "장금이다과세트",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "장금이오미자쌍화세트",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "장금이생강차세트",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "장금이대추차세트",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "장금이헛개쌍화세트",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "장금이홍삼쌍화세트",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "장금이쌍화세트",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "황실산삼(배양근) 세트",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "황실설빙세트",
+            "price": 25000,
+            "maxPrice": null
+          },
+          {
+            "name": "황후수라 세트",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "황실계란쌍화 세트",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "황실커피 세트",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "황실오미자 세트",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "황실생강 세트",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "황실대추 세트",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "황실헛개 세트",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "황실홍삼 세트",
+            "price": 10000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5707402,
+          "lng": 127.0057016
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "2순위 / 입력 상호로 시작 ('더쌍화 본사') / 서울 종로구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 534,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 535,
+          "fileId": "AgACAgUAAxUHawVBGn4Lh-1Q4Dv5CtYdOzBX-J4AAqYUaxsFtzBU9Rp2T6NkgkUBAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20250408_7/1744111748449m6mDV_JPEG/1000019227.jpg"
+        },
+        {
+          "no": 2,
+          "messageId": 536,
+          "fileId": "AgACAgUAAxUHawVBGutrH78jhgHCcA2hHPQAAUx3AAKnFGsbBbcwVElLCT8j6X5oAQADAgADdwADPQQ",
+          "source": "https://ldb-phinf.pstatic.net/20250408_69/1744111741304J2N8x_JPEG/1000019228.jpg"
+        },
+        {
+          "no": 3,
+          "messageId": 537,
+          "fileId": "AgACAgUAAxUHawVBGgXX6qXVdJCyoXIX_cWWQS8AAqgUaxsFtzBUPxrBgwKKmLsBAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20250408_79/1744111763927FS0QH_JPEG/1000019230.jpg"
+        },
+        {
+          "no": 4,
+          "messageId": 538,
+          "fileId": "AgACAgUAAxUHawVBGghQpS2ImlZyJt_SruoFvdIAAqkUaxsFtzBUs1QQvJcutXcBAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20250408_236/1744111521447WSpVk_JPEG/1000019221.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1646b-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-24",
+        "episode": null,
+        "corner": "장PD의 AI 여행기",
+        "episodeTitle": null,
+        "region": "전남 보성군",
+        "place": "정가네원조꼬막회관 본점",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224490139852",
+          "title": "2TV 생생정보ㅣ  보성 벌교읍 푸짐한 한 상 차림 벌교 꼬막정식 맛집 정가네원조꼬막회관 본점",
+          "postedAt": "2026-11-24T07:40:53.000Z"
+        },
+        "dishHints": [
+          "꼬막정식",
+          "꼬막"
+        ],
+        "dishVotes": {
+          "꼬막정식": 1,
+          "꼬막": 1
+        }
+      },
+      "store": {
+        "name": "정가네원조꼬막회관",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "전남광주통합특별시 보성군 벌교읍 조정래길 55",
+        "jibunAddress": "전남광주통합특별시 보성군 벌교읍 회정리 657",
+        "phone": "061-857-9919",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 34.848073449533445,
+          "lng": 127.34474775534328
+        },
+        "licenseDate": "1999-10-27",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '정가네원조꼬막회관' + '보성군' / 입력 상호의 일부만 상호로 씀 ('정가네원조꼬막회관')",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 539,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 540,
+          "fileId": "AgACAgUAAxUHawVBIazMla1ZZG0L5N0s4r-SNqcAAqoUaxsFtzBU1RFjr2CQlQEBAAMCAAN4AAM9BA",
+          "source": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d6c22172-083f-4ab2-8e22-14295257fef2"
+        },
+        {
+          "no": 2,
+          "messageId": 541,
+          "fileId": "AgACAgUAAxUHawVBIgABW5gUtTzc0Gua6KyLvH-TAAKtFGsbBbcwVIcZhODoERsWAQADAgADdwADPQQ",
+          "source": "https://ldb-phinf.pstatic.net/20230526_70/1685087324948TIwBS_JPEG/20230516_160754.jpg"
+        },
+        {
+          "no": 3,
+          "messageId": 542,
+          "fileId": "AgACAgUAAxUHawVBIgXHKxl0KFrSoxqmQuzIrqIAAqsUaxsFtzBU4077mum40jIBAAMCAAN5AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20160711_243/1468224399332Dg54e_JPEG/176661573656044_1.jpeg"
+        },
+        {
+          "no": 4,
+          "messageId": 543,
+          "fileId": "AgACAgUAAxUHawVBIk1OlirWvntMi2LTcNYHH04AAqwUaxsFtzBUEY9KhOHhDL0BAAMCAAN5AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20160711_98/14682244002909Ua1u_JPEG/176661573656044_7.jpeg"
+        }
+      ]
+    }
+  ],
+  "held": [
+    {
+      "place": "순희네 닭한마리",
+      "region": "서울 종로구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 5개 중 상호·시군구가 다 맞는 곳 없음: 1. 수현이네통닭 강남점 (서울특별시 서초구 서운로 138 서초동아타워) — 상호 불일치 (찾은 것: '수현이네통닭 강남점') | 2. 숙이네닭발 (서울 서초구 신반포로 195 반포쇼핑타운) — 상호 불일치 (찾은 것: '숙이네닭발') | 3. 촌닭 닭한마리칼국수 본점 (서울특별시 서초구 방배천로4길 26 (방배동)) — 상호 불일치 (찾은 것: '촌닭 닭한마리칼국수 본점') | 4. 서희네 (서울 강남구 개포로22길 41) — 상호 불일치 (찾은 것: '서희네') | 5. 홍희치킨 (서울특별시 서초구 나루터로 79, 1층 106호 (잠원동)) — 상호 불일치 (찾은 것: '홍희치킨')) / 인허가 '순희네닭' + '종로구' / 0건"
+    },
+    {
+      "place": "초록잎이 펼치는 세상 티하우스",
+      "region": "전남 보성군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '초록잎이' + '보성군' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1646b",
+  "status": "pending",
+  "publishAfter": "2026-11-24T08:00:46.829Z",
+  "preparedAt": "2026-11-24T07:47:46.829Z"
+}
