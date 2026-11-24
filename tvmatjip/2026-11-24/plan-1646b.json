@@ -445,7 +445,28 @@
   "retry": [],
   "blocked": null,
   "batch": "1646b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-24T08:00:46.829Z",
-  "preparedAt": "2026-11-24T07:47:46.829Z"
+  "preparedAt": "2026-11-24T07:47:46.829Z",
+  "publishedAt": "2026-11-24T08:04:20.332Z",
+  "result": {
+    "published": [
+      {
+        "name": "더쌍화 본사",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_942.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-24/naver/1646b-1.html",
+        "naverTitle": "생생정보 서울 종로 동대문 쌍화차 맛집 더쌍화 본사"
+      },
+      {
+        "name": "정가네원조꼬막회관",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_265.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-24/naver/1646b-2.html",
+        "naverTitle": "생생정보 장PD의 AI 여행기 전남 보성 꼬막정식 맛집 정가네원조꼬막회관"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
