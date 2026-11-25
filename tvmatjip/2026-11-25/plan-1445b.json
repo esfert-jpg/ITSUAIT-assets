@@ -172,7 +172,21 @@
   "retry": [],
   "blocked": null,
   "batch": "1445b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-25T05:59:11.462Z",
-  "preparedAt": "2026-11-25T05:46:11.462Z"
+  "preparedAt": "2026-11-25T05:46:11.462Z",
+  "publishedAt": "2026-11-25T06:01:22.413Z",
+  "result": {
+    "published": [
+      {
+        "name": "하숙영가마솥비빔밥",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_408.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-25/naver/1445b-1.html",
+        "naverTitle": "생생정보 전북 전주 비빔밥 맛집 하숙영가마솥비빔밥"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
