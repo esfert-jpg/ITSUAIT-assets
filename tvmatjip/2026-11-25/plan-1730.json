@@ -1,0 +1,292 @@
+{
+  "date": "2026-11-25",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=566585",
+    "airDate": "2026-11-25",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향",
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566585",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 경주 문무대왕릉·신라음식·신라복 체험, 가볼 만한 곳은?",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566584",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 충남 당진에서 만나는 연어, 지역 수산물 소개",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566583",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 연천에서 만나는 전통 목궁 체험, 가볼 만한 곳은?",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566579",
+      "program": "생생정보",
+      "title": "'생생정보' 교통카드면 충분해, 전주 트롤리버스 여행 코스",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566578",
+      "program": "생생정보",
+      "title": "'생생정보' 결정적 한 수, 얼큰한 민물새우매운탕 칼국수 맛집",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566576",
+      "program": "생생정보",
+      "title": "'생생정보' 엄청난 친구들의 아찔한 재능, 시골 학교 소녀의 이야기",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 6,
+  "targets": 13,
+  "skipped": [
+    "팡팡 전동카트",
+    "풍년제과",
+    "하숙영가마솥비빔밥",
+    "공주쌍신집칼국수"
+  ],
+  "stores": [
+    {
+      "id": "1730-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-11-25",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "경북 경주시",
+        "place": "빛꾸리",
+        "description": "경주문무대왕릉과 문무대왕해양역사관을 비롯해 신라음식 체험, 신라복 체험, 색동인절미구이, 자개반지 체험 등 다양한 소재가 등장할 예정이다. 먼저 경주의 역사 유적지인 '경주문무대왕릉'을 소개한다. 문무대왕과 관련된 역사 유적에 이어 '문무대왕해양역사관'도 방송에 등장한다. 두 장소를 통해 문무대왕과 해양 역사를 주제로 한 경주 여행 이야기를 전할 예정이다. 신라의 음식문화를 소재로 한 체험도 마련된다. 신라음식체험관으로 소개되는 곳은 경북 경주시의 '라선재'이다. 신라음식과 관련된 체험을 만나볼 수 있는 장소로, 방문을 희망하는 경우 사전 예약이 필요하다. 이어 신라복 체험을 할 수 있는 '화연한복'도 소개된다. 신라 시대의 복식을 소재로 한 체험으로, 역사 유적지 관람과 함께 경주의 전통문화를 접할 수 있는 여행 소재이다. 경주의 먹거리와 공예 체험을 함께 만나볼 수 있는 카페도 등장한다. 이번 방송에서 소개되는 카페는 경북 경주시에 위치한 '빛꾸리'이다. 이곳에서는 여러 색감을 담은 색동인절미구이와 자개를 활용한 반지 체험이 소개될 예정이다. 문무대왕과 관련된 역사 유적부터 신라의 음식과 복식, 전통적인 소재를 활용한 먹거리와 공예 체험까지 경주의 역사문화 여행을 구성하는 다양한 장소가 이번 방송에 담긴다. 경주문무대왕릉과 문무대왕해양역사관, 라선재, 화연한복, 빛꾸리 등 경주에서 가볼 만한 곳과 다채로운 체험에 관한 자세한 이야기는 KBS1 '6시 내고향'을 통해 만나볼 수 있다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=566585",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "빛꾸리",
+        "url": null,
+        "address": null,
+        "category": "기타",
+        "roadAddress": "경상북도 경주시 손효자길 16-1, 1층 (황남동)",
+        "jibunAddress": "경상북도 경주시 황남동 250",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 35.83748648960088,
+          "lng": 129.21064429327407
+        },
+        "licenseDate": "2021-01-08",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '빛꾸리' + '경주시' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 584,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 585,
+          "fileId": "AgACAgUAAxUHawadg6B0KQaoAAGgC2ibRTV03RdbAAKRFGsbuLMxVOGl-7JKJxz5AQADAgADeAADPQQ",
+          "source": "https://i.pinimg.com/736x/b1/a4/39/b1a439f1ec88e7b84cd2072da17a71dd.jpg"
+        },
+        {
+          "no": 2,
+          "messageId": 586,
+          "fileId": "AgACAgUAAxUHawadgzyPMJjFNL8lWrJiSBbFw40AApMUaxu4szFU4mSfys11Js4BAAMCAAN3AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNTEwMjVfMjMy/MDAxNzYxMzg3MjQ4MzY0.ktttXSS0EcOYTHzg-YkOmc23G5okXHNTN7xJn0XntBIg.mavX_gUrCSKgGOM0ZdPEKbYGjLOOYcav2pvQXXgBPr4g.JPEG/E6FD067A-D420-44F2-AD59-6545F01C77ED.jpg"
+        },
+        {
+          "no": 3,
+          "messageId": 587,
+          "fileId": "AgACAgUAAxUHawadg0B0EVGnAh53u_UKxpdzG8wAApQUaxu4szFUONnolitKDYoBAAMCAAN3AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNjA0MjJfMjYw/MDAxNzc2ODU3OTgzMDYw.e2hytbOgN5J73inZBTb1M-5XbACJviWxYwOkigDoMYwg.a5hSkJ2YIExM5n7e7IW_8xFgepSyPotDV3QNof9CFWwg.JPEG/POST_IMAGE_ENCODING_20260422_203943_293.jpg"
+        },
+        {
+          "no": 4,
+          "messageId": 588,
+          "fileId": "AgACAgUAAxUHawadg0z2Xp1IcZyIYxfydH6dGukAApIUaxu4szFUoywi14iy0TcBAAMCAAN4AAM9BA",
+          "source": "https://i.pinimg.com/736x/b0/31/61/b0316131fafc19bc3e88b17c63d0d056.jpg"
+        }
+      ],
+      "photoAuto": 2
+    },
+    {
+      "id": "1730-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-25",
+        "episode": null,
+        "corner": "교통카드면 충분해",
+        "episodeTitle": null,
+        "region": "전북특별자치도 전주시",
+        "place": "전주한옥마을",
+        "description": "이번 방송은 전북특별자치도 전주시를 배경으로 대중교통을 활용해 다양한 관광 명소와 체험 장소, 먹거리를 만나는 내용으로 진행된다. 먼저 소개되는 곳은 전주시 완산구에 위치한 '전주난장'이다. 이어 전주 여행의 주요 방문지인 '전주한옥마을'을 찾아간다. 전동카트를 이용할 수 있는 '팡팡 전동카트'도 이번 여행에 등장한다. 전주시 완산구에 자리한 곳으로, 한옥마을과 함께 소개되는 체험 장소다. 전주의 먹거리도 만나볼 예정이다. 전주시 완산구에 위치한 '풍년제과' 본점이 이번 방송의 방문 장소에 포함됐다. 이어 '완산벙커 더 스페이스'를 찾아간다. 전주시 완산구에 위치한 공간으로, 이번 트롤리버스 여행에서 소개되는 관광 장소 가운데 하나다. 전주의 음식 이야기는 '하숙영가마솥비빔밥'으로 이어진다. 전주시 완산구에 자리한 음식점으로, 가마솥비빔밥을 중심으로 한 먹거리가 소개될 예정이다. 전주시 덕진구에 위치한 '전주덕진공원'도 방문한다. 완산구의 여러 관광지와 먹거리 장소에 이어 덕진구의 공원까지 살펴보는 구성이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=566579",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "전주한옥마을",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84-zej9s93ocq97/",
+        "address": "전북특별자치도 전주시 완산구 어진길 15",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "전북특별자치도 전주시 완산구 어진길 15",
+        "jibunAddress": "전북특별자치도 전주시 완산구 남노송동 98-13",
+        "phone": "0632310700",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 35.817781,
+          "lng": 127.153886
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "4순위 / 상호 완전 일치 / 전북 전주시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 589,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 590,
+          "fileId": "AgACAgUAAxUHawadjlzFt1B-vQs8SqkR3ivdhGIAApcUaxu4szFUFngG9ytEzQoBAAMCAAN5AAM9BA",
+          "source": "http://mimg3.coupangcdn.com/thumbnails/remote/595/image/product/content/vendorItemPackage/2016/02/01/3007871193/ed580ccc-b6ac-4856-aa10-d9aee1e4cc2c.jpg"
+        },
+        {
+          "no": 2,
+          "messageId": 591,
+          "fileId": "AgACAgUAAxUHawadjllfSmVnmZ6pdwABaCR2WQkCAAKVFGsbuLMxVB3bw7S9qLgSAQADAgADbQADPQQ",
+          "source": "https://www.popco.net/zboard/data2/dica_forum_sony/2019/10/23/15424091675db001685486e.jpg"
+        },
+        {
+          "no": 3,
+          "messageId": 592,
+          "fileId": "AgACAgUAAxUHawadjvzCA1fmUldS6P3sVqVyUOQAApYUaxu4szFUEw5igG85pncBAAMCAANtAAM9BA",
+          "source": "http://www.tanpopohair.com/files/attach/images/482425/367/491/8a12ba079a6a61c47c6fa7dad08ded1e.jpg"
+        },
+        {
+          "no": 4,
+          "messageId": 593,
+          "fileId": "AgACAgUAAxUHawadjs6hMLAC-HNAdXPD3Jh4P-MAApgUaxu4szFUCedoOcpwtHsBAAMCAAN4AAM9BA",
+          "source": "http://imgnews.naver.net/image/5328/2018/09/19/0000013279_001_20180919094912744.jpg"
+        }
+      ],
+      "photoAuto": 1
+    }
+  ],
+  "held": [
+    {
+      "place": "경주문무대왕릉",
+      "region": "경북 경주시",
+      "name": "자담치킨경주문무대왕점",
+      "category": "호프/통닭",
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '경주문무' + '경주시' / 상호 불일치 (찾은 것: '자담치킨경주문무대왕점')"
+    },
+    {
+      "place": "문무대왕해양역사관",
+      "region": "경북 경주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '문무대왕' + '경주시' / 2건이라 자동 선택 안 함: 자담치킨경주문무대왕점, 문무대왕"
+    },
+    {
+      "place": "라선재",
+      "region": "경북 경주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '라선재' + '경주시' / 0건"
+    },
+    {
+      "place": "화연한복",
+      "region": "경북 경주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '화연한복' + '경주시' / 0건"
+    },
+    {
+      "place": "새연양식장",
+      "region": "충남 당진시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 503"
+    },
+    {
+      "place": "사냥꾼의 쉼터 산채",
+      "region": "경기 연천군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '사냥꾼의' + '연천군' / 0건"
+    },
+    {
+      "place": "완산벙커 더 스페이스",
+      "region": "전북특별자치도 전주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "상운초등학교",
+      "region": "경북 봉화군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '상운초등' + '봉화군' / 0건"
+    },
+    {
+      "place": "봉화탁구장",
+      "region": "경북 봉화군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '봉화탁구' + '봉화군' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "전주난장",
+      "region": "전북특별자치도 전주시",
+      "name": "전주난장",
+      "category": "서비스 > 취미/오락 > 오락실"
+    },
+    {
+      "place": "전주덕진공원",
+      "region": "전북특별자치도 전주시",
+      "name": "전주 덕진공원",
+      "category": "시설 > 문화시설 > 기타 문화시설"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1730",
+  "status": "pending",
+  "publishAfter": "2026-11-25T08:34:22.985Z",
+  "preparedAt": "2026-11-25T08:34:22.985Z"
+}
