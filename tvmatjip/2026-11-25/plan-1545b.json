@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-25",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224491600305",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 전주 한옥마을 이색 놀거리 추천, 짜릿한 전주 팡팡 전동카트 체험 후기",
+      "place": "전주 팡팡 전동카트",
+      "region": "전북 전주시",
+      "dishes": [],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224491600305",
+      "postedAt": "2026-11-25T06:38:27.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "전주 팡팡 전동카트",
+      "region": "전북 전주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '전주팡팡' + '전주시' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1545b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-25T06:46:01.842Z"
+}
