@@ -308,7 +308,28 @@
   "retry": [],
   "blocked": null,
   "batch": "1430b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-25T05:44:41.743Z",
-  "preparedAt": "2026-11-25T05:31:41.743Z"
+  "preparedAt": "2026-11-25T05:31:41.743Z",
+  "publishedAt": "2026-11-25T05:46:50.186Z",
+  "result": {
+    "published": [
+      {
+        "name": "공주쌍신집칼국수",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_25.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-25/naver/1430b-1.html",
+        "naverTitle": "생생정보 결정적 한 수 충남 공주 쌍신동 민물새우매운탕 맛집 공주쌍신집칼국수"
+      },
+      {
+        "name": "풍년제과 본점",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_739.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-25/naver/1430b-2.html",
+        "naverTitle": "생생정보 전북 전주 전동 초코파이 맛집 풍년제과 본점"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
