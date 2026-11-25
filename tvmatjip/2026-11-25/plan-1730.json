@@ -286,7 +286,38 @@
   "retry": [],
   "blocked": null,
   "batch": "1730",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-25T08:34:22.985Z",
-  "preparedAt": "2026-11-25T08:34:22.985Z"
+  "preparedAt": "2026-11-25T08:34:22.985Z",
+  "publishedAt": "2026-11-25T08:35:11.653Z",
+  "result": {
+    "published": [
+      {
+        "id": "1730-1",
+        "name": "빛꾸리",
+        "url": "https://wherethatplace.blogspot.com/2026/11/6-11-25.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-25/naver/1730-1.html",
+        "naverTitle": "6시 내고향 11월 25일 경북 경주 황남동 맛집 빛꾸리",
+        "dish": null,
+        "card": "tvmatjip/2026-11-25/photos/1730-1-card.png",
+        "pick": 2,
+        "pickBy": "auto"
+      },
+      {
+        "id": "1730-2",
+        "name": "전주한옥마을",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-25.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-25/naver/1730-2.html",
+        "naverTitle": "생생정보 11월 25일 교통카드면 충분해 전북 전주 남노송동 맛집 전주한옥마을",
+        "dish": null,
+        "card": "tvmatjip/2026-11-25/photos/1730-2-card.png",
+        "pick": 1,
+        "pickBy": "auto"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
