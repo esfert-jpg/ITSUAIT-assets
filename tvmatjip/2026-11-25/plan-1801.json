@@ -1,0 +1,168 @@
+{
+  "date": "2026-11-25",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=566598",
+    "airDate": "2026-11-25",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이",
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566598",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 트렌드 TMI, 서울 종로에서 만나는 MZ세대의 전통문화",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566596",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 삼촌 어디가요, 보령 바다에서 펼쳐지는 가족 이야기",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566593",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 이유 있는 맛플리, 서울 마포구 이색 중식",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566588",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 충북 제천에서 만나는 오색 토마토",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566587",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 정선 황기 이야기, 전통 약재로 활용되는 농산물",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 5,
+  "targets": 6,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1801-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-11-25",
+        "episode": null,
+        "corner": "삼촌 어디가요",
+        "episodeTitle": null,
+        "region": "충남 보령시",
+        "place": "월전리 843",
+        "description": "이번 방송은 '아버지를 따라 바다에서 인생 2막'이라는 주제로 진행된다. 충남 보령시를 배경으로 아버지와 바다, 새로운 인생을 연결한 이야기가 펼쳐질 예정이다. 이날 방송에서 소개되는 곳은 충남 보령시에 위치한 '월전리 843'이다. 이번 편에서는 바다에서 새로운 삶을 시작한 주인공과 관련된 주요 취재 장소로 등장한다. 이번 이야기의 중심에는 아버지의 뒤를 따라 바다로 향한 주인공이 있다. 아버지와의 인연을 바탕으로 인생의 새로운 장을 열어가는 과정에 주목한다. 특히 바다는 이번 방송의 배경이자 인생 2막이라는 주제를 연결하는 주요 소재다. 충남 보령시에서 펼쳐지는 주인공의 이야기를 중심으로 방송이 진행될 예정이다. 이번 '삼촌 어디가요'에서는 아버지를 따라 선택한 새로운 삶과 그 이야기를 담아낸다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=566596",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "월전리843",
+        "url": null,
+        "address": null,
+        "category": "횟집",
+        "roadAddress": "충청남도 보령시 남포면 남포방조제로 408-34, 1, 2층",
+        "jibunAddress": "충청남도 보령시 남포면 월전리 843-32",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 36.27650781917986,
+          "lng": 126.53858841430812
+        },
+        "licenseDate": "2020-10-30",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '월전리843' + '보령시' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 595,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 596,
+          "fileId": "AgACAgUAAxUHawakkTio5opsbIw8WEmvXJ5K17sAAs8Uaxu4szFUemK35qNcE3kBAAMCAANtAAM9BA",
+          "source": "https://d12zq4w4guyljn.cloudfront.net/20250815190010_photo1_a2e1b1990f36.jpg"
+        },
+        {
+          "no": 2,
+          "messageId": 597,
+          "fileId": "AgACAgUAAxUHawakkdvZ1N0gfbdUufzcY-M_WwwAAswUaxu4szFUrr_P3vSZ-bwBAAMCAANtAAM9BA",
+          "source": "https://d12zq4w4guyljn.cloudfront.net/20250815190010_photo2_a2e1b1990f36.jpg"
+        },
+        {
+          "no": 3,
+          "messageId": 598,
+          "fileId": "AgACAgUAAxUHawakkUrBxcGCw0en503adUpuXAYAAs0Uaxu4szFU1qhBdovebT8BAAMCAANtAAM9BA",
+          "source": "https://scontent-nrt1-2.cdninstagram.com/v/t51.29350-15/420043022_1363728100941480_6398913959858701275_n.heic"
+        },
+        {
+          "no": 4,
+          "messageId": 599,
+          "fileId": "AgACAgUAAxUHawakkfN-1yXjTrLtNBIics1pSWgAAs4Uaxu4szFUol4LgBIB-eUBAAMCAANtAAM9BA",
+          "source": "https://d12zq4w4guyljn.cloudfront.net/20250928104609_photo3_27f2665f13f2.webp"
+        }
+      ],
+      "photoAuto": 1
+    }
+  ],
+  "held": [
+    {
+      "place": "전통의 힙한 변신",
+      "region": "서울 종로구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '전통의힙' + '종로구' / 0건"
+    },
+    {
+      "place": "서담헌 홍대본점",
+      "region": "서울 마포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '서담헌홍' + '마포구' / 0건"
+    },
+    {
+      "place": "정선황기연구회",
+      "region": "강원특별자치도 정선군",
+      "name": "정선황기막국수",
+      "category": "한식",
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '정선황기' + '정선군' / 상호 불일치 (찾은 것: '정선황기막국수')"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "진한복",
+      "region": "서울 종로구",
+      "name": "진한복",
+      "category": "서비스 > 대여 > 의복 대여"
+    },
+    {
+      "place": "레드히어로즈",
+      "region": "충북 제천시",
+      "name": "레드히어로즈",
+      "category": "시설 > 산업시설 > 농업시설"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1801",
+  "status": "pending",
+  "publishAfter": "2026-11-25T09:04:18.177Z",
+  "preparedAt": "2026-11-25T09:04:18.177Z"
+}
