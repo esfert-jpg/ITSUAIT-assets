@@ -1,0 +1,314 @@
+{
+  "date": "2026-11-25",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224491469480",
+      "program": "생생정보",
+      "title": "[2TV 생생정보 맛집] 찬 바람 불 때 생각나는 공주 민물새우매운탕 칼국수, 공주쌍신집칼국수 솔직 후기",
+      "place": "공주쌍신집칼국수",
+      "region": "충남 공주시",
+      "dishes": [
+        "민물새우매운탕",
+        "칼국수"
+      ],
+      "corner": "결정적 한 수",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224491469480",
+      "postedAt": "2026-11-25T05:20:19.000Z",
+      "dishVotes": {
+        "민물새우매운탕": 1,
+        "칼국수": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224491481046",
+      "program": "생생정보",
+      "title": "[2TV 생생정보 맛집] 전주 대표 빵지순례 명소, 수제 초코파이 원조 전주 풍년제과 본점 솔직 후기",
+      "place": "풍년제과 본점",
+      "region": "전북 전주시",
+      "dishes": [
+        "초코파이"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224491481046",
+      "postedAt": "2026-11-25T05:27:16.000Z",
+      "dishVotes": {
+        "초코파이": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 2,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1430b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-25",
+        "episode": null,
+        "corner": "결정적 한 수",
+        "episodeTitle": null,
+        "region": "충남 공주시",
+        "place": "공주쌍신집칼국수",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224491469480",
+          "title": "[2TV 생생정보 맛집] 찬 바람 불 때 생각나는 공주 민물새우매운탕 칼국수, 공주쌍신집칼국수 솔직 후기",
+          "postedAt": "2026-11-25T05:20:19.000Z"
+        },
+        "dishHints": [
+          "민물새우매운탕",
+          "칼국수"
+        ],
+        "dishVotes": {
+          "민물새우매운탕": 1,
+          "칼국수": 1
+        }
+      },
+      "store": {
+        "name": "공주쌍신집칼국수",
+        "url": "https://www.daangn.com/kr/local-profile/%EA%B3%B5%EC%A3%BC%EC%8C%8D%EC%8B%A0%EC%A7%91%EC%B9%BC%EA%B5%AD%EC%88%98-nz558y82ye24/",
+        "address": "충청남도 공주시 쌍신길 109-2(쌍신동)",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "충청남도 공주시 쌍신길 109-2(쌍신동)",
+        "jibunAddress": "충청남도 공주시 쌍신동 239-7",
+        "phone": "0418545459",
+        "safePhone": null,
+        "hours": {
+          "월": "11:00~20:30",
+          "화": "11:00~20:30",
+          "수": "11:00~20:30",
+          "목": "11:00~20:30",
+          "금": "11:00~20:30",
+          "토": "11:00~20:30",
+          "일": "11:00~20:30"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "황금면발 물총 알밤칼국수",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "민물새우매운탕 칼국수",
+            "price": 11000,
+            "maxPrice": null
+          },
+          {
+            "name": "해물가득 덮은 바삭파전",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "특품 조개젓 알밤두부김치보쌈",
+            "price": 29000,
+            "maxPrice": null
+          },
+          {
+            "name": "100% 알밤묵 무침",
+            "price": 17000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 36.4814871764797,
+          "lng": 127.119952204133
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 충남 공주시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 561,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 562,
+          "fileId": "AgACAgUAAxUHawZyrjCVw6C_ELgoFf-AQF0Y2EEAAh0Uaxu4szFUbVblpMGPe90BAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20240408_22/17125853533515WRGN_JPEG/KakaoTalk_20230614_180004645_06.jpg"
+        },
+        {
+          "no": 2,
+          "messageId": 563,
+          "fileId": "AgACAgUAAxUHawZyrj2rMJ0IslzraDfxBbubBnwAAhwUaxu4szFU3MRw1e5oR-UBAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20230519_218/16844849837631iW1u_JPEG/KakaoTalk_20230519_120236159_12.jpg"
+        },
+        {
+          "no": 3,
+          "messageId": 564,
+          "fileId": "AgACAgUAAxUHawZyrlG9NKgRSnUbC4U3XKol8bIAAh8Uaxu4szFUIeV0pTsL-O4BAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20240408_92/1712585354292E0jBb_JPEG/KakaoTalk_20230614_180004645.jpg"
+        },
+        {
+          "no": 4,
+          "messageId": 565,
+          "fileId": "AgACAgUAAxUHawZyrsLU-boKUa-Nc2azW0o1ESsAAh4Uaxu4szFUsGRcyPk1DfkBAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20230519_186/1684485068078RFHuD_JPEG/KakaoTalk_20230519_120236159.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1430b-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-25",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "전북 전주시",
+        "place": "풍년제과 본점",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224491481046",
+          "title": "[2TV 생생정보 맛집] 전주 대표 빵지순례 명소, 수제 초코파이 원조 전주 풍년제과 본점 솔직 후기",
+          "postedAt": "2026-11-25T05:27:16.000Z"
+        },
+        "dishHints": [
+          "초코파이"
+        ],
+        "dishVotes": {
+          "초코파이": 1
+        }
+      },
+      "store": {
+        "name": "풍년제과 본점",
+        "url": "https://www.daangn.com/kr/local-profile/%ED%92%8D%EB%85%84%EC%A0%9C%EA%B3%BC-%EB%B3%B8%EC%A0%90-u45sj2bgk6do/",
+        "address": "전북 전주시 완산구 팔달로 141 풍년제과 본점",
+        "category": "음식점 > 카페/디저트 > 베이커리",
+        "roadAddress": "전북 전주시 완산구 팔달로 141 풍년제과 본점",
+        "jibunAddress": "전북 전주시 완산구 전동 100",
+        "phone": "0632313366",
+        "safePhone": null,
+        "hours": {
+          "월": "08:00~22:00",
+          "화": "08:00~22:00",
+          "수": "08:00~22:00",
+          "목": "08:00~22:00",
+          "금": "08:00~22:00",
+          "토": "08:00~22:00",
+          "일": "08:00~22:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "우리밀 수제 초코파이 10개",
+            "price": 23000,
+            "maxPrice": null
+          },
+          {
+            "name": "우리밀 리얼 초코파이 10개",
+            "price": 25000,
+            "maxPrice": null
+          },
+          {
+            "name": "우리밀 화이트 초코파이 10개",
+            "price": 25000,
+            "maxPrice": null
+          },
+          {
+            "name": "우리밀 화이트 붓세 10개",
+            "price": 23000,
+            "maxPrice": null
+          },
+          {
+            "name": "송실전병",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "땅콩전병",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "생강전병",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "김전병",
+            "price": 9000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 35.8151141,
+          "lng": 127.1479543
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 전북 전주시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 566,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 567,
+          "fileId": "AgACAgUAAxUHawZyvJDsTRXGN9N7Yh1E9LazClsAAiEUaxu4szFUYq2sR91_DYcBAAMCAAN5AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNTA4MjZfNTgg/MDAxNzU2MjE3ODM1OTk3.TIjQFqxkbLyMBVFfTx224hD22R09kyGEDS96ZHL6FpEg.iPYSBzLwKyeIyHifyv4m_blr6PpJSHXU1ahHsTjEw-gg.JPEG/POST_IMAGE_ENCODING_20250826_231713_285.jpg"
+        },
+        {
+          "no": 2,
+          "messageId": 568,
+          "fileId": "AgACAgUAAxUHawZyvGQQl2XSsIiMc7oemIAAAUs_AAIjFGsbuLMxVAyhMqmRNo-tAQADAgADdwADPQQ",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNjAxMDNfMjIg/MDAxNzY3NDAyMTEyMTMz.hKaSpKUmHWxTMfFPkbdH6B3UADdJoulhMS-XvNcu0wMg.1CFnQozKAEmkTnjYn4ndj8s1W4nFjgo7QWIkRuc0zRIg.JPEG/POST_IMAGE_ENCODING_20260103_100151_270.jpg"
+        },
+        {
+          "no": 3,
+          "messageId": 569,
+          "fileId": "AgACAgUAAxUHawZyvL1ZsmL4TCxhe8VZ_6kOQJ8AAiAUaxu4szFUU5vGJvz2qGIBAAMCAAN5AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNTExMjBfMjAy/MDAxNzYzNjMyNTk5NDkw.bEnObx8ku2h7-3goyN__4Jh9WzKZXBiW6tqHUlQX5zAg.c5r-6BdCThGxEMDfTw6X5oUbPXKmtH4jy1vjePbK75cg.JPEG/C292F120-D26B-4910-BCE3-F53823D02CBD.jpg"
+        },
+        {
+          "no": 4,
+          "messageId": 570,
+          "fileId": "AgACAgUAAxUHawZyvH4YqP6ofCwUMFVbBkahDjsAAiIUaxu4szFUsqsRriX1ipsBAAMCAAN3AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNjA4MTBfMTg2/MDAxNzg2MzM5NzU2MDU5.KTbT-UGFOlXfe5LMbZoiz1y39C_e0uf_hpuwW_IZHkYg.hW0olcNf2jXyij1YvTvyCL_V-j-hNlNevhYXlpI_uMcg.JPEG/PostEncodingTask.531C254E-7F63-44BA-8FD3-C047AF923F8F.jpg"
+        }
+      ]
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1430b",
+  "status": "pending",
+  "publishAfter": "2026-11-25T05:44:41.743Z",
+  "preparedAt": "2026-11-25T05:31:41.743Z"
+}
