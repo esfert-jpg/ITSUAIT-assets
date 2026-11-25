@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-25",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224491491183",
+      "program": "생생정보",
+      "title": "[2TV 생생정보 맛집] 전주 대표 가마솥비빔밥 명소, 전주 하숙영가마솥비빔밥 솔직 후기",
+      "place": "하숙영가마솥비빔밥",
+      "region": "전북 전주시",
+      "dishes": [
+        "비빔밥"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224491491183",
+      "postedAt": "2026-11-25T05:33:08.000Z",
+      "dishVotes": {
+        "비빔밥": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1445b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-25",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "전북 전주시",
+        "place": "하숙영가마솥비빔밥",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224491491183",
+          "title": "[2TV 생생정보 맛집] 전주 대표 가마솥비빔밥 명소, 전주 하숙영가마솥비빔밥 솔직 후기",
+          "postedAt": "2026-11-25T05:33:08.000Z"
+        },
+        "dishHints": [
+          "비빔밥"
+        ],
+        "dishVotes": {
+          "비빔밥": 1
+        }
+      },
+      "store": {
+        "name": "하숙영가마솥비빔밥",
+        "url": "https://www.daangn.com/kr/local-profile/%ED%95%98%EC%88%99%EC%98%81%EA%B0%80%EB%A7%88%EC%86%A5%EB%B9%84%EB%B9%94%EB%B0%A5-oyo58xbvtwjq/",
+        "address": "전북 전주시 완산구 전라감영5길 19-3 하숙영가마솥비빔밥",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "전북 전주시 완산구 전라감영5길 19-3 하숙영가마솥비빔밥",
+        "jibunAddress": "전북 전주시 완산구 중앙동3가 78-1",
+        "phone": "0632854288",
+        "safePhone": null,
+        "hours": {
+          "월": "11:00~20:30",
+          "화": "11:00~20:30",
+          "수": null,
+          "목": "11:00~20:30",
+          "금": "11:00~20:30",
+          "토": "11:00~20:30",
+          "일": "11:00~20:30"
+        },
+        "breakTime": {
+          "월": "15:30~17:30",
+          "화": "15:30~17:30",
+          "목": "15:30~17:30",
+          "금": "15:30~17:30"
+        },
+        "closedDays": [
+          "수"
+        ],
+        "menu": [
+          {
+            "name": "옛날가마솥육회비빔밥",
+            "price": 18000,
+            "maxPrice": null
+          },
+          {
+            "name": "옛날가마솥비빔밥",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "파전",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "황포묵무침",
+            "price": 13000,
+            "maxPrice": null
+          },
+          {
+            "name": "육회",
+            "price": 35000,
+            "maxPrice": null
+          },
+          {
+            "name": "모주",
+            "price": 3000,
+            "maxPrice": 20000
+          },
+          {
+            "name": "삼계탕",
+            "price": 18000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 35.8174448,
+          "lng": 127.1458432
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 전북 전주시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 571,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 572,
+          "fileId": "AgACAgUAAxUHawZ2IUSUSH0Ma6OHedO8Kiuy0lUAAicUaxu4szFUusEKYOSxPLQBAAMCAAN5AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNjExMDNfMjAw/MDAxNzkzNzExNDUzMzQw.96zLvTWbMpK4KginhNiRYjLOi0dokdL9OI8p2RWIDOQg.-U5_G927iE9BcbWdbNc2Km-pTVsL5NedB28rDxFbpjMg.JPEG/PostEncodingTask.E99A2E75-9E1D-4BA0-9203-643463F58F4C.jpg"
+        },
+        {
+          "no": 2,
+          "messageId": 573,
+          "fileId": "AgACAgUAAxUHawZ2IT8HjnddMISTgmwnKDYyDqYAAigUaxu4szFUoA8caLbJeskBAAMCAAN5AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNjAzMTVfMzgg/MDAxNzczNTUxODc5NjY5.mf2VBCvz9cBgWWDOOAcP2njo450ZKCvuN0vTY6p-Isog.QVAgA1JQffp9KPcT43iuvXU7po5H3KKM_5T6KgPJ3V4g.JPEG/6A154D65-9BBD-478A-BC81-E98629F2247A.jpg"
+        },
+        {
+          "no": 3,
+          "messageId": 574,
+          "fileId": "AgACAgUAAxUHawZ2IVFJfy2C_C1LGh_CtMbuwPgAAikUaxu4szFU9haoy6iQMC0BAAMCAAN5AAM9BA",
+          "source": "https://d2uja84sd90jmv.cloudfront.net/posts/pz0rW4wlLUl2fl6DpESXMw/m.jpg"
+        },
+        {
+          "no": 4,
+          "messageId": 575,
+          "fileId": "AgACAgUAAxUHawZ2IhCs6R7oZkHuOpdDpB4fDy0AAioUaxu4szFUDZH-mc1GUZ0BAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20250705_230/1751678525644itN8V_JPEG/IMG_1516.jpeg"
+        }
+      ]
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1445b",
+  "status": "pending",
+  "publishAfter": "2026-11-25T05:59:11.462Z",
+  "preparedAt": "2026-11-25T05:46:11.462Z"
+}
