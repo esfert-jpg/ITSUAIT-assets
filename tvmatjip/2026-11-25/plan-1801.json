@@ -162,7 +162,26 @@
   "retry": [],
   "blocked": null,
   "batch": "1801",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-25T09:04:18.177Z",
-  "preparedAt": "2026-11-25T09:04:18.177Z"
+  "preparedAt": "2026-11-25T09:04:18.177Z",
+  "publishedAt": "2026-11-25T09:04:51.195Z",
+  "result": {
+    "published": [
+      {
+        "id": "1801-1",
+        "name": "월전리843",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-25-843.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-25/naver/1801-1.html",
+        "naverTitle": "생방송 투데이 11월 25일 삼촌 어디가요 충남 보령 맛집 월전리843",
+        "dish": null,
+        "card": "tvmatjip/2026-11-25/photos/1801-1-card.png",
+        "pick": 1,
+        "pickBy": "auto"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
