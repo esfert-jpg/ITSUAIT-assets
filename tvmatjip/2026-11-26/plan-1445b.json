@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-26",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "ohs016830/224493001518",
+      "program": "생생정보",
+      "title": "생생정보 떠나요 이야기로, 실향민들의 손맛 서울 광장시장 녹두빈대떡·빈대떡 맛집 ｜황해도원조빈대떡",
+      "place": "황해도원조빈대떡",
+      "region": "서울 종로구",
+      "dishes": [
+        "녹두빈대떡",
+        "빈대떡"
+      ],
+      "corner": "떠나요 이야기로",
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224493001518",
+      "postedAt": "2026-11-26T05:40:00.000Z",
+      "dishVotes": {
+        "녹두빈대떡": 1,
+        "빈대떡": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "황해도원조빈대떡",
+      "region": "서울 종로구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '황해도원' + '종로구' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1445b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-26T05:45:55.696Z"
+}
