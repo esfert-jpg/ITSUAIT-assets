@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-26",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224493128277",
+      "program": "생생정보",
+      "title": "생생정보ㅣ 방영 약수역 이북식 찜닭 노포 맛집 약수역 진남포면옥",
+      "place": "진남포면옥",
+      "region": "서울 중구",
+      "dishes": [
+        "이북식 찜닭"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224493128277",
+      "postedAt": "2026-11-26T05:58:24.000Z",
+      "dishVotes": {
+        "이북식 찜닭": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "진남포면옥",
+      "region": "서울 중구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1501b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-26T06:01:36.480Z"
+}
