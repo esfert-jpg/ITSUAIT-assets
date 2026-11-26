@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-26",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=566974",
+    "airDate": "2026-11-26",
+    "episode": null
+  },
+  "programs": [
+    "생방송 투데이",
+    "6시 내고향"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566974",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 어쩌다 한국, 퀴브라가 선보이는 튀르키예의 달콤한 맛",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566973",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 맛있는 퇴근, 소 힘줄로 즐기는 이색 별미",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566970",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 관심집중 줌인, 아빠들의 육아 나들이와 피클볼",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566969",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 경북 상주 곶감·샤인머스캣·식당 소개, 맛집 위치는?",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566968",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 상주 가볼 만한 곳, 요리 공방 지역 먹거리 이야기",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566967",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 식재료 원정대, 상주 쌀 진주완자·샤인머스캣롤·곶감 요리 레시피 공개",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566965",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 상주 쌀누룩 요구르트·샤인머스캣 불고기·곶감 찹쌀떡 레시피 공개",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 7,
+  "targets": 9,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1801-1",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-11-26",
+        "episode": null,
+        "corner": "어쩌다 한국",
+        "episodeTitle": null,
+        "region": "서울 성동구",
+        "place": "하네단",
+        "description": "이번 방송은 '튀르키예 디저트를 만드는 MZ 장인 퀴브라의 달콤한 인생'이라는 주제로 진행된다. 한국에서 튀르키예 디저트를 만드는 퀴브라의 삶과 장인으로서의 이야기를 전할 예정이다. 이날 방송에서 소개되는 곳은 서울 성동구에 위치한 '하네단'이다. 튀르키예 디저트와 퀴브라의 이야기를 만날 수 있는 주요 취재 장소다. 이번 편의 주인공인 퀴브라는 튀르키예 디저트를 만드는 MZ세대 장인이다. 방송에서는 디저트라는 먹거리를 중심으로 한국에서 펼쳐지는 퀴브라의 일상을 살펴볼 예정이다. 특히 튀르키예 디저트와 이를 만드는 장인의 삶이 이번 방송의 주요 소재다. 서울 성동구에 자리한 '하네단'을 배경으로 퀴브라가 선보이는 디저트 이야기가 펼쳐진다. 이번 '어쩌다 한국'에서는 튀르키예의 먹거리와 한국에서 살아가는 디저트 장인의 인생 이야기를 함께 소개한다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=566974",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "하네단",
+        "url": "https://www.daangn.com/kr/local-profile/%ED%95%98%EB%84%A4%EB%8B%A8-q5whqkyo34j9/",
+        "address": "서울특별시 성동구 왕십리로 102 (성수동1가)",
+        "category": "음식점 > 카페/디저트 > 베이커리",
+        "roadAddress": "서울특별시 성동구 왕십리로 102 (성수동1가)",
+        "jibunAddress": "서울특별시 성동구 성수동1가 656-604",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.546628065077876,
+          "lng": 127.04489214753659
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 성동구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 625,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 626,
+          "fileId": "AgACAgUAAxUHawf1yzkgvUqizBsTNqbDB8fDAqgAAqwSaxu4s0FUmb7YwjHqsEgBAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20251022_108/17611146567168zHob_JPEG/WhatsApp_Image_2025-10-19_at_23.35.10_%281%29.jpeg"
+        },
+        {
+          "no": 2,
+          "messageId": 627,
+          "fileId": "AgACAgUAAxUHawf1ywRYEIBZE9Ydur2TW86LYIIAAqsSaxu4s0FU89uDn0iGEfABAAMCAAN5AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20251201_32/1764595095662dQKn5_JPEG/2.jpg"
+        },
+        {
+          "no": 3,
+          "messageId": 628,
+          "fileId": "AgACAgUAAxUHawf1yxMdC42eF-uXJili2BgFh1EAAq0Saxu4s0FU6jH3FMCEyhwBAAMCAAN5AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20251022_149/1761114656633sKTcM_JPEG/WhatsApp_Image_2025-10-19_at_23.34.41.jpeg"
+        },
+        {
+          "no": 4,
+          "messageId": 629,
+          "fileId": "AgACAgUAAxUHawf1y4mpX7vhhPnNDS3jOxegX2YAAq4Saxu4s0FULJDdG_BdMugBAAMCAAN3AAM9BA",
+          "source": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/c4/cd/40/photo0jpg.jpg?w=1600&h=1600&s=1"
+        }
+      ],
+      "photoAuto": 1
+    },
+    {
+      "id": "1801-2",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-11-26",
+        "episode": null,
+        "corner": "맛있는 퇴근",
+        "episodeTitle": null,
+        "region": "서울 마포구",
+        "place": "모양",
+        "description": "이번 방송은 서울 마포구에 위치한 음식점을 찾아가 소 힘줄을 활용한 두 가지 요리를 살펴보는 내용으로 진행된다. 이날 방송에서 소개되는 곳은 서울 마포구에 자리한 '모양'이다. 소 힘줄이라는 식재료를 활용한 볶음과 수육이 이번 편의 주요 메뉴다. 먼저 소개되는 음식은 불타는 소 힘줄 볶음이다. 소 힘줄을 볶음 요리로 선보이는 메뉴로, 이번 방송에서는 불타는 소 힘줄 볶음이라는 이름을 내세웠다. 함께 소개되는 음식은 소 힘줄 수육이다. 볶음과 동일한 식재료를 사용하면서도 수육이라는 다른 형태로 즐길 수 있는 메뉴다. 이번 '맛있는 퇴근'에서는 소 힘줄이라는 공통 식재료를 중심으로 서로 다른 두 가지 요리에 주목한다. 볶음과 수육을 함께 소개하며 퇴근 후 즐길 수 있는 먹거리 이야기를 전할 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=566973",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "모양",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%AA%A8%EC%96%91-m6iyv9x56uca/",
+        "address": "서울 마포구 독막로3길 24-9 1층",
+        "category": "음식점 > 주점/바 > 일반 주점/바",
+        "roadAddress": "서울 마포구 독막로3길 24-9 1층",
+        "jibunAddress": "서울 마포구 서교동 396-54",
+        "phone": null,
+        "safePhone": "050713831032",
+        "hours": {
+          "월": "17:00~24:00",
+          "화": "17:00~24:00",
+          "수": "17:00~24:00",
+          "목": "17:00~24:00",
+          "금": "17:00~25:00",
+          "토": "17:00~25:00",
+          "일": "17:00~24:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "불스지",
+            "price": 32000,
+            "maxPrice": null
+          },
+          {
+            "name": "스지수육",
+            "price": 32000,
+            "maxPrice": null
+          },
+          {
+            "name": "스지&어묵탕",
+            "price": 25000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5492195,
+          "lng": 126.9173602
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "3순위 / 상호 완전 일치 / 서울 마포구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 630,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 631,
+          "fileId": "AgACAgUAAxUHawf12Ruyd_QSv2o2I3PHPNXimVUAAq8Saxu4s0FUFzdg-SUPZboBAAMCAAN4AAM9BA",
+          "source": "http://imgnews.naver.net/image/009/2020/04/07/0004552301_001_20200407115006937.jpg"
+        },
+        {
+          "no": 2,
+          "messageId": 632,
+          "fileId": "AgACAgUAAxUHawf12UduwnRyT247RZNEtRE0SJwAArASaxu4s0FUdu_S3ASr2PwBAAMCAAN5AAM9BA",
+          "source": "https://cdn.crowdpic.net/detail-thumb/thumb_d_6468A759077282730E209742073F2D32.jpg"
+        },
+        {
+          "no": 3,
+          "messageId": 633,
+          "fileId": "AgACAgUAAxUHawf12hi8T0WQcKlC_OWqc7A09NkAArESaxu4s0FU2SPpUkNu2OABAAMCAAN3AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNjA2MTBfMjE2/MDAxNzgxMDcxNjQ0NzYz.rwrH2TIpFF5Jtr5QwBL687lvAjCzl1E9wuSHgkK6pXYg.FirdIN0j1CMz4H_SFHb-KYEbsA3HxL5zfqqs_dhaXggg.PNG/clip-ai-map-drawing_00006_.png"
+        },
+        {
+          "no": 4,
+          "messageId": 634,
+          "fileId": "AgACAgUAAxUHawf12mpdyE1TeAZoiqBXE2ysX9gAArISaxu4s0FUgSgok3dCUw4BAAMCAAN3AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNjA2MTFfMjQ5/MDAxNzgxMTU4NzQwMTcw.rC6vekapKeTvloaj3s7AKfrI1GfopEisxKesAZ6sVm8g.rN0YQ05weNkbVk6FAl9NbDlZgKIqmtXSIvETyPXNG5cg.PNG/clip-ai-map-drawing_00183_.png"
+        }
+      ],
+      "photoAuto": 0
+    }
+  ],
+  "held": [
+    {
+      "place": "엄마에겐 자유를, 아이에겐 추억을! K-아빠들의 단체 나들이",
+      "region": "경기 화성시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '엄마에겐' + '화성시' / 0건"
+    },
+    {
+      "place": "뜨는 라켓 스포츠, 피클볼",
+      "region": "경기 화성시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '뜨는라켓' + '화성시' / 0건"
+    },
+    {
+      "place": "상주 아람곶감",
+      "region": "경북 상주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 꼬깜이네 (null) — 상호 불일치 (찾은 것: '꼬깜이네') | 2. 소문난수제누룽지 (null) — 상호 불일치 (찾은 것: '소문난수제누룽지') | 3. 호동이 상주곶감 (경상북도 상주시 병성천1길 231-26 (인평동)) — 상호 불일치 (찾은 것: '호동이 상주곶감') | 4. 맛있는곶감 (경상북도 상주시 상산로 50 (신봉동)) — 상호 불일치 (찾은 것: '맛있는곶감') | 5. 꼬감은곶감 (경상북도 상주시 외남면 석단로 1274-7) — 상호 불일치 (찾은 것: '꼬감은곶감') | 6. 상주삼백곶감  (경상북도 상주시 낙동면 장천로 438) — 상호 불일치 (찾은 것: '상주삼백곶감 ') | 7. 뜰안길 (경상북도 상주시 복룡3길 38 (복룡동)) — 상호 불일치 (찾은 것: '뜰안길') | 8. 상주낙동곶감 (null) — 상호 불일치 (찾은 것: '상주낙동곶감') | 9. 상주송촌곶감 (경상북도 상주시 낙동면 삼봉로 348-23) — 상호 불일치 (찾은 것: '상주송촌곶감') | 10. 상주다한곶감 (경상북도 상주시 외남면 두곡길 358) — 상호 불일치 (찾은 것: '상주다한곶감')) / 인허가 '상주아람' + '상주시' / 0건"
+    },
+    {
+      "place": "찬누리영농조합법인",
+      "region": "경북 상주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '찬누리영' + '상주시' / 0건"
+    },
+    {
+      "place": "수랏간",
+      "region": "경북 상주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 수랏간 (서울특별시 성동구 금호산2길 22-6) — 다른 시군구 (서울특별시 성동구 금호산2길 22-6) | 2. 수랏간 (서울 성동구 왕십리로20길 19 지하1층) — 다른 시군구 (서울 성동구 왕십리로20길 19 지하1층) | 3. 수랏간 (경기도 성남시 수정구 창업로 42) — 다른 시군구 (경기도 성남시 수정구 창업로 42) | 4. 수라간 (서울 서초구 매헌로 16) — 상호 불일치 (찾은 것: '수라간') | 5. 수랏간 (경기 안양시 만안구 장내로139번길 56-5 2층 카페간판) — 다른 시군구 (경기 안양시 만안구 장내로139번길 56-5 2층 카페간판) | 6. 수라간 (서울특별시 관악구 대학5길 6 (신림동)) — 상호 불일치 (찾은 것: '수라간') | 7. 수라간 (서울 중구 다산로36길 79) — 상호 불일치 (찾은 것: '수라간') | 8. 수라간 (서울특별시 중구 남대문시장길 29, 2층 (남대문로4가)) — 상호 불일치 (찾은 것: '수라간') | 9. 강남수랏간 (서울 강남구 역삼로 410 1층, 2층) — 다른 시군구 (서울 강남구 역삼로 410 1층, 2층) | 10. 수라간 (서울 동대문구 제기로38길 55-9) — 상호 불일치 (찾은 것: '수라간')) / 인허가 '수랏간' + '상주시' / 0건"
+    },
+    {
+      "place": "느린세상",
+      "region": "경북 상주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '느린세상' + '상주시' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "코바이인스헤어",
+      "region": "경기 화성시",
+      "name": "코바이 인스 헤어",
+      "category": "서비스 > 뷰티/미용 > 미용실"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1801",
+  "status": "pending",
+  "publishAfter": "2026-11-26T09:03:22.932Z",
+  "preparedAt": "2026-11-26T09:03:22.932Z"
+}
