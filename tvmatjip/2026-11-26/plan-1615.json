@@ -1,0 +1,289 @@
+{
+  "date": "2026-11-26",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=566858",
+    "airDate": "2026-11-26",
+    "episode": null
+  },
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566858",
+      "program": "생생정보",
+      "title": "'생생정보' 어메이징 코리안, 호주에서 살아가는 한국인 물리치료사",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566857",
+      "program": "생생정보",
+      "title": "'생생정보' 실향민들의 손맛으로 탄생한 서울 명물, 빈대떡부터 족발까지",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566856",
+      "program": "생생정보",
+      "title": "'생생정보' 겨울 바다가 들썩, 속초에서 만나는 대방어",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566855",
+      "program": "생생정보",
+      "title": "'생생정보' 가수 오종혁의 단골 맛집, 서울 강동구 소갈비",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 4,
+  "targets": 5,
+  "skipped": [
+    "황해도원조빈대떡",
+    "진남포면옥",
+    "속초대일호방어",
+    "본옥"
+  ],
+  "stores": [
+    {
+      "id": "1615-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-26",
+        "episode": null,
+        "corner": "떠나요~이야기로(路)",
+        "episodeTitle": null,
+        "region": "서울 중구",
+        "place": "장충동족발골목",
+        "description": "이번 방송은 서울 종로구와 성동구, 중구, 용산구를 배경으로 실향민들의 이야기와 관련된 장소, 음식점을 찾아가는 내용으로 진행된다. 먼저 소개되는 곳은 서울 종로구에 위치한 '광장시장'이다. 시장에 자리한 '황해도원조빈대떡'도 함께 찾아가 빈대떡과 관련된 음식 이야기를 살펴볼 예정이다. 이어 서울 성동구에 위치한 '청계천 판잣집 테마존'을 방문한다. 음식점뿐 아니라 실향민들의 이야기를 주제로 한 여러 장소를 함께 소개하는 구성이다. 서울 중구에 위치한 '진남포면옥'도 이번 방송의 취재 장소에 포함됐다. 이어 서울 용산구의 '해방촌'을 찾아가 지역에 얽힌 이야기를 살펴볼 예정이다. 서울 중구의 '장충동족발골목'도 등장한다. 족발골목에 자리한 '뚱뚱이할머니집'을 함께 소개하며 서울의 먹거리 이야기를 이어간다. 이번 '떠나요~이야기로(路)'에서는 광장시장과 청계천, 해방촌, 장충동 등 서울의 여러 장소를 연결한다. 실향민들의 손맛과 서울의 명물이라는 주제를 중심으로 음식과 지역에 관한 이야기를 전할 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=566857",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "장충동족발",
+        "url": null,
+        "address": null,
+        "category": "한식",
+        "roadAddress": "서울특별시 중구 퇴계로85길 6-2, 1층 (황학동)",
+        "jibunAddress": "서울특별시 중구 황학동 720",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 37.56596710063345,
+          "lng": 127.01987250081761
+        },
+        "licenseDate": "2024-08-26",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '장충동족' + '중구' / 입력 상호의 일부만 상호로 씀 ('장충동족발')",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 614,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 615,
+          "fileId": "AgACAgUAAxUHawfc4tZbNek8mZWIBWxvq-yHjSkAAmUSaxu4s0FUzMSDhcpT4WkBAAMCAANtAAM9BA",
+          "source": "https://image.withstatic.com/property/2025/10/13/2a/2a8e1b1642af4085a2e8db8790333b62.jpg?width=792&height=480&format=webp"
+        },
+        {
+          "no": 2,
+          "messageId": 616,
+          "fileId": "AgACAgUAAxUHawfc4ua5RH0Yta783eNlmQPjepwAAmgSaxu4s0FUSzpCOD0NuqYBAAMCAANtAAM9BA",
+          "source": "http://tong.visitkorea.or.kr/cms/resource/72/3589072_image2_1.jpg"
+        },
+        {
+          "no": 3,
+          "messageId": 617,
+          "fileId": "AgACAgUAAxUHawfc4m_mbFRzgtl8w0jF9XxCqhQAAmcSaxu4s0FUzNXmBZz-8WoBAAMCAANtAAM9BA",
+          "source": "http://tong.visitkorea.or.kr/cms/resource/77/3589077_image2_1.jpg"
+        },
+        {
+          "no": 4,
+          "messageId": 618,
+          "fileId": "AgACAgUAAxUHawfc4lcPbxVWLZmXu2xm06ke-IwAAmYSaxu4s0FUQjl28lK27AMBAAMCAANtAAM9BA",
+          "source": "http://tong.visitkorea.or.kr/cms2/website/95/2609595.jpg"
+        }
+      ],
+      "photoAuto": 3
+    },
+    {
+      "id": "1615-2",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-26",
+        "episode": null,
+        "corner": "떠나요~이야기로(路)",
+        "episodeTitle": null,
+        "region": "서울 중구",
+        "place": "뚱뚱이할머니집",
+        "description": "이번 방송은 서울 종로구와 성동구, 중구, 용산구를 배경으로 실향민들의 이야기와 관련된 장소, 음식점을 찾아가는 내용으로 진행된다. 먼저 소개되는 곳은 서울 종로구에 위치한 '광장시장'이다. 시장에 자리한 '황해도원조빈대떡'도 함께 찾아가 빈대떡과 관련된 음식 이야기를 살펴볼 예정이다. 이어 서울 성동구에 위치한 '청계천 판잣집 테마존'을 방문한다. 음식점뿐 아니라 실향민들의 이야기를 주제로 한 여러 장소를 함께 소개하는 구성이다. 서울 중구에 위치한 '진남포면옥'도 이번 방송의 취재 장소에 포함됐다. 이어 서울 용산구의 '해방촌'을 찾아가 지역에 얽힌 이야기를 살펴볼 예정이다. 서울 중구의 '장충동족발골목'도 등장한다. 족발골목에 자리한 '뚱뚱이할머니집'을 함께 소개하며 서울의 먹거리 이야기를 이어간다. 이번 '떠나요~이야기로(路)'에서는 광장시장과 청계천, 해방촌, 장충동 등 서울의 여러 장소를 연결한다. 실향민들의 손맛과 서울의 명물이라는 주제를 중심으로 음식과 지역에 관한 이야기를 전할 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=566857",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "뚱뚱이할머니집",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%9A%B1%EB%9A%B1%EC%9D%B4%ED%95%A0%EB%A8%B8%EB%8B%88%EC%A7%91-7wide2w8cp2b/",
+        "address": "서울 중구 장충단로 174-1",
+        "category": "음식점 > 한식 > 보쌈/족발",
+        "roadAddress": "서울 중구 장충단로 174-1",
+        "jibunAddress": "서울 중구 장충동1가 62-10",
+        "phone": null,
+        "safePhone": "050713332714",
+        "hours": {
+          "월": "10:00~23:00",
+          "화": null,
+          "수": "10:00~23:00",
+          "목": "10:00~23:00",
+          "금": "10:00~23:00",
+          "토": "10:00~23:00",
+          "일": "10:00~23:00"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "화"
+        ],
+        "menu": [
+          {
+            "name": "둘이먹어",
+            "price": 39000,
+            "maxPrice": null
+          },
+          {
+            "name": "삼대메뉴",
+            "price": 63000,
+            "maxPrice": null
+          },
+          {
+            "name": "족발 대",
+            "price": 50000,
+            "maxPrice": null
+          },
+          {
+            "name": "족발 중",
+            "price": 40000,
+            "maxPrice": null
+          },
+          {
+            "name": "족발 소",
+            "price": 30000,
+            "maxPrice": null
+          },
+          {
+            "name": "파전",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "쟁반국수 (대)",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "빈대떡",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "설렁탕",
+            "price": 11000,
+            "maxPrice": null
+          },
+          {
+            "name": "혼자먹어",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "쟁반막국수(소)",
+            "price": 10000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5604158,
+          "lng": 127.005961
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 중구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 619,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 620,
+          "fileId": "AgACAgUAAxUHawfc7oLMKNKL5Pwerv4C60n4YX4AAmkSaxu4s0FUbYvs98xLstcBAAMCAAN5AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20260509_40/17782907266856LdHt_JPEG/%C6%C4%C0%FC_1.jpg"
+        },
+        {
+          "no": 2,
+          "messageId": 621,
+          "fileId": "AgACAgUAAxUHawfc79bSxr7e1qOB1p2yTH-jrNIAAmoSaxu4s0FUZVHwztgVHf8BAAMCAAN5AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20200821_182/159800007758375JnV_PNG/-7JL-4tJVyF2BSZHn5wqS_c2.png"
+        },
+        {
+          "no": 3,
+          "messageId": 622,
+          "fileId": "AgACAgUAAxUHawfc7x5rN-KLDYmZxlnewSfqCqIAAmsSaxu4s0FU_NNe1b6rrfYBAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20200821_89/1597981074179GfwRp_JPEG/Jmfpllme7NP2qBXsHTZdnksG.jpg"
+        },
+        {
+          "no": 4,
+          "messageId": 623,
+          "fileId": "AgACAgUAAxUHawfc7wlOnysotWgWbLrFU4WFVXwAAmwSaxu4s0FUjdp0SwR_L94BAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20260509_226/17782906751542eaLJ_JPEG/KakaoTalk_20260507_234448621.jpg"
+        }
+      ],
+      "photoAuto": 1
+    }
+  ],
+  "held": [
+    {
+      "place": "청계천 판잣집 테마존",
+      "region": "서울 성동구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '청계천판' + '성동구' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "광장시장",
+      "region": "서울 종로구",
+      "name": "광장시장",
+      "category": "시설 > 상업시설 > 재래시장"
+    },
+    {
+      "place": "해방촌",
+      "region": "서울 용산구",
+      "name": "해방촌",
+      "category": "관광/명소 > 일반 명소 > 유명거리"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1615",
+  "status": "pending",
+  "publishAfter": "2026-11-26T07:17:03.824Z",
+  "preparedAt": "2026-11-26T07:17:03.824Z"
+}
