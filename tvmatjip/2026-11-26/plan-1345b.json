@@ -1,0 +1,237 @@
+{
+  "date": "2026-11-26",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "ohs016830/224492995997",
+      "program": "생생정보",
+      "title": "생생정보 스타밥집, 오종혁 단골맛집 서울 강동구 소갈비·특제 양념 소양념갈비 가수 오종혁 단골 고기 맛집위치정보 ｜본옥",
+      "place": "본옥",
+      "region": "서울 강동구",
+      "dishes": [
+        "소갈비",
+        "소양념갈비"
+      ],
+      "corner": "스타밥집",
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224492995997",
+      "postedAt": "2026-11-26T04:31:38.000Z",
+      "dishVotes": {
+        "소갈비": 1,
+        "소양념갈비": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1345b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-26",
+        "episode": null,
+        "corner": "스타밥집",
+        "episodeTitle": null,
+        "region": "서울 강동구",
+        "place": "본옥",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "ohs016830",
+          "link": "https://blog.naver.com/ohs016830/224492995997",
+          "title": "생생정보 스타밥집, 오종혁 단골맛집 서울 강동구 소갈비·특제 양념 소양념갈비 가수 오종혁 단골 고기 맛집위치정보 ｜본옥",
+          "postedAt": "2026-11-26T04:31:38.000Z"
+        },
+        "dishHints": [
+          "소갈비",
+          "소양념갈비"
+        ],
+        "dishVotes": {
+          "소갈비": 1,
+          "소양념갈비": 1
+        }
+      },
+      "store": {
+        "name": "본옥",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%B3%B8%EC%98%A5-574jbwr7hr12/",
+        "address": "서울특별시 강동구 강동대로 177 (성내동, 현대코랄)",
+        "category": "음식점 > 한식 > 고기 구이",
+        "roadAddress": "서울특별시 강동구 강동대로 177 (성내동, 현대코랄)",
+        "jibunAddress": "서울특별시 강동구 성내동 468-6 현대코랄",
+        "phone": null,
+        "safePhone": null,
+        "hours": {
+          "월": "11:30~22:00",
+          "화": "11:30~22:00",
+          "수": "11:30~22:00",
+          "목": "11:30~22:00",
+          "금": "11:30~22:00",
+          "토": "12:00~22:00",
+          "일": "12:00~22:00"
+        },
+        "breakTime": {
+          "월": "14:00~16:00",
+          "화": "14:00~16:00",
+          "수": "14:00~16:00",
+          "목": "14:00~16:00",
+          "금": "14:00~16:00"
+        },
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "안동식마늘한우갈비",
+            "price": 28000,
+            "maxPrice": null
+          },
+          {
+            "name": "돼지생갈비",
+            "price": 23000,
+            "maxPrice": null
+          },
+          {
+            "name": "돼지양념갈비",
+            "price": 24000,
+            "maxPrice": null
+          },
+          {
+            "name": "소갈비",
+            "price": 36000,
+            "maxPrice": null
+          },
+          {
+            "name": "소양념갈비",
+            "price": 36000,
+            "maxPrice": null
+          },
+          {
+            "name": "안동식 홍물냉면",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "함흥식 물냉면",
+            "price": 11000,
+            "maxPrice": null
+          },
+          {
+            "name": "함흥식 비빔냉면",
+            "price": 11000,
+            "maxPrice": null
+          },
+          {
+            "name": "후식 함흥식 물냉면",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "후식 함흥식 비빔냉면",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "간장 어린이 비빔냉면",
+            "price": 4000,
+            "maxPrice": null
+          },
+          {
+            "name": "바지락 차돌된장찌개",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "국내산묵은지 등갈비찜",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우 앞치마살 육회",
+            "price": 26000,
+            "maxPrice": null
+          },
+          {
+            "name": "양념게장",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "크림치즈호두곶감말이",
+            "price": 5900,
+            "maxPrice": null
+          },
+          {
+            "name": "안동장터국밥",
+            "price": 11000,
+            "maxPrice": null
+          },
+          {
+            "name": "한우육회비빔밥",
+            "price": 13000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5252154434315,
+          "lng": 127.126451598043
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 강동구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 602,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 603,
+          "fileId": "AgACAgUAAxUHawe5k4sHshuFLDp2sjHnfvEb3HkAApgTaxu4szlU5EfjE5pUjAgBAAMCAAN5AAM9BA",
+          "source": "https://ugc-images.catchtable.co.kr/shop/manager/images/413b4089f6ed47f7913b52cf7bf46a78"
+        },
+        {
+          "no": 2,
+          "messageId": 604,
+          "fileId": "AgACAgUAAxUHawe5lO5Bgk-Ub55w9qwQQyXdczUAApsTaxu4szlUPcOdtHjxXrUBAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20251224_213/1766549672522dMqkP_JPEG/PJW06125.jpg"
+        },
+        {
+          "no": 3,
+          "messageId": 605,
+          "fileId": "AgACAgUAAxUHawe5lBs96ug1ySrVqeln25IAAb4aAAKZE2sbuLM5VHiE1SZXVvgnAQADAgADeQADPQQ",
+          "source": "https://file.albamon.com/Albamon/Recruit/Photo/C-Photo-View?FN=2025/11/17/JK_CO_lkzivj25111703050357.png"
+        },
+        {
+          "no": 4,
+          "messageId": 606,
+          "fileId": "AgACAgUAAxUHawe5lCXRIvUC9r9Qa6iPPW1P7BEAApoTaxu4szlUCgsY2lSkr6oBAAMCAAN3AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNTEyMjZfMzYg/MDAxNzY2NzYwMDE3Mjkw.ZfsZATbW8kTj2mG2Kf8hx0bT_EA5URm7o889_kCGodYg.Q8mdhgDgC3s_V7dfuX0QzJttKY7qmhz-K9xSnJalKSYg.JPEG/C7AE21BA-815F-46CB-A407-55D968B9939C.jpg"
+        }
+      ],
+      "photoAuto": 2
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1345b",
+  "status": "pending",
+  "publishAfter": "2026-11-26T04:46:13.668Z",
+  "preparedAt": "2026-11-26T04:46:13.668Z"
+}
