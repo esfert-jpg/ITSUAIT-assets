@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>네이버 원고 · itsuait</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1d2127;--sub:#6b7280;--line:#e3e6ea;--acc:#03c75a;--acc-ink:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#15171a;--card:#1f2226;--ink:#e8eaed;--sub:#9aa0a6;--line:#30343a;--acc:#1ec26b;--acc-ink:#0b1a10}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif}
+main{max-width:720px;margin:0 auto;padding:16px}
+h1{font-size:15px;color:var(--sub);font-weight:600;margin:4px 0 12px}
+section{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin:0 0 12px}
+.head{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:8px}
+.head b{font-size:14px;color:var(--sub)}
+.hint{font-size:12px;color:var(--sub);text-align:right}
+.btn{appearance:none;border:0;border-radius:10px;background:var(--acc);color:var(--acc-ink);font-weight:700;font-size:15px;padding:10px 16px;cursor:pointer;text-decoration:none;display:inline-block}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line);font-weight:600;font-size:14px;padding:8px 12px}
+.box{white-space:pre-wrap;word-break:break-all}
+#body p{margin:0}
+.title{font-size:18px;font-weight:700}
+figure{margin:0 0 12px}figure img{display:block;max-width:100%;border-radius:8px;margin-bottom:6px}
+#toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:999px;font-size:14px;opacity:0;transition:opacity .2s;pointer-events:none}
+#toast.on{opacity:1}
+.steps{font-size:14px;color:var(--sub);margin:0;padding-left:18px}
+</style></head><body><main>
+<h1>네이버 블로그 원고 · itsuait</h1>
+<section><div class="head"><b>① 제목</b><button class="btn" data-copy="title">제목 복사</button></div><div class="box title" id="title">앤트로픽 메시지 API 러스트 전환과 성능 개선 내용</div></section>
+<section><div class="head"><b>② 사진</b><span class="hint">저장 → 공유 시트에서 '이미지 저장'. 또는 사진을 길게 눌러 '사진에 추가'</span></div><figure><img src="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-11-27/080058/blog-cover.png" alt="사진 1"><a class="btn ghost" data-img="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-11-27/080058/blog-cover.png" href="https://esfert-jpg.github.io/ITSUAIT-assets/cards/2026-11-27/080058/blog-cover.png" download="itsuait-1">사진 1 저장</a></figure></section>
+<section><div class="head"><b>③ 본문 (태그 포함)</b><button class="btn" data-copy="body">본문 복사</button></div><div id="body"><p>앤트로픽(Anthropic)이 기존에 파이썬으로 운영하던 메시지 API를 러스트로 전면 교체했어요. 이에 따라 요청당 CPU 사용량을 약 70% 절감하고 첫 토큰 생성 속도도 20% 빨라졌어요. 이번 변화는 클로드(Claude) 모델 사용 앱들의 급격한 트래픽 증가에 대응하기 위해 진행했어요.</p><p><br></p><p>▶ 러스트 전환으로 달라진 메시지 API 성능</p><p>기존 파이썬 기반 메시지 API는 처리 과정이 복잡해 CPU 오버헤드가 컸어요. 여러 검사와 프롬프트 변환 단계를 거치면서 자원 소모가 많았어요. 러스트로 완전히 전환하자 CPU 사용량이 70% 정도 줄었어요.</p><p><br></p><p>성능 개선은 첫 토큰 생성 시간에도 이어져 20%가량 단축했어요. 이 전환 작업은 중단 없이 진행했고, 서비스에 영향을 주지 않았어요. API 트래픽은 2024년 초부터 2026년 가을까지 약 1800배 증가했는데, 이 상황에 맞춘 조치였어요.</p><p><br></p><p>▶ 러스트로 바꾼 배경과 과정은 어떻게 되나</p><p>처음에는 느린 부분만 러스트로 대체해서 CPU 사용량을 8~10% 절감했어요. 하지만 파이썬과 러스트 간 데이터 교환에 따른 부담이 커서 전체 코드를 러스트로 새로 작성하는 쪽으로 방향을 바꿨어요.</p><p><br></p><p>새런 코드는 약 1주일 만에 생성했지만, 정확성과 신뢰성을 검증하는 일이 가장 어렵고 오래 걸렸어요. 클로드 모델 특성과 업데이트 상황으로 테스트가 복잡해졌고, 일부 테스트에서는 기존과 차이가 발생했어요.</p><p><br></p><p>▶ 누가 이번 메시지 API 개선 효과를 누릴 수 있나</p><p>앤트로픽 메시지 API는 클로드, 클로드 코드, 코워크 같은 자체 앱이 AI 모델과 통신하는 핵심 경로로 쓰이고 있어요. 이 API를 이용하는 모든 고객과 서비스 개발자가 CPU 부담 완화와 더 빠른 응답 속도 혜택을 받을 수 있어요.</p><p><br></p><p>특히 트래픽 급증 상황에서도 안정적인 서비스를 필요로 하는 환경에서 이번 전환이 중요한 기반 역할을 해요. 대규모 운영 환경에 적합한 기술 개선이라고 할 수 있어요.</p><p><br></p><p>▶ 전환 시 주의할 점과 검증 과정 특징</p><p>전환은 서비스 중단 없이 진행되었지만, 코드 정확성 검증에 특별히 신경을 써야 해요. 클로드 모델이 같은 입력에도 응답이 달라질 수 있고, 프라이버시 보호를 위해 요청 내용을 직접 확인할 수 없기 때문이에요.</p><p><br></p><p>또 러스트 코드로 바꾸면서 메트릭, 로깅, 디버깅 도구도 전부 새로 준비해야 해서 유지보수가 까다로울 수 있어요. 초기 테스트에서 러스트 코드가 실제 운영 트래픽과 완벽히 일치하지 않아 섀도잉 방식과 지속적인 모니터링을 병행해야 해요.</p><p><br></p><p>출처: 디지털투데이, 바이라인네트워크</p><p><br></p><p>👉 표와 원문 링크까지 정리한 글은 여기 있어요</p><p><a href="https://itsuait.blogspot.com/2026/11/api-cpu-70.html">https://itsuait.blogspot.com/2026/11/api-cpu-70.html</a></p><p><br></p><p>#앤트로픽 #Anthropic #클로드 #Claude #AI뉴스 #IT이슈</p></div></section>
+<section><ol class="steps"><li>네이버 블로그 글쓰기를 연다</li><li>제목 복사 → 제목 칸에 붙여넣기</li><li>사진 저장 → 사진첩에서 본문 맨 위에 첨부</li><li>본문 복사 → 사진 아래에 붙여넣기 (끝의 #태그는 발행할 때 태그로 자동 등록된다)</li><li>발행 또는 예약</li></ol></section>
+</main><div id="toast"></div>
+<script>
+const D={"title":"앤트로픽 메시지 API 러스트 전환과 성능 개선 내용","body":"앤트로픽(Anthropic)이 기존에 파이썬으로 운영하던 메시지 API를 러스트로 전면 교체했어요. 이에 따라 요청당 CPU 사용량을 약 70% 절감하고 첫 토큰 생성 속도도 20% 빨라졌어요. 이번 변화는 클로드(Claude) 모델 사용 앱들의 급격한 트래픽 증가에 대응하기 위해 진행했어요.\n\n▶ 러스트 전환으로 달라진 메시지 API 성능\n기존 파이썬 기반 메시지 API는 처리 과정이 복잡해 CPU 오버헤드가 컸어요. 여러 검사와 프롬프트 변환 단계를 거치면서 자원 소모가 많았어요. 러스트로 완전히 전환하자 CPU 사용량이 70% 정도 줄었어요.\n\n성능 개선은 첫 토큰 생성 시간에도 이어져 20%가량 단축했어요. 이 전환 작업은 중단 없이 진행했고, 서비스에 영향을 주지 않았어요. API 트래픽은 2024년 초부터 2026년 가을까지 약 1800배 증가했는데, 이 상황에 맞춘 조치였어요.\n\n▶ 러스트로 바꾼 배경과 과정은 어떻게 되나\n처음에는 느린 부분만 러스트로 대체해서 CPU 사용량을 8~10% 절감했어요. 하지만 파이썬과 러스트 간 데이터 교환에 따른 부담이 커서 전체 코드를 러스트로 새로 작성하는 쪽으로 방향을 바꿨어요.\n\n새런 코드는 약 1주일 만에 생성했지만, 정확성과 신뢰성을 검증하는 일이 가장 어렵고 오래 걸렸어요. 클로드 모델 특성과 업데이트 상황으로 테스트가 복잡해졌고, 일부 테스트에서는 기존과 차이가 발생했어요.\n\n▶ 누가 이번 메시지 API 개선 효과를 누릴 수 있나\n앤트로픽 메시지 API는 클로드, 클로드 코드, 코워크 같은 자체 앱이 AI 모델과 통신하는 핵심 경로로 쓰이고 있어요. 이 API를 이용하는 모든 고객과 서비스 개발자가 CPU 부담 완화와 더 빠른 응답 속도 혜택을 받을 수 있어요.\n\n특히 트래픽 급증 상황에서도 안정적인 서비스를 필요로 하는 환경에서 이번 전환이 중요한 기반 역할을 해요. 대규모 운영 환경에 적합한 기술 개선이라고 할 수 있어요.\n\n▶ 전환 시 주의할 점과 검증 과정 특징\n전환은 서비스 중단 없이 진행되었지만, 코드 정확성 검증에 특별히 신경을 써야 해요. 클로드 모델이 같은 입력에도 응답이 달라질 수 있고, 프라이버시 보호를 위해 요청 내용을 직접 확인할 수 없기 때문이에요.\n\n또 러스트 코드로 바꾸면서 메트릭, 로깅, 디버깅 도구도 전부 새로 준비해야 해서 유지보수가 까다로울 수 있어요. 초기 테스트에서 러스트 코드가 실제 운영 트래픽과 완벽히 일치하지 않아 섀도잉 방식과 지속적인 모니터링을 병행해야 해요.\n\n출처: 디지털투데이, 바이라인네트워크\n\n👉 표와 원문 링크까지 정리한 글은 여기 있어요\nhttps://itsuait.blogspot.com/2026/11/api-cpu-70.html\n\n#앤트로픽 #Anthropic #클로드 #Claude #AI뉴스 #IT이슈"};
+const toast=(m)=>{const t=document.getElementById('toast');t.textContent=m;t.classList.add('on');setTimeout(()=>t.classList.remove('on'),1400)};
+function selectCopy(el){const r=document.createRange();r.selectNodeContents(el);const s=getSelection();s.removeAllRanges();s.addRange(r);let ok=false;try{ok=document.execCommand('copy')}catch(e){}s.removeAllRanges();return ok}
+async function copyText(t,el){try{await navigator.clipboard.writeText(t);return true}catch(e){return selectCopy(el)}}
+async function copyRich(el,plain){try{if(window.ClipboardItem&&navigator.clipboard&&navigator.clipboard.write){await navigator.clipboard.write([new ClipboardItem({'text/html':new Blob([el.innerHTML],{type:'text/html'}),'text/plain':new Blob([plain],{type:'text/plain'})})]);return true}}catch(e){}return selectCopy(el)}
+document.querySelectorAll('[data-copy]').forEach((b)=>b.addEventListener('click',async()=>{const k=b.dataset.copy;const el=document.getElementById(k);const ok=k==='body'?await copyRich(el,D.body):await copyText(D[k],el);toast(ok?({title:'제목',body:'본문'}[k])+' 복사됨':'복사 실패 — 길게 눌러 직접 복사하세요')}));
+// 사진 저장: 공유 시트 → '이미지 저장' 이 사진첩으로 간다. 사파리는 클릭 뒤 await 가 끼면 share 를 거부해서 미리 받아 둔다.
+// jpg·png 가 아니면(webp 등) 브라우저에서 jpg 로 바꾼다. 네이버가 webp 를 안 받는다 (2026-10-19 사용자 실측).
+// 화면의 <img> 와 PC 내려받기 링크도 바꾼 jpg 로 갈아 끼운다. 길게 눌러 '사진에 추가' 해도 jpg 가 들어간다. 변환이 안 되면 원본 그대로 둔다.
+const IMGS=new Map();
+const toJpg=(b)=>['image/jpeg','image/png'].includes(b.type)?Promise.resolve(b):createImageBitmap(b).then((bm)=>{const c=document.createElement('canvas');c.width=bm.width;c.height=bm.height;const x=c.getContext('2d');x.fillStyle='#fff';x.fillRect(0,0,c.width,c.height);x.drawImage(bm,0,0);return new Promise((ok,no)=>c.toBlob((j)=>j?ok(j):no(new Error('toBlob')),'image/jpeg',0.92))}).catch(()=>b);
+document.querySelectorAll('[data-img]').forEach((a)=>{const u=a.dataset.img;fetch(u,{cache:'no-store'}).then((r)=>r.ok?r.blob():Promise.reject(r.status)).then(toJpg).then((b)=>{const ext=(b.type.split('/')[1]||'png').replace('jpeg','jpg');IMGS.set(u,new File([b],(a.getAttribute('download')||'photo')+'.'+ext,{type:b.type}));if(!u.endsWith('.'+ext)){const o=URL.createObjectURL(b);const img=a.parentElement.querySelector('img');if(img)img.src=o;a.href=o}}).catch(()=>{});
+a.addEventListener('click',(e)=>{const f=IMGS.get(u);if(f&&navigator.share&&navigator.canShare&&navigator.canShare({files:[f]})){e.preventDefault();navigator.share({files:[f]}).catch((err)=>{if(err&&err.name!=='AbortError')toast('공유 실패 — 사진을 길게 눌러 사진에 추가하세요')})}})});
+</script></body></html>
