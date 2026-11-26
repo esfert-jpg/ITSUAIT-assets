@@ -144,7 +144,26 @@
   "retry": [],
   "blocked": null,
   "batch": "1415b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-26T05:16:12.580Z",
-  "preparedAt": "2026-11-26T05:16:12.580Z"
+  "preparedAt": "2026-11-26T05:16:12.580Z",
+  "publishedAt": "2026-11-26T05:16:37.569Z",
+  "result": {
+    "published": [
+      {
+        "id": "1415b-1",
+        "name": "속초대일호방어",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_104.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-26/naver/1415b-1.html",
+        "naverTitle": "생생정보 신VJ특공대 강원 속초 중앙동 대방어 특수부위 맛집 속초대일호방어",
+        "dish": "대방어 특수부위",
+        "card": "tvmatjip/2026-11-26/photos/1415b-1-card.png",
+        "pick": 2,
+        "pickBy": "auto"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
