@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-11-25T23:04:00.083Z",
+  "updatedAt": "2026-11-26T23:03:31.432Z",
   "records": [
+    {
+      "date": "2026-11-27",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718590",
+      "title": "앤트로픽, 메시지 API 파이썬서 러스트로 전환...CPU 사용량 70% 줄여",
+      "mediaId": "18017903256004204"
+    },
     {
       "date": "2026-11-26",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217766",
