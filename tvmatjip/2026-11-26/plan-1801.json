@@ -284,7 +284,38 @@
   "retry": [],
   "blocked": null,
   "batch": "1801",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-26T09:03:22.932Z",
-  "preparedAt": "2026-11-26T09:03:22.932Z"
+  "preparedAt": "2026-11-26T09:03:22.932Z",
+  "publishedAt": "2026-11-26T09:04:22.117Z",
+  "result": {
+    "published": [
+      {
+        "id": "1801-1",
+        "name": "하네단",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-26_01313689324.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-26/naver/1801-1.html",
+        "naverTitle": "생방송 투데이 11월 26일 어쩌다 한국 서울 성동 맛집 하네단",
+        "dish": null,
+        "card": "tvmatjip/2026-11-26/photos/1801-1-card.png",
+        "pick": 1,
+        "pickBy": "auto"
+      },
+      {
+        "id": "1801-2",
+        "name": "모양",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-26_0804967470.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-26/naver/1801-2.html",
+        "naverTitle": "생방송 투데이 11월 26일 맛있는 퇴근 서울 마포 서교동 맛집 모양",
+        "dish": null,
+        "card": "tvmatjip/2026-11-26/photos/1801-2-card.png",
+        "pick": 0,
+        "pickBy": "auto"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
