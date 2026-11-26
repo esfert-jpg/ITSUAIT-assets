@@ -283,7 +283,38 @@
   "retry": [],
   "blocked": null,
   "batch": "1615",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-26T07:17:03.824Z",
-  "preparedAt": "2026-11-26T07:17:03.824Z"
+  "preparedAt": "2026-11-26T07:17:03.824Z",
+  "publishedAt": "2026-11-26T07:18:15.598Z",
+  "result": {
+    "published": [
+      {
+        "id": "1615-1",
+        "name": "장충동족발",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-26.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-26/naver/1615-1.html",
+        "naverTitle": "생생정보 11월 26일 떠나요~이야기로(路) 서울 중구 황학동 맛집 장충동족발",
+        "dish": null,
+        "card": "tvmatjip/2026-11-26/photos/1615-1-card.png",
+        "pick": 3,
+        "pickBy": "auto"
+      },
+      {
+        "id": "1615-2",
+        "name": "뚱뚱이할머니집",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-26_0978243198.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-26/naver/1615-2.html",
+        "naverTitle": "생생정보 11월 26일 떠나요~이야기로(路) 서울 중구 맛집 뚱뚱이할머니집",
+        "dish": null,
+        "card": "tvmatjip/2026-11-26/photos/1615-2-card.png",
+        "pick": 1,
+        "pickBy": "auto"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
