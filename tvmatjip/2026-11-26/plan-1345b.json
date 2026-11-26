@@ -231,7 +231,26 @@
   "retry": [],
   "blocked": null,
   "batch": "1345b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-26T04:46:13.668Z",
-  "preparedAt": "2026-11-26T04:46:13.668Z"
+  "preparedAt": "2026-11-26T04:46:13.668Z",
+  "publishedAt": "2026-11-26T04:46:34.505Z",
+  "result": {
+    "published": [
+      {
+        "id": "1345b-1",
+        "name": "본옥",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_26.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-26/naver/1345b-1.html",
+        "naverTitle": "생생정보 스타밥집 서울 강동 성내동 소갈비 맛집 본옥",
+        "dish": "소갈비",
+        "card": "tvmatjip/2026-11-26/photos/1345b-1-card.png",
+        "pick": 2,
+        "pickBy": "auto"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
