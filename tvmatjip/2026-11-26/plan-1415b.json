@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-26",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "ohs016830/224492998497",
+      "program": "생생정보",
+      "title": "생생정보 신VJ특공대, 강원도 속초 제철 대방어 특수부위·모둠회·초밥 맛집 횟집 ｜속초대일호방어",
+      "place": "속초대일호방어",
+      "region": "강원 속초시",
+      "dishes": [
+        "대방어 특수부위",
+        "모둠회",
+        "초밥"
+      ],
+      "corner": "신VJ특공대",
+      "blog": "ohs016830",
+      "link": "https://blog.naver.com/ohs016830/224492998497",
+      "postedAt": "2026-11-26T05:00:00.000Z",
+      "dishVotes": {
+        "대방어 특수부위": 1,
+        "모둠회": 1,
+        "초밥": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1415b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-26",
+        "episode": null,
+        "corner": "신VJ특공대",
+        "episodeTitle": null,
+        "region": "강원 속초시",
+        "place": "속초대일호방어",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "ohs016830",
+          "link": "https://blog.naver.com/ohs016830/224492998497",
+          "title": "생생정보 신VJ특공대, 강원도 속초 제철 대방어 특수부위·모둠회·초밥 맛집 횟집 ｜속초대일호방어",
+          "postedAt": "2026-11-26T05:00:00.000Z"
+        },
+        "dishHints": [
+          "대방어 특수부위",
+          "모둠회",
+          "초밥"
+        ],
+        "dishVotes": {
+          "대방어 특수부위": 1,
+          "모둠회": 1,
+          "초밥": 1
+        }
+      },
+      "store": {
+        "name": "속초대일호방어",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%86%8D%EC%B4%88%EB%8C%80%EC%9D%BC%ED%98%B8%EB%B0%A9%EC%96%B4-foa3t9j1smps/",
+        "address": "강원특별자치도 속초시 중앙로147번길 16 (중앙동)",
+        "category": "음식점 > 한식 > 수산물/횟집",
+        "roadAddress": "강원특별자치도 속초시 중앙로147번길 16 (중앙동)",
+        "jibunAddress": "강원특별자치도 속초시 중앙동 471-4",
+        "phone": null,
+        "safePhone": null,
+        "hours": {
+          "월": "10:00~19:00",
+          "화": "10:00~19:00",
+          "수": "10:00~19:00",
+          "목": "10:00~19:00",
+          "금": "10:00~19:00",
+          "토": "10:00~19:00",
+          "일": "10:00~19:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "대방어",
+            "price": 55000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 38.2044998655463,
+          "lng": 128.590205074366
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 강원 속초시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 608,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 609,
+          "fileId": "AgACAgUAAxUHawfAm7gBFfTyoMJEIRSfEGq-BtgAAroTaxu4szlUo4EXkTJJP6IBAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20240724_257/1721786599985q0ahl_JPEG/DSC09500.jpg"
+        },
+        {
+          "no": 2,
+          "messageId": 610,
+          "fileId": "AgACAgUAAxUHawfAmzcdIPjHYFBQfIVAnIqKqpYAArsTaxu4szlUgysZEF6QVDsBAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20240724_130/1721786599937zQuOe_JPEG/DSC09495.jpg"
+        },
+        {
+          "no": 3,
+          "messageId": 611,
+          "fileId": "AgACAgUAAxUHawfAmwYGF6uk-GtN8j_s0iU_r3EAArgTaxu4szlU4lwxfm8lVIIBAAMCAAN3AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNTExMDFfMTYw/MDAxNzYyMDAzNzYxNjM3.zvtRQBigO93_8xpLtNkBiTTgDhKDRbABtdcnESlbeDIg.RvXiurBjXUZnm180tKyFCWqbD6qH5i__tMv1HDeX-3Yg.JPEG/35627389-FC44-4F66-95BB-2D900A9DE016.jpg"
+        },
+        {
+          "no": 4,
+          "messageId": 612,
+          "fileId": "AgACAgUAAxUHawfAm7mLhj5a_q89D0_kz3XlRh8AArkTaxu4szlUGsnEw3A40ikBAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20240724_242/1721786599957WsMWk_JPEG/DSC09488.jpg"
+        }
+      ],
+      "photoAuto": 2
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1415b",
+  "status": "pending",
+  "publishAfter": "2026-11-26T05:16:12.580Z",
+  "preparedAt": "2026-11-26T05:16:12.580Z"
+}
