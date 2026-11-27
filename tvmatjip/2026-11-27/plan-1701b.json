@@ -170,7 +170,26 @@
   "retry": [],
   "blocked": null,
   "batch": "1701b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-27T08:01:21.803Z",
-  "preparedAt": "2026-11-27T08:01:21.803Z"
+  "preparedAt": "2026-11-27T08:01:21.803Z",
+  "publishedAt": "2026-11-27T08:01:46.509Z",
+  "result": {
+    "published": [
+      {
+        "id": "1701b-1",
+        "name": "선정쌈밥",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_952.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-27/naver/1701b-1.html",
+        "naverTitle": "생생정보 나나랜드 인천 미추홀 주안동 쌈밥 맛집 선정쌈밥",
+        "dish": "쌈밥",
+        "card": "tvmatjip/2026-11-27/photos/1701b-1-card.png",
+        "pick": 3,
+        "pickBy": "auto"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
