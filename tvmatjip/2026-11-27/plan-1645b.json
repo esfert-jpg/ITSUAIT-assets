@@ -1,0 +1,227 @@
+{
+  "date": "2026-11-27",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224494762170",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 천안 입장면 김치만두전골 맛집 천안 용천가든 방문 후기",
+      "place": "용천가든",
+      "region": "충남 천안시",
+      "dishes": [
+        "김치만두전골",
+        "김치찌개"
+      ],
+      "corner": "맛집 맞수다",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224494762170",
+      "postedAt": "2026-11-27T07:32:16.000Z",
+      "dishVotes": {
+        "김치만두전골": 1,
+        "김치찌개": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224494767854",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 철원 가볼만한곳 동송읍 한정식 맛집 철원 솔향기 방문 후기",
+      "place": "솔향기",
+      "region": "강원 철원군",
+      "dishes": [
+        "한정식"
+      ],
+      "corner": null,
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224494767854",
+      "postedAt": "2026-11-27T07:36:43.000Z",
+      "dishVotes": {
+        "한정식": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    },
+    {
+      "key": "vlclgmd11/224494773790",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 곤지암 소머리국밥 원조 맛집 최미자 1관 소머리국밥 방문 후기",
+      "place": "최미자 1관 소머리국밥",
+      "region": "경기 광주시",
+      "dishes": [
+        "소머리국밥"
+      ],
+      "corner": "해피 벌(고)쓰(고)데이",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224494773790",
+      "postedAt": "2026-11-27T07:41:18.000Z",
+      "dishVotes": {
+        "소머리국밥": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 3,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1645b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-27",
+        "episode": null,
+        "corner": "맛집 맞수다",
+        "episodeTitle": null,
+        "region": "충남 천안시",
+        "place": "용천가든",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224494762170",
+          "title": "[2TV 생생정보] 천안 입장면 김치만두전골 맛집 천안 용천가든 방문 후기",
+          "postedAt": "2026-11-27T07:32:16.000Z"
+        },
+        "dishHints": [
+          "김치만두전골",
+          "김치찌개"
+        ],
+        "dishVotes": {
+          "김치만두전골": 1,
+          "김치찌개": 1
+        }
+      },
+      "store": {
+        "name": "용천가든",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%9A%A9%EC%B2%9C%EA%B0%80%EB%93%A0-feqxvxww87gk/",
+        "address": "충남 천안시 서북구 입장면 성진로 637",
+        "category": "음식점 > 한식 > 탕/전골/찌개",
+        "roadAddress": "충남 천안시 서북구 입장면 성진로 637",
+        "jibunAddress": "충남 천안시 서북구 입장면 신두리 398-4",
+        "phone": "0415858959",
+        "safePhone": null,
+        "hours": {
+          "월": "11:00~20:00",
+          "화": "11:00~20:00",
+          "수": "11:00~20:00",
+          "목": "11:00~20:00",
+          "금": "11:00~20:00",
+          "토": "11:00~20:00",
+          "일": null
+        },
+        "breakTime": {
+          "월": "13:30~17:30",
+          "화": "13:30~17:30",
+          "수": "13:30~17:30",
+          "목": "13:30~17:30",
+          "금": "13:30~17:30",
+          "토": "13:30~17:30"
+        },
+        "closedDays": [
+          "일"
+        ],
+        "menu": [
+          {
+            "name": "김치찌개",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "삼겹살",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "고추장불고기",
+            "price": 35000,
+            "maxPrice": null
+          },
+          {
+            "name": "포장 (한 가지 단위로 운영합니다.)",
+            "price": 30000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 36.912643,
+          "lng": 127.20159
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 충남 천안시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 643,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 644,
+          "fileId": "AgACAgUAAxUHawk1rdnIMwER7QLTIo9FCqdll-8AAmEYaxvi9UhU2Vp1PV3TKWMBAAMCAANtAAM9BA",
+          "source": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260723104821_photo1_036ed54a866c.webp"
+        },
+        {
+          "no": 2,
+          "messageId": 645,
+          "fileId": "AgACAgUAAxUHawk1rq6GUztimu3skmOAhAWoDVgAAmIYaxvi9UhUFI8wO6xXulcBAAMCAAN5AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNjA0MzBfMjQx/MDAxNzc3NTI3NTMyNzYx.b1SJwZK8COCsrVbiSDi7yLAvQykoQHg53W0lxRHrhRgg.OYJiB2tHnZSkRXIswf5GZkiRGKpL_KMdNNS7QRFWCSUg.JPEG/POST_IMAGE_ENCODING_20260430_143850_013.jpg"
+        },
+        {
+          "no": 3,
+          "messageId": 646,
+          "fileId": "AgACAgUAAxUHawk1riLOozM2PhKjavqAyjv3B6sAAmQYaxvi9UhUSHkGdWtDWsIBAAMCAAN3AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNjAzMjFfODQg/MDAxNzc0MDgxMjE2ODM4.LN2C3TJImo-m3khDBqrON0wSK0vkCnPkafsw-W-6otgg.g3VhJjk_T9LMj5xwkun_To3bD87_q37gcuBUQr3pEcgg.JPEG/6C37B65C-A409-41CF-B9A1-64323FD34C45.jpg"
+        },
+        {
+          "no": 4,
+          "messageId": 647,
+          "fileId": "AgACAgUAAxUHawk1riffPFLIVgtVu9Sd2Frgln8AAmMYaxvi9UhUr_dybWkJR_UBAAMCAAN3AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNjEwMzFfMTE5/MDAxNzkzNDU1MTk4MDI2.fpGqogK4vm9fOVyR5MvXHnjpmta2d7rFasSCAWdASpEg.IMnWgUQTb8vrc8ujmpWZbQ7EqanFmiKVbNpesJ4uQoUg.JPEG/PostEncodingTask.9E26BB70-1EA4-418F-9D98-8A5F5D410CA7.jpg"
+        }
+      ],
+      "photoAuto": 2
+    }
+  ],
+  "held": [
+    {
+      "place": "솔향기",
+      "region": "강원 철원군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 솔향기 (서울특별시 강남구 강남대로 320) — 다른 시군구 (서울특별시 강남구 강남대로 320) | 2. 솔향기 (서울 강남구 봉은사로104길 6 지하 1층) — 다른 시군구 (서울 강남구 봉은사로104길 6 지하 1층) | 3. 솔향기 (null) — 주소 없음 | 4. 솔빛향기 (null) — 상호 불일치 (찾은 것: '솔빛향기') | 5. 솔향기가까이 (서울특별시 서초구 홍씨마을길 39) — 다른 시군구 (서울특별시 서초구 홍씨마을길 39) | 6. 솔향기 2호점 (서울 강남구 봉은사로114길 38) — 다른 시군구 (서울 강남구 봉은사로114길 38) | 7. 솔향기 (서울 금천구 가산디지털2로 14) — 다른 시군구 (서울 금천구 가산디지털2로 14) | 8. 솔향기약국 (서울특별시 강남구 개포로31길 19-16) — 다른 시군구 (서울특별시 강남구 개포로31길 19-16) | 9. 솔향기 (서울 은평구 은평로 111 은평이마트 부설주차장) — 다른 시군구 (서울 은평구 은평로 111 은평이마트 부설주차장) | 10. 솔향기 (경기도 시흥시 다솜마을2길 4 (정왕동)) — 다른 시군구 (경기도 시흥시 다솜마을2길 4 (정왕동))) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "최미자 1관 소머리국밥",
+      "region": "경기 광주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1645b",
+  "status": "pending",
+  "publishAfter": "2026-11-27T07:47:59.052Z",
+  "preparedAt": "2026-11-27T07:47:59.052Z"
+}
