@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-27",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생방송 투데이"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "msu6242/224494856443",
+      "program": "생방송 투데이",
+      "title": "생방송투데이 대반지 서울 마포구 연극 뮤지컬 식당 맛집 위치정보 ｜맥거핀씨어터",
+      "place": "맥거핀씨어터",
+      "region": "서울 마포구",
+      "dishes": [],
+      "corner": "대반지",
+      "blog": "msu6242",
+      "link": "https://blog.naver.com/msu6242/224494856443",
+      "postedAt": "2026-11-27T08:46:11.000Z",
+      "dishVotes": {},
+      "votes": {
+        "생방송 투데이": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [],
+  "held": [
+    {
+      "place": "맥거핀씨어터",
+      "region": "서울 마포구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '맥거핀씨' + '마포구' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1801b",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-27T09:01:44.149Z"
+}
