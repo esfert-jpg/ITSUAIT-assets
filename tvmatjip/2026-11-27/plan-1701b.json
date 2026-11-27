@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-27",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224494790726",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 대부도 사나이의 행복 놀이터 인천 주안동 맛집 인천 선정쌈밥 방문 후기",
+      "place": "선정쌈밥",
+      "region": "인천 미추홀구",
+      "dishes": [
+        "쌈밥",
+        "된장찌개"
+      ],
+      "corner": "나나랜드",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224494790726",
+      "postedAt": "2026-11-27T07:54:19.000Z",
+      "dishVotes": {
+        "쌈밥": 1,
+        "된장찌개": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1701b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-27",
+        "episode": null,
+        "corner": "나나랜드",
+        "episodeTitle": null,
+        "region": "인천 미추홀구",
+        "place": "선정쌈밥",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224494790726",
+          "title": "[2TV 생생정보] 대부도 사나이의 행복 놀이터 인천 주안동 맛집 인천 선정쌈밥 방문 후기",
+          "postedAt": "2026-11-27T07:54:19.000Z"
+        },
+        "dishHints": [
+          "쌈밥",
+          "된장찌개"
+        ],
+        "dishVotes": {
+          "쌈밥": 1,
+          "된장찌개": 1
+        }
+      },
+      "store": {
+        "name": "선정쌈밥",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%84%A0%EC%A0%95%EC%8C%88%EB%B0%A5-6xfr2g1fqday/",
+        "address": "인천 미추홀구 인하로221번길 16",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "인천 미추홀구 인하로221번길 16",
+        "jibunAddress": "인천 미추홀구 주안동 1420-5",
+        "phone": null,
+        "safePhone": "050713062781",
+        "hours": {
+          "월": "11:30~21:30",
+          "화": "11:30~21:30",
+          "수": "11:30~21:30",
+          "목": "11:30~21:30",
+          "금": "11:30~21:30",
+          "토": "11:30~21:30",
+          "일": "11:30~16:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "쌈밥(2인이상)",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "보리밥",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "된장찌개",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "김치찌개",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "삼겹살 200 g",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "가브리살 150g",
+            "price": 16000,
+            "maxPrice": null
+          },
+          {
+            "name": "항정살150 g",
+            "price": 17000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.4491815,
+          "lng": 126.6729605
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 인천 미추홀구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 649,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 650,
+          "fileId": "AgACAgUAAxUHawk40KAmt3m1r4zsOY23e3Jm47cAAmkYaxvi9UhU3BzglJz6H5oBAAMCAAN4AAM9BA",
+          "source": "https://d2uja84sd90jmv.cloudfront.net/posts/w2Hekq9zw8ptNdDnypTH7A/ms.jpg?updated=-62167392000"
+        },
+        {
+          "no": 2,
+          "messageId": 651,
+          "fileId": "AgACAgUAAxUHawk40D7Rmv42t8qH403dkKB1I_wAAmoYaxvi9UhUvLYlLzBG71QBAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20260521_12/1779346484420YnYzW_JPEG/22183.jpg"
+        },
+        {
+          "no": 3,
+          "messageId": 652,
+          "fileId": "AgACAgUAAxUHawk40VqAotA0Emrb8V2PL-66r-IAAmwYaxvi9UhU9bRRMm1FQIoBAAMCAAN3AAM9BA",
+          "source": "https://naverbooking-phinf.pstatic.net/20260519_148/17791528401376OMJj_PNG/image.png"
+        },
+        {
+          "no": 4,
+          "messageId": 653,
+          "fileId": "AgACAgUAAxUHawk40K9VEbHU3uhT2Kc_zb0PqM8AAmsYaxvi9UhUFwjYHS6CYhMBAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20240509_61/1715239694093tb7NU_JPEG/1705390388908.jpg"
+        }
+      ],
+      "photoAuto": 3
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1701b",
+  "status": "pending",
+  "publishAfter": "2026-11-27T08:01:21.803Z",
+  "preparedAt": "2026-11-27T08:01:21.803Z"
+}
