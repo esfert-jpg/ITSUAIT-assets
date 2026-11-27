@@ -284,7 +284,26 @@
   "retry": [],
   "blocked": null,
   "batch": "1631b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-27T07:31:28.357Z",
-  "preparedAt": "2026-11-27T07:31:28.357Z"
+  "preparedAt": "2026-11-27T07:31:28.357Z",
+  "publishedAt": "2026-11-27T07:31:52.409Z",
+  "result": {
+    "published": [
+      {
+        "id": "1631b-1",
+        "name": "목월빵집",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_27.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-27/naver/1631b-1.html",
+        "naverTitle": "생생정보 시골빵집 전남 구례 우리밀 팥빵 맛집 목월빵집",
+        "dish": "우리밀 팥빵",
+        "card": "tvmatjip/2026-11-27/photos/1631b-1-card.png",
+        "pick": 2,
+        "pickBy": "auto"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
