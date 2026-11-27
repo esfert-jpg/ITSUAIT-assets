@@ -1,0 +1,639 @@
+{
+  "date": "2026-11-27",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=567296",
+    "airDate": "2026-11-27",
+    "episode": null
+  },
+  "programs": [
+    "6시 내고향",
+    "생방송 투데이"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=567296",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 제주 서귀포 흑우 식당 소개, 맛집 위치는?",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=567295",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 경북 안동 산매골마을 소개, 가볼 만한 곳은?",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=567294",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 보령에서 만나는 제철 굴, 천북굴단지 맛집 어디?",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=567293",
+      "program": "6시 내고향",
+      "title": "'6시내고향' 부산 기장에서 만나는 쪽파, 김장철 식재료 소개",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=567292",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 맛불 작전, 강화·강서구 맛집",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=567291",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 인생분식, 추억을 담은 대학로 분식 맛집",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=567290",
+      "program": "생방송 투데이",
+      "title": "'생방송투데이' 대반지, 평범한 식당에 숨겨진 반전은?",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 7,
+  "targets": 8,
+  "skipped": [
+    "맥거핀씨어터"
+  ],
+  "stores": [
+    {
+      "id": "1845-1",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-11-27",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "제주특별자치도 서귀포시",
+        "place": "서귀포시축협 축산물플라자",
+        "description": "이번 방송에서는 흑우 식당으로 안내된 '서귀포시축협 축산물플라자'를 중심으로 제주 지역의 축산물과 먹거리에 관한 이야기를 전할 예정이다. 제주 흑우는 검은색 털을 지닌 제주 지역의 토종 소이다. 제주에서 오랜 기간 사육돼 온 품종으로, 지역의 전통 축산 자원 가운데 하나로 꼽힌다. 흑우는 제주 흑돼지와 함께 제주 지역의 축산물을 소재로 한 먹거리 여행에서 접할 수 있는 식재료이다. 소고기는 부위에 따라 육질과 지방의 분포가 다르며 구이와 국물 요리 등 다양한 방식으로 활용된다. 이번 서귀포 편에서 흑우 식당으로 소개되는 곳은 '서귀포시축협 축산물플라자'이다. 해당 식당은 제주특별자치도 서귀포시에 자리하고 있으며, 이번 방송에서는 제주 흑우를 주요 먹거리로 다룰 예정이다. 전국 각지의 농수축산물과 지역 먹거리를 소개하는 이번 방송에서는 제주 지역의 특색 있는 축산물인 흑우가 등장한다. 제주 서귀포의 흑우와 '서귀포시축협 축산물플라자'에 관한 자세한 이야기는 KBS1 '6시 내고향'을 통해 만나볼 수 있다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=567296",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "서귀포시축협축산물플라자한우전문식당",
+        "url": null,
+        "address": null,
+        "category": "식육(숯불구이)",
+        "roadAddress": "제주특별자치도 서귀포시 안덕면 중산간서로 1914-3",
+        "jibunAddress": "제주특별자치도 서귀포시 안덕면 서광리 985-10",
+        "phone": "064-794-5658",
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 33.290532082296615,
+          "lng": 126.31838445415677
+        },
+        "licenseDate": "2006-02-23",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '서귀포시축협축산물플라자' + '서귀포시' / 입력 상호로 시작 ('서귀포시축협축산물플라자한우전문식당')",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 655,
+      "photoCandidates": [],
+      "photoAuto": 0
+    },
+    {
+      "id": "1845-2",
+      "source": {
+        "program": "6시 내고향",
+        "airDate": "2026-11-27",
+        "episode": null,
+        "corner": null,
+        "episodeTitle": null,
+        "region": "충남 보령시",
+        "place": "가보세굴수산",
+        "description": "이번 방송에서는 보령의 천북굴단지에 위치한 '가보세굴수산'을 중심으로 겨울철 먹거리인 굴에 관한 이야기를 전할 예정이다. 굴은 늦가을부터 겨울철까지 즐겨 먹는 대표적인 제철 수산물 가운데 하나이다. 특유의 바다 향과 부드러운 식감을 지닌 굴은 생으로 먹거나 굽고 찌는 등 다양한 방식으로 조리할 수 있는 식재료이다. 굴구이와 굴찜을 비롯해 굴전, 굴국밥, 굴무침 등 다양한 음식의 재료로도 활용된다. 특히 김장철에는 김치 양념에 굴을 넣거나 갓 담근 김치와 함께 곁들여 먹기도 한다. 이번 방송에서 소개되는 천북굴단지는 충남 보령시의 굴 관련 음식점들이 모여 있는 곳이다. 굴을 소재로 한 지역 먹거리 여행지로, 겨울철 제철 수산물을 만날 수 있는 장소이다. 굴과 관련해 방송에서 안내된 곳은 천북굴단지에 자리한 '가보세굴수산'이다. 해당 업체의 위치는 충남 보령시이며, 이번 방송에서는 굴을 주요 소재로 보령 지역의 수산물에 관한 내용을 다룰 예정이다. 본격적인 겨울철을 앞두고 소개되는 충남 보령의 굴과 천북굴단지에 관한 자세한 이야기는 KBS1 '6시 내고향'을 통해 만나볼 수 있다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=567294",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "가보세굴수산",
+        "url": null,
+        "address": null,
+        "category": "기타",
+        "roadAddress": "충청남도 보령시 천북면 홍보로 1061, 9동 4호",
+        "jibunAddress": "충청남도 보령시 천북면 장은리 산 205",
+        "phone": null,
+        "safePhone": null,
+        "hours": null,
+        "breakTime": null,
+        "closedDays": null,
+        "menu": null,
+        "coordinates": {
+          "lat": 36.50698352824351,
+          "lng": 126.48583840305673
+        },
+        "licenseDate": "2018-12-03",
+        "source": "data.go.kr",
+        "matjip": true,
+        "reason": "당근 보류(검색 결과 없음) / 인허가 '가보세굴수산' + '보령시' / 상호 완전 일치",
+        "requests": 1,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 656,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 657,
+          "fileId": "AgACAgUAAxUHawlR4n6cCWzgjYjGSR5_0N6I9p4AAqMYaxvi9UhU554oyw0kEDoBAAMCAAN5AAM9BA",
+          "source": "https://shop-phinf.pstatic.net/20201103_206/1604353415577SMYkL_JPEG/5489195281059348_362025548.jpg"
+        },
+        {
+          "no": 2,
+          "messageId": 658,
+          "fileId": "AgACAgUAAxUHawlR4z4MToXnNFpjhkhsVmT5NCcAAqQYaxvi9UhUSvK1KYENXNcBAAMCAAN3AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNTEyMzFfMTUy/MDAxNzY3MTkwMjU1NDYy.lWxBZ1PGRjSAS0VQOSHG7L3a-i1eAHs9FwobAEYp6uog.OjuKmlQeTpBJ6Q5587RgPGzszzF32UG4RPJ1dCeyxUYg.JPEG/EC8B1788-158F-4907-9266-91ECD8F4AFD8.jpg"
+        },
+        {
+          "no": 3,
+          "messageId": 659,
+          "fileId": "AgACAgUAAxUHawlR43m-CtLLRVkDWTIUAgRcW20AAqYYaxvi9UhUHRFLQ1AHr70BAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20240603_193/1717365146069IHIpG_JPEG/20240205_174923.jpg"
+        },
+        {
+          "no": 4,
+          "messageId": 660,
+          "fileId": "AgACAgUAAxUHawlR45eIPjY0iXeLjelYYGHcpZEAAqUYaxvi9UhUM_JCoGC2N5ABAAMCAAN3AAM9BA",
+          "source": "https://shop-phinf.pstatic.net/20240703_116/1719992340711g4Oo9_JPEG/30886021021016956_346221513.jpg"
+        }
+      ],
+      "photoAuto": 4
+    },
+    {
+      "id": "1845-3",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-11-27",
+        "episode": null,
+        "corner": "맛불 작전",
+        "episodeTitle": null,
+        "region": "인천 강화군",
+        "place": "서해꽃게전문",
+        "description": "이번 방송은 '추위 타파! 화끈한 한판 승부'라는 주제로 진행된다. 인천 강화군과 서울 강서구에 위치한 두 음식점을 찾아가 추운 계절에 어울리는 먹거리를 살펴볼 예정이다. 먼저 소개되는 곳은 인천 강화군에 위치한 '서해꽃게전문'이다. 꽃게 전문 음식점으로 이번 맛 대결에 등장한다. 이에 맞서는 또 다른 음식점은 서울 강서구에 자리한 '어부의 딸 본점'이다. 인천 강화군의 음식점과 함께 화끈한 맛을 주제로 한 이번 방송에서 소개된다. 이번 '맛불 작전'에서는 추위를 이겨낼 먹거리라는 주제 아래 두 음식점의 요리를 살펴본다. 서로 다른 지역에 자리한 음식점을 중심으로 화끈한 맛의 대결을 펼칠 예정이다. 늦가을 찬 바람이 부는 날씨에 맞춰 진행되는 이번 편에서는 인천 강화군과 서울 강서구의 먹거리 이야기를 함께 전한다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=567292",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "서해꽃게전문",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%84%9C%ED%95%B4%EA%BD%83%EA%B2%8C%EC%A0%84%EB%AC%B8-u22jdts3iozc/",
+        "address": "인천 강화군 내가면 중앙로 1238",
+        "category": "음식점 > 한식 > 수산물/횟집",
+        "roadAddress": "인천 강화군 내가면 중앙로 1238",
+        "jibunAddress": "인천 강화군 내가면 외포리 294-1",
+        "phone": null,
+        "safePhone": "050713465859",
+        "hours": {
+          "월": "09:00~21:00",
+          "화": "09:00~21:00",
+          "수": "09:00~21:00",
+          "목": "09:00~21:00",
+          "금": "09:00~21:00",
+          "토": "09:00~21:00",
+          "일": "09:00~21:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "서해정식(꽃게장)",
+            "price": 35000,
+            "maxPrice": null
+          },
+          {
+            "name": "꽃게찜 (소)",
+            "price": 60000,
+            "maxPrice": null
+          },
+          {
+            "name": "꽃게탕(소)",
+            "price": 60000,
+            "maxPrice": null
+          },
+          {
+            "name": "돌게정식",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "간장게장(꽃게)",
+            "price": 33000,
+            "maxPrice": null
+          },
+          {
+            "name": "게장백반(돌게장)",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "양념게장(숯게)",
+            "price": 14000,
+            "maxPrice": null
+          },
+          {
+            "name": "밴댕이회무침 / 구이 (소)",
+            "price": 20000,
+            "maxPrice": null
+          },
+          {
+            "name": "밴댕이정식",
+            "price": 19000,
+            "maxPrice": null
+          },
+          {
+            "name": "꽃게된장찌개",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "굴밥(11월~3월)",
+            "price": 14000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.7044766,
+          "lng": 126.3865795
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 인천 강화군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 661,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 662,
+          "fileId": "AgACAgUAAxUHawlR7gY_KdEefp9sBkFzo2ZFmXIAAqoYaxvi9UhUvGUIRygEhJ4BAAMCAAN5AAM9BA",
+          "source": "https://itour.incheon.go.kr/common/viewImg.do?imgId=API21112609174540920"
+        },
+        {
+          "no": 2,
+          "messageId": 663,
+          "fileId": "AgACAgUAAxUHawlR7kZRqOwHYYkOA0K0mclmUWkAAqkYaxvi9UhUASEy9NCz4BYBAAMCAAN5AAM9BA",
+          "source": "https://itour.incheon.go.kr/common/viewImg.do?imgId=API21112609174546571"
+        },
+        {
+          "no": 3,
+          "messageId": 664,
+          "fileId": "AgACAgUAAxUHawlR7ohoO8-kkbR1ZMl48l99CnkAAqgYaxvi9UhU_AZ-yT3pUpcBAAMCAAN5AAM9BA",
+          "source": "https://itour.incheon.go.kr/common/viewImg.do?imgId=API21112609174551708"
+        },
+        {
+          "no": 4,
+          "messageId": 665,
+          "fileId": "AgACAgUAAxUHawlR7qcVf4R9BvHEX2Yh5EP_5IIAAqcYaxvi9UhUXjO55AZNTKgBAAMCAANtAAM9BA",
+          "source": "https://d12zq4w4guyljn.cloudfront.net/750_750_20260321072247_photo1_v7ueN3fIzBzB.webp"
+        }
+      ],
+      "photoAuto": 4
+    },
+    {
+      "id": "1845-4",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-11-27",
+        "episode": null,
+        "corner": "인생분식",
+        "episodeTitle": null,
+        "region": "서울 종로구",
+        "place": "코야코",
+        "description": "이번 방송은 서울 종로구를 배경으로 분식이라는 먹거리와 그에 얽힌 인생 이야기를 전하는 내용으로 진행된다. 이날 방송에서 소개되는 곳은 서울 종로구에 위치한 '코야코'이다. '운명처럼 다가와 추억이 되다'라는 주제에 맞춰 분식집에 얽힌 이야기를 살펴볼 예정이다. 이번 편에서는 분식이라는 친숙한 먹거리를 중심으로 운명과 추억이라는 소재를 연결한다. 음식뿐 아니라 분식집에 담긴 이야기도 함께 소개할 예정이다. 먹거리와 인생 이야기를 함께 전하는 '인생분식'에서 이번에는 서울 종로구에 자리한 '코야코'를 찾아간다. 운명처럼 시작된 인연과 추억을 주제로 방송이 펼쳐진다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=567291",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "코야코",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%BD%94%EC%95%BC%EC%BD%94-7bccsghgkv4f/",
+        "address": "서울 종로구 동숭길 68 1층 코야코",
+        "category": "음식점 > 분식 > 일반 분식",
+        "roadAddress": "서울 종로구 동숭길 68 1층 코야코",
+        "jibunAddress": "서울 종로구 동숭동 128-5",
+        "phone": "027638587",
+        "safePhone": null,
+        "hours": {
+          "월": "11:00~22:30",
+          "화": "11:00~22:30",
+          "수": "11:00~22:30",
+          "목": "11:00~22:30",
+          "금": "11:00~22:30",
+          "토": "11:00~23:00",
+          "일": "11:00~23:00"
+        },
+        "breakTime": null,
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "로제떡볶이",
+            "price": 9000,
+            "maxPrice": null
+          },
+          {
+            "name": "야채떡볶이",
+            "price": 6500,
+            "maxPrice": null
+          },
+          {
+            "name": "닭갈비떡볶이",
+            "price": 7500,
+            "maxPrice": null
+          },
+          {
+            "name": "치즈떡볶이",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "해물떡볶이",
+            "price": 6500,
+            "maxPrice": null
+          },
+          {
+            "name": "순대떡볶이",
+            "price": 6500,
+            "maxPrice": null
+          },
+          {
+            "name": "부대떡볶이",
+            "price": 6500,
+            "maxPrice": null
+          },
+          {
+            "name": "불고기떡볶이",
+            "price": 7500,
+            "maxPrice": null
+          },
+          {
+            "name": "짜장떡볶이",
+            "price": 6500,
+            "maxPrice": null
+          },
+          {
+            "name": "크림떡볶이",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "야끼만두/김말이/물만두/계란",
+            "price": 1500,
+            "maxPrice": null
+          },
+          {
+            "name": "라면/쫄면/당면",
+            "price": 1500,
+            "maxPrice": null
+          },
+          {
+            "name": "볶음밥",
+            "price": 2500,
+            "maxPrice": null
+          },
+          {
+            "name": "닭갈비추가/불고기추가",
+            "price": 40000,
+            "maxPrice": null
+          },
+          {
+            "name": "치즈추가",
+            "price": 4000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.5812929,
+          "lng": 127.0042899
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 서울 종로구 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 666,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 667,
+          "fileId": "AgACAgUAAxUHawlR91jvP6i06QJhlbj7DPVSsE0AAqsYaxvi9UhUj6EsGvM13pYBAAMCAAN5AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20260421_203/17767731002376nGkg_JPEG/%C4%DA%BE%DF%C4%DA_%BE%DF%C3%A4%B6%B1%BA%BA%C0%CC.JPG"
+        },
+        {
+          "no": 2,
+          "messageId": 668,
+          "fileId": "AgACAgUAAxUHawlR97yYFyicAAGO5m2NgAABPaRC5wACrBhrG-L1SFTMHCDaI0EYEAEAAwIAA3kAAz0E",
+          "source": "https://ldb-phinf.pstatic.net/20250721_277/1753024408804iCMDV_JPEG/%C4%B8%C3%B37.JPG"
+        },
+        {
+          "no": 3,
+          "messageId": 669,
+          "fileId": "AgACAgUAAxUHawlR92F0rIwytAPqS1-L7HltxEYAAq0Yaxvi9UhUaPCkLFWkIOoBAAMCAAN5AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20260421_240/1776773093586jhpN6_JPEG/%C4%DA%BE%DF%C4%DA_%B4%DE%B0%A5%BA%F1%B6%B1%BA%BA%C0%CC.JPG"
+        },
+        {
+          "no": 4,
+          "messageId": 670,
+          "fileId": "AgACAgUAAxUHawlR9w8w9IPEj0c4V6IO0iumXEcAAq4Yaxvi9UhUmD3bLSpIvZ8BAAMCAAN5AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNjA3MTVfMTcy/MDAxNzg0MTA5NjcxMTEy.HzajD-K_XP5sioQS9KF3XXn8OaBvDu4oyUwNxqEVX4Mg.S9OBo0KPYIHGKktfaCs1RAMdCMtJQPhAN-KWGECmtu0g.JPEG/POST_IMAGE_ENC_20260715_190046_431.jpg"
+        }
+      ],
+      "photoAuto": 1
+    },
+    {
+      "id": "1845-5",
+      "source": {
+        "program": "생방송 투데이",
+        "airDate": "2026-11-27",
+        "episode": null,
+        "corner": "대반지",
+        "episodeTitle": null,
+        "region": "경기 파주시",
+        "place": "임진강수라상",
+        "description": "이번 방송은 '식당이 갑자기 OO OO로?'라는 주제로 진행된다. 서울 마포구와 경기 파주시를 배경으로 식당과 관련된 뜻밖의 이야기를 전할 예정이다. 이날 방송의 취재 장소 가운데 하나는 서울 마포구에 위치한 '맥거핀씨어터'이다. 이번 편의 주제와 관련된 장소로 등장한다. 또 다른 취재 장소는 경기 파주시에 자리한 '임진강수라상'이다. 서울 마포구의 '맥거핀씨어터'와 함께 이번 방송에서 소개된다. 이번 '대반지'에서는 식당이라는 공간에서 펼쳐지는 예상 밖의 상황에 주목한다. 두 장소를 중심으로 식당의 색다른 변신과 그에 얽힌 이야기를 살펴볼 예정이다.",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=567290",
+        "via": "article",
+        "signal": null,
+        "dishHints": [],
+        "dishVotes": {}
+      },
+      "store": {
+        "name": "임진강수라상",
+        "url": "https://www.daangn.com/kr/local-profile/%EC%9E%84%EC%A7%84%EA%B0%95%EC%88%98%EB%9D%BC%EC%83%81-pxpmstmebr4d/",
+        "address": "경기 파주시 파평면 화석정로 101 임진강수라상",
+        "category": "음식점 > 한식 > 일반 한식",
+        "roadAddress": "경기 파주시 파평면 화석정로 101 임진강수라상",
+        "jibunAddress": "경기 파주시 파평면 율곡리 581",
+        "phone": "0319529960",
+        "safePhone": null,
+        "hours": {
+          "월": null,
+          "화": "11:00~21:00",
+          "수": null,
+          "목": "11:00~21:00",
+          "금": "11:00~21:00",
+          "토": null,
+          "일": "11:00~21:00"
+        },
+        "breakTime": null,
+        "closedDays": [
+          "월",
+          "수",
+          "토"
+        ],
+        "menu": [
+          {
+            "name": "삼색장어(장어3마리)",
+            "price": 97000,
+            "maxPrice": null
+          },
+          {
+            "name": "장어정식",
+            "price": 38000,
+            "maxPrice": null
+          },
+          {
+            "name": "참게정식",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "섞어매운탕",
+            "price": 45000,
+            "maxPrice": 70000
+          },
+          {
+            "name": "참게매운탕",
+            "price": 45000,
+            "maxPrice": 75000
+          },
+          {
+            "name": "메기매운탕",
+            "price": 45000,
+            "maxPrice": 65000
+          },
+          {
+            "name": "빠가사리매운탕",
+            "price": 50000,
+            "maxPrice": 80000
+          },
+          {
+            "name": "밥 정식(2인)",
+            "price": 85000,
+            "maxPrice": null
+          },
+          {
+            "name": "어린이메뉴: 미트볼그라탕",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "어린이메뉴: 치즈오븐스파게티",
+            "price": 7000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 37.8818314,
+          "lng": 126.8021964
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 경기 파주시 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 671,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 672,
+          "fileId": "AgACAgUAAxUHawlR_-9dH-xw0g1hlz3gkdQfq8IAArAYaxvi9UhUyS4-Xix4AywBAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20260920_182/1789870909988rYraX_JPEG/IMG_8138.jpg"
+        },
+        {
+          "no": 2,
+          "messageId": 673,
+          "fileId": "AgACAgUAAxUHawlR_02vMk8R3nvrc0DmIU30IwQAArIYaxvi9UhUDvKwNpa_HaoBAAMCAAN3AAM9BA",
+          "source": "https://ldb-phinf.pstatic.net/20230902_10/1693663859200AeLaw_JPEG/IMG_6795.jpeg"
+        },
+        {
+          "no": 3,
+          "messageId": 674,
+          "fileId": "AgACAgUAAxUHawlR_0s1PDd7bxwqbAdl8AABXdhbAAKxGGsb4vVIVAcMV7ylbRCeAQADAgADdwADPQQ",
+          "source": "https://ldb-phinf.pstatic.net/20250526_80/1748224530697q5GFT_JPEG/IMG_1107.jpeg"
+        },
+        {
+          "no": 4,
+          "messageId": 675,
+          "fileId": "AgACAgUAAxUHawlR_7vaCqPX2Ej9IIkFFmVe1C0AAq8Yaxvi9UhUG0NJ0dpQBvkBAAMCAANtAAM9BA",
+          "source": "https://d12zq4w4guyljn.cloudfront.net/750_750_20240815100849_photo1_90f1571854fa.webp"
+        }
+      ],
+      "photoAuto": 3
+    }
+  ],
+  "held": [
+    {
+      "place": "산매골 녹색체험마을",
+      "region": "경북 안동시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 조회 실패: 인허가 API 응답 504"
+    },
+    {
+      "place": "쪽파",
+      "region": "부산 기장군",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 10개 중 상호·시군구가 다 맞는 곳 없음: 1. 광주농산 (서울특별시 송파구 양재대로 932) — 상호 불일치 (찾은 것: '광주농산') | 2. 호자까야 (서울특별시 영등포구 당산로 83 (당산동2가, 한화포레나당산)) — 상호 불일치 (찾은 것: '호자까야') | 3. 라베미어 (null) — 상호 불일치 (찾은 것: '라베미어') | 4. ROOT341 (서울특별시 서초구 서초중앙로 지하31 (서초동)) — 상호 불일치 (찾은 것: 'ROOT341') | 5. 옥장금 (null) — 상호 불일치 (찾은 것: '옥장금') | 6. 제주집막내아들 (null) — 상호 불일치 (찾은 것: '제주집막내아들') | 7. 총각네서초3동점 (서울특별시 서초구 효령로 229 (서초동)) — 상호 불일치 (찾은 것: '총각네서초3동점') | 8. 해피로물류 (서울특별시 강남구 도곡로 150 (도곡동)) — 상호 불일치 (찾은 것: '해피로물류') | 9. 정직한농부 (서울특별시 서초구 사평대로52길 9 (서초동)) — 상호 불일치 (찾은 것: '정직한농부') | 10. 제주고사리 (null) — 상호 불일치 (찾은 것: '제주고사리')) / 인허가 '쪽파' + '기장군' / 0건"
+    },
+    {
+      "place": "어부의 딸 본점",
+      "region": "서울 강서구",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(검색 결과 없음) / 인허가 '어부의딸' + '강서구' / 0건"
+    }
+  ],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1845",
+  "status": "pending",
+  "publishAfter": "2026-11-27T09:48:48.607Z",
+  "preparedAt": "2026-11-27T09:48:48.607Z"
+}
