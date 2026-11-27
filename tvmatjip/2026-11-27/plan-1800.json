@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-27",
+  "from": "watch",
+  "article": {
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=567236",
+    "airDate": "2026-11-27",
+    "episode": null
+  },
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=567236",
+      "program": "생생정보",
+      "title": "'생생정보' 나나랜드, 대부도 사나이 이규홍 씨의 행복 이야기",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=567234",
+      "program": "생생정보",
+      "title": "'생생정보' 천태만상 현장 속으로, 거리에서 만나는 주취자 문제",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=567232",
+      "program": "생생정보",
+      "title": "'생생정보' 서태훈의 경기 광주 나들이, 참치 공장부터 소머리국밥까지",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=567229",
+      "program": "생생정보",
+      "title": "'생생정보' 김치찌개 vs 김치만두전골, 천안·철원 맛집 대결",
+      "corners": 1
+    },
+    {
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=567227",
+      "program": "생생정보",
+      "title": "'생생정보' 할머니가 빚는 우리밀 팥빵, 구례 시골빵집",
+      "corners": 1
+    }
+  ],
+  "signals": [],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 5,
+  "targets": 2,
+  "skipped": [
+    "최미자 1관 소머리국밥",
+    "용천가든",
+    "철원솔향기",
+    "목월빵집"
+  ],
+  "stores": [],
+  "held": [
+    {
+      "place": "서핑라이더",
+      "region": "경기 광주시",
+      "name": null,
+      "category": null,
+      "reason": "당근 보류(상위 4개 중 상호·시군구가 다 맞는 곳 없음: 1. 지나파워 (null) — 상호 불일치 (찾은 것: '지나파워') | 2. 웨이크마리나 웨이크서핑 한강보팅 (서울특별시 영등포구 여의도동 80-11) — 상호 불일치 (찾은 것: '웨이크마리나 웨이크서핑 한강보팅') | 3. 써프 (서울특별시 강남구 테헤란로 128) — 상호 불일치 (찾은 것: '써프') | 4. 트랜서핑 (서울특별시 강남구 언주로147길 42) — 상호 불일치 (찾은 것: '트랜서핑')) / 인허가 '서핑라이' + '광주시' / 0건"
+    }
+  ],
+  "excluded": [
+    {
+      "place": "건영수산",
+      "region": "경기 광주시",
+      "name": "건영수산",
+      "category": "시설 > 산업시설 > 제조시설"
+    }
+  ],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1800",
+  "status": "done",
+  "publishAfter": null,
+  "preparedAt": "2026-11-27T09:01:23.625Z"
+}
