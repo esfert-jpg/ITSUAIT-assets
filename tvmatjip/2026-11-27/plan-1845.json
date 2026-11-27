@@ -633,7 +633,74 @@
   "retry": [],
   "blocked": null,
   "batch": "1845",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-27T09:48:48.607Z",
-  "preparedAt": "2026-11-27T09:48:48.607Z"
+  "preparedAt": "2026-11-27T09:48:48.607Z",
+  "publishedAt": "2026-11-27T09:50:33.032Z",
+  "result": {
+    "published": [
+      {
+        "id": "1845-1",
+        "name": "서귀포시축협축산물플라자한우전문식당",
+        "url": "https://wherethatplace.blogspot.com/2026/11/6-11-27.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-27/naver/1845-1.html",
+        "naverTitle": "6시 내고향 11월 27일 제주 서귀포 맛집 서귀포시축협축산물플라자한우전문식당",
+        "dish": null,
+        "card": "tvmatjip/2026-11-27/photos/1845-1-card.png",
+        "pick": 0,
+        "pickBy": "auto"
+      },
+      {
+        "id": "1845-2",
+        "name": "가보세굴수산",
+        "url": "https://wherethatplace.blogspot.com/2026/11/6-11-27_01735471379.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-27/naver/1845-2.html",
+        "naverTitle": "6시 내고향 11월 27일 충남 보령 맛집 가보세굴수산",
+        "dish": null,
+        "card": "tvmatjip/2026-11-27/photos/1845-2-card.png",
+        "pick": 4,
+        "pickBy": "auto"
+      },
+      {
+        "id": "1845-3",
+        "name": "서해꽃게전문",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-27.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-27/naver/1845-3.html",
+        "naverTitle": "생방송 투데이 11월 27일 맛불 작전 인천 강화 맛집 서해꽃게전문",
+        "dish": null,
+        "card": "tvmatjip/2026-11-27/photos/1845-3-card.png",
+        "pick": 4,
+        "pickBy": "auto"
+      },
+      {
+        "id": "1845-4",
+        "name": "코야코",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-27_0353544243.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-27/naver/1845-4.html",
+        "naverTitle": "생방송 투데이 11월 27일 인생분식 서울 종로 동숭동 맛집 코야코",
+        "dish": null,
+        "card": "tvmatjip/2026-11-27/photos/1845-4-card.png",
+        "pick": 1,
+        "pickBy": "auto"
+      },
+      {
+        "id": "1845-5",
+        "name": "임진강수라상",
+        "url": "https://wherethatplace.blogspot.com/2026/11/11-27_01510879859.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-27/naver/1845-5.html",
+        "naverTitle": "생방송 투데이 11월 27일 대반지 경기 파주 맛집 임진강수라상",
+        "dish": null,
+        "card": "tvmatjip/2026-11-27/photos/1845-5-card.png",
+        "pick": 3,
+        "pickBy": "auto"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
