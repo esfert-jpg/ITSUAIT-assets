@@ -221,7 +221,26 @@
   "retry": [],
   "blocked": null,
   "batch": "1645b",
-  "status": "pending",
+  "status": "published",
   "publishAfter": "2026-11-27T07:47:59.052Z",
-  "preparedAt": "2026-11-27T07:47:59.052Z"
+  "preparedAt": "2026-11-27T07:47:59.052Z",
+  "publishedAt": "2026-11-27T07:48:21.152Z",
+  "result": {
+    "published": [
+      {
+        "id": "1645b-1",
+        "name": "용천가든",
+        "url": "https://wherethatplace.blogspot.com/2026/11/blog-post_795.html",
+        "skipped": false,
+        "naverUrl": "https://esfert-jpg.github.io/ITSUAIT-assets/tvmatjip/2026-11-27/naver/1645b-1.html",
+        "naverTitle": "생생정보 맛집 맞수다 충남 천안 김치만두전골 맛집 용천가든",
+        "dish": "김치만두전골",
+        "card": "tvmatjip/2026-11-27/photos/1645b-1-card.png",
+        "pick": 2,
+        "pickBy": "auto"
+      }
+    ],
+    "skipped": [],
+    "failed": []
+  }
 }
