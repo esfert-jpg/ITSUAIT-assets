@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-27",
+  "from": "blog",
+  "article": null,
+  "programs": [
+    "생생정보"
+  ],
+  "articles": [],
+  "signals": [
+    {
+      "key": "vlclgmd11/224494755338",
+      "program": "생생정보",
+      "title": "[2TV 생생정보] 구례 가볼만한곳 우리밀 팥빵 맛집 구례 목월빵집 방문 후기",
+      "place": "목월빵집",
+      "region": "전남 구례군",
+      "dishes": [
+        "우리밀 팥빵"
+      ],
+      "corner": "시골빵집",
+      "blog": "vlclgmd11",
+      "link": "https://blog.naver.com/vlclgmd11/224494755338",
+      "postedAt": "2026-11-27T07:26:54.000Z",
+      "dishVotes": {
+        "우리밀 팥빵": 1
+      },
+      "votes": {
+        "생생정보": 1
+      },
+      "copies": 1
+    }
+  ],
+  "articleFailed": [],
+  "recaps": [],
+  "corners": 0,
+  "targets": 1,
+  "skipped": [],
+  "stores": [
+    {
+      "id": "1631b-1",
+      "source": {
+        "program": "생생정보",
+        "airDate": "2026-11-27",
+        "episode": null,
+        "corner": "시골빵집",
+        "episodeTitle": null,
+        "region": "전남 구례군",
+        "place": "목월빵집",
+        "description": null,
+        "url": null,
+        "via": "blog",
+        "signal": {
+          "blog": "vlclgmd11",
+          "link": "https://blog.naver.com/vlclgmd11/224494755338",
+          "title": "[2TV 생생정보] 구례 가볼만한곳 우리밀 팥빵 맛집 구례 목월빵집 방문 후기",
+          "postedAt": "2026-11-27T07:26:54.000Z"
+        },
+        "dishHints": [
+          "우리밀 팥빵"
+        ],
+        "dishVotes": {
+          "우리밀 팥빵": 1
+        }
+      },
+      "store": {
+        "name": "목월빵집",
+        "url": "https://www.daangn.com/kr/local-profile/%EB%AA%A9%EC%9B%94%EB%B9%B5%EC%A7%91-r8fzbhkc1kz2/",
+        "address": "전남광주 구례군 구례읍 서시천로 85 목월빵집",
+        "category": "음식점 > 카페/디저트 > 베이커리",
+        "roadAddress": "전남광주 구례군 구례읍 서시천로 85 목월빵집",
+        "jibunAddress": "전남광주 구례군 구례읍 봉북리 443-21",
+        "phone": null,
+        "safePhone": "050714001477",
+        "hours": {
+          "월": "10:00~18:00",
+          "화": "10:00~18:00",
+          "수": "10:00~18:00",
+          "목": "10:00~18:00",
+          "금": "10:00~18:00",
+          "토": "10:00~18:00",
+          "일": "10:00~18:00"
+        },
+        "breakTime": {
+          "토": "12:30~13:30",
+          "일": "12:30~13:30"
+        },
+        "closedDays": null,
+        "menu": [
+          {
+            "name": "목월호밀100%덩어리빵",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "앉은키통밀목월팥빵",
+            "price": 4000,
+            "maxPrice": null
+          },
+          {
+            "name": "진주앉은키통밀100%덩어리빵",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "호라산밀100% 덩어리빵",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "스펠트밀100% 덩어리빵",
+            "price": 15000,
+            "maxPrice": null
+          },
+          {
+            "name": "아리진흑밀100% 덩어리빵",
+            "price": 12000,
+            "maxPrice": null
+          },
+          {
+            "name": "긴 빵",
+            "price": 3500,
+            "maxPrice": null
+          },
+          {
+            "name": "젠피긴빵",
+            "price": 4500,
+            "maxPrice": null
+          },
+          {
+            "name": "구례두부긴빵",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "블루베리오곡저온발효빵",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "저온숙성덩어리빵",
+            "price": 10000,
+            "maxPrice": null
+          },
+          {
+            "name": "구례쑥부쟁이치아바타",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "산동막걸리오곡빵",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "단호박허브크림치즈빵",
+            "price": 7000,
+            "maxPrice": null
+          },
+          {
+            "name": "깨방정소보로",
+            "price": 4500,
+            "maxPrice": null
+          },
+          {
+            "name": "앉은키통밀30% 통귀리빵",
+            "price": 5500,
+            "maxPrice": null
+          },
+          {
+            "name": "아리진흑밀 안단초코빵",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "오징어먹물치즈식빵",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "옥수수빠다식빵",
+            "price": 8000,
+            "maxPrice": null
+          },
+          {
+            "name": "찰현미탕종식빵",
+            "price": 7500,
+            "maxPrice": null
+          },
+          {
+            "name": "통밀식빵(大)",
+            "price": 7500,
+            "maxPrice": null
+          },
+          {
+            "name": "페스츄리미니식빵",
+            "price": 7500,
+            "maxPrice": null
+          },
+          {
+            "name": "커피무화과크림치즈빵",
+            "price": 5500,
+            "maxPrice": null
+          },
+          {
+            "name": "마늘크림치즈빵",
+            "price": 4500,
+            "maxPrice": null
+          },
+          {
+            "name": "수제햄젠피빵",
+            "price": 6500,
+            "maxPrice": null
+          },
+          {
+            "name": "크로와상",
+            "price": 4500,
+            "maxPrice": null
+          },
+          {
+            "name": "뺑오쇼콜라",
+            "price": 5000,
+            "maxPrice": null
+          },
+          {
+            "name": "계피빵(시나몬롤)",
+            "price": 4500,
+            "maxPrice": null
+          },
+          {
+            "name": "금강통밀살구크림치즈빵",
+            "price": 6000,
+            "maxPrice": null
+          },
+          {
+            "name": "아리진흑밀앙버터",
+            "price": 8000,
+            "maxPrice": null
+          }
+        ],
+        "coordinates": {
+          "lat": 35.2148633,
+          "lng": 127.4658913
+        },
+        "licenseDate": null,
+        "source": "daangn",
+        "matjip": true,
+        "reason": "1순위 / 상호 완전 일치 / 전남 구례군 주소 확인 / 대분류 '음식점'",
+        "requests": 2,
+        "regionRequests": 0
+      },
+      "hasPhoto": false,
+      "messageId": 637,
+      "photoCandidates": [
+        {
+          "no": 1,
+          "messageId": 638,
+          "fileId": "AgACAgUAAxUHawkxz7zug2QUUrloe7k-VY2PNvkAAlMYaxvi9UhUMsN4XW_TFlkBAAMCAAN3AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNjA4MTBfMjU0/MDAxNzg2MzE4NDQyMDUy.8llmT5KUcXDc5cPphuEvgNF8XvQ-o1EO35BcItj9MwYg.i0ABmnzmFdyQu0efMLn-XX064KqMFhWA4nGzV1LmQosg.JPEG/PostEncodingTask.EE4ED0B4-8B2A-4341-A173-B1228A5B8B10.jpg"
+        },
+        {
+          "no": 2,
+          "messageId": 639,
+          "fileId": "AgACAgUAAxUHawkxzyCh2gPpLN350LT_OqlXT8sAAlQYaxvi9UhULh9IgT0XoOsBAAMCAAN3AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNTEyMDFfMjQw/MDAxNzY0NTYyODcyMjQ4.5b5LhhmLehSi67lX1_7TueipPRxeaTCEWX2uVu3EVy0g.NZrfituDRF49Qdo913NfZLO3jkvkgolyENX13SC-xgMg.JPEG/POST_IMAGE_ENCODING_20251201_132108_808.jpg"
+        },
+        {
+          "no": 3,
+          "messageId": 640,
+          "fileId": "AgACAgUAAxUHawkxz9rvYwXz9GZTxxkeoE5ODpgAAlYYaxvi9UhUXTqK5iPcv6gBAAMCAAN3AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNjA4MDJfNDMg/MDAxNzg1NjUzNDcyODkx.r_l_i-mPlh-nu6MnV4HaLgDDed_tF7g19WPRhJOzWSEg.XBjNR41s_koIiFipDjfwrxJH5zCJ8HPHmKNCQFWqDWcg.JPEG/POST_IMAGE_ENC_20260802_155055_628.jpg"
+        },
+        {
+          "no": 4,
+          "messageId": 641,
+          "fileId": "AgACAgUAAxUHawkxzyt1toglHIGTZB_ICzfTZqoAAlUYaxvi9UhU99iAbRT7Pj0BAAMCAAN3AAM9BA",
+          "source": "https://pup-post-phinf.pstatic.net/MjAyNjAzMjJfMjk0/MDAxNzc0MTkxNTA0OTgz.seHYYT5vESW4sIbLrgWmVgpGN1IeHHecOD1O1V-wzGog.UPlAM-CWdW9tLAb1_TNo82BLni-EuekNIK5Zac3zLBcg.JPEG/POST_IMAGE_ENCODING_20260322_235823_459.jpg"
+        }
+      ],
+      "photoAuto": 2
+    }
+  ],
+  "held": [],
+  "excluded": [],
+  "failed": [],
+  "retry": [],
+  "blocked": null,
+  "batch": "1631b",
+  "status": "pending",
+  "publishAfter": "2026-11-27T07:31:28.357Z",
+  "preparedAt": "2026-11-27T07:31:28.357Z"
+}
